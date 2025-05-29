@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ATFX Connect Archives - ATFX Global - Official Website</title>
+	<atom:link href="https://www.atfx.com/zh-hant/tag/atfx-connect/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Thu, 27 Mar 2025 07:00:03 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>https://www.atfx.com/wp-content/uploads/2023/06/favicon-150x150.webp</url>
+	<title>ATFX Connect Archives - ATFX Global - Official Website</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>ATFX Connect獲得Cyber Essentials Plus認證</title>
+		<link>https://www.atfx.com/zh-hant/company-news/atfx-connect-cyber-essentials-plus-certification</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Thu, 27 Mar 2025 09:00:11 +0000</pubDate>
+				<category><![CDATA[公司新聞]]></category>
+		<category><![CDATA[ATFX Connect]]></category>
+		<category><![CDATA[最近的新聞]]></category>
+		<guid isPermaLink="false">https://www.atfx.com/?p=47345</guid>
+
+					<description><![CDATA[ATFX Connect 作為ATFX的機構業務品牌，成功獲得Cyber Essentials Plus認證， [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><a href="https://www.atfxconnect.com/" target="_blank" rel="noopener"><span style="font-weight: 400;">ATFX Connect</span></a><span style="font-weight: 400;"> <span data-contrast="auto">作為ATFX的機構業務品牌，成功獲得Cyber</span><span data-contrast="auto"> Essentials Plus</span><span data-contrast="auto">認證，彰顯了其在</span><span data-contrast="auto">IT</span><span data-contrast="auto">基礎設施安全和嚴格的網絡安全措施方面的承諾</span><span data-contrast="auto">。</span><span data-ccp-props="{}"> </span></span></p>
+<p><span data-contrast="auto">Cyber Essentials Plus是由英國政府支持的網絡安全認證，要求通過獨立的技術審查，以驗證企業是否具備抵禦常見網絡威脅（如惡意軟件、網絡釣魚攻擊和黑客入侵）的能力。該認證由 IASME 負責管理，相比標準版 Cyber Essentials，具備更高級別的安全保障。  </span><span data-ccp-props="{}"> </span></p>
+<p><span data-contrast="auto">該認證由 Bulletproof 頒發，並經過 IASME 審核，表明 ATFX Connect 的網絡防禦體系經過嚴格測試，符合行業標準，能夠有效抵禦基於通用工具的網絡威脅。認證評估涵蓋了防火牆配置、存取控制、惡意軟件防護及系統補丁管理等關鍵安全措施，確保其網絡安全防護符合最佳行業實踐</span><span data-contrast="auto">。</span><span data-ccp-props="{}"> </span></p>
+<p><span data-contrast="auto">對於機構客戶而言，網絡安全是建立信任和保障營運完整性的關鍵。ATFX Connect 獲得 Cyber Essentials Plus 認證，進一步展現了其在保護客戶數據、防範網絡風險以及維護安全交易環境方面的堅定承諾。</span><span data-ccp-props="{}"> </span></p>
+<p><span data-contrast="auto">在競爭激烈的機構交易市場，強大的網絡安全措施是關鍵競爭優勢。ATFX Connect 透過獲得 Cyber Essentials Plus 認證，不僅符合行業標準，更在市場中脫穎而出，彰顯其在保障客戶利益方面的前瞻性安全策略。</span><span data-ccp-props="{}"> </span></p>
+<p><span data-contrast="auto">隨著網絡安全威脅不斷升級，ATFX Connect 將持續優化安全體系，確保符合行業標準，為機構客戶提供穩健且安全的交易平台。</span><span data-ccp-props="{}"> </span></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

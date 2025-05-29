@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Cryptocurrencies Archives - ATFX Global - Official Website</title>
+	<atom:link href="https://www.atfx.com/en/tag/cryptocurrencies/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Fri, 21 Jun 2024 05:36:15 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>https://www.atfx.com/wp-content/uploads/2023/06/favicon-150x150.webp</url>
+	<title>Cryptocurrencies Archives - ATFX Global - Official Website</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Cardano vs Ethereum: 3 Differences &#038; Similarities · Is ADA Better Than ETH?</title>
+		<link>https://www.atfx.com/en/analysis/trading-strategies/cardano-vs-ethereum-differences-similarities</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Tue, 29 Nov 2022 07:55:00 +0000</pubDate>
+				<category><![CDATA[Trading Strategies]]></category>
+		<category><![CDATA[Cryptocurrencies]]></category>
+		<category><![CDATA[Trading Strategies for Beginners]]></category>
+		<guid isPermaLink="false">https://lptemplatedev.wpengine.com/uncategorized/cardano-vs-ethereum-differences-similarities-2</guid>
+
+					<description><![CDATA[When it comes to Cardano, people naturally compare it to Ethereum since their networks offer similar services as smart contract platforms. Developers can use the Ethereum and Cardano blockchains for similar functions, including running custom programming logic (smart contracts) and building programs (decentralised applications). Due to the rapid growth witnessed since its launch in 2017, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p style="line-height: 2;text-align: justify">When it comes to Cardano, people naturally compare it to Ethereum since their networks offer similar services as smart contract platforms. Developers can use the Ethereum and Cardano blockchains for similar functions, including running custom programming logic (smart contracts) and building programs (decentralised applications). Due to the rapid growth witnessed since its launch in 2017, Cardano is often called the &#8220;Ethereum killer&#8221;. The tagline directly references its faster transaction speeds and lower fees.<span style="background-color: #d9ead3"><img loading="lazy" decoding="async" src="https://www.atfx.com/hubfs/ATFX-cardano-vs-ethereum.webp" alt="ATFX-cardano-vs-ethereum" width="640" height="330" loading="lazy" style="height: auto;max-width: 100%;width: 640px;margin: 10px auto 6px"></span></p>
+<p><span id="more-11129"></span></p>
+<h2 style="line-height: 2;text-align: justify">What Is Cardano and How Does It Work?</h2>
+<p style="line-height: 2;text-align: justify">Cardano is a decentralised third-generation public blockchain platform that uses a proof-of-stake-based consensus mechanism to facilitate peer-to-peer transactions through its native cryptocurrency ADA. While it shares features and applications with other blockchain platforms, such as Ethereum, Cardano differentiates itself by utilising peer-reviewed scientific research as the cornerstone of its platform updates.</p>
+<div class="hs-embed-wrapper hs-fullwidth-embed" data-service="s.tradingview" data-responsive="true" style="position: relative;overflow: hidden;width: 100%;height: auto;padding: 0px;min-width: 256px;margin: 10px auto;line-height: 2;text-align: justify">
+<div class="hs-embed-content-wrapper">
+<div id="tradingview_7365e-wrapper" style="position: relative;width: 100%;height: calc(640px - 32px);margin: 0 auto !important;padding: 0 !important;font-family: -apple-system, BlinkMacSystemFont, 'Trebuchet MS', Roboto, Ubuntu, sans-serif" data-mce-style="position: relative; box-sizing: content-box; width: 100%; height: calc(640px - 32px); margin: 0 auto !important; padding: 0 !important; font-family: -apple-system, BlinkMacSystemFont, 'Trebuchet MS', Roboto, Ubuntu, sans-serif;">
+<div style="width: 100%;height: calc(640px - 32px);background: transparent;padding: 0 !important" data-mce-style="width: 100%; height: calc(640px - 32px); background: transparent; padding: 0 !important;"></div>
+</div>
+</div>
+</div>
+<p style="line-height: 2;text-align: justify">Like Ethereum, Cardano supports smart contract functionality (automatic execution of computer programs). It works similarly to an Ethereum fork but hopes to elevate its functions to a higher level. Specifically, Cardano aims to solve issues related to scalability, interoperability, and sustainability-related to cryptocurrency platforms.</p>
+<h2 style="line-height: 2;text-align: justify">What Is Ethereum and How Does It Work?</h2>
+<p style="line-height: 2;text-align: justify">Ethereum (ETH) is an open-source, public blockchain platform with smart contract functions whose goal is to be a completely trustless smart contract platform that hosts other applications and services on the blockchain and processes payments.</p>
+<p style="line-height: 2;text-align: justify">The blockchain provides a decentralised Ethereum Virtual Machine (EVM) to process peer-to-peer contracts through its dedicated Ether (ETH) cryptocurrency. It supports peer-to-peer transactions using its cryptocurrency and ether and supports the creation of fungible tokens, non-fungible tokens (NFTs), semi-fungible tokens, decentralised applications, and many more. Click here to learn<span>&nbsp;</span><a href="/en/analysis/trading-strategies/how-invest-nft-beginner-analysis-six-step-guide" rel="noopener" target="_blank">how to invest in NFTs</a>.</p>
+<h2 style="line-height: 2;text-align: justify">Cardano vs Ethereum: 4 Similarities</h2>
+<ol style="text-align: justify">
+<li>
+<h3>Blockchain platforms with smart contracts</h3>
+<p>Cardano is based on the second-generation infrastructure of Ethereum and have more advanced functions than any leading protocol currently available in the crypto markets.</p>
+</li>
+<li>
+<h3>Basic operating mechanism</h3>
+<p>The basic operating principle of both blockchains is to provide as many modules and scripting languages as possible for users to build any type of smart contract or transaction that can be precisely defined.</p>
+</li>
+<li>
+<h3>Mining process</h3>
+<p>Both ADA and ETH can be mined using a proof-of-stake method, allowing individuals to stake their assets to validate transactions.</p>
+</li>
+<li>
+<h3>Fundamental roles</h3>
+<p>Both projects share the same fundamental roles of creating decentralised programs, autonomous organisations, and smart contracts. The resulting applications target finance, the Internet of Things, smart grids, sports gambling, etc. DAOs have the potential to enable many operating models that would otherwise be inoperable or prohibitively expensive to run.</p>
+</li>
+</ol>
+<table style="border-collapse: collapse;margin-left: auto;margin-right: auto;border: 1px solid #99acc2;height: 294.219px">
+<tbody>
+<tr style="height: 65.9961px">
+<td style="height: 66px;width: 636.973px;border-width: 0px;border-style: none" colspan="2">
+<h4 style="text-align: center"><strong>Similarities of Cardano and Ethereum</strong></h4>
+</td>
+</tr>
+<tr style="height: 70.9961px">
+<td style="height: 71px;width: 115.977px;border-width: 1px;border-style: none">
+<p style="text-align: right;font-weight: bold">Feature</p>
+</td>
+<td style="height: 71px;width: 520.996px;border-style: none;border-width: 1px;text-align: right">
+<p style="text-align: right;font-weight: normal"><em>Smart Contract Platform</em></p>
+</td>
+</tr>
+<tr style="height: 77.9883px">
+<td style="height: 78px;width: 115.977px;border-width: 1px;border-style: none">
+<p style="text-align: right;font-weight: bold">Operating mechanism</p>
+</td>
+<td style="height: 78px;width: 520.996px;text-align: right;border-style: none">
+<p><em>Adopt a consensus mechanism based on proof of stake</em></p>
+</td>
+</tr>
+<tr style="height: 77.9883px">
+<td style="height: 78px;width: 115.977px;border-width: 1px;border-style: none">
+<p style="text-align: right;font-weight: bold">Mining process</p>
+</td>
+<td style="height: 78px;width: 520.996px;text-align: right;border-style: none">
+<p><em>Mining using Proof of Stake</em></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h2 style="line-height: 2;text-align: justify">Cardano VS Ethereum: 3 Differences</h2>
+<ol style="text-align: justify">
+<li style="line-height: 1.75">
+<h3>Design Philosophy</h3>
+<p>Cardano provides a platform similar to Ethereum. Still, it emphasises a research-driven design approach, allowing transactions in its native cryptocurrency ADA, and enabling developers to build secure decentralised applications. Unlike other blockchain platforms, it emphasises a research-driven design approach to achieve academic rigour, which it believes will drive the adoption of its technology.<br />Ethereum is an operating system built to host many custom assets and programs, creating a global open-source platform. Programs built on Ethereum include custom assets and new economic applications that enable decentralised products and services across a wide range of use cases.<br />Both blockchains feature smart contracts that allow developers to create decentralised applications. The big difference here is that Cardano smart contracts are designed to be more functional and accessible than Ethereum smart contracts. Cardano innovated and pioneered the PoS consensus algorithm. Its PoS system is more energy-efficient, scalable, and faster than the PoW mechanism currently used by Ethereum, saving energy costs and ensuring faster processing of transactions.</li>
+<li style="line-height: 1.75">
+<h3>Different Layered Architectures</h3>
+<p>Cardano operates using a two-tier system: the Cardano Settlement Layer (CSL), which handles transactions, balances, smart contracts, etc.; and the Cardano Computation Layer (CCL), which will handle future applications. These two layers can work as two completely different chains, which gives it an advantage over Ethereum.<span style="background-color: #d9ead3"><img loading="lazy" decoding="async" src="https://www.atfx.com/hubfs/ATFX-cardano-architectures.webp" alt="ATFX-cardano-architectures" width="624" height="322" loading="lazy" style="height: auto;max-width: 100%;width: 624px;margin: 10px auto"></span>Another advantage of a two-tier system is that each layer can be upgraded independently without slowing down transactions on the other layer, allowing more people to use the network while processing more transactions. For example, Bitcoin’s current TPS is about 7 to 15, while Ethereum’s TPS is 15 to 45. However, as an advanced platform, Cardano can handle up to 250 TPS (transactions per second).<br />Since Ethereum handles smart contracts on the same layer, network congestion and high fees have become significant issues. Since the cost of transactions is tied to Ethereum’s value, which is now the second most valuable cryptocurrency, the network experiences high transaction volumes, easily leading to network congestion. However, these problems improved after Ethereum upgraded to 2.0.</li>
+<li style="line-height: 1.75">
+<h3>Supply Token Limitation</h3>
+<p>Cardano has a maximum total supply of 45 billion coins, similar to Bitcoin’s supply cap; this limitation creates a sense of scarcity that will help drive its value higher. On the other hand, Ethereum has an unlimited supply of coins, although the annual growth rate is capped at 4.5%. The cap ensures that the Ethereum network can keep rising and become more prominent and viable while the currency retains most of its value because its supply will not outstrip demand.</li>
+</ol>
+<table style="border-collapse: collapse;margin-left: auto;margin-right: auto;border: 1px solid #99acc2;width: 824px;height: 278.438px">
+<tbody>
+<tr style="height: 48.2422px">
+<td style="width: 822.734px;height: 48px" colspan="3">
+<h4 style="text-align: center"><strong>Main Differences between Cardano vs Ethereum</strong></h4>
+</td>
+</tr>
+<tr style="height: 54.2188px">
+<td style="width: 274.238px;height: 54px">&nbsp;</td>
+<td style="width: 274.238px;padding: 4px;height: 54px;text-align: center">
+<p><strong>Cardano</strong></p>
+</td>
+<td style="width: 274.258px;padding: 4px;height: 54px;text-align: center">
+<p><strong>Ethereum</strong></p>
+</td>
+</tr>
+<tr style="height: 48.2422px">
+<td style="width: 274.238px;height: 48px">
+<p><strong>Layered Architecture</strong></p>
+</td>
+<td style="width: 274.238px;height: 48px">
+<p><em>Double layer system</em></p>
+</td>
+<td style="width: 274.258px;height: 48px">
+<p><em>Single layer system</em></p>
+</td>
+</tr>
+<tr style="height: 48.2422px">
+<td style="width: 274.238px;height: 48px">
+<p><strong>Token Supply</strong></p>
+</td>
+<td style="width: 274.238px;height: 48px">
+<p><em>45 billion pieces</em></p>
+</td>
+<td style="width: 274.258px;height: 48px">
+<p><em>Unlimited</em></p>
+</td>
+</tr>
+<tr style="height: 78.2422px">
+<td style="width: 274.238px;height: 78px">
+<p><strong>Consensus mechanism</strong></p>
+</td>
+<td style="width: 274.238px;height: 78px">
+<p><em>PoS (full name Proof of Stake) algorithm named Ouroboros</em></p>
+</td>
+<td style="width: 274.258px;height: 78px">
+<p><em>Based on PoW algorithm (full name Proof of Work)</em></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h2 style="line-height: 2;text-align: justify">4 Advantages and 3 Disadvantages of Cardano</h2>
+<h3 style="line-height: 2;text-align: justify">Advantages</h3>
+<ol style="text-align: justify">
+<li style="line-height: 1.75">
+<h4>More stable and scalable</h4>
+<p>Unlike other blockchain platforms and cryptocurrencies, Cardano’s updates and forks do not directly introduce new versions or iterations, related products, and new functions to the public. Instead, they go through a series of tests, and each development milestone or stage is peer-reviewed and more scalable.</p>
+</li>
+<li style="line-height: 1.75">
+<h4>More energy-efficient proof-of-stake system</h4>
+<p>Cardano adopts a more energy-efficient proof-of-stake system to achieve consensus. The security system based on the proof-of-stake algorithm known as Ouroboros ensures the mathematical accuracy of Cardano’s functions. This algorithm significantly reduces energy costs when finding new blocks, leading to faster operations without compromising quality.</li>
+<li style="line-height: 1.75">
+<h4>Extensive trading opportunities</h4>
+<p>In the Cardano network, it is possible to make fast transactions and use digital assets &#8211; any user can create and execute smart contracts to protect their remittances and other financial-related operations.<span style="background-color: #d9ead3"><img loading="lazy" decoding="async" src="https://lh6.googleusercontent.com/UmPU8r_vxLV8I9_0TBLay8bAJAjSSHWDaR_KAvuaDphwIM-FUBhUiMxQDSEs9xhYrNJQlAvwW6x3HN_2CO0uycv4LL-Nn6HFb5-uvEfauKmLuA3yyVq6XMQJwNwha8B5i74kXI6I7_1FBAubTvLXCkP-Ilf3Ba3LiJTHC8uRa-8BvuAxtRRfP37AEEI_aw" width="373" height="192" loading="lazy" style="width: 373px;height: auto;max-width: 100%;float: right;margin: 10px 6px 10px 10px"></span></li>
+<li style="line-height: 1.75">
+<h4>Excellent transaction speeds</h4>
+<p>Even allowing instant transactions while charging no large commissions.</li>
+</ol>
+<h3 style="line-height: 2;text-align: justify">Disadvantages</h3>
+<ol style="text-align: justify">
+<li style="line-height: 1.75">
+<h4>Not the first-mover</h4>
+<p>In many people’s opinion, one of Cardano’s biggest drawbacks is that it does not have the same first-mover advantage as Bitcoin. And the use of ADA as a medium of exchange and store of value is not as widely accepted as Bitcoin and Ethereum.</li>
+<li style="line-height: 1.75">
+<h4>Slow development process</h4>
+<p>A slow-and-steady development approach ensures that all rollouts are bug- and error-free and have a practical or viable, beneficial use case or application. Therefore, it is easy for the project to be overtaken by competitors.</li>
+<li style="line-height: 1.75">
+<h4>Infrastructure is still weak</h4>
+<p>Cardano is a technically unproven platform and not thoroughly tested, unlike Ethereum and Bitcoin.</li>
+</ol>
+<h2 style="line-height: 2;text-align: justify">4 Advantages and Disadvantages of Ethereum</h2>
+<h3 style="line-height: 2;text-align: justify">Advantages</h3>
+<ol style="text-align: justify">
+<li style="line-height: 1.75">
+<h4>Clear positioning</h4>
+<p>Ethereum was positioned as the crypto industry’s global computer in its early days. Its latest developments have cemented its position as the world&#8217;s decentralised financial bottom book. At present, all developments and applications revolve around this positioning.</li>
+<li style="line-height: 1.75">
+<h4>Open system</h4>
+<p>Ethereum has more mature technology and a mature community of developers, contributors, and supporters. At the same time, everyone outside the ecosystem can participate in the project, making it possible to continuously develop and improve the Ethereum ecosystem.<span style="background-color: #d9ead3"><img loading="lazy" decoding="async" src="https://lh5.googleusercontent.com/STWlGrWTxsd84DyWmabEo91JblmCCn00uby3pxV52URJ6fxUOkZqyqw-8aVuNtXI8TNHIhW8CM2da7fPLYM7b61thy5URrxAHVBTp8FSJlTKX5jROgEIyMqtHuIxqVr--EdH7RYcXSzlXdS2DvlkqWZ3h2IDMRaV2EyP995YMvl6xE7l7f2cFCfOazpgDA" width="359" height="185" loading="lazy" style="width: 359px;height: auto;max-width: 100%;float: left;margin: 10px 25px 5px 0px"></span></li>
+<li style="line-height: 1.75">
+<h4>Wide application</h4>
+<p>Ethereum has many blockchain applications, such as digital applications for gold and stocks, financial derivatives applications, DNS and digital authentication, etc.</li>
+<li style="line-height: 1.75">
+<h4>Stronger liquidity</h4>
+<p>As the digital currency with the second-largest market value in the world, its liquidity is undoubtedly more robust, which is convenient for investors to trade freely.</li>
+</ol>
+<h3 style="line-height: 2;text-align: justify">Disadvantages</h3>
+<ol style="text-align: justify">
+<li style="line-height: 1.75">
+<h4>Poor scalability</h4>
+<p>Leading developers and researchers in the Ethereum community have always believed that scalability is the single most critical key that blockchain applications need to address for blockchain technology to achieve mass adoption. The biggest problem with Ethereum’s underlying design is that Ethereum has only one chain and no side chain, which is a very resource-consuming design.</li>
+<li style="line-height: 1.75">
+<h4>The cost of smart contracts is too high</h4>
+<p>Ethereum still has a POW mining mode, and transactions are charged high fees to motivate miners to process transactions and protect the network.</li>
+</ol>
+<div class="article-banner article-banner__dark" style="background-image: url('https://www.atfx.com/wp-content/uploads/2023/10/Free-Demo-Trading-Account.webp');background-size: cover;background-position: center;color: #fff;padding: 20px;justify-content: space-between;align-items: center;margin: 20px 0">
+<div class="article-banner-content" style="flex: 1;margin-right: 20px">
+        <span style="font-size: 30px;color: #fff;font-weight: bold">Risk Free Demo Trading Account</span></p>
+<p style="font-size: 22px;color: #fff;margin-top: 10px">Learn, Practice, Trade</p>
+<p>        <a class="article-banner-button" href="https://www.atfx.com/en/trading-accounts/demo-account" id="banner_button_8_1" target="_blank" style="background-color: #f2672B;color: #fff;padding: 10px 20px;text-decoration: none;font-weight: bold;border-radius: 5px;margin-top: 10px" rel="noopener">OPEN DEMO ACCOUNT</a>
+    </p>
+</div>
+</div>
+<h2 style="line-height: 2;text-align: justify">Cardano vs Ethereum: Future Developments and Opportunities</h2>
+<p style="line-height: 2;text-align: justify">Compared with<span>&nbsp;</span><a href="/en/markets/cryptocurrencies/bitcoin-trading" rel="noopener" target="_blank">Bitcoin</a>, Ethereum has a broader applicability space and could even reshape the global financial system via continuous innovation, becoming a platform for all decentralised applications in the future. Industries such as aerospace technology and banking have been brought into the digital space. Ethereum has wide applications in currencies; hence, it has a high degree of security assurance.</p>
+<p style="line-height: 2;text-align: justify">While Cardano complements Ethereum, it has ambitious plans for the future. It intends to move from the settlement layer to the control layer, which will serve as a &#8220;trusted computing framework&#8221; for complex systems such as gambling and gaming systems. Other applications described on the company’s website include identity management, a credit system, and Daedalus, a general-purpose cryptocurrency wallet with automated crypto-transaction facilities and crypto-to-fiat conversion capabilities. However, it remains to be seen how well these functions will be implemented.</p>
+<h2 style="line-height: 2;text-align: justify">Is Cardano Better Than Ethereum? Will Cardano Replace Ethereum?</h2>
+<p style="line-height: 2;text-align: justify">Cardano was initially designed to solve three critical problems with the current cryptocurrency trading system: high fees, lack of liquidity, and user-friendliness. Cardano is creating an open-source and decentralised currency exchange platform with features that make it more attractive to big players like banks and financial firms to address these issues.</p>
+<p style="line-height: 2;text-align: justify">While moving towards a next-generation blockchain with a scalable and sustainable platform, Cardano has some technological advantages over its competitors, but that doesn&#8217;t mean it will overtake Ethereum anytime soon. As of writing, over 60 dApps were built on Cardano’s blockchain, while nearly 3,000 had been built on Ethereum.<span style="background-color: #d9ead3"><img loading="lazy" decoding="async" src="https://lh5.googleusercontent.com/XaFCvfN3TBcb2LTfvzF_gAm5g9QIhDrZbmeJskeF0tcjYfDt1szKL00tyqa3ySU8fDc94DDYa0DDC-CjuOoV26l7E2Y8VjdDfVFxJYIYglwPS8caY_ZPZHxV8i9aRvEpVcRSxKsmyOKQB7UuFVc0O-58utgdU66SpXAou0lISvM_GF1bzGIBrVgujtQLmw" width="624" height="321" loading="lazy" style="margin: 10px auto"></span></p>
+<p style="line-height: 2;text-align: justify">With its dominance in the dApp and DeFi space, when a project decides to build a blockchain application, there is about a 70% probability that Ethereum will be its first choice. There is no sign that other platforms will replace Ethereum, including Cardano. However, Cardano will continue improving and developing its platform under a framework similar to Ethereum’s. Still, just like Ethereum’s development took multiple years, Cardano will take several years to catch up since there are no exceptions to the rule.</p>
+<h2 style="line-height: 2;text-align: justify">Should You Invest in Cardano?</h2>
+<p style="line-height: 2;text-align: justify">As of March 24, 2022, ETH&#8217;s market value is $366 billion, while Cardano&#8217;s market value is $38.1 billion. Cardano ranks seventh among major cryptocurrencies and is one of the best-performing altcoins. Of course, the market value cannot be used as the only representative of a blockchain&#8217;s value, but it is closely related to its degree of development.</p>
+<p style="line-height: 2;text-align: justify">Like other budding cryptocurrencies, the acceptance of ADA by investors is mixed, which determines its volatility. Each cryptocurrency faces stiff competition in a crowded ecosystem, and sustainability is the most outstanding value embodiment of subsequent development.</p>
+<h2 style="line-height: 2;text-align: justify">Conclusion</h2>
+<p style="line-height: 2;text-align: justify">When comparing Cardano and Ethereum, many factors need to be screened, and the comparison we have made above can be used as a reference. For investors who prefer a more mature platform with relatively higher security,<span>&nbsp;</span><a href="/en/markets/cryptocurrencies/ethereum-trading" rel="noopener" target="_blank">Ethereum investment</a><span>&nbsp;</span>may be a better choice because it has a relatively straightforward long-term value prospect. However, suppose your focus is on innovation, future development, and growth potential. In that case,<span>&nbsp;</span><a href="/en/markets/cryptocurrencies/cardano-ada-usd" rel="noopener" target="_blank">Cardano investment</a>&nbsp;may be relatively attractive, which requires its team to deliver consistent results to underpin its potential value.</p>
+<h2 style="line-height: 2;text-align: justify">How to Start Investing in Cardano or Ethereum?</h2>
+<p style="line-height: 2;text-align: justify">You can begin your<span>&nbsp;</span><a href="/en/markets/cryptocurrencies" rel="noopener" target="_blank">crypto trading</a><span>&nbsp;</span>path within minutes with a few easy steps. Open an account and start investing in Cardano, Ethereum, or other cryptocurrencies on your computer or phone. ATFX offers all the major financial products on a very practical trading platform. If you still want to learn the markets a bit more before investing real money, you can<span>&nbsp;</span><a href="/en/trading-accounts/demo-account" rel="noopener" target="_blank">open a demo account</a><span>&nbsp;</span>and practice different strategies while still learning from a guide or the free training materials ATFX provides. Sign up right away!</p>
+<div class="article-banner article-banner__dark" style="background-image: url('https://www.atfx.com/wp-content/uploads/2022/03/Free-Metatrader-4.webp');background-size: cover;background-position: center;color: #fff;padding: 20px;justify-content: space-between;align-items: center;margin: 20px 0">
+<div class="article-banner-content" style="flex: 1;margin-right: 20px">
+        <span style="font-size: 30px;color: #fff;font-weight: bold">Practice with Metatrader 4 Demo Account</span></p>
+<p style="font-size: 22px;color: #fff;margin-top: 10px">Be Ready To Trade Live</p>
+<p>        <a class="article-banner-button" href="https://www.atfx.com/en/trading-platforms/metatrader-4/mt4-demo-account" id="banner_button_8_1" target="_blank" style="background-color: #f2672B;color: #fff;padding: 10px 20px;text-decoration: none;font-weight: bold;border-radius: 5px;margin-top: 10px" rel="noopener">REGISTER NOW</a>
+    </p>
+</div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Bitcoin price bubble re-emerges, how high can BTCUSD reach in 2021?</title>
+		<link>https://www.atfx.com/en/analysis/market-news/bitcoin-price-how-high-btcusd</link>
+		
+		<dc:creator><![CDATA[Alejandro Zambrano]]></dc:creator>
+		<pubDate>Fri, 20 Nov 2020 17:24:53 +0000</pubDate>
+				<category><![CDATA[Market news & Insights]]></category>
+		<category><![CDATA[Bitcoin - BTCUSD]]></category>
+		<category><![CDATA[Cryptocurrencies]]></category>
+		<guid isPermaLink="false">https://lptemplatedev.wpengine.com/uncategorized/bitcoin-price-how-high-btcusd</guid>
+
+					<description><![CDATA[The mania in cryptocurrencies is back, and Bitcoin prices, BTCUSD, are just 1200 USD from their all-time high of $19678. On a percentage basis, BTCUSD only needs to add another 5.73% which is a relatively small return for most cryptocurrencies. Learn more about cryptocurrencies trading &#160; PayPal news triggers a rush to bitcoin The trigger [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><span style="background-color: transparent; letter-spacing: 0px; text-transform: initial;">The mania in cryptocurrencies is back, and Bitcoin prices, BTCUSD, are just 1200 USD from their all-time high of $19678. On a percentage basis, BTCUSD only needs to add another 5.73% which is a relatively small return for most cryptocurrencies.</span></p>
+<p><a href="/en/markets/cryptocurrencies" rel="noopener">Learn more about cryptocurrencies trading</a></p>
+<p>&nbsp;</p>
+<p><span id="more-10747"></span></p>
+<h2>PayPal news triggers a rush to bitcoin</h2>
+<p><span style="background-color: transparent; letter-spacing: 0px; text-transform: initial;">The trigger behind the move higher in Bitcoin prices, and other altcoins, is the news of PayPal offering the ability to purchase goods with Bitcoin and other coins, but also to store the coins with PayPal. The news might be a few weeks old, but it has undoubtedly triggered the surge in cryptocurrency prices as investors and traders buy before bitcoin becomes mainstream. PayPal will, with its move, enable 300 million people to access Bitcoin, Ethereum, Bitcoin Cash, and Litecoin. </span></p>
+<p><span style="background-color: transparent; letter-spacing: 0px; text-transform: initial;">Realistically, we are still years away from seeing a major adoption of Bitcoin because of the inherently volatile nature of Bitcoin prices. Any merchant or typical retail buyer who would like to buy an electronic newsletter, or any of the other goods and services that PayPal merchants offer, will unlikely leave a large number of cryptocurrencies in their wallet. For that to happen, I suspect price volatility in cryptocurrencies would need a drop to comparable levels of traditional fiat currencies.</span></p>
+<p>&nbsp;</p>
+<h2><span style="letter-spacing: 0px; text-transform: initial; background-color: transparent;">Bitcoin is the winner<br />
+</span></h2>
+<p><span style="background-color: transparent; letter-spacing: 0px; text-transform: initial;">Bitcoin is the winner in the rally of 2020, and in fact, since the last big bubble of late 2017, bitcoin has been outperforming. The reason behind the outperformance is because Bitcoin is the oldest and most traded cryptocurrency, and at times of trouble, people prefer to hold the most trusted crypto coin. Much like people prefer to hold utility and blue-chip stocks at times of recession. </span></p>
+<p><span style="background-color: transparent; letter-spacing: 0px; text-transform: initial;">However, soon Bitcoin could be trading around the $20,000 mark, and potential profit for new investors will diminish sharply. As an example, a gain from $20,000 to $40,000 would only amount to a 100% return, but if Ethereum trades back to its 2018 high, then an investor stands to make 180%. Ripple holders, on the other hand, stand to make near 800% if it would reach its all-time high. </span></p>
+<p><span style="background-color: transparent; letter-spacing: 0px; text-transform: initial;">There is also a widely held belief amongst outsiders that one needs to buy a full bitcoin to gain access to it, while one can buy fractions of it. And this causes people to buy lower-priced coins that they perceive as affordable.</span></p>
+<p>&nbsp;</p>
+<h3>What is next for Bitcoin Prices?</h3>
+<p><span style="background-color: transparent; letter-spacing: 0px; text-transform: initial;">All-time highs act like magnates, and it would not surprise me if we would reach that level in the next few days. However, the <a href="/en/analysis/trading-strategies/risk-reward-ratio-management-techniques" rel="noopener">risk-reward ratio</a> for fresh positions is currently not good, and I suspect investors who would like to buy Bitcoin would wait for a price correction to about $17000 before buying. If the price indeed turns lower, I assume traders will remain bullish as long as the price trades above the November 12 low of $15469. </span></p>
+<p><span style="background-color: transparent; letter-spacing: 0px; text-transform: initial;">Price targets beyond the all-time high are the $23397 level, and $28982. These levels are derived by treating the price range of 2017 to September 2020 as a large triangle. The only problem with this analysis is that triangles are notoriously unreliable patterns, yet one could have a less ambitious target than $23397.</span></p>
+<p>&nbsp;</p>
+<h2><span style="background-color: transparent; letter-spacing: 0px; text-transform: initial;">How to trade cryptocurrencies with ATFX</span></h2>
+<p><span style="background-color: transparent; letter-spacing: 0px; text-transform: initial;">Looking to trade the world&#8217;s most popular digital currencies? Sign up for a <a href="https://apply-uk.atfx.com/register?lang=en" rel="noopener">live</a> or <a href="/en/trading-accounts/demo-account" rel="noopener">demo</a> account with ATFX and take up a long or short position when trading CFDs. Start trading now and benefit from the time flexibility of trading cryptocurrencies.</span></p>
+<p><span style="background-color: transparent; letter-spacing: 0px; text-transform: initial;">1. Register for an account or log in to your existing account</span></p>
+<p><span style="background-color: transparent; letter-spacing: 0px; text-transform: initial;">2. Open MT4 either on your desktop or mobile</span></p>
+<p><span style="background-color: transparent; letter-spacing: 0px; text-transform: initial;">3. Search for Bitcoin in the market watch or symbols window</span></p>
+<p><span style="background-color: transparent; letter-spacing: 0px; text-transform: initial;">4. Choose your position size</span></p>
+<p><span style="background-color: transparent; letter-spacing: 0px; text-transform: initial;">5. Hit buy or sell, and then confirm the trade</span></p>
+<p>&nbsp;</p>
+<h2>Bitcoin price weekly chart</h2>
+<p><img decoding="async" style="width: 772px; margin: 0px auto;" src="https://www.atfx.com/hubfs/ATFX.COM/NEW%20pages/Pages%20-%20go%20live%20-%20Analysis/Analysis%20-%20C%20-%20Market%20news/Crypto/Bitcoin/Weekly%20chart%20analysis%20showing%20Bitcoin%20movements%20since%202017.png" alt="Weekly chart analysis showing Bitcoin movements since 2017" width="772" /></p>
+<p>&nbsp;</p>
+<p><span style="background-color: transparent; letter-spacing: 0px; text-transform: initial;">To see all upcoming news and data releases that’ll have an effect on the financial markets, check out our <a href="https://www.atfx.com/en/analysis/economic-calendar">Economic Calendar</a>. It’ll cover all major releases from global economies and give you the exact time the release is due, the previous data, forecast data and actual data (once released).</span></p>
+<p><span style="background-color: transparent; letter-spacing: 0px; text-transform: initial;">Note: ATFX would like to remind readers that underlying Bitcoin is not backed by governments or central banks. ATFX clients can only trade Bitcoin CFD’s.</span></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

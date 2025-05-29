@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 104 20" width="104" height="20">
+  <g id="Group_9150" data-name="Group 9150" transform="translate(-412 -314)">
+    <rect id="Rectangle-path" width="20" height="20" transform="translate(433 314)" fill="#00b67a"></rect>
+    <g id="Group_9149" data-name="Group 9149">
+      <g id="Group_9148" data-name="Group 9148">
+        <rect id="Rectangle-path-2" data-name="Rectangle-path" width="20" height="20" transform="translate(412 314)" fill="#00b67a"></rect>
+        <path id="Shape" d="M21.308,26.171l3-.761,1.254,3.865Zm6.908-5H22.932L21.308,16.2l-1.624,4.975H14.4l4.276,3.084-1.624,4.975,4.276-3.084,2.631-1.891,4.256-3.084Z" transform="translate(400.561 301.394)" fill="#fff"></path>
+      </g>
+      <path id="Shape-2" data-name="Shape" d="M125.308,26.171l3-.761,1.254,3.865Zm6.908-5h-5.284L125.308,16.2l-1.624,4.975H118.4l4.276,3.084-1.624,4.975,4.276-3.084,2.631-1.891,4.256-3.084Z" transform="translate(317.941 301.394)" fill="#fff"></path>
+      <g id="Group_9147" data-name="Group 9147" transform="translate(-1)">
+        <rect id="Rectangle-path-3" data-name="Rectangle-path" width="20" height="20" transform="translate(455 314)" fill="#00b67a"></rect>
+        <path id="Shape-3" data-name="Shape" d="M229.308,26.171l3-.761,1.254,3.865Zm6.908-5h-5.284L229.308,16.2l-1.624,4.975H222.4l4.276,3.084-1.624,4.975,4.276-3.084,2.632-1.891,4.256-3.084Z" transform="translate(235.322 301.394)" fill="#fff"></path>
+      </g>
+      <g id="Group_9146" data-name="Group 9146" transform="translate(-1)">
+        <rect id="Rectangle-path-4" data-name="Rectangle-path" width="20" height="20" transform="translate(476 314)" fill="#00b67a"></rect>
+        <path id="Shape-4" data-name="Shape" d="M333.308,26.171l3-.761,1.254,3.865Zm6.908-5h-5.284L333.308,16.2l-1.624,4.975H326.4l4.276,3.084-1.624,4.975,4.276-3.084,2.631-1.891,4.256-3.084Z" transform="translate(152.703 301.394)" fill="#fff"></path>
+      </g>
+      <g id="Group_9145" data-name="Group 9145" transform="translate(-1)">
+        <rect id="Rectangle-path-5" data-name="Rectangle-path" width="20" height="20" transform="translate(497 314)" fill="#00b67a"></rect>
+        <path id="Shape-5" data-name="Shape" d="M437.308,26.171l3-.761,1.254,3.865Zm6.908-5h-5.284L437.308,16.2l-1.624,4.975H430.4l4.276,3.084-1.624,4.975,4.276-3.084,2.631-1.891,4.256-3.084Z" transform="translate(70.084 301.394)" fill="#fff"></path>
+      </g>
+    </g>
+  </g>
+</svg>

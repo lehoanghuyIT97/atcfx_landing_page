@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>SMCI Archives - ATFX Global - Official Website</title>
+	<atom:link href="https://www.atfx.com/ko/tag/smci-8/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Mon, 04 Nov 2024 01:04:19 +0000</lastBuildDate>
+	<language>ko-KR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>https://www.atfx.com/wp-content/uploads/2023/06/favicon-150x150.webp</url>
+	<title>SMCI Archives - ATFX Global - Official Website</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>슈마컴(SMCI), 회계감사 기업 사임으로 주가 고통 지속돼</title>
+		<link>https://www.atfx.com/ko/analysis/market-news/super-micro-slumps-auditor-resignation</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Thu, 31 Oct 2024 17:04:43 +0000</pubDate>
+				<category><![CDATA[마켓 뉴스 및 자료]]></category>
+		<category><![CDATA[SMCI]]></category>
+		<category><![CDATA[최신 소식]]></category>
+		<guid isPermaLink="false">https://www.atfx.com/?p=42300</guid>
+
+					<description><![CDATA[EY(언스트앤영) 회계법인이 슈퍼마이크로컴퓨터(SMCI) 기업의 감사직에서 사임을 한 이후로 SMCI 주가가 폭락했습니다. SMCI 일봉 차트 SMCI 주가는 $50선 근처 저항선에서 둔화세를 보인 뒤 $33선으로 하락했습니다. 장 초반에 SMCI는 $31로 장을 시작했고, $30선이 시험에 들 것으로 보입니다. 추후 더욱 낮은 하방 지지선은 $22.85선이 될 전망입니다. SMCI는 담당 회계 감사 기업인 EY가 사임을 한 이후로 주가가 40% 가까이 하락했습니다. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>EY(언스트앤영) 회계법인이 슈퍼마이크로컴퓨터(SMCI) 기업의 감사직에서 사임을 한 이후로 <a href="https://www.atfx.com/ko/markets/shares-trading" target="_blank" rel="noopener">SMCI 주가</a>가 폭락했습니다.</p>
+<p><img fetchpriority="high" decoding="async" class="aligncenter size-full wp-image-42302" src="https://www.atfx.com/wp-content/uploads/2024/11/SMCI-Daily-Chart.png" alt="SMCI - Daily Chart" width="1087" height="606" srcset="https://www.atfx.com/wp-content/uploads/2024/11/SMCI-Daily-Chart.png 1087w, https://www.atfx.com/wp-content/uploads/2024/11/SMCI-Daily-Chart-300x167.png 300w, https://www.atfx.com/wp-content/uploads/2024/11/SMCI-Daily-Chart-1024x571.png 1024w, https://www.atfx.com/wp-content/uploads/2024/11/SMCI-Daily-Chart-768x428.png 768w" sizes="(max-width: 1087px) 100vw, 1087px" /></p>
+<p style="text-align: center;">SMCI 일봉 차트</p>
+<p>SMCI 주가는 $50선 근처 저항선에서 둔화세를 보인 뒤 $33선으로 하락했습니다. 장 초반에 SMCI는 $31로 장을 시작했고, $30선이 시험에 들 것으로 보입니다. 추후 더욱 낮은 하방 지지선은 $22.85선이 될 전망입니다.</p>
+<p>SMCI는 담당 회계 감사 기업인 EY가 사임을 한 이후로 주가가 40% 가까이 하락했습니다. SMCI는 “재무 보고에 대한 내부 통제력”을 평가해야 한다는 이유로 연례 리포트 제출을 연기한 이후로 8월 말에 문제에 직면했습니다. SMCI의 리포트 연기 이후로 힌덴버그리서치(Hindenburg Research)는 SMCI를 “회계 조작” 기업이라고 비난하면서 숏포지션을 취했습니다.</p>
+<p>지난 수요일, SMCI는 EY가 기업 거버넌스, 투명성, 재무 보고에 대한 우려를 제기했음을 밝혔습니다. EY는 이 같은 문제를 조사하기 위해 특별위원회를 구성했습니다. 그리고 EY는 검토를 통해 추가정보를 받은 이후 현재는 감사직에서 사임을 한 상황입니다.</p>
+<p>EY는 “최근 당사가 파악하게 된 정보로 인해 당사는 더 이상 (SMCI의) 경영진과 감사위원회의 진술을 신뢰할 수 없게 되었으며, 경영진이 작성한 재무제표와 더 이상 연관되기를 원치 않기 때문에 (감사직에서) 사임한다”고 밝혔습니다.</p>
+<p>SMCI는 EY회계법인의 결정에 동의할 수 없으며, “EY가 제기한 문제로 인한 결단”으로 인해 회계연도 2024년도 또는 과거 연도의 분기별 리포트에 문제가 발생할 것으로 예상되지는 않는다고 밝혔습니다.</p>
+<p>SMCI는 여러 기업들이 신규 애플리케이션을 지원하기 위해 지출을 늘렸던 생성형 AI 붐의 큰 수혜 기업으로 떠올랐던 바 있습니다. SMCI 기업의 시장가치는 2023년 초 약 44억 달러에서 3월 최고점인 670억 달러로 급증한 이후로 최근 몇 달 동안은 하락을 겪었습니다.</p>
+<p>힌덴버그리서치 설립자는 이번 소식에 대해 “감사 성명서에 따르면, EY의 SMCI 감사 기업 사임서 제출은 내 살아생전 매우 강력한 표현이다”라고 X(옛 트위터)를 통해 밝혔습니다. 월스트리트저널(WSJ)은 SMCI가 미국의 제재 대상국에 칩을 공급했다는 의혹에 대해 미국 법무부가 조사를 진행하고 있다는 소식을 지난 9월 말에 보도했습니다.</p>
+<p>SMCI는 최근 실적을 다음주에 발표할 예정이며, 이는 주가에 추가 변동성을 초래할 수 있겠습니다.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,941 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Trading Strategies for Intermediate Traders Archives - ATFX Global - Official Website</title>
+	<atom:link href="https://www.atfx.com/en/tag/trading_strategies_for_intermediate_traders/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Fri, 23 May 2025 07:45:48 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>https://www.atfx.com/wp-content/uploads/2023/06/favicon-150x150.webp</url>
+	<title>Trading Strategies for Intermediate Traders Archives - ATFX Global - Official Website</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>What is the Relative Strength Index (RSI) in Trading?</title>
+		<link>https://www.atfx.com/en/analysis/trading-strategies/relative-strength-index</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Wed, 23 Apr 2025 02:11:21 +0000</pubDate>
+				<category><![CDATA[Trading Strategies]]></category>
+		<category><![CDATA[RSI]]></category>
+		<category><![CDATA[RSI trading]]></category>
+		<category><![CDATA[Trading Strategies for Intermediate Traders]]></category>
+		<guid isPermaLink="false">https://www.atfx.com/?p=48328</guid>
+
+					<description><![CDATA[The Relative Strength Index (RSI) is a momentum oscillator that measures the speed and magnitude of recent price movements to identify overbought or oversold conditions in an asset. It ranges from 0 to 100 and is commonly used to spot potential reversal points, confirm market trend strength, and assess the overall direction of market trends, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">The Relative Strength Index (RSI) is a momentum oscillator that measures the speed and magnitude of recent price movements to identify overbought or oversold conditions in an asset. It ranges from 0 to 100 and is commonly used to spot potential reversal points, confirm market trend strength, and assess the overall direction of market trends, especially when paired with </span><a href="https://www.atfx.com/en/trading-platforms/metatrader-4/support-resistance-indicator" target="_blank" rel="noopener"><span style="font-weight: 400;">support and resistance</span></a><span style="font-weight: 400;"> levels.</span></p>
+<p><span style="font-weight: 400;">Originally developed by J. Welles Wilder Jr. in 1978, RSI has become one of the most widely used technical indicators across markets—including stocks, </span><a href="https://www.atfx.com/en/markets/forex-trading" target="_blank" rel="noopener"><span style="font-weight: 400;">forex</span></a><span style="font-weight: 400;">, crypto, and </span><a href="https://www.atfx.com/en/markets/commodities" target="_blank" rel="noopener"><span style="font-weight: 400;">commodities</span></a><span style="font-weight: 400;">. By mastering RSI trading signals, traders can enhance their timing, improve decision-making, and increase profitability. In this article, we&#8217;ll explore how RSI works and how to use it effectively to strengthen your trading strategy.</span></p>
+<h2><span style="font-weight: 400;">How is RSI Formula Calculated?</span></h2>
+<p><span style="font-weight: 400;">RSI is a momentum oscillator that measures the speed and change of price movements. It is calculated by comparing the average gains and losses over a specific period, typically 14 days. It helps traders to determine whether an asset is overbought or oversold.</span></p>
+<h3><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f9ee.png" alt="🧮" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </span><span style="font-weight: 400;">RSI Formula: </span></h3>
+<p><span style="font-weight: 400;">RSI = 100 − [100 / (1 + (Average Gain / Average Loss))]</span></p>
+<p><span style="font-weight: 400;">Breaking It Down:</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Average Gain: The average of price increases over the defined period.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Average Loss: The average of price declines over the same period.</span></li>
+</ul>
+<p><img fetchpriority="high" decoding="async" class="aligncenter size-large wp-image-48333" src="https://www.atfx.com/wp-content/uploads/2025/04/How-is-RSI-Formula-Calculated-1024x529.webp" alt="How-is-RSI-Formula-Calculated" width="800" height="413" srcset="https://www.atfx.com/wp-content/uploads/2025/04/How-is-RSI-Formula-Calculated-1024x529.webp 1024w, https://www.atfx.com/wp-content/uploads/2025/04/How-is-RSI-Formula-Calculated-300x155.webp 300w, https://www.atfx.com/wp-content/uploads/2025/04/How-is-RSI-Formula-Calculated-768x397.webp 768w, https://www.atfx.com/wp-content/uploads/2025/04/How-is-RSI-Formula-Calculated.webp 1200w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<p><span style="font-weight: 400;">The RSI calculation helps traders assess whether an asset is trending up or down by comparing the magnitude of upward price movements to downward price movements.</span></p>
+<h3><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/23f1.png" alt="⏱" class="wp-smiley" style="height: 1em; max-height: 1em;" />Adjusting RSI Periods Based on Market Conditions</span></h3>
+<p><span style="font-weight: 400;">The default RSI setting of 14 periods is widely used because it balances responsiveness and smoothness. However, traders often adjust the period to match their trading market better.</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Shorter periods (example 7-9) for RSI become more sensitive to price changes, giving quicker signals. This is typically used in volatile markets where rapid price fluctuations occur. The disadvantage is that it can lead to more false signals reacting to minor fluctuations, and traders may enter and exit trades too frequently.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Longer periods (example 21-30) for RSI become less reactive, smoothing out short-term noise. Long-term traders or investors often use this setting to focus on significant market trends such as commodities. The disadvantage is that RSI may be slower in reacting to price changes, meaning that traders may miss out on early trend shifts or reversals.</span></li>
+</ul>
+<h2><span style="font-weight: 400;">How RSI Works in Trading</span></h2>
+<p><span style="font-weight: 400;">RSI determines if an asset is overbought or oversold, signalling potential reversals. By measuring the momentum of price changes, the RSI provides insights into the strength or weakness of an asset’s price movement. </span></p>
+<p><span style="font-weight: 400;">The indicator moves from 0 to 100, with key levels at 70 (overbought) and 30 (oversold).</span></p>
+<h3><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f680.png" alt="🚀" class="wp-smiley" style="height: 1em; max-height: 1em;" /> RSI Overbought Condition (Above 70):</span></h3>
+<p><span style="font-weight: 400;">When RSI exceeds 70, it suggests that the asset is overbought, and a pullback or reversal may be imminent. This can often coincide with price reaching resistance levels.</span></p>
+<p><b><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4cc.png" alt="📌" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Action: Traders often sell when the RSI exceeds 70, anticipating a market correction near resistance.</b></p>
+<p><b>Example</b><span style="font-weight: 400;">: If the </span><a href="https://www.atfx.com/en/live-chart/eur-usd" target="_blank" rel="noopener"><span style="font-weight: 400;">EUR/USD</span></a><span style="font-weight: 400;"> pair has an RSI of 80, it may indicate an overbought market, signalling a potential price decline as the price approaches resistance.</span></p>
+<p><img decoding="async" class="aligncenter size-full wp-image-48331" src="https://www.atfx.com/wp-content/uploads/2025/04/EUR-USD.webp" alt="EUR-USD" width="755" height="659" srcset="https://www.atfx.com/wp-content/uploads/2025/04/EUR-USD.webp 755w, https://www.atfx.com/wp-content/uploads/2025/04/EUR-USD-300x262.webp 300w" sizes="(max-width: 755px) 100vw, 755px" /></p>
+<h3><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4c9.png" alt="📉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> RSI Oversold Condition (Below 30):</span></h3>
+<p><span style="font-weight: 400;">When RSI drops below 30, it suggests the asset is oversold, and a price rebound may be on the horizon, especially when approaching support levels.</span></p>
+<p><b><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4cc.png" alt="📌" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </b><b>Action: Traders often look for buying opportunities when RSI is below 30, anticipating a reversal at support.</b></p>
+<p><b>Example</b><span style="font-weight: 400;">: If the </span><a href="https://www.atfx.com/en/live-chart/gbp-usd" target="_blank" rel="noopener"><span style="font-weight: 400;">GBP/USD</span></a><span style="font-weight: 400;"> pair has an RSI of 25, it could mean the British pound is oversold and may be due for a reversal, potentially bouncing off a key support level.</span></p>
+<p><img decoding="async" class="aligncenter size-full wp-image-48332" src="https://www.atfx.com/wp-content/uploads/2025/04/GBP-USD.webp" alt="GBP-USD" width="819" height="713" srcset="https://www.atfx.com/wp-content/uploads/2025/04/GBP-USD.webp 819w, https://www.atfx.com/wp-content/uploads/2025/04/GBP-USD-300x261.webp 300w, https://www.atfx.com/wp-content/uploads/2025/04/GBP-USD-768x669.webp 768w" sizes="(max-width: 819px) 100vw, 819px" /></p>
+<h2><span style="font-weight: 400;">RSI Divergence: Spotting Trend Reversals</span></h2>
+<p><span style="font-weight: 400;">RSI divergence occurs when the price of an asset moves in the opposite direction of the RSI. This is a key signal for potential trend reversals:</span></p>
+<h3><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f504.png" alt="🔄" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span><span style="font-weight: 400;">Bullish Divergence</span></h3>
+<p><span style="font-weight: 400;">Occurs when the price makes lower lows, but the RSI forms higher lows. This suggests that selling momentum is weakening and that a price reversal to the upside may happen.</span><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;"><br />
+</span><b>Example</b><span style="font-weight: 400;">: If USD/CAD makes a new low, but the RSI forms a higher low, a buy signal may appear.</span></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-48335" src="https://www.atfx.com/wp-content/uploads/2025/04/USD-CAD.webp" alt="USD-CAD" width="818" height="708" srcset="https://www.atfx.com/wp-content/uploads/2025/04/USD-CAD.webp 818w, https://www.atfx.com/wp-content/uploads/2025/04/USD-CAD-300x260.webp 300w, https://www.atfx.com/wp-content/uploads/2025/04/USD-CAD-768x665.webp 768w" sizes="(max-width: 818px) 100vw, 818px" /></p>
+<h3><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f504.png" alt="🔄" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span><span style="font-weight: 400;">Bearish Divergence</span></h3>
+<p><span style="font-weight: 400;">If the price makes higher highs but the RSI fails to make new highs, it suggests a weakening of buying momentum and a possible downward reversal.</span></p>
+<p><b>Example</b><span style="font-weight: 400;">: If USD/CHF makes new highs but RSI shows lower highs, it signals a sell signal.</span></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-48329" src="https://www.atfx.com/wp-content/uploads/2025/04/USD-CHF.webp" alt="USD-CHF" width="887" height="551" srcset="https://www.atfx.com/wp-content/uploads/2025/04/USD-CHF.webp 887w, https://www.atfx.com/wp-content/uploads/2025/04/USD-CHF-300x186.webp 300w, https://www.atfx.com/wp-content/uploads/2025/04/USD-CHF-768x477.webp 768w" sizes="(max-width: 887px) 100vw, 887px" /></p>
+<h2><span style="font-weight: 400;">RSI Centerline Crossovers: Identifying Trend Strength</span></h2>
+<p><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4cd.png" alt="📍" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </span><span style="font-weight: 400;">The RSI centerline (50 levels) is critical for confirming the strength of an existing trend:</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">RSI Above 50: When RSI remains above the 50 level during an uptrend, it signals strong bullish momentum, confirming that the price will likely continue moving upward.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">RSI Below 50: When RSI remains below the 50 level during a downtrend, it indicates strong bearish momentum, suggesting that the downtrend is likely to persist.</span></li>
+</ul>
+<p><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4cd.png" alt="📍" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </span><span style="font-weight: 400;">Crossovers at the 50 level provide additional confirmation of a trend&#8217;s strength. For instance:</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">If RSI crosses above 50 from below, it can signal the start of an uptrend.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Conversely, if RSI crosses below 50 from above, it may signal the beginning of a downtrend.</span></li>
+</ul>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-48334" src="https://www.atfx.com/wp-content/uploads/2025/04/RSI-50-uptrend.webp" alt="RSI-50 uptrend" width="886" height="545" srcset="https://www.atfx.com/wp-content/uploads/2025/04/RSI-50-uptrend.webp 886w, https://www.atfx.com/wp-content/uploads/2025/04/RSI-50-uptrend-300x185.webp 300w, https://www.atfx.com/wp-content/uploads/2025/04/RSI-50-uptrend-768x472.webp 768w" sizes="(max-width: 886px) 100vw, 886px" /></p>
+<h2><span style="font-weight: 400;">RSI Trading Strategies and How to Use It in Your Strategy</span></h2>
+<p><span style="font-weight: 400;">RSI trading is most effective when combined with other technical indicators, trend analysis, or market conditions. Below are some strategies for using RSI:</span></p>
+<h3><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4cc.png" alt="📌" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Identify Overbought/Oversold Conditions:</span></h3>
+<p><span style="font-weight: 400;">Use the RSI to detect when an asset is overbought or oversold. Buy when the RSI is below 30 (oversold) and sell when the RSI is above 70 (overbought).</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">RSI above 70 = overbought = potential sell.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">RSI below 30 = oversold = potential buy.</span></li>
+</ul>
+<h3><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f511.png" alt="🔑" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </span><span style="font-weight: 400;">Spot Divergence for Trend Reversals:</span></h3>
+<p><span style="font-weight: 400;">Look for divergence between price action and RSI to spot weakening trends and predict potential reversals.</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Bullish Divergence: Price makes lower lows, RSI makes higher lows. </span><b>Buy</b><span style="font-weight: 400;">.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Bearish Divergence: Price makes higher highs, RSI makes lower highs. </span><b>Sell</b><span style="font-weight: 400;">.</span></li>
+</ul>
+<h3><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/26a1.png" alt="⚡" class="wp-smiley" style="height: 1em; max-height: 1em;" />Confirm Trend Strength:</span></h3>
+<p><span style="font-weight: 400;">Use RSI to confirm the strength of an ongoing trend. RSI readings above 50 confirm bullish momentum, while readings below 50 confirm bearish momentum.</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">RSI &gt; 50: Indicates a strong uptrend.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">RSI &lt; 50: Indicates a strong downtrend.</span></li>
+</ul>
+<h3><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4dd.png" alt="📝" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span><span style="font-weight: 400;">Centerline Crossovers:</span></h3>
+<p><span style="font-weight: 400;">The 50 level of RSI is critical for confirming the direction and strength of the trend. Use it to gauge potential buy or sell signals.</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Crossing above 50: Potential uptrend.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Crossing below 50: Potential downtrend.</span></li>
+</ul>
+<h2><span style="font-weight: 400;">Best RSI Settings for Different Markets</span></h2>
+<p><span style="font-weight: 400;">The default RSI setting is 14 periods, but it can be adjusted based on market conditions and trading style.</span></p>
+<table>
+<tbody>
+<tr>
+<td><strong>Market Type</strong></td>
+<td><strong>Best RSI Setting</strong></td>
+<td><strong>Trading Style</strong></td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">Stocks</span></td>
+<td><span style="font-weight: 400;">14</span></td>
+<td><span style="font-weight: 400;">Swing Trading</span></td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">Forex</span></td>
+<td><span style="font-weight: 400;">9 or 14</span></td>
+<td><span style="font-weight: 400;">Intraday &amp; Swing</span></td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">Crypto</span></td>
+<td><span style="font-weight: 400;">7 or 14</span></td>
+<td><span style="font-weight: 400;">High Volatility</span></td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">Commodities</span></td>
+<td><span style="font-weight: 400;">10</span></td>
+<td><span style="font-weight: 400;">Trend Confirmation</span></td>
+</tr>
+</tbody>
+</table>
+<p><b><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4a1.png" alt="💡" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Pro Tip: Shorten RSI settings (e.g., 7-9 periods) for faster signals in volatile markets like crypto.</b></p>
+<h3><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/2699.png" alt="⚙" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span><span style="font-weight: 400;">How to Set RSI in MetaTrader 4 (MT4)</span></h3>
+<p><span style="font-weight: 400;">Setting up RSI in </span><a href="https://www.atfx.com/en/trading-platforms/metatrader-4" target="_blank" rel="noopener"><span style="font-weight: 400;">MT4</span></a><span style="font-weight: 400;"> is simple and quick. Follow these steps:</span></p>
+<ol>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Open MT4 and select the chart you want to use.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Click on Insert → Indicators → Oscillators → Relative Strength Index.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Adjust the Period (default is 14) based on your strategy.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Modify Levels (30 for oversold, 70 for overbought) if needed.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Click OK to apply the RSI indicator to your chart.</span></li>
+</ol>
+<p><span style="font-weight: 400;">Now, you can use the RSI to identify overbought or oversold conditions and make informed trading decisions directly within MT4.</span></p>
+<p><a href="https://www.atfx.com/en/trading-platforms/metatrader-4/download-mt4" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="aligncenter wp-image-25033 size-full" src="https://www.atfx.com/wp-content/uploads/2021/10/mt4-download.webp" alt="mt4 download" width="825" height="206" srcset="https://www.atfx.com/wp-content/uploads/2021/10/mt4-download.webp 825w, https://www.atfx.com/wp-content/uploads/2021/10/mt4-download-300x75.webp 300w, https://www.atfx.com/wp-content/uploads/2021/10/mt4-download-768x192.webp 768w" sizes="(max-width: 825px) 100vw, 825px" /></a></p>
+<h2><span style="font-weight: 400;">RSI Trading Strategy Tips</span></h2>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Combine RSI with Other Indicators: Use RSI in trading alongside other technical indicators like moving averages or MACD to increase the effectiveness of your strategies.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Watch for Extreme RSI Readings: Look for situations where the RSI exceeds extreme levels (above 70 or below 30), as these can indicate potential reversal points.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Use RSI with Trend Analysis: If the market is in a strong trend, RSI can be used to identify pullbacks in the trend, offering more favorable entry points.</span></li>
+</ul>
+<h2><span style="font-weight: 400;">Common Mistakes to Avoid While Using RSI</span></h2>
+<p><span style="font-weight: 400;">Even professional traders misuse RSI, leading to false signals and unnecessary losses. Here’s what to avoid:</span></p>
+<p><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/274c.png" alt="❌" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Relying on RSI Alone – Always confirm signals with other indicators.</span><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/274c.png" alt="❌" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Not Checking Market Trends – RSI is more effective in ranging markets.</span><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/274c.png" alt="❌" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Ignoring Divergence Signals – RSI divergence can predict reversals early.</span><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/274c.png" alt="❌" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Using Default RSI Without Testing – Customize RSI settings for your trading style.</span></p>
+<p><b><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4cc.png" alt="📌" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Pro Tip: Always backtest RSI strategies in a demo account before trading live.</b></p>
+<h2><span style="font-weight: 400;">Maximizing Trading Potential with RSI Strategies</span></h2>
+<p><span style="font-weight: 400;">To get the most from RSI, use these proven trading strategies:</span></p>
+<p><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/2714.png" alt="✔" class="wp-smiley" style="height: 1em; max-height: 1em;" /> RSI Trend Strategy – Follow RSI direction above/below 50.</span><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/2714.png" alt="✔" class="wp-smiley" style="height: 1em; max-height: 1em;" /> RSI Reversal Strategy – Trade based on RSI divergence.</span><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/2714.png" alt="✔" class="wp-smiley" style="height: 1em; max-height: 1em;" /> RSI Scalping Strategy – Use RSI + MACD for short-term trades.</span><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/2714.png" alt="✔" class="wp-smiley" style="height: 1em; max-height: 1em;" /> RSI &amp; Bollinger Bands – Identify volatility breakouts.</span></p>
+<p><b><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4cc.png" alt="📌" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Final Tip: Test RSI strategies in a demo account before trading live to refine your approach.</b></p>
+<h2><span style="font-weight: 400;">Conclusion</span></h2>
+<p><span style="font-weight: 400;">The Relative Strength Index (RSI) is a powerful tool that helps traders identify overbought and oversold conditions, spot trend reversals, and confirm the strength of existing trends. Mastering RSI trading and understanding its signals can enhance your market analysis and help you make more informed trading decisions.</span></p>
+<p><span style="font-weight: 400;">Integrating RSI into your strategy can provide valuable insights and improve your trading performance, whether you&#8217;re trading </span><a href="https://www.atfx.com/en/markets/shares-trading" target="_blank" rel="noopener"><span style="font-weight: 400;">stocks</span></a><span style="font-weight: 400;">, forex, or crypto.</span></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Trump Economic Policies: Impact on Stocks &#038; Forex Markets &#124; Trading Trend</title>
+		<link>https://www.atfx.com/en/analysis/trading-strategies/trump-economic-policies</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Tue, 26 Nov 2024 02:09:07 +0000</pubDate>
+				<category><![CDATA[Trading Strategies]]></category>
+		<category><![CDATA[Trading Strategies for Intermediate Traders]]></category>
+		<guid isPermaLink="false">https://www.atfx.com/?p=43370</guid>
+
+					<description><![CDATA[Trump Economic Policies: Impact on Financial Markets Donald Trump winning the 2024 U.S. presidential election, the financial markets are already responding in significant movements, as investors and traders assess the implications of his return to office after his first term in 2016. His victory signals a shift back to a pro-business agenda, marked by a [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h2 dir="ltr">Trump Economic Policies: Impact on Financial Markets</h2>
+<p dir="ltr">Donald Trump winning the 2024 U.S. presidential election, the financial markets are already responding in significant movements, as investors and traders assess the implications of his return to office after his first term in 2016. His victory signals a shift back to a pro-business agenda, marked by a focus on deregulation, tax cuts, and protectionist trade policies.</p>
+<p dir="ltr">In this article, we examine how Trump economic policies could influence key financial markets, particularly <a href="https://www.atfx.com/en/markets/forex-trading" target="_blank" rel="noopener">forex trading</a>, U.S. stocks, global equities, and the broader economic outlook.</p>
+<ol class="no-markers">
+<li dir="ltr">
+<h2 dir="ltr">Impact on Forex Markets: U.S. Dollar Strengthens After Trump’s 2024 Win</h2>
+</li>
+</ol>
+<p dir="ltr">One of the most immediate reactions to Trump’s 2024 election victory has been a significant strengthening of the U.S. Dollar (USD) across global markets.</p>
+<p dir="ltr">This surge is largely driven by expectations of Trump’s pro-business agenda, which includes tax cuts, deregulation, and policies designed to stimulate U.S. economic growth.</p>
+<p dir="ltr">Investors believe that these policies will boost corporate earnings, increase economic activity, and drive demand for the U.S. dollar. Consequently, the USD has gained strength against major currencies, including the Chinese Offshore Yuan (CNH), the Mexican Peso (MXN), and the Euro (EUR), reflecting optimism about U.S. economic performance under Trump administration policies.</p>
+<h3 dir="ltr">USD Strengthens</h3>
+<p dir="ltr">With expectations of a robust U.S. economy under Trump, the USD is poised to benefit. Investors anticipate that Trump’s trade and tax policies will boost U.S. corporate earnings, which will drive greater demand for the dollar.</p>
+<p dir="ltr">The U.S. Dollar could rise further if Trump follows through on plans to implement tariffs on imports, particularly from China. As a result, Forex traders are looking to capitalize on a stronger USD, particularly against the CNY, MXN, and EUR.</p>
+<h3 dir="ltr">Chinese Offshore Yuan CNH Pressure</h3>
+<p dir="ltr">The Chinese Offshore Yuan (USDCNH) has weakened in response to concerns over potential trade tensions. Trump’s previous administration raised tariffs on China, and with his re-election, there is a real possibility of an even more aggressive stance, including a potential 60% tariff on Chinese goods.</p>
+<p dir="ltr">As a result, Forex traders may find opportunities in the USD/CNH pair, betting on further weakness in the Yuan due to escalating trade war tensions between the U.S. and China.</p>
+<p dir="ltr">Proxy Trade: AUD/USD and USD/CNY</p>
+<ol style="list-style-type: upper-roman;">
+<li dir="ltr">
+<p dir="ltr">USD/CNH: Given Trump’s trade policies and ongoing trade war risks with China, the USD/CNH currency pair is likely the most direct proxy trade to watch for USD strength. A continuation of Trump&#8217;s tariff strategy and protectionist stance could put significant downward pressure on the Chinese Yuan (CNH), while boosting the demand for the U.S. Dollar (USD). Forex traders could look to capitalize on these currency dynamics by favoring USD/CNH in their trades.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">AUD/USD: Another potential proxy trade is AUD/USD, with the Australian Dollar (AUD) often serving as a liquid proxy for the Chinese Offshore Yuan (CNH). Australia’s heavy reliance on exports to China—especially commodities like iron ore, coal, and natural gas—means that shifts in China’s economic outlook can significantly impact the AUD. When trade tensions between the U.S. and China rise, the AUD often reacts in tandem with the CNY, as both currencies are influenced by the broader trade environment and global commodity markets.</p>
+</li>
+</ol>
+<p dir="ltr">As a result, if Trump’s economic policies cause increased volatility in U.S.-China relations, the AUD/USD pair may experience heightened volatility as well. Additionally, if Trump’s administration focuses on boosting domestic energy production, the Australian Dollar may benefit from rising global commodity prices, further influencing AUD/USD trading dynamics.</p>
+<ol class="no-markers" start="2">
+<li dir="ltr">
+<h2 dir="ltr">Impact on Stocks Markets: Trump’s Pro-Business Agenda Lifts U.S. Stocks</h2>
+</li>
+</ol>
+<p dir="ltr">In the wake of Trump’s election victory, <a href="https://www.atfx.com/en/markets/shares-trading" target="_blank" rel="noopener">U.S. stocks</a> have rallied, driven by optimism over his pro-business policies. Key sectors such as energy, technology, and financials are poised to see substantial gains. The combination of deregulation, tax cuts, and a focus on domestic energy production underpins much of this bullish sentiment.</p>
+<h3 dir="ltr">U.S. Equities Surge</h3>
+<p dir="ltr">U.S. stock markets, including the <a href="https://www.atfx.com/en/live-chart/sp500" target="_blank" rel="noopener">S&amp;P 500</a>, <a href="https://www.atfx.com/en/live-chart/dow-jones" target="_blank" rel="noopener">Dow Jones</a> and <a href="https://www.atfx.com/en/live-chart/nasdaq100" target="_blank" rel="noopener">Nasdaq</a>, have responded positively to Trump’s victory, with <a href="https://www.atfx.com/en/markets/indices-trading" target="_blank" rel="noopener">indices</a> climbing to new heights. The rally is especially noticeable in sectors that stand to benefit from Trump’s policies. Energy stocks (especially oil and gas) and tech stocks have been leading the charge, as investors position themselves for what is expected to be a favorable environment for these industries.</p>
+<h3 dir="ltr">Energy Sector Boost</h3>
+<p dir="ltr">Trump’s support for fossil fuels with his &#8220;drill, baby, drill&#8221; campaign slogan, including oil and natural gas, boosted companies like ExxonMobil and Chevron after his election. His administration’s move to remove restrictions on domestic oil and gas production and roll back environmental regulations created a more favorable environment for energy companies. With a focus on energy independence and fewer regulatory hurdles, energy stocks were positioned for significant growth, increasing profitability and expanding access to domestic resources.</p>
+<h3 dir="ltr">Tech Sector Growth</h3>
+<p dir="ltr">Tesla&#8217;s shares surged as investors speculated that the company could benefit from a potential return of Donald Trump to the White House. The expectations include reduced competition from smaller EV makers and higher tariffs on Chinese imports, which could give Tesla an edge. Trump’s pro-business policies, such as deregulation and tax cuts, are also seen as favorable for tech giants, potentially boosting profitability and encouraging reinvestment in innovation. Specifically, Tesla could benefit from eased regulations surrounding electric vehicles and renewable energy.</p>
+<h3 dir="ltr">Financial Sector Boost</h3>
+<p dir="ltr">Shares of JPMorgan Chase, Goldman Sachs, and Bank of America saw significant gains, along with broader indexes of big-bank stocks, following Trump&#8217;s victory. Regional banks also experienced notable increases as investors anticipated a more favorable regulatory environment for the financial sector. Trump&#8217;s deregulatory stance is seen as a boost for large financial institutions, as reduced regulations would allow banks to take on more risk and increase lending. Additionally, the expectation of tax cuts further supports the outlook for higher profitability, making these banks more competitive and efficient.</p>
+<p dir="ltr"><a href="https://www.atfx.com/en/trading-accounts/live-account" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="aligncenter wp-image-25012 size-full" src="https://www.atfx.com/wp-content/uploads/2023/07/live-account.webp" alt="live account" width="1200" height="300" srcset="https://www.atfx.com/wp-content/uploads/2023/07/live-account.webp 1200w, https://www.atfx.com/wp-content/uploads/2023/07/live-account-300x75.webp 300w, https://www.atfx.com/wp-content/uploads/2023/07/live-account-1024x256.webp 1024w, https://www.atfx.com/wp-content/uploads/2023/07/live-account-768x192.webp 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></a></p>
+<ol class="no-markers" start="3">
+<li dir="ltr">
+<h2 dir="ltr">Impact on Indices: U.S. Outperforms Global Indices</h2>
+</li>
+</ol>
+<p dir="ltr">While U.S. stocks are rallying in response to Trump’s victory, global financial markets are facing headwinds. The effects of Trump’s trade policies—particularly his stance on trade and tariffs—could weigh on non-U.S. markets, particularly in Europe, China, and Japan.</p>
+<h3 dir="ltr">U.S. vs. Global Indices</h3>
+<p dir="ltr">As Trump advances his &#8220;America First&#8221; policies, U.S. equities are expected to outperform global indices in the short to medium term, driven by optimism around tax cuts, deregulation, and infrastructure spending. However, European and Asian markets—more vulnerable to a U.S.-China trade war or higher tariffs could lag behind. Countries reliant on U.S. exports or global supply chains may face slower growth, prompting investors to seek safety in U.S. assets. This could further boost demand for U.S. stocks and the dollar, as Trump&#8217;s policies drive mixed reactions globally.</p>
+<ol class="no-markers" start="4">
+<li dir="ltr">
+<h2 dir="ltr">Trump Trade War Tension</h2>
+</li>
+</ol>
+<p dir="ltr">One of the biggest risks in global markets is the potential for a renewed trade war, especially between the U.S. and China. Trump’s aggressive trade policies, including the possibility of broad tariffs on foreign goods, could escalate tensions with both China and the EU. His proposals for tariffs of 10% to 20% on all imports, combined with specific targets like automobiles, could disrupt global supply chains, raise inflation, and slow economic growth.</p>
+<p dir="ltr">If Trump follows through with a 60% tariff on goods from China, it could lead to retaliatory tariffs from China, creating volatility across global markets. This would particularly impact emerging markets such as Mexico, South Korea, and Brazil, which rely heavily on trade with the U.S. and China. The EU is also vulnerable to U.S. tariffs, which could pull it into a broader trade conflict.</p>
+<p dir="ltr">The UK, post-Brexit, faces difficult choices on how to navigate these risks, given its close ties to the EU and the risk of being caught in the crossfire. A rise in protectionism could destabilize global markets, harm smaller economies, and pose serious risks to global economic stability.</p>
+<ol class="no-markers" start="5">
+<li dir="ltr">
+<h2 dir="ltr">Trading Opportunities and Risks for Investors</h2>
+</li>
+</ol>
+<p dir="ltr">While the short-term outlook for U.S. stocks and the dollar is positive, long-term risks remain, particularly related to inflation, rising national debt, and global trade uncertainties. Trump’s pro-business policies may provide a short-term economic boost, but the long-term implications of his trade wars and fiscal policies are still uncertain.</p>
+<h3 dir="ltr">Trump Deregulation</h3>
+<p dir="ltr">Trump&#8217;s continued push for deregulation across key sectors particularly in energy, finance, and technology is likely to foster opportunities for growth and innovation. By reducing bureaucratic hurdles and allowing businesses greater operational flexibility, deregulation could lower compliance costs, enhance productivity, and stimulate investment. Companies in sectors like oil and gas, financial services, and tech could see significant improvements in profitability, potentially boosting U.S. stock market performance in the near term. This environment may also attract foreign investment, looking for a business-friendly climate in the U.S. However, the long-term sustainability of these benefits depends on whether deregulation leads to unanticipated negative consequences, such as environmental or systemic financial risks.</p>
+<h3 dir="ltr">Debt &amp; Inflation Risks</h3>
+<p dir="ltr">The U.S. national debt remains a growing concern under Trump’s administration. His proposed tax cuts and increased defense spending could add to the fiscal deficit, potentially putting upward pressure on interest rates. Additionally, the combination of fiscal expansion and rising protectionism, including tariffs on imports from China and other trading partners, could drive up costs for U.S. consumers and businesses. As inflation accelerates, this could erode purchasing power and dampen consumer spending, which would have negative repercussions for economic growth. Higher inflation could also lead to tightening monetary policies by the Federal Reserve, which might slow the momentum of the stock market and increase borrowing costs.</p>
+<h2 dir="ltr">Conclusion: Optimism in Times of Uncertainty</h2>
+<p dir="ltr">Donald Trump’s 2024 election victory has led to a strong rally in U.S. stocks and a stronger U.S. dollar, driven by expectations of tax cuts, deregulation, and a pro-business agenda that includes a focus on energy independence. Key sectors such as energy, technology, and finance are expected to see growth in the short term, while global markets face risks from potential trade wars, tariffs, and geopolitical tensions.</p>
+<p dir="ltr">Despite the optimism in U.S. markets, concerns over rising inflation, national debt, and long-term economic stability remain. Investors should stay positive but proceed cautiously, balancing short-term market opportunities with the potential for volatility and uncertainty in the broader economy.</p>
+<p dir="ltr"><a href="https://www.atfx.com/en/trader-magazine" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="aligncenter wp-image-43379 size-full" src="https://www.atfx.com/wp-content/uploads/2024/11/trader-magazine-download.jpg" alt="" width="825" height="206" srcset="https://www.atfx.com/wp-content/uploads/2024/11/trader-magazine-download.jpg 825w, https://www.atfx.com/wp-content/uploads/2024/11/trader-magazine-download-300x75.jpg 300w, https://www.atfx.com/wp-content/uploads/2024/11/trader-magazine-download-768x192.jpg 768w" sizes="(max-width: 825px) 100vw, 825px" /></a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>How Fed Rate Hikes Affect the Stock Market &#038; Forex Market? – Trading Strategies for Intermediate Traders</title>
+		<link>https://www.atfx.com/en/analysis/trading-strategies/how-fed-rate-hikes-affect-stock-forex-market</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Fri, 01 Sep 2023 18:00:00 +0000</pubDate>
+				<category><![CDATA[Trading Strategies]]></category>
+		<category><![CDATA[Trading Strategies for Intermediate Traders]]></category>
+		<guid isPermaLink="false">https://lptemplatedev.wpengine.com/uncategorized/how-fed-rate-hikes-affect-stock-forex-market</guid>
+
+					<description><![CDATA[The&#160;Fed raising interest rates&#160;means it will be more attractive to use the&#160;US dollar&#160;instead of other currencies. Domestic funds and funds from some foreign companies will flow into the US markets, which is a crucial aspect of the US investment market. At the same time, higher rates are likely to cause the appreciation of the US [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p style="text-align: justify;line-height: 1.75">The&nbsp;<a href="https://www.atfx.com/en/analysis/market-news/major-central-banks-negotiate-interest-rate-decisions-reducing-debt-purchases" target="_blank" rel="noopener">Fed raising interest rates</a>&nbsp;means it will be more attractive to use the&nbsp;<a href="https://www.atfx.com/en/analysis/trading-strategies/3-factors-that-affect-us-dollar-rate" target="_blank" rel="noopener">US dollar</a>&nbsp;instead of other currencies. Domestic funds and funds from some foreign companies will flow into the US markets, which is a crucial aspect of the US investment market. At the same time, higher rates are likely to cause the appreciation of the US dollar. In addition, the Fed&#8217;s interest rate hikes tend to raise the deposit rates offered by American banks. Many intelligent investors from the US and abroad will choose to deposit their money in American banks. The US stock market will fluctuate, causing stock prices to fall, but from a broad perspective, the Fed&#8217;s rate hikes on the U.S. economy has more pros than cons.&nbsp;</p>
+<p><span id="more-10605"></span></p>
+<p style="text-align: justify;line-height: 1.75"><img decoding="async" src="https://www.atfx.com/hubfs/ATFX-fed-rate-hikes.jpg?width=1200&amp;name=ATFX-fed-rate-hikes.jpg" alt="ATFX-fed-rate-hikes" width="1200" loading="lazy"></p>
+<h2 style="text-align: justify;line-height: 1.75">How Fed Rate Hikes Affect Stock Markets</h2>
+<ol style="text-align: justify">
+<li>For the&nbsp;<a href="https://www.atfx.com/en/analysis/market-news/january-effect-of-us-stock-earnings-season-is-coming" target="_blank" rel="noopener">U.S. stock market</a>, rising interest rates will increase the interest rate paid on bank deposits. Hence, investors will choose to deposit their money in banks, which will drastically reduce the number of funds flowing into the stock market;</li>
+</ol>
+<ol style="text-align: justify" start="2">
+<li>For&nbsp;<a href="https://www.atfx.com/en/analysis/market-news/chinese-concept-stocks-skyrocketed-overnight-at-the-end-of-2021-will-they-reverse-the-decline-in-2022" target="_blank" rel="noopener">China&#8217;s stock market</a>, the inflow of capital into the US stock markets will lower the investment in Chinese stocks, and their stock prices will likely fall, impacting the global stock markets.</li>
+</ol>
+<ol style="text-align: justify" start="3">
+<li>When the Federal Reserve raises interest rates, mainland funds or foreign capital will flow into the US markets. As a result, once the dollar appreciates, the RMB will likely depreciate, and the cost of purchasing raw materials for Chinese companies will increase.</li>
+</ol>
+<h2 style="text-align: justify;line-height: 1.75">How Fed Rate Hikes Affect Forex Markets</h2>
+<p style="text-align: justify;line-height: 1.75">If the Federal Reserve raises interest rates, it makes assets quoted in the US dollar very sought after, as the US dollar appreciates significantly. The value of each country’s currency will likely decline amid the increasing propensity of investors to purchase US dollar assets, which will also significantly impact a country’s capital flow. But most of the time, after the Fed announced a rate hike in the foreign exchange market, the dollar did not move higher.</p>
+<p style="text-align: justify;line-height: 1.75">The main reason for the above is that the foreign exchange market has certain expectations for the US dollar about raising interest rates. The markets keep track of various aspects, such as the&nbsp;<a href="https://www.atfx.com/en/analysis/market-news" target="_blank" rel="noopener">economic situation</a>&nbsp;in the United States and the speeches made by Fed members before the rate hikes. At this time, the foreign exchange market may have already concluded that the US dollar is about to experience higher interest rates. Hence, there would be a lot of information about the direction of the US dollar interest rate hike in the foreign exchange market. When the&nbsp;<a href="https://www.atfx.com/en/analysis/market-news/us-dollar-retreats-from-highs" target="_blank" rel="noopener">US Fed</a>&nbsp;finally raises interest rates, the market may have already priced in the impact of this interest rate hike on the foreign exchange market. Therefore, when the Fed makes the actual announcement, it will not react significantly. On the other hand, if the Federal Reserve does not announce an interest rate hike, the market may have a relatively large reaction, given that it was expecting a rate hike.</p>
+<h3 style="text-align: justify;line-height: 1.75">What impact will the Fed rate hike have on the forex market?</h3>
+<p style="text-align: justify;line-height: 1.75"><img decoding="async" src="https://www.atfx.com/hubfs/ATFX-fed-rate-hikes-forex.jpg?width=1200&amp;name=ATFX-fed-rate-hikes-forex.jpg" alt="ATFX-fed-rate-hikes-forex" width="1200" loading="lazy"></p>
+<ol style="text-align: justify">
+<li>The Fed raises interest rates, which means that the US dollar enters a strong channel, and the currencies and&nbsp;<a href="https://www.atfx.com/en/markets/commodities" target="_blank" rel="noopener">commodities</a>&nbsp;linked to the US dollar will depreciate;</li>
+</ol>
+<ol style="text-align: justify" start="2">
+<li>The higher interest rates create a strong impetus for international capital to flow into the United States;</li>
+</ol>
+<ol style="text-align: justify" start="3">
+<li>Countries supported by the US dollar-denominated capital will face the risk of capital pumping and capital flight;</li>
+</ol>
+<ol style="text-align: justify" start="4">
+<li>It shows that the Fed is optimistic about the economic development of the United States because it needs to adopt tighter monetary policies to suppress the economy’s overall momentum;</li>
+</ol>
+<ol style="text-align: justify" start="5">
+<li>Overall, the US dollar interest rate hike is good for the US dollar, making the&nbsp;<a href="https://www.atfx.com/en/markets/indices-trading" target="_blank" rel="noopener">US dollar index</a>&nbsp;rise.</li>
+</ol>
+<p style="text-align: justify;line-height: 1.75">A Fed rate hike means an increase in the federal funds rate, which is the rate at which commercial banks lend money to each other. The higher interest rates have a substantial impact on the interest rates paid by commercial banks, affecting the interest rates offered by banks.</p>
+<p style="text-align: justify;line-height: 1.75">When the Fed raises interest rates, banks will also increase the interest on user deposits. Therefore, foreign exchange investors prefer to hold US dollars over other currencies. As international funds pour into the United States in search of higher yields, the US dollar will be stronger in the foreign exchange market and appreciate relative to other currencies. Therefore, other currencies will depreciate against the US dollar.</p>
+<p style="text-align: justify;line-height: 1.75">Learn more&nbsp;<a href="https://www.atfx.com/en/analysis/trading-strategies" target="_blank" rel="noopener">trading strategies</a>&nbsp;and start your trading journey now!</p>
+<div class="article-banner article-banner__dark" style="background-image: url('https://www.atfx.com/wp-content/uploads/2023/10/Free-Demo-Trading-Account.webp');background-size: cover;background-position: center;color: #fff;padding: 20px;justify-content: space-between;align-items: center;margin: 20px 0">
+<div class="article-banner-content" style="flex: 1;margin-right: 20px">
+        <span style="font-size: 30px;color: #fff;font-weight: bold">Risk Free Demo Trading Account</span></p>
+<p style="font-size: 22px;color: #fff;margin-top: 10px">Learn, Practice, Trade</p>
+<p>        <a class="article-banner-button" href="https://www.atfx.com/en/trading-accounts/demo-account" id="banner_button_8_1" target="_blank" style="background-color: #f2672B;color: #fff;padding: 10px 20px;text-decoration: none;font-weight: bold;border-radius: 5px;margin-top: 10px" rel="noopener">OPEN DEMO ACCOUNT</a>
+    </p>
+</div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>4 Types of Trading Chart Patterns &#124; Why Is This Important?</title>
+		<link>https://www.atfx.com/en/analysis/trading-strategies/4-trading-chart-patterns-why-important</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Wed, 18 Jan 2023 09:48:00 +0000</pubDate>
+				<category><![CDATA[Trading Strategies]]></category>
+		<category><![CDATA[Trading Strategies for Intermediate Traders]]></category>
+		<guid isPermaLink="false">https://lptemplatedev.wpengine.com/uncategorized/4-trading-chart-patterns-why-important</guid>
+
+					<description><![CDATA[Chart trading patterns are tools used in technical analysis. Some traders will use indicators or oscillators. Others will prefer to focus their analysis on the price. What is clear is that these patterns indicate something concrete: the trend of the chart, the price objectives, etc. Let&#8217;s see what chart patterns exist and what they are [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p style="line-height: 2">Chart trading patterns are tools used in technical analysis.</p>
+<p><span id="more-11294"></span></p>
+<p style="line-height: 2">Some traders will use indicators or oscillators. Others will prefer to focus their analysis on the price.</p>
+<p style="line-height: 2">What is clear is that these patterns indicate something concrete: the trend of the chart, the price objectives, etc.</p>
+<p style="line-height: 2">Let&#8217;s see what chart patterns exist and what they are used for. Are you ready for this adventure?</p>
+<div class="sticky1">
+<table style="width: 36.8796%;border-collapse: collapse;border: 1px solid #99acc2;float: left;margin: 5px 10px 5px 0px;height: 336.854px">
+<tbody>
+<tr style="height: 41.9967px">
+<td style="width: 100%;padding: 2px;height: 42px;border-style: solid;border-width: 1px">
+<div style="line-height: 2"><span style="text-decoration: none;color: #425b76"><span style="font-style: italic"><a href="#Trading-Chart-Patterns" rel="noopener" style="color: #425b76">Trading Chart Patterns</a></span></span></div>
+</td>
+</tr>
+<tr style="height: 41.9967px">
+<td style="width: 100%;padding: 2px;height: 42px;border-style: solid;border-width: 1px">
+<div><span style="text-decoration: none;color: #425b76"><span style="font-style: italic"><a href="#Types-of-Trading-Chart-Patterns" rel="noopener" style="color: #425b76">2 Types of Trading Chart Patterns</a></span></span></div>
+</td>
+</tr>
+<tr style="height: 41.9967px">
+<td style="width: 100%;padding: 2px;height: 42px;border-style: solid;border-width: 1px">
+<div><span style="text-decoration: none;color: #425b76"><span style="font-style: italic">1: <a href="#Patterns-of-change" rel="noopener" style="color: #425b76">Patterns of change</a></span></span></div>
+</td>
+</tr>
+<tr style="height: 41.9967px">
+<td style="width: 100%;padding: 2px;height: 42px;border-style: solid;border-width: 1px">
+<div><span style="text-decoration: none;color: #425b76"><span style="font-style: italic">2: <a href="#Continuation-Patterns" rel="noopener" style="color: #425b76">Continuation Patterns</a></span></span></div>
+</td>
+</tr>
+<tr style="height: 41.9967px">
+<td style="width: 100%;padding: 2px;height: 42px;border-style: solid;border-width: 1px">
+<div><span style="text-decoration: none;color: #425b76"><span style="font-style: italic"><a href="#Other-chart-patterns" rel="noopener" style="color: #425b76">Other chart patterns</a></span></span></div>
+</td>
+</tr>
+<tr style="height: 41.9967px">
+<td style="width: 100%;padding: 2px;height: 42px;border-style: solid;border-width: 1px">
+<div><span style="text-decoration: none;color: #425b76"><span style="font-style: italic">1: <a href="#Candlestick-pattern" rel="noopener" style="color: #425b76">Candlestick pattern</a></span></span></div>
+</td>
+</tr>
+<tr style="height: 41.9967px">
+<td style="width: 100%;padding: 2px;height: 42px;border-style: solid;border-width: 1px">
+<div><span style="text-decoration: none;color: #425b76"><span style="font-style: italic">2: <a href="#Trend-patterns" rel="noopener" style="color: #425b76">Trend patterns</a></span></span></div>
+</td>
+</tr>
+<tr style="height: 41.9967px">
+<td style="width: 100%;padding: 2px;height: 42px;border-style: solid;border-width: 1px">
+<div><span style="text-decoration: none;color: #425b76"><span style="font-style: italic"><a href="#Importance-of-trading-with-patterns" rel="noopener" style="color: #425b76">Importance of trading with patterns</a></span></span></div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><a id="Trading-Chart-Patterns" data-hs-anchor="true"></a></p>
+<h2 style="line-height: 2">Trading Chart Patterns Overview</h2>
+<p style="line-height: 2">When we start operating in the trading world, we learn that certain tools help us detect price movements in advance to anticipate and act accordingly.</p>
+<p style="padding-left: 80px;line-height: 2"><em>What about chart patterns?</em></p>
+<p style="line-height: 2">As the name suggests, these tools are chart setups that tie together historical prices.</p>
+<p style="line-height: 2">We have all been through the classic shoulder-head-shoulder or Japanese candlestick patterns. But patterns by themselves mean nothing. You look for contexts that favour you, not just patterns.</p>
+<p><a id="Types-of-Trading-Chart-Patterns" data-hs-anchor="true"></a></p>
+<h2 style="line-height: 2">Two of the most common trading chart patterns</h2>
+<p style="line-height: 2">Graphic patterns can be of two types.</p>
+<p style="line-height: 2">Yes, you read that right.</p>
+<p style="line-height: 2">There are 2 models: <span style="font-weight: bold">reversal patterns</span> and <span style="font-weight: bold">continuation patterns</span>.</p>
+<p style="line-height: 2">Here we leave you with the difference.</p>
+<ol>
+<li>
+<p>Reversal patterns herald a change in trend on the chart. The reversal pattern will indicate a bearish move if we have a bullish chart. The most common are the head-shoulder patterns, wedges, W patterns, and double tops.</p>
+</li>
+<li>
+<p>Continuation patterns follow the current trend. In other words, in an uptrend, the continuation pattern will indicate the continuation of that trend. They are quite common. Above all, some like the triangles or the flags.</p>
+</li>
+</ol>
+<p><a id="Patterns-of-change" data-hs-anchor="true"></a></p>
+<ol>
+<li>
+<h3>Reversal Chart Patterns</h3>
+<p>The direction of the trend is decisive when looking at a chart.</p>
+<p>Let&#8217;s discuss some patterns of change in more detail:</p>
+<h4>Head-Shoulder &amp; Cup-Handle (HCH) Pattern</h4>
+<h4><span style="font-size: 11px;color: #000000"><img loading="lazy" decoding="async" src="https://lh5.googleusercontent.com/kBdafG5Uog7EP0bOEIMD3LuSgoRxmeUJsU8yhtv5T3RvNerjPH0uumunzW25LWUvixRzzgGgvzblCXlrQ6M9l3VvqWOn9o7HuTpa7Mi8538lQ-h2mZqZNWR-BoDyniuhnoNLxZAxZKOHKYlJBsR0NAo" width="270" height="270" loading="lazy" style="width: 270px;height: auto;max-width: 100%"></span></h4>
+<p>It usually appears at the tail end of an uptrend and indicates that the market could change course. It is made up of three relative maxima.</p>
+<h4>Wedges<span style="font-size: 14px;color: #434343"><img loading="lazy" decoding="async" src="https://lh5.googleusercontent.com/rp59cTOjzAYu6pBFslpjJaKfhNYSnyC5HS-O_BQ9gr4tl_ZZp_Q4jCsdh0sBZqqo4pZhijuDPjOfbOJJKUqOadCeoqo_lhnhVVjfD1OUa5FuBaPmA1tAheQmRbErqI-sZnFHtT9YtM93iqGgGO6PG98" width="279" height="279" loading="lazy" style="margin-left: auto;margin-right: auto;width: 279px;height: auto;max-width: 100%"></span></h4>
+<p>It also signals a trend change in the market. This pattern can appear on any time chart, whether daily, weekly, or monthly.</p>
+<h4>Double top and double bottom (W pattern)<span style="font-size: 11px;color: #000000"><img loading="lazy" decoding="async" src="https://lh3.googleusercontent.com/ewuzeFyA8FOK4t1AB3r1k4E1BE9_HCgHEICqMX9ZIBSuwjnRTyLli03A1fnHMwM1HM2e45r4BQ1G9C11yKRdA-6bfesw3XKh23_wAnDz4upa1CR6vuaIW4qZLs4d4iEix2LX2O2Fx7J_qG_K-BeyK50" width="301" height="301" loading="lazy" style="margin-left: auto;margin-right: auto;width: 301px;height: auto;max-width: 100%"></span></h4>
+<p>They are the same, but in reverse. Both are classic reversal patterns that herald a potential trend reversal (double top: bullish to bearish; double bottom: bearish to bullish).</p>
+</li>
+<li><a id="Continuation-Patterns" data-hs-anchor="true"></a><br />
+<h3>Continuation Patterns</h3>
+<p>Continuation patterns indicate trend consolidation and are typically short in duration.</p>
+</li>
+</ol>
+<p style="line-height: 2">Let&#8217;s see some:</p>
+<ul style="line-height: 2">
+<li>
+<h4>Triangles<span style="font-size: 11px;color: #000000"><img loading="lazy" decoding="async" src="https://lh3.googleusercontent.com/nn5RqtdNHA7mn4TWQAYTh-zpylO3h2iwTswT3A9cv5M-XDsXtQy6XnzVA9xrg3B0aRIsW-ZPqoGRySEquH1lWlfWzYr0z8nhxbPP6E44q7er_oGRfVFzXTCGqSt0RKgYv9hFg5VeOYP8XVNeapeqEkw" width="223" height="223" loading="lazy" style="margin-left: auto;margin-right: auto;width: 223px;height: auto;max-width: 100%"></span></h4>
+</li>
+</ul>
+<p style="line-height: 2">They can reveal great data about the current market situation and the mismatch between sharks and minnows. Triangles usually occur in the middle of the trend and indicate its continuation.</p>
+<ul style="line-height: 2">
+<li>
+<h4>Flags<span style="font-size: 11px;color: #000000"><img loading="lazy" decoding="async" src="https://lh4.googleusercontent.com/EZK9UpuMS_PgoKl4SWURZKG_RMmOMRcwcYcbu4x5_mDDjLYbYgsmw-OtUxbxQgji93vbnGb_Tb_Ksl63wIWJeP6zMDiHknPrERP_Y0Iu7es4DvM9QGuWlPU_fscfgbKjmYNqLL66JDP6nNALfBWSs2Q" width="208" height="208" loading="lazy" style="float: left;width: 208px;height: auto;max-width: 100%;margin: 0px 10px 10px 0px"></span></h4>
+</li>
+</ul>
+<p style="line-height: 2">They appear on charts that have a previous trend, either bullish or bearish. This is a continuation pattern because the trend continues. Typically, these flags form after a strong trend period.</p>
+<p><a id="Other-chart-patterns" data-hs-anchor="true"></a></p>
+<h5 style="font-size: 18px;line-height: 2">Other chart patterns</h5>
+<p style="line-height: 2">We can also form figures or patterns with other elements.</p>
+<p style="line-height: 2">Just understand that several tools also show the trend or continuity of a price on the chart.</p>
+<p style="line-height: 2">Take a good look at the examples. For technical analysis, you should take all this into account.</p>
+<p><a id="Candlestick-pattern" data-hs-anchor="true"></a></p>
+<ol>
+<li>
+<h3>Candlestick Pattern<span style="font-size: 11px;color: #000000"><img loading="lazy" decoding="async" src="https://lh3.googleusercontent.com/vgwyt9XoVnASwg7LX39I6hch-hIMjoNS5g8-0GKqxLSOSZr7g2M0EnUDeDaZ0iSYbaSAZ5Z5Sc5GQ_0m7mHH1j6qISfK-GiC-PFwVgg8D-4JWR5CcSdXi5PfqELDRdyhmVTfHcndQ77Q3lZ_i9i41AU" width="256" height="256" loading="lazy" style="float: right"></span></h3>
+<p>The interpretation of Japanese candlesticks in trading is a matter of common sense.&nbsp;</p>
+<p>There are only 2 candlestick patterns: reversal patterns and continuation patterns.</p>
+<p>What does each of them show?</p>
+<p>Reversal patterns are those in which the price turns around. In short, it consists of observing how the price goes from bullish to bearish, or vice versa, in one or more candles.</p>
+<p>On the other hand, continuation patterns refer to breaks in the current trend. The price usually stays flat for a few periods or goes back slightly.</p>
+<p><a href="/en/analysis/trading-strategies/how-forex-traders-use-candlestick-charts-to-analyze-forex-trends" rel="noopener" target="_blank">Learn how forex traders use candlestick charts to analyse trends</a>.<span style="font-size: 11px;color: #000000"><img loading="lazy" decoding="async" src="https://lh5.googleusercontent.com/aenoyVgwKnG0WYIaUJMi52KCpNZnESa45E9zRW3TGD9qxqe6gjCVFitycOtHqRbvWWW1ZhultqQWTVvEWL3mC8CgwEHNVotYxAkmv3Rtsost7_u1lm5D5QwEqApEHPAeaGLLWue5yZqjgu61Rnur4Sw" width="181" height="204" loading="lazy" style="float: left;margin: 10px 10px 10px 0px;width: 181px;height: auto;max-width: 100%"></span></li>
+<li><a id="Trend-patterns" data-hs-anchor="true"></a><br />
+<h3>Trend Patterns</h3>
+<p>Does the price move according to a trend?</p>
+<p>The answer is yes.</p>
+<p>Trend patterns are a typical technical analysis tool. They will help us identify the market&#8217;s direction and points of support and resistance.</p>
+</li>
+</ol>
+<p style="line-height: 2">Let&#8217;s see the types of trend lines that exist:</p>
+<ul style="line-height: 2">
+<li>Healthy trend line</li>
+<li>Uptrend line</li>
+<li>Downtrend line</li>
+<li>Fatigued trend line</li>
+<li>Parabolic trend line</li>
+</ul>
+<p style="line-height: 2">If you want to know more about each type of trend, we leave you a<span>&nbsp;</span>complete article.</p>
+<p style="line-height: 2">However, remember that the trend shows the advance of a price. This price fluctuates constantly. So a true, authentic trend will always have oscillations.<span style="font-size: 11px;color: #000000"><img loading="lazy" decoding="async" src="https://lh6.googleusercontent.com/W12sLqmCcrLjZ8FTqusWORP67zwLw5YuGbO4O6venPzigJVWqjnkdZIg97_OILvHFXEML7QiRJy8-s40V2RaVRWvTRkg1JaU2w15IKPlaCeXGGRaeHw0pCjRp6Wh2irALVVQu2OWf0t1YTraKyX7Z3U" width="451" height="430" loading="lazy" style="margin-left: auto;margin-right: auto;width: 451px;height: auto;max-width: 100%"></span></p>
+<p><a id="Importance-of-trading-with-patterns" data-hs-anchor="true"></a></p>
+<h2 style="line-height: 2">Importance of Trading Patterns</h2>
+<p style="line-height: 2">As we have already told you throughout the post, patterns are basic when starting to trade. We do not doubt they can help you at a certain moment, but we do not solely rely on them.</p>
+<p style="line-height: 2">In many blogs that circulate on the net, they are defined as the perfect strategy for trading, but it is not. You have to look for context, not think that the chart will make a profit for you.</p>
+<p style="line-height: 2">We would even combine the charts with other technical indicators to confirm what you think the price will do or disprove your hypothesis. The stochastic oscillator, the Force Index, or the MACD, can help you greatly improve your precision when buying and selling.</p>
+<h2 style="line-height: 2">Summary</h2>
+<p style="line-height: 2">Technical analysis is used to study the opportunities in a market and determine the moments to enter, exit, and, in general, manage our positions.</p>
+<p style="line-height: 2">There are countless<span>&nbsp;</span><a href="/en/trading-platforms/metatrader-4/mt4-indicators" rel="noopener" target="_blank">MT4 indicators</a><span>&nbsp;</span>that are free to use and have recognisable patterns, techniques, and trading systems. The important thing is that you learn to recognise common trading chart patterns before investing real money in trading.</p>
+<p style="line-height: 2">Meanwhile, if you wish to test your knowledge of the trading charts before investing your hard-earned money, we suggest you open a<span>&nbsp;</span><a href="/en/trading-accounts/demo-account" rel="noopener" target="_blank">demo account</a>. ATFX offers all the major financial products on a very practical trading platform to practise different strategies while still learning from a guide or the free training materials ATFX provides. So, get your demo trading account for free now!</p>
+<div class="article-banner article-banner__dark" style="background-image: url('https://www.atfx.com/wp-content/uploads/2023/10/Free-Demo-Trading-Account.webp');background-size: cover;background-position: center;color: #fff;padding: 20px;justify-content: space-between;align-items: center;margin: 20px 0">
+<div class="article-banner-content" style="flex: 1;margin-right: 20px">
+        <span style="font-size: 30px;color: #fff;font-weight: bold">Risk Free Demo Trading Account</span></p>
+<p style="font-size: 22px;color: #fff;margin-top: 10px">Learn, Practice, Trade</p>
+<p>        <a class="article-banner-button" href="https://www.atfx.com/en/trading-accounts/demo-account" id="banner_button_8_1" target="_blank" style="background-color: #f2672B;color: #fff;padding: 10px 20px;text-decoration: none;font-weight: bold;border-radius: 5px;margin-top: 10px" rel="noopener">OPEN DEMO ACCOUNT</a>
+    </p>
+</div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Is Silver A Good Investment? 5 Pros &#038; Cons of Silver Investment</title>
+		<link>https://www.atfx.com/en/analysis/trading-strategies/is-silver-a-good-investment-5-pros-cons-of-silver-investment</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Thu, 29 Dec 2022 06:00:00 +0000</pubDate>
+				<category><![CDATA[Trading Strategies]]></category>
+		<category><![CDATA[Trading Strategies for Intermediate Traders]]></category>
+		<guid isPermaLink="false">https://lptemplatedev.wpengine.com/uncategorized/is-silver-a-good-investment-5-pros-cons-of-silver-investment-2</guid>
+
+					<description><![CDATA[Precious metals investors have most likely been spoilt for choice when deciding which metals are best for investing in at any given moment. Many wonder which silver and gold are the right picks for their risk appetite, prevailing economic conditions, or investment timeframe. Silver is often overlooked when making such crucial decisions, yet it has [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p style="line-height: 2;text-align: justify">Precious metals investors have most likely been spoilt for choice when deciding which metals are best for investing in at any given moment. Many wonder which silver and gold are the right picks for their risk appetite, prevailing economic conditions, or investment timeframe. Silver is often overlooked when making such crucial decisions, yet it has historically been the most affordable of the precious metals. It has, however, had value throughout civilization. In 2023, however, is silver a good investment? With the current economic uncertainties, should I invest in silver now?</p>
+<p><span id="more-11212"></span></p>
+<p style="line-height: 2;text-align: justify">From a consumer&#8217;s perspective, silver may look like a valuable possession, yet from an investor&#8217;s point of view, many variables come into play. Silver investment has pros and cons that a newbie investor cannot ignore. These are some considerations at your fingertips before investing in silver.</p>
+<p style="line-height: 2;text-align: justify"><img loading="lazy" decoding="async" style="height: auto;max-width: 100%;width: 940px" src="https://lptemplatedev.wpengine.com/hubfs/Silver%20A%20Good%20Investment.webp" alt="Silver A Good Investment" width="940" height="483" /></p>
+<p>&nbsp;</p>
+<h2 style="line-height: 2;text-align: justify;font-weight: normal">5 Pros of silver investment</h2>
+<h3 style="line-height: 2;text-align: justify;font-weight: normal">All-weather store of value &#8211; It&#8217;s tangible money</h3>
+<p style="line-height: 2;text-align: justify">While cash deposits, stocks, treasury bills, bonds, and other similar financial products are good stores of wealth, they remain promissory notes. You can expect them to have substantial exposure to depreciation because of practices such as printing money. Having silver bullion guarantees a finite and tangible asset. Even in turbulent market conditions, physical silver will never become worthless. Silver will keep its intrinsic and real value.</p>
+<h3 style="line-height: 2;text-align: justify;font-weight: normal">Silver is an effective portfolio diversifier for beginners</h3>
+<p style="line-height: 2;text-align: justify">Silver should be a featured ingredient in any portfolio. Even if silver sometimes trades in a tight range, there is always an expectation that a market-moving event is about to happen. You should consider having silver because of its ability to retain value over the long term, giving your portfolio a cushion against adverse market performance. Whenever a stock market crashes, having most of your savings in cash can reduce your net worth. Silver assets enable you to recoup some value if you have over-invested in riskier financial instruments like stocks and funds.</p>
+<p style="line-height: 2;text-align: justify">It is not surprising that during stock market crashes, silver has historically skyrocketed. Having gold and silver in a portfolio helps investors recover stock market losses and provides a backup source of capital to re-invest in undervalued shares once the economy starts to recover.</p>
+<p style="line-height: 2;text-align: justify"><img loading="lazy" decoding="async" style="height: auto;max-width: 100%;width: 975px" src="https://lptemplatedev.wpengine.com/hubfs/5%20Pros%20and%20Cons%20of%20Silver%20Investment.webp" alt="5 Pros and Cons of Silver Investment" width="975" height="502" /></p>
+<h3 style="line-height: 2;text-align: justify;font-weight: normal">Silver offers higher returns than gold</h3>
+<p style="line-height: 2;text-align: justify">Silver is much more affordable than gold, yet it has higher returns than gold. The silver spot price moves further than the gold price moves, even when they trend in the same direction. You can expect a larger percentage gain whenever silver prices begin to rise. When looking for short-term speculative deals, you can count on silver to outperform gold during a bull run. For example, as both metals rallied between 2008 and 2011, gold only gained 170% while silver gained 450%. Investors can consider having more silver than gold in their portfolios.</p>
+<h3 style="line-height: 2;text-align: justify;font-weight: normal">Silver is a safe-haven investment</h3>
+<p style="line-height: 2;text-align: justify">Silver is a safe-haven metal that will help investors apply hedging mechanisms against inflation and any economic downturn. A recent example is how the silver price rose at the onset of the COVID-19 pandemic in early 2020. Uncertainty drove the silver spot price to jump 45% for the year. With the major central banks and governments altering their fiscal policies to provide more stimulus packages, there was a rush to buy silver.</p>
+<h3 style="line-height: 2;text-align: justify;font-weight: normal">Versatile metal with plenty of uses – Continued demand</h3>
+<p style="line-height: 2;text-align: justify">Silver is a widely used metal in the industrial sector and is an essential financial commodity invested in portfolios. Many industrial appliances use silver because of its high conductivity and rust resistance. Technological innovations for the future include silver in batteries, electronics, energy cells, and medical research equipment. As a result, you can expect silver investment to continue growing even as the global economy expands.</p>
+<p style="line-height: 2;text-align: justify">The economic expansion goes hand in hand with technological expansion. For example, the new battery-electric vehicle (BEV) includes silver in multiple ways. BEV also uses silver in other components, such as vehicle navigation and charge status sensors. Plenty of semiconductors use silver to interact with the electrical components. There is an expected expansion of charging stations (both at home and infrastructural level) that need silver to operate.</p>
+<div class="article-banner article-banner__dark" style="background-image: url('https://www.atfx.com/wp-content/uploads/2023/10/Free-Demo-Trading-Account.webp');background-size: cover;background-position: center;color: #fff;padding: 20px;justify-content: space-between;align-items: center;margin: 20px 0">
+<div class="article-banner-content" style="flex: 1;margin-right: 20px">
+        <span style="font-size: 30px;color: #fff;font-weight: bold">Risk Free Demo Trading Account</span></p>
+<p style="font-size: 22px;color: #fff;margin-top: 10px">Learn, Practice, Trade</p>
+<p>        <a class="article-banner-button" href="https://www.atfx.com/en/trading-accounts/demo-account" id="banner_button_8_1" target="_blank" style="background-color: #f2672B;color: #fff;padding: 10px 20px;text-decoration: none;font-weight: bold;border-radius: 5px;margin-top: 10px" rel="noopener">OPEN DEMO ACCOUNT</a>
+    </p>
+</div>
+</div>
+<h2 style="line-height: 2;text-align: justify;font-weight: normal">4 Cons of silver investment</h2>
+<p style="line-height: 2;text-align: justify">With all its benefits, silver investment is still not a waltz in the park. Some slight disadvantages come with it, and blindly investing may have dire consequences, especially for beginners. Here are some disadvantages to consider before deciding whether or when to invest in silver.</p>
+<h3 style="line-height: 2;text-align: justify;font-weight: normal">Fear drives prices negatively</h3>
+<p style="line-height: 2;text-align: justify">Since speculation has continued to grow in the silver trade, fear is a driving force that cannot be ignored. Fear jolts the prices unpredictably, and in some cases, it is hard to find an explanation for why the price behaves in a certain way. Due to fear, the price can always work for or against an investor. Investors also act irrationally and, therefore, overreact to some news events. They can be sold off when you expect the prices to favour the upside and turn to the downside when the news looks optimistic. Extreme optimism and pessimism also cause a lot of mispricing of spot prices.</p>
+<p style="line-height: 2;text-align: justify">Even with a good trading strategy, some people still cannot master their emotions and end up dumping silver to meet their short-term living expenses. They may also do it with the hopes of buying the silver at a different price, which they cannot accurately estimate due to inflation. When it was clear that COVID-19 would affect the overall market, the silver prices whipsawed for some weeks before finally taking a defined direction against the market. People first sold off their stocks, and silver followed immediately after when factories had to cut down on production, reducing the demand for silver. The price falters when there is a surplus of investments based on silver.</p>
+<p style="line-height: 2;text-align: justify"><img loading="lazy" decoding="async" style="height: auto;max-width: 100%;width: 975px" src="https://lptemplatedev.wpengine.com/hubfs/Cons%20of%20Silver%20Investment.webp" alt="Cons of Silver Investment" width="975" height="502" /></p>
+<h3 style="line-height: 2;text-align: justify;font-weight: normal">Physical silver has no dividends</h3>
+<p style="line-height: 2;text-align: justify">Holding silver bullion is an investment that relies on appreciation to make money. It erodes the appeal of investing in a silver coin or silver bar. In many cases, such investors must venture into other businesses or buy other financial assets to generate cash flow that will sustain them after retirement. There are plenty of options to get cash inflows in the future, but purely relying on selling off the silver to generate survival income is a bad idea. It is easy to run out of the stash of silver you have accumulated all your life. With the volatility experienced in silver prices, sometimes people sell it cheaper than they bought it if they want immediate cash.</p>
+<h3 style="line-height: 2;text-align: justify;font-weight: normal">No spot-on value per ounce</h3>
+<p style="line-height: 2;text-align: justify">Even if it is possible to go online and get the spot price of silver any time, ultimately, you can only sell your silver bar at the price someone is willing to pay at the prevailing moment. The willing buyer–willing seller rule applies even while trading in a sophisticated market like precious metals. Besides supply and demand, there is also a combination of emotion and leverage to worry about. While it is easy to value a business based on revenue projections, outstanding loans, and such parameters, the silver price is influenced by external forces.</p>
+<h3 style="line-height: 2;text-align: justify;font-weight: normal">Silver ETFs carry counterparty risks</h3>
+<p style="line-height: 2;text-align: justify">The idea of counterparty risk simply means that an investor depends on another party to ensure that their investment is well-managed. This is why investing in two different Silver ETFs can still yield different results. The situation is the same as having a bank account, which means you rely on the bank to disburse your withdrawals whenever needed. ETFs are highly liquid, but some clauses and conditions sometimes favour the fund in case of a catastrophic event.</p>
+<p>&nbsp;</p>
+<p style="line-height: 2;text-align: justify;font-weight: normal"><strong>Table of summary</strong></p>
+<table style="border-collapse: collapse;border: 1px solid #99acc2;width: 100.046%;height: 431.667px">
+<tbody>
+<tr style="height: 50.3333px">
+<td style="border: 1pt solid #000000;width: 4.4453%;height: 50px;vertical-align: top" rowspan="2"></td>
+<td style="border: 1pt solid #000000;width: 95.5997%;height: 50px;vertical-align: top" colspan="2">
+<p style="text-align: center;font-size: 18px"><strong>Silver Investment</strong></p>
+</td>
+</tr>
+<tr style="height: 48.3333px">
+<td style="border: 1pt solid #000000;width: 47.4735%;height: 48px;vertical-align: top">
+<p style="text-align: center"><strong>5 Advantages </strong></p>
+</td>
+<td style="border: 1pt solid #000000;width: 48.1262%;height: 48px;vertical-align: top">
+<p style="text-align: center"><strong>4 Disadvantages </strong></p>
+</td>
+</tr>
+<tr style="height: 78.3333px">
+<td style="border: 1pt solid #000000;width: 4.4453%;height: 78px;vertical-align: top"> 1.</td>
+<td style="border: 1pt solid #000000;width: 47.4735%;height: 78px;vertical-align: top"> All-weather store of value &#8211; It&#8217;s tangible money</td>
+<td style="border: 1pt solid #000000;width: 48.1262%;height: 78px;vertical-align: top"> Fear drives prices negatively</td>
+</tr>
+<tr style="height: 78.3333px">
+<td style="border: 1pt solid #000000;width: 4.4453%;height: 78px;vertical-align: top"> 2.</td>
+<td style="border: 1pt solid #000000;width: 47.4735%;height: 78px;vertical-align: top"> Silver is an effective portfolio diversifier for beginners</td>
+<td style="border: 1pt solid #000000;width: 48.1262%;height: 78px;vertical-align: top"> Physical silver has no dividends</td>
+</tr>
+<tr style="height: 48.3333px">
+<td style="border: 1pt solid #000000;width: 4.4453%;height: 48px;vertical-align: top"> 3.</td>
+<td style="border: 1pt solid #000000;width: 47.4735%;height: 48px;vertical-align: top"> Silver offers higher returns than gold</td>
+<td style="border: 1pt solid #000000;width: 48.1262%;height: 48px;vertical-align: top"> No spot-on value per ounce</td>
+</tr>
+<tr style="height: 48.3333px">
+<td style="border: 1pt solid #000000;width: 4.4453%;height: 48px;vertical-align: top"> 4.</td>
+<td style="border: 1pt solid #000000;width: 47.4735%;height: 48px;vertical-align: top"> Silver is a safe-haven investment</td>
+<td style="border: 1pt solid #000000;width: 48.1262%;height: 48px;vertical-align: top"> Silver ETFs carry counterparty risks</td>
+</tr>
+<tr style="height: 78.3333px">
+<td style="border: 1pt solid #000000;width: 4.4453%;height: 78px;vertical-align: top"> 5.</td>
+<td style="border: 1pt solid #000000;width: 47.4735%;height: 78px;vertical-align: top"> Versatile metal with plenty of uses – Continued demand</td>
+<td style="border: 1pt solid #000000;width: 48.1262%;height: 78px;vertical-align: top"></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h2 style="line-height: 2;text-align: justify;font-weight: normal">4 Ways to invest in silver</h2>
+<p style="line-height: 2;text-align: justify">Armed with enough information about the advantages and disadvantages of investing in silver, you now need to consider how to invest in silver. Here are some ready tips if you are looking for the best way to invest in silver.</p>
+<h3 style="line-height: 2;text-align: justify;font-weight: normal">Buy silver bullion</h3>
+<p style="line-height: 2;text-align: justify">A value investor can buy physical silver minted ships as coins, silver bars, or assorted junk silver. Junk silver is considered the purest form in that you can get silver. It is usually an assortment of pure-grade silver held in a small chest at home or in large quantities in a vault. It is, however, difficult to store silver as there need to be separate plans made for security equipment, especially knowing that precious metals get stolen. You can invest in physical silver to avoid other parties making contracts or guarantees regarding its handling. Silver bullion does not carry default risk, as with bonds or company stock.</p>
+<p style="line-height: 2;text-align: justify">Silver in physical form needs someone to buy or sell it in an online store or a local coin shop. You are more likely to get a better price if you buy it online because brick-and-mortar stores usually factor in other things like storage, rent, and security costs.</p>
+<h3 style="line-height: 2;text-align: justify;font-weight: normal">Trade silver ETFs and futures</h3>
+<p style="line-height: 2;text-align: justify">An Exchange-traded fund (ETF) craze has made it easier for many investors to own precious metals without worrying about their storage. You can monitor prices and learn to trade through a demo account before you <a href="/en/etf" target="_blank" rel="noopener">invest in silver ETFs</a>. Some well-known silver ETFs and futures contracts include the Invesco DB silver Fund and the SPDR. This is a good way to invest in silver because people can enjoy the benefits of owning silver, intra-day trading, and real-time quotes to monitor the price of the silver in your portfolio.</p>
+<p style="line-height: 2;text-align: justify">Traders who like a lot of volatility like silver ETFs over gold because silver prices are more volatile and more reactive to slight movements in manufacturing data. The greatest advantage, however, is selling or buying immediately when the need arises. Physical bullion may take ages to sell at the right price and quantity. Click here to <a href="/en/markets/commodities" target="_blank" rel="noopener">trade commodities</a>.</p>
+<p style="line-height: 2;text-align: justify"><img loading="lazy" decoding="async" style="height: auto;max-width: 100%;width: 975px" src="https://lptemplatedev.wpengine.com/hubfs/ETF.webp" alt="ETF" width="975" height="502" /></p>
+<h3 style="line-height: 2;text-align: justify;font-weight: normal">Owning silver company stocks</h3>
+<p style="line-height: 2;text-align: justify">If you prefer having silver assets without worrying about supply issues, you can buy silver mining stocks. There are times when silver mining stocks may outperform the gains made on the silver itself.</p>
+<p style="line-height: 2;text-align: justify">Furthermore, the mining company&#8217;s management may make asset investments that allow it to increase its silver production, making its share price rise quickly. Always ensure that you invest in a mining company that has silver as the majority of its focus. First Majestic Silver (NYSE: AG) has silver as its key venture, with 65% of the 2020 revenue coming from mining silver. Click here to start <a href="/en/markets/shares-trading" target="_blank" rel="noopener">stock trading</a>.</p>
+<h3 style="line-height: 2;text-align: justify;font-weight: normal">Trade silver as forex currency pairs</h3>
+<p style="line-height: 2;text-align: justify">If there is a trick that can let you invest in silver with the fewest steps possible, it has to be trading it alongside a currency pair. Include silver pairs in your <a href="/en/markets/forex-trading" target="_blank" rel="noopener">forex trading</a> if you already know how it works. People can invest any amount they want because it does not require traders to purchase some minimum quantity to own silver. The currency is simply swapped according to the value of spot silver at the prevailing moment. This method is a favourite for speculative traders because they can also make profits whether or not the spot silver price is on a downward trend. Short positions become profitable when you bet that the prices will stumble, and it happens.</p>
+<p>&nbsp;</p>
+<h2 style="line-height: 2;text-align: justify;font-weight: normal">So, Should you invest in silver?</h2>
+<p style="line-height: 2;text-align: justify">The overall consensus among Wall Street experts, traders, and market connoisseurs is that silver has plenty of upside potential in the long term. There is little downside risk, but silver is backed by increased industrial use, unlike many other asset types. It is the preferred metal for dummies and newcomers. You can bet that silver will maintain its strategic importance in hedging different market events that may suggest economic depression.</p>
+<p style="line-height: 2;text-align: justify">Silver investment is highly rated because it gives people a safe asset even in a volatile precious metals market. Even if silver&#8217;s performance in the next few months is still uncertain, you can count on it to remain a strategic hold for portfolio managers and speculative traders. Therefore, it is highly recommended that you include silver in the portfolio to safeguard your net worth against future economic volatility. Learn <a href="/en/analysis/trading-strategies/how-to-become-a-trader" target="_blank" rel="noopener">how to become a trader</a>.</p>
+<p style="line-height: 2;text-align: justify"><img loading="lazy" decoding="async" style="height: auto;max-width: 100%;width: 1200px" src="https://lptemplatedev.wpengine.com/hubfs/Trade%20Silver%20ATFX.webp" alt="Trade Silver with ATFX" width="1200" height="619" /></p>
+<p>&nbsp;</p>
+<h2 style="line-height: 2;text-align: justify;font-weight: normal">How do you start trading in silver?</h2>
+<p style="line-height: 2;text-align: justify">You can begin your silver investment career within minutes with a few easy steps. Open an account and start <a href="/en/markets/commodities/oil-trading" target="_blank" rel="noopener">trading crude oil</a>, silver, gold, stock, forex, and other financial instruments on your computer or phone. ATFX offers all the major currency pairs, cryptos, and other pairs on a very practical trading platform. If you still want to learn the markets a bit more before investing real money, you can <a href="/en/trading-accounts/demo-account" target="_blank" rel="noopener">open a demo account</a> and practice different strategies while still learning from a guide or the free training materials ATFX provides. Sign up right away!</p>
+<div class="article-banner article-banner__dark" style="background-image: url('https://www.atfx.com/wp-content/uploads/2022/12/Live-Trading-Account.webp');background-size: cover;background-position: center;color: #fff;padding: 20px;justify-content: space-between;align-items: center;margin: 20px 0">
+<div class="article-banner-content" style="flex: 1;margin-right: 20px">
+        <span style="font-size: 30px;color: #fff;font-weight: bold">Start Trading wtih Live Account</span></p>
+<p style="font-size: 22px;color: #fff;margin-top: 10px">Elevate Your Trading Skills</p>
+<p>        <a class="article-banner-button" href="https://www.atfx.com/en/trading-accounts/live-account" id="banner_button_8_1" target="_blank" style="background-color: #f2672B;color: #fff;padding: 10px 20px;text-decoration: none;font-weight: bold;border-radius: 5px;margin-top: 10px" rel="noopener">TRADE NOW</a>
+    </p>
+</div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Is Gold A Good Investment? 5 Pros &#038; Cons of Gold Investment</title>
+		<link>https://www.atfx.com/en/analysis/trading-strategies/is-gold-good-investment</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Mon, 05 Dec 2022 06:43:00 +0000</pubDate>
+				<category><![CDATA[Trading Strategies]]></category>
+		<category><![CDATA[Trading Strategies for Intermediate Traders]]></category>
+		<guid isPermaLink="false">https://lptemplatedev.wpengine.com/uncategorized/is-gold-good-investment-2</guid>
+
+					<description><![CDATA[Is buying gold a good investment? Traders, savers, and investors favor gold for many reasons, including the impressive attributes that make it a counterpoint to traditional securities like bonds and equities. The world over considers gold a good store of value even though it does not give any cash flows. Many argue that gold can [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p style="line-height: 2;">Is buying gold a good investment? Traders, savers, and investors favor gold for many reasons, including the impressive attributes that make it a counterpoint to traditional securities like bonds and equities. The world over considers gold a good store of value even though it does not give any cash flows. Many argue that gold can be an excellent vehicle to hedge against inflation but is it the only reason to invest in gold? However, is gold a good investment? Even if so, should you invest in gold now?</p>
+<p><span id="more-11168"></span></p>
+<p style="line-height: 2;">Investing in gold needs beginners to understand that there are some pros and cons in investing in gold. Many things come into play, including the strategy, timing, and pricing at any given point. Here are 5 pros and cons you should consider before you begin your venture into gold investment.</p>
+<p style="line-height: 2;"><span style="font-size: 11px; color: #000000; background-color: #d9ead3;"><img loading="lazy" decoding="async" style="margin-left: auto; margin-right: auto; height: auto; max-width: 100%; width: 948px;" src="https://www.atfx.com/hubfs/is%20gold%20a%20good%20investment.webp" alt="is gold a good investment" width="948" height="489" /></span></p>
+<h2 style="line-height: 2;">5 Pros of gold investment</h2>
+<h3 style="line-height: 2;">1. Gold has a long history of increasing in value</h3>
+<p style="line-height: 2;">Since it was discovered, gold has been a commodity people coveted and used to store wealth. Even though most central banks have recently stopped using gold-backed currencies, it is still immensely valuable, especially during economic downturns. Unlike coins and banknotes, gold has remained stable through the centuries. Investors can bet on gold to pass wealth down to future generations.</p>
+<h3 style="line-height: 2;">2. Reliable hedge during times of crisis</h3>
+<p style="line-height: 2;">Historically, gold has performed well as a reliable hedge against inflation and other crises. It has had price gains even when living costs continue to rise in 2022. When major world economies suffer high inflation, their currencies drop in value, and their treasury yields become unfavorable. This phenomenon drives investors to focus on gold because cash and treasury yields become less effective as safe-haven resources. Over the last 50 years, <a href="/en/live-chart/gold-price" target="_blank" rel="noopener">gold prices</a> have continually oared, and the stock indices plunged whenever there was a period of high inflation.</p>
+<p style="line-height: 2;"><span style="font-size: 11px; color: #000000;"><img loading="lazy" decoding="async" style="height: auto; max-width: 100%; width: 357px; margin-left: auto; margin-right: auto;" src="https://www.atfx.com/hubfs/ATFX-gold-economic-crisis%20(1).webp" alt="gold as an inflation hedge" width="357" height="184" /></span></p>
+<h3 style="line-height: 2;">3. Gold helps you diversify your portfolio</h3>
+<p style="line-height: 2;">It is wise to have more than just common stock in a portfolio. If examined over more than a decade, gold helps to reduce losses during an economic downturn. It has excellent power to improve performance on risk-adjusted returns in a portfolio. Gold futures or ETFs give you a liquid asset while maintaining a low correlation with other asset classes during an economic boom and depression. With the financial investment recommendation that good portfolios should have less correlated assets, gold is an excellent pick because it is negatively correlated to stocks.</p>
+<h3 style="line-height: 2;">4. Gold demand keeps on increasing</h3>
+<p style="line-height: 2;">As emerging economies continue to thrive, the new wealth has increased the consumer demand for gold. There are also countries where gold items are part of the culture. For example, India is the largest consumer of gold globally, and that is because owning gold jewelry is very widespread. India&#8217;s total household ownership of gold surpasses the top 5 central banks. Giving gold jewelry and household decoration is a common culture in Asia. China and India are the top bullion consumers in the world. The rapidly growing middle class is already a good investment clue for dummies planning to trade gold and are unsure about demand.</p>
+<p style="line-height: 2;">Demand is expected to grow because the cash-liquid middle class has a higher appetite for gold jewelry, rings, and related accessories. In the last decade, institutional investors and fund managers have flocked to gold and precious metals as investment channels due to the popularity of online trading. They are a liquid investment channel to allocate funds and benefit from small price changes.</p>
+<h3 style="line-height: 2;">5. Global government debt is at its highest</h3>
+<p style="line-height: 2;">The total global government debt has continued to rise every year. The total debt at the end of 2020 was $284 trillion, which is expected to rise during 2023 as many economies have no choice but to continue borrowing. The large deficits experienced by major global economies may also imply that another financial crisis could be brewing. Should I invest in gold now? Yes! Shrewd investors should take this as a sign to have gold as a safe-haven asset that will protect their investment portfolio.</p>
+<h2 style="line-height: 2;">5 Cons of gold investment</h2>
+<p style="line-height: 2;">Like all investments, it is never smooth sailing. Investment in gold also has several significant risks and disadvantages. These common issues have regularly discouraged people from having substantial gold in their portfolios.</p>
+<h3 style="line-height: 2;">1. Declines after a remarkable rise</h3>
+<p style="line-height: 2;">Gold prices usually soar when the global economy goes into a mild or severe recession. That was visible in 2011 when prices hit an average of $1,888 an ounce. However, the prices had declined by mid-2020. This shows that the price performed well but was still a drop from where they were a decade earlier.</p>
+<p style="line-height: 2;">A more apparent trend was in the late 70s when gold surged due to economic instability. After making new highs, the spot price spent the next two decades on a gradual decline. Depending on the strategy you may adopt, a buy-and-hold investor would be discouraged from waiting a decade to have prices that are similar or less to what they bought it at. During the 2020 pandemic, investors were unsure how the economy would perform, and many, in return, could not quite tell the way forward regarding the gold trade. In the case of the 70s, many investors also needed to decide whether to buy the gold immediately or wait for the price to decline a bit before buying. The sharp declines after sustained rallying discourage many investors who do not have a high-risk appetite.</p>
+<p style="line-height: 2;"><span style="font-size: 11px; color: #000000;"><img loading="lazy" decoding="async" style="height: auto; max-width: 100%; width: 860px; margin-left: auto; margin-right: auto;" src="https://www.atfx.com/hubfs/ATFX-gold-price-decline%20(2).webp" alt="gold price drop" width="860" height="444" /></span></p>
+<h3 style="line-height: 2;">2. Gold coins are not a perfect hedge against inflation</h3>
+<p style="line-height: 2;">Since gold coins or gold bars do not produce dividends or any interest returns, gold is not a &#8216;perfect hedge&#8217; for long-term inflation. Investing in gold is also a risk, and people prefer some compensation for that risk. It is okay to have a strategic allocation for gold, but over the long term, many people believe that gold does not generate that level of returns that may justify simply hoarding it in a vault. On the other hand, even though it gives some cover during high inflation, other securities, such as TIPS and natural resource stocks, can provide better hedging effects.</p>
+<h3 style="line-height: 2;">3. Gold does not produce or replicate</h3>
+<p style="line-height: 2;">If examined from a non-price perspective, an ounce of gold owned will remain an ounce of gold as time goes by. In contrast, investors may prefer company stocks because those underlying companies produce other goods. For example, a tech stock will likely continue producing some consumer electronics that will generate new income streams for its investors. If conditions are right, a company will likely have a growing asset portfolio that can give it more earning potential. On the upside, a profitable company will likely give investors more dividends. It may still re-invest profits in other ventures with the potential for more revenue streams. It is normal to find investors recovering their investments and earning more from dividends than their initial investment.</p>
+<h3 style="line-height: 2;">4. Gold has a limited variety of uses.</h3>
+<p style="line-height: 2;">The most common source of gold demand is jewelry. However, as a proportion of the total demand for gold, jewelry has slowly lost its share, while most of the new demand is for financial speculation. It is difficult to tell whether new uses will come up in the future, apart from ornamental, industrial, and medical use. With physical gold having no income streams, people mostly count on short-term demand changes to identify potential trading opportunities.</p>
+<div class="article-banner article-banner__dark" style="background-image: url('https://www.atfx.com/wp-content/uploads/2023/10/Free-Demo-Trading-Account.webp'); background-size: cover; background-position: center; color: #fff; padding: 20px; justify-content: space-between; align-items: center; margin: 20px 0;">
+<div class="article-banner-content" style="flex: 1; margin-right: 20px;">
+<p><span style="font-size: 30px; color: #fff; font-weight: bold;">Risk Free Demo Trading Account</span></p>
+<p style="font-size: 22px; color: #fff; margin-top: 10px;">Learn, Practice, Trade</p>
+<p><a id="banner_button_8_1" class="article-banner-button" style="background-color: #f2672b; color: #fff; padding: 10px 20px; text-decoration: none; font-weight: bold; border-radius: 5px; margin-top: 10px;" href="https://www.atfx.com/en/trading-accounts/demo-account" target="_blank" rel="noopener">OPEN DEMO ACCOUNT</a></p>
+</div>
+</div>
+<h3 style="line-height: 2;">5. Lack of standard valuation criteria for gold</h3>
+<p style="line-height: 2;">Valuing a stock is a straightforward process in contrast to gold. Finance experts can value any asset based on future cash flows. There are accurate financial ratios and other figures search as price-to-earnings and price-to-book value that can help investors know whether they are getting a good deal before <a href="/en/markets/shares-trading" target="_blank" rel="noopener">trading company stock</a>. With gold, things get a little murky. Gold is purely based on people&#8217;s impressions of how valuable it is. It gets even trickier when you cannot tell the growth of earnings because you cannot make an earnings forecast for gold.</p>
+<p style="line-height: 2;">The fundamentals of company stock can also give investors a clue as to how much upside or downside potential there is when rating a stock. Gold, on the other hand, has its value changing due to supply and demand. At worst, the supply and demand for gold are often driven by panic instead of direct fundamentals affecting it. Valuation challenges, therefore, make investing in gold bullion or gold coins a problematic issue for beginners.</p>
+<p style="line-height: 2;">Table of summary</p>
+<table style="border-collapse: collapse; margin-left: auto; margin-right: auto; border: 1px solid #99acc2; width: 72.2344%; height: 613.749px;">
+<caption><span style="font-size: 20px; color: #425b76;">Gold Investment</span></caption>
+<tbody>
+<tr style="height: 37.9948px;">
+<td style="width: 50.084%; height: 38px; text-align: center;"><strong><span style="font-size: 16px;">Advantages</span></strong></td>
+<td style="width: 50.084%; height: 38px; text-align: center;"><strong><span style="font-size: 16px;">Disadvantages</span></strong></td>
+</tr>
+<tr style="height: 101.979px;">
+<td style="width: 50.084%; height: 102px; padding: 4px;">Gold has a long history of increasing in value</td>
+<td style="width: 50.084%; height: 102px; padding: 4px;">Declines after a remarkable rise</td>
+</tr>
+<tr style="height: 138.984px;">
+<td style="width: 50.084%; height: 139px; padding: 4px;">Reliable hedge during times of crisis</td>
+<td style="width: 50.084%; height: 139px; padding: 4px;">Gold coins are not a perfect hedge against inflation</td>
+</tr>
+<tr style="height: 93.9974px;">
+<td style="width: 50.084%; height: 94px; padding: 4px;">Gold helps you diversify your portfolio</td>
+<td style="width: 50.084%; height: 94px; padding: 4px;">Gold does not produce or replicate</td>
+</tr>
+<tr style="height: 138.75px;">
+<td style="width: 50.084%; height: 139px; padding: 4px;">Global government debt is at its highest</td>
+<td style="width: 50.084%; height: 139px; padding: 4px;">Lack of standard valuation criteria for gold</td>
+</tr>
+<tr style="height: 102.005px;">
+<td style="width: 50.084%; height: 102px; padding: 4px;">Gold demand keeps on increasing</td>
+<td style="width: 50.084%; height: 102px; padding: 4px;">Gold has a limited variety of uses</td>
+</tr>
+</tbody>
+</table>
+<h2 style="line-height: 2;">4 Ways to invest in gold</h2>
+<p style="line-height: 2;">Now that you have a general outlook on the pros and cons of gold, the next point to ponder is how to invest in gold. Therefore, understanding the usual channels you can own or trade in gold is vital.</p>
+<h3 style="line-height: 2;">1. Bullion</h3>
+<p style="line-height: 2;">The oldest way to invest in physical gold is through bullion. People purchase gold bullion through online dealers like JM Bullion or APMEX. People also buy from face-to-face referrals, local dealers, collectors, and pawn shops. Due to the rudimentary way of owning gold in this way, investors need to find a willing seller and still ensure that the quantity required is available and that they can get a fair deal. You can always cross-check with spot prices to keep you from getting ripped off. It also requires a safe way to transport and store it, considering it is in the form of gold bars, gold coins, or jewelry.</p>
+<h3 style="line-height: 2;">2. Consider ETFs that own gold</h3>
+<p style="line-height: 2;">To skip the complexities of owning physical gold and the cost of storing it safely, you can consider buying into ETFs that deal in gold. <a href="/en/etf" target="_blank" rel="noopener">Buy gold ETFs</a> from top indices across the globe. Some popular gold ETFs include SPDR Gold Trust and iShares Gold Trust. The ETFs that deal in gold provides you with more liquidity and convenience because investors are only issued shares of actual gold held by the trust. They are a good way to replicate the performance of gold on the market while only charging investors a small expense ratio.</p>
+<p style="line-height: 2;"><span style="font-size: 11px; color: #000000;"><img loading="lazy" decoding="async" style="height: auto; max-width: 100%; width: 624px;" src="https://www.atfx.com/hubfs/ATFX-gold-ETF%20(1).webp" alt="what is gold etf" width="624" height="322" /></span></p>
+<h3 style="line-height: 2;">3. Gold futures</h3>
+<p style="line-height: 2;">Gold futures are a convenient and quick way to speculate on gold prices. Investors can simply speculate whether the prices will rise or fall. COMEX Gold Futures (GC) is the top-recognized benchmark for the gold futures contract. People can get tips, analyses, and track daily changes when published online. Regular traders even make orders in the comfort of their homes. Click here to <a href="/en/markets/commodities" target="_blank" rel="noopener">trade commodities</a>.</p>
+<h3 style="line-height: 2;">4. Trade gold as a currency</h3>
+<p style="line-height: 2;">XAUUSD is among the pairs that forex brokers offer today. Include gold pairs in your <a href="/en/markets/forex-trading" target="_blank" rel="noopener">forex trading</a> if you already know how it works. As a free tip, trading gold as a currency pair helps you kill two birds with one stone, as you can apply the same strategies as you would with currencies and stocks. Live charts also help you monitor price changes in real-time. A beginner can open a demo account and test different strategies to make money with gold price movement using a guide.</p>
+<h2 style="line-height: 2;">So, Should you buy gold?</h2>
+<p style="line-height: 2;">The advantages of investing in gold far outweigh the disadvantages involved. The selected investment vehicle depends on the preferred time frame (short-term or long-term) and preferred reasons to buy the gold. Owners who want a fall-back plan during a war or political crisis would prefer physical gold because it is not tied to the country’s financial system. If you prefer making short-term speculative trades, gold ETFs and gold futures will give you liquid solutions that take advantage of price volatility.</p>
+<blockquote>
+<p style="font-size: 20px; text-align: left; padding-left: 120px; line-height: 1;"><span style="font-style: normal; font-weight: bold;">Learn</span> <a style="text-decoration: none; font-weight: bold; font-style: italic;" href="/en/analysis/trading-strategies/how-to-become-a-trader" target="_blank" rel="noopener">How To Become a Trader</a></p>
+</blockquote>
+<p style="line-height: 2;"><span style="font-size: 11px; color: #000000;"><img loading="lazy" decoding="async" style="height: auto; max-width: 100%; width: 857px; margin-left: auto; margin-right: auto;" src="https://www.atfx.com/hubfs/ATFX-gold-good-investment%20(1).webp" alt="should i buy gold" width="857" height="442" /></span></p>
+<h2 style="line-height: 2;">How to start investing in gold?</h2>
+<p style="line-height: 2;">You can open an account with ATFX and start <a href="/en/markets/commodities/gold-trading" target="_blank" rel="noopener">trading gold</a> and silver today. Your journey to a new investment opportunity can begin with just a few clicks. With ATFX, you can enjoy low spreads, quick order execution, and 24-5 Live support for all your trading needs. If you are still a newbie to the trading scene, you can simply register a <a href="/en/trading-accounts/demo-account" target="_blank" rel="noopener">demo account</a> with ATFX and practice without depositing real money. Test all your strategies and familiarize yourself with the market with valuable training guides available for free. A rewarding future is waiting for you once you want to upgrade to a live account.</p>
+<div class="article-banner article-banner__dark" style="background-image: url('https://www.atfx.com/wp-content/uploads/2022/12/Live-Trading-Account.webp'); background-size: cover; background-position: center; color: #fff; padding: 20px; justify-content: space-between; align-items: center; margin: 20px 0;">
+<div class="article-banner-content" style="flex: 1; margin-right: 20px;">
+<p><span style="font-size: 30px; color: #fff; font-weight: bold;">Start Trading wtih Live Account</span></p>
+<p style="font-size: 22px; color: #fff; margin-top: 10px;">Elevate Your Trading Skills</p>
+<p><a id="banner_button_8_1" class="article-banner-button" style="background-color: #f2672b; color: #fff; padding: 10px 20px; text-decoration: none; font-weight: bold; border-radius: 5px; margin-top: 10px;" href="https://www.atfx.com/en/trading-accounts/live-account" target="_blank" rel="noopener">TRADE NOW</a></p>
+</div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Why Is the Dow Jones Important in the World of Stocks?</title>
+		<link>https://www.atfx.com/en/analysis/trading-strategies/why-dow-jones-important-in-world-of-stocks</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Wed, 16 Feb 2022 02:00:00 +0000</pubDate>
+				<category><![CDATA[Trading Strategies]]></category>
+		<category><![CDATA[Trading Strategies for Intermediate Traders]]></category>
+		<guid isPermaLink="false">https://lptemplatedev.wpengine.com/uncategorized/why-dow-jones-important-in-world-of-stocks</guid>
+
+					<description><![CDATA[Many investors have heard the term Dow Jones Index when searching for US stocks. However, in 1884, Charles Henry Dow, the founder of the Dow Jones Company, created the Dow Jones Index for the first time. Therefore, the Dow Jones Index is the oldest stock index globally. The Dow Jones Index has a total of [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p style="text-align: justify;line-height: 1.75">Many investors have heard the term <a href="/en/live-chart/dow-jones" target="_blank" rel="noopener">Dow Jones Index</a> when searching for US stocks. However, in 1884, Charles Henry Dow, the founder of the Dow Jones Company, created the Dow Jones Index for the first time. Therefore, the Dow Jones Index is the oldest <a href="/en/analysis/trading-strategies/what-you-should-know-about-the-three-major-us-stock-market-indexes" target="_blank" rel="noopener">stock index</a> globally.</p>
+<p><span id="more-10633"></span></p>
+<p style="text-align: justify;line-height: 1.75">The Dow Jones Index has a total of four groups of indices. These four groups of indexes are compiled according to different rules. The Dow Jones Index in the United States usually refers to the more representative Dow Jones Industrial Average. The index comprises 30 of the leading US stocks.</p>
+<p><img decoding="async" style="width: 1200px;margin-left: auto;margin-right: auto" src="https://www.atfx.com/hubfs/ATFX-dow-jones-trading.jpg?width=1199&amp;quality=low" alt="ATFX-dow-jones-trading" width="1200" /></p>
+<ol style="text-align: justify">
+<li style="line-height: 1.75">The leading companies selected by the Dow Jones Index are all critical in the United States and globally. The list of companies included in the Dow Jones Index is not static and is updated periodically where some companies are dropped, and others added. However, the index always has 30 companies that represent the US economy.</li>
+<li style="line-height: 1.75">The relevant information of the Dow Jones index is published by the &#8220;Wall Street Journal&#8221;, which plays a vital role in the global financial industry.</li>
+<li style="line-height: 1.75">The Dow Jones Index has a long history, and it has never stopped since it was first created, so its reference range is quite extensive, and the value and significance of research on the index is also higher than that of other <a href="/en/markets/indices-trading" target="_blank" rel="noopener">indices</a>.</li>
+</ol>
+<p style="text-align: justify;line-height: 1.75">Since 2020, ATFX has optimized and upgraded the <a href="/en/trading-platforms/metatrader-4/mt4-indicators" target="_blank" rel="noopener">MT4 trading platform</a>. Based on the current news information, the news service from the Dow Jones News Agency has been recently added, and multiple languages ​​are provided for investors to choose flexibly.</p>
+<p><img decoding="async" style="width: 825px;margin-left: auto;margin-right: auto" src="https://www.atfx.com/hubfs/ATFX-metatrader4-platform%20(1).jpg?width=1199&amp;quality=low" alt="ATFX-metatrader4-dow-jones" width="825" /></p>
+<p style="text-align: justify;line-height: 1.75">The launch of the news service from the Dow Jones News Agency has made the <a href="/en/analysis" target="_blank" rel="noopener">financial investment information</a> provided on the ATFX trading platform more comprehensive and global. Customers can obtain the latest news from many international organisations learn the most professional analysis skills and <a href="/en/analysis/trading-strategies" target="_blank" rel="noopener">investment strategies</a> to help them make the most accurate judgments and decisions to improve their trading success.</p>
+<p style="text-align: justify;line-height: 1.75">The content provided by the Dow Jones Newswires has high authority and reference value in the global financial markets. ATFX incorporates the Dow Jones Newswires service into the MT4 trading platform, further expanding the channels for customers to obtain information. ATFX clients can get exclusive insights from Dow Jones Newswires and gain more insight into the day-to-day workings of the <a href="/en/analysis/market-news" target="_blank" rel="noopener">financial markets</a>. The addition of Dow Jones Newswires news content provides a rich stream of information and data to ATFX clients to easily navigate and customize the portal in different languages ​​according to their interests.</p>
+<p style="text-align: justify;line-height: 1.75">All ATFX clients get access to  <a href="/en/education-and-tools/trading-central" target="_blank" rel="noopener">Trading Central</a>, professional trading tools, and the financial news and market information provided by the Dow Jones Newswires for free on the MT4 trading platform.</p>
+<p style="text-align: justify;line-height: 1.75">Professional tools in the portal include real-time news, analyst opinion indicators, technical and fundamental analysis, pattern recognition, and big data-driven sentiment tools, which can help clients develop more precise investment strategies.</p>
+<p style="text-align: justify;line-height: 1.75">Start your trading journey with <a href="https://trade.atcfx.com.bz/pages/desktop/register/register-phone?lang=en&amp;hsCtaTracking" target="_blank" rel="noopener">ATFX</a> now!</p>
+<div class="article-banner article-banner__dark" style="background-image: url('https://www.atfx.com/wp-content/uploads/2023/10/Free-Demo-Trading-Account.webp');background-size: cover;background-position: center;color: #fff;padding: 20px;justify-content: space-between;align-items: center;margin: 20px 0">
+<div class="article-banner-content" style="flex: 1;margin-right: 20px">
+        <span style="font-size: 30px;color: #fff;font-weight: bold">Risk Free Demo Trading Account</span></p>
+<p style="font-size: 22px;color: #fff;margin-top: 10px">Learn, Practice, Trade</p>
+<p>        <a class="article-banner-button" href="https://www.atfx.com/en/trading-accounts/demo-account" id="banner_button_8_1" target="_blank" style="background-color: #f2672B;color: #fff;padding: 10px 20px;text-decoration: none;font-weight: bold;border-radius: 5px;margin-top: 10px" rel="noopener">OPEN DEMO ACCOUNT</a>
+    </p>
+</div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>What You Should Know About the 3 Major U.S. Stock Market Indexes</title>
+		<link>https://www.atfx.com/en/analysis/trading-strategies/what-you-should-know-about-the-three-major-us-stock-market-indexes</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Wed, 15 Dec 2021 04:56:00 +0000</pubDate>
+				<category><![CDATA[Trading Strategies]]></category>
+		<category><![CDATA[Trading Strategies for Intermediate Traders]]></category>
+		<guid isPermaLink="false">https://lptemplatedev.wpengine.com/uncategorized/what-you-should-know-about-the-three-major-us-stock-market-indexes-2</guid>
+
+					<description><![CDATA[Most investors know that there are three crucial US stock indices: the Dow Jones Index, the Nasdaq Index, and the S&#38;P 500 Index. However, novice investors may not be very familiar with these three indexes and how to trade them. This article will introduce the significance of these three U.S. stock indexes and how investors [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Most investors know that there are three crucial <a href="/en/markets/indices-trading" target="_blank" rel="noopener">US stock indices</a>: the Dow Jones Index, the Nasdaq Index, and the S&amp;P 500 Index. However, novice investors may not be very familiar with these three indexes and <a href="/en/ways-to-trade" target="_blank" rel="noopener">how to trade</a> them. This article will introduce the significance of these three U.S. stock indexes and how investors should use them when investing.</p>
+<p><span id="more-10505"></span></p>
+<h2 style="font-size: 33px;">1. The Dow Jones Index, an indicator of overall market performance</h2>
+<h2 style="font-size: 33px;"><img decoding="async" style="width: 386px; float: left;" src="https://www.atfx.com/hubfs/ATFX-us-stock-market-index.jpg" alt="ATFX-us-stock-market-index" width="386" /></h2>
+<p>As a stock index with a long history, the <a href="/en/live-chart/dow-jones" target="_blank" rel="noopener">Dow Jones Index</a> was founded over 100 years ago. Its constituent stocks are only 30 and are the largest well-known listed companies in the United States. Of course, everyone knows that there are more than 10,000 <a href="/en/markets/shares-trading" target="_blank" rel="noopener">US public companies (stocks)</a>. Therefore, the Dow Jones Index, which has only 30 constituent stocks, has also been criticised by many experts and scholars. They believe that the 30 constituent stocks are not representative of the entire stock market. However,  investors must understand that these 30 constituent stocks are highly regarded in the United States. In addition, the companies included in the index all have a substantial reference value, which can be used as an indicator of the overall market performance.</p>
+<h2 style="font-size: 33px;">2. The Nasdaq Index, an essential indicator for technology stocks globally</h2>
+<div class="hs-embed-wrapper" style="position: relative; overflow: hidden; width: 100%; height: auto; padding: 0px; max-width: 816px; min-width: 256px; margin: auto;" data-service="s3.tradingview" data-script-embed="true" data-responsive="true">
+<div class="hs-embed-content-wrapper">
+<div style="position: absolute; overflow: hidden; max-width: 100%; padding-bottom: 56.25%; margin: 0px;">
+<div id="tradingview_df5cd"></div>
+<div style="position: absolute; bottom: 1px; left: 10px; width: 50px; height: 66px;"><img loading="lazy" decoding="async" src="https://www.atfx.com/hubfs/ATFX.COM/library/icons/favicon.ico" alt="ATFX" width="33" height="33" /></div>
+<div style="position: absolute; bottom: 1px; left: 10px; width: 50px; height: 66px;"></div>
+</div>
+</div>
+</div>
+<p>The <a href="/en/live-chart/nasdaq100" target="_blank" rel="noopener">Nasdaq Index</a> was established in 1971. Its constituent stocks include those listed on Nasdaq in the United States. It is the most important indicator for technology stocks in the world. The Nasdaq Index has over 5,000 constituent stocks, and its coverage includes Biochemical technology and other fields, such as computer software and hardware, semiconductors, and network communications. It forms a necessary reference standard for investing in technology stocks.</p>
+<p><img decoding="async" style="width: 388px; float: right;" src="https://www.atfx.com/hubfs/ATFX-nasdaq-index-market.jpg" alt="ATFX-nasdaq-index-market" width="388" /></p>
+<h3 style="font-size: 24px;"><span style="color: #434343;">Why is the Nasdaq index market an over-the-counter market?</span></h3>
+<p>Investors in the Nasdaq index conduct transactions via telephone or the Internet in advance and do not need to trade on a physical trading floor. Most of the transactions are related to the high-tech industry, especially computers. It was the world’s first electronic securities <a href="/en/markets" target="_blank" rel="noopener">trading market</a>. The Starck Index has its market system, and it is an independent transaction system that undertakes the buying and selling of stocks for investors.</p>
+<p>Over-the-counter trading refers to the securities of unlisted or listed companies that are no longer traded on the exchange but are traded on the over-the-counter market. These stocks trade privately at a price higher or lower than the price specified in the function meeting. The transactions concluded at prices with other conditions are called store transactions or counter transactions.</p>
+<h2 style="font-size: 33px;">3. The S&amp;P 500 Index, an indicator of the rise and fall of the US economy</h2>
+<p>The <a href="/en/live-chart/sp500" target="_blank" rel="noopener">S&amp;P 500 Index</a> is the overall measurement standard for the top 500 listed companies in the United States. The rating company Standard &amp; Poor’s selects  500 leading companies from all industries in the U.S. stock market based on market capitalization and liquidity. The stocks are drawn from both the NYSE and NASDAQ. The S&amp;P 500 index contains many more companies than the Dow Jones Index. Therefore, it can better reflect the changes in the US stock market, and the risks are more diversified. In addition, the weighting methods used by the S&amp;P 500 Index and the Dow Jones Indices are very different. The Dow uses stock price weighting, while the S&amp;P 500 uses market value weighting, which can better reflect the actual value of each company’s stock while reflecting the rise and fall of the US economy.</p>
+<p>One last thing everyone should pay attention to is that the three leading U.S. stock indices mentioned above contain different constituent stocks. For example, if investors buy Google shares, the rise and fall of Google&#8217;s stock price will not affect the Dow Jones Index because Google is not a component of the Do. In addition, none of the three U.S. stock indexes can include all the daily price changes in the U.S. stock market. Therefore, when investing, traders must not just look at one U.S. stock index. It is crucial to combine the three indices and compare them to each other. You must also have a  <a href="/en/analysis/trading-strategies" target="_blank" rel="noopener">trading strategy</a> so that you can make the right decision.</p>
+<p><a href="/en/trading-platforms/metatrader-4/download-mt4" target="_blank" rel="noopener">Download Metatrader 4</a> or set up a <a href="/en/trading-accounts/demo-account" target="_blank" rel="noopener">demo trading account</a> to start trading now!</p>
+<div class="article-banner article-banner__dark" style="background-image: url('https://www.atfx.com/wp-content/uploads/2023/10/Free-Demo-Trading-Account.webp'); background-size: cover; background-position: center; color: #fff; padding: 20px; justify-content: space-between; align-items: center; margin: 20px 0;">
+<div class="article-banner-content" style="flex: 1; margin-right: 20px;"><span style="font-size: 30px; color: #fff; font-weight: bold;">Risk Free Demo Trading Account</span></p>
+<p style="font-size: 22px; color: #fff; margin-top: 10px;">Learn, Practice, Trade</p>
+<p><a id="banner_button_8_1" class="article-banner-button" style="background-color: #f2672b; color: #fff; padding: 10px 20px; text-decoration: none; font-weight: bold; border-radius: 5px; margin-top: 10px;" href="https://www.atfx.com/en/trading-accounts/demo-account" target="_blank" rel="noopener">OPEN DEMO ACCOUNT</a></p>
+</div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Why Is Leverage High in the Forex Market?</title>
+		<link>https://www.atfx.com/en/analysis/trading-strategies/why-is-leverage-high-in-the-forex-market</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Mon, 01 Nov 2021 13:59:00 +0000</pubDate>
+				<category><![CDATA[Trading Strategies]]></category>
+		<category><![CDATA[Trading Strategies for Intermediate Traders]]></category>
+		<guid isPermaLink="false">https://lptemplatedev.wpengine.com/uncategorized/why-is-leverage-high-in-the-forex-market</guid>
+
+					<description><![CDATA[When discussing financial investment, it covers a broad range of trading tools. Leverage is non-existent in China&#8217;s A-shares market because the stock price of individual stocks is too low. For a 10 yuan stock, the threshold for trading one lot is only 1,000 yuan, which is trivial to most individual traders. In China&#8217;s futures market, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>When discussing <a href="https://www.atfx.com/en/markets">financial investment</a>, it covers a broad range of <a href="https://www.atfx.com/en/education-and-tools">trading tools</a>. Leverage is non-existent in China&#8217;s A-shares market because the stock price of individual stocks is too low. For a 10 yuan stock, the threshold for trading one lot is only 1,000 yuan, which is trivial to most individual traders.</p>
+<p><span id="more-10416"></span></p>
+<p>In China&#8217;s futures market, the leverage is commonly set at 20 times.  For example, for a soybean contract size of 2105 units, with a current price of  3185 yuan/ton, and a lot size of 10 tons, the minimum transaction value is 31,850 yuan. This amount is enough to exclude most individual investors who have small investment accounts.</p>
+<p>It was necessary to introduce leverage of 20 times to increase market liquidity and allow retail investors to participate. Therefore, to trade a similar contract, traders are now required to pay a margin of 1592 yuan, making it easier for more traders to participate in the markets. After all, most traders do not intend to hold the contracts until they are due (delivery requires the full payment) but want to profit from the price movements in the futures contracts and the spreads.</p>
+<h2>Why is the leverage in the foreign exchange market so high?</h2>
+<p>Based on the same reasoning, the value of a contract in the <a href="https://www.atfx.com/en/markets/forex-trading">forex market</a> rises as high as  100,000 in the base currency, often the U.S dollar. The conversion of 100,000 US dollars into RMB is 700,000 RMB, a funding level that exceeds most traders&#8217; pockets.</p>
+<p>The capital threshold set by the China Science and Technology Innovation Board is at 500,000 yuan. However, these threshold levels have been widely criticised. Furthermore, there is a minimum threshold of 700,000 yuan to trade the foreign exchange market.</p>
+<p><img decoding="async" style="width: 1200px" src="https://www.atfx.com/hubfs/Others%20folders/ATFX%20Blog%20Image%202020/ATFX_forex-market-trading.jpg" alt="forex-market-trading" width="1200" /></p>
+<p>Many have questioned the necessity of having a base currency of 100,000 and debated whether one should begin trading in the hundreds of thousands range.</p>
+<p>The short answer is yes. However, exchange rate fluctuations are minimal over the short term for the currency markets, unlike the <a href="https://www.atfx.com/en/markets/shares-trading">stock market</a>, which has a 10% daily limit.</p>
+<p>For example, the EURUSD  had an average fluctuation of 2.22% in 2019, while the fluctuation in 2018 was 4.45%, 2017’s fluctuation was 13.98%, while 2016’s was 3.14%, and the fluctuation in 2015 was 10.17%.</p>
+<p>The highest volatility throughout the year is only about 10%. Given that there are 365 days a year,  one can imagine how small a day’s volatility is. Given such small fluctuations, the investment of hundreds of thousands of dollars is unrealistic, as one may go for several years without obtaining considerable returns.</p>
+<p>The exchange rate fluctuations are small because the exchange rate is the foundation of a <a href="https://www.atfx.com/en/analysis/financial-events">country&#8217;s economic stability</a>. However, if the exchange rate fluctuates frequently, it will cause significant disruptions to the country&#8217;s import and export industry.</p>
+<p>In addition, domestic companies often go to the international markets to take loans. However, if the exchange rate fluctuates sharply, the loan amounts will change drastically with the fluctuating exchange rates, which is not conducive to financial cost management.</p>
+<p>The leverage used within the foreign exchange market is between 30 and 200.  The leverage of 50 times or less is suitable for institutions, while the leverage of 100 to 200 is suitable for individual traders.</p>
+<p>Due to the characteristics of the foreign exchange market, traders generally do not use the percentage increase or decrease to measure the market’s volatility. Instead, they use &#8220;standard deviation&#8221; to measure.</p>
+<p>For example, for the EURUSD, a standard point is a 0.0001 fluctuation in the exchange rate, which is one ten-thousandth. To trade one lot of EURUSD, under 200 times leverage, you only need to pay 500 US dollars. For every standard point of exchange rate fluctuation, the trader&#8217;s profit or loss is 10 US dollars. At the end of a typical day, the EURUSD’s volatility is probably between tens and hundreds of points. Therefore, traders can achieve considerable profits despite low volatility.</p>
+<p>Leverage can lead to extraordinary rewards but can also be damaging at times. For example, it can lower the trading threshold and allow more individual traders to participate. Yet, it also increases the <a href="https://www.atfx.com/en/analysis/trading-strategies/risk-reward-ratio-management-techniques">risks associated with trading</a>, especially when the trader loses money and may owe the broker money.</p>
+<p>Many traders regard account liquidation as a problem created by too much leverage. However,  this has nothing to do with leverage levels. Instead, it has to do with a trader’s risk control strategy.</p>
+<h2>Two significant elements of risk-control: Position &amp; Stop Loss</h2>
+<p>A common mistake made by individual traders is that they do not set a stop loss when trading significant positions, which is the fundamental cause of massive losses and account liquidations.</p>
+<p><img decoding="async" style="width: 1200px" src="https://www.atfx.com/hubfs/Others%20folders/ATFX%20Blog%20Image%202020/ATFX_trading-risk-control.jpg" alt="ATFX_trading-risk-control" width="1200" /></p>
+<p>Even if you do not use leverage to trade, you will suffer greater than expected losses if you enter large positions without having a stop-loss order.  Traders always commit these two errors because they are driven by human nature.</p>
+<p>Everyone wants to invest in the markets to make quick money. They lack patience and often place orders with a &#8220;gambling&#8221; mentality that <a href="https://www.atfx.com/en/analysis/trading-strategies/why-do-day-traders-fail">leads traders to fail</a>. Under the influence of impulsive emotions, traders become emotionally invested in their trades and make wrong decisions leading to massive losses and minimal gains.</p>
+<p>Sophisticated investors know that financial freedom is not achieved through a single trade. It requires one to win numerous trades over a long time. Traders should learn <a href="https://www.atfx.com/en/ways-to-trade">how to trade</a>, reduce the position, use a stop loss as a habit, and suppress the impulse to overtrade to be successful over the long term.</p>
+<h2>Summary</h2>
+<p>The scope of leverage is quite broad, and the issuance of bonds by listed companies is also a form of leverage, but it is called financial leverage.</p>
+<p>A down payment of 35% is also a type of leverage, and buyers only need to pay a part of the down payment to own a residential house. Therefore, leverage is not central to the problems associated with investing. Instead, it benefits those who use it with discretion. However, people must be cautious and apply proper risk controls when using leverage. Risk management is a delicate and narrow line, and only through first-hand experience can the user consistently benefit.</p>
+<p>Download<a href="https://www.atfx.com/en/trading-platforms/metatrader-4/download-mt4"> Metatrader 4 account</a> or set up a<a href="https://www.atfx.com/en/trading-accounts/demo-account"> demo trading account</a> to start trading now!</p>
+<div class="article-banner article-banner__dark" style="background-image: url('https://www.atfx.com/wp-content/uploads/2023/10/Free-Demo-Trading-Account.webp');background-size: cover;background-position: center;color: #fff;padding: 20px;justify-content: space-between;align-items: center;margin: 20px 0">
+<div class="article-banner-content" style="flex: 1;margin-right: 20px"><span style="font-size: 30px;color: #fff;font-weight: bold">Risk Free Demo Trading Account</span></p>
+<p style="font-size: 22px;color: #fff;margin-top: 10px">Learn, Practice, Trade</p>
+<p><a id="banner_button_8_1" class="article-banner-button" style="background-color: #f2672b;color: #fff;padding: 10px 20px;text-decoration: none;font-weight: bold;border-radius: 5px;margin-top: 10px" href="https://www.atfx.com/en/trading-accounts/demo-account" target="_blank" rel="noopener">OPEN DEMO ACCOUNT</a></p>
+</div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>How US Bond Yields Impact Forex, Stocks, Gold &#038; Oil Prices</title>
+		<link>https://www.atfx.com/en/analysis/trading-strategies/how-us-bond-yields-impact-forex-market-stock-markets-gold-oil-prices</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Mon, 25 Oct 2021 08:37:14 +0000</pubDate>
+				<category><![CDATA[Trading Strategies]]></category>
+		<category><![CDATA[Trading Strategies for Intermediate Traders]]></category>
+		<guid isPermaLink="false">https://lptemplatedev.wpengine.com/uncategorized/how-us-bond-yields-impact-forex-market-stock-markets-gold-oil-prices</guid>
+
+					<description><![CDATA[Since the beginning of this year, the rise in U.S. bond yields has been an essential theme behind market transactions, triggering collective volatility within the financial markets. Under the prospect of a robust economic recovery in the US, market participants expect the 10-year U.S. Treasury yield to continue rising. Many institutions believe that the yields [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Since the beginning of this year, the rise in U.S. bond yields has been an essential theme behind market transactions, triggering collective volatility within the <a href="https://www.atfx.com/en/markets">financial markets</a>. Under the prospect of a robust economic recovery in the US, market participants expect the 10-year U.S. Treasury yield to continue rising. Many institutions believe that the yields may reach a level higher than 2% before the year ends. Therefore, many expect the theme to continue for the foreseeable future. The question remains, how do we predict or make better investment decisions based on the changes in bond yields? First of all, we must first clarify the trend correlation between bond yields and different assets.</p>
+<p><span id="more-10364"></span></p>
+<h2>Impact on the foreign exchange market</h2>
+<p>The rise in bond yields reflects the improving economic growth in the US and also indicates that inflation prospects are heating up. Inflation levels are closely related to the central bank’s monetary policy. If inflation rises too fast, the central bank will have to tighten monetary policies in response,&nbsp; which creates a ripple effect in the <a href="https://www.atfx.com/en/markets/forex-trading">forex markets</a>. As a result, investors typically prefer to hold currencies with high-interest rates while selling those with low or negative interest rates.&nbsp;</p>
+<p><img decoding="async" src="https://www.atfx.com/hubfs/forex-market-us-bond-yields.jpg" alt="forex-market-us-bond-yields" width="1200" loading="lazy" style="margin-left: auto;margin-right: auto"></p>
+<p>The difference between the bond yields of one country and the bond yields of another country will affect the trends of the corresponding currency pairs. Countries with higher interest rates will attract more investors to buy their bonds, hoping to obtain higher yields. High-yielding currencies will attract capital flows, and the cost of holding low-yielding currencies will rise, so the demand for these bonds will attract capital inflows, making the country&#8217;s currency stronger.</p>
+<p>The following example can help you understand the impact of interest rates:</p>
+<p>In February this year, the 10-year US Treasury bond yield began rising significantly, breaking through the 1.7% mark on March 18 and hitting a new high since January 2020&nbsp; on March 30, 2021. The <a href="https://www.atfx.com/en/markets/indices-trading">US dollar index</a> also followed the trend and kept rising to its highest level at the 93 mark during the period. However, despite the substantial increase in long-term bond yields, short-term bond yields have remained stable, and the spread between long-term and short-term bonds has widened, pointing to the high prospects of increased economic growth and inflation.</p>
+<p>The euro’s trend has been weaker than that of the dollar this year. Part of the reason is that the economic recovery in the U.S. has surpassed that of the eurozone, and the gap is still growing. With investors becoming more optimistic about the prospects of the U.S. economy, the yield of U.S. Treasuries will remain higher than that of German Treasuries. Rising interest rates will accelerate the return of funds to the US dollar and strengthen the US dollar against the euro.</p>
+<p><img decoding="async" src="https://www.atfx.com/hubfs/Others%20folders/ATFX%20Blog%20Image%202020/US-dollar-index.png" alt="US-dollar-index" width="1318" loading="lazy"></p>
+<p>Another example is the measures taken by the New Zealand government to cool rising housing prices, which significantly reduced inflation expectations. The tighter monetary policies led to a drop in New Zealand bond yields by 10 basis points, dragging down the New Zealand dollar against the U.S. dollar in Forex transactions. As a result, the kiwi fell sharply by more than 2.4% within a single day.</p>
+<h2>Impact on the stock market</h2>
+<p>In addition to the foreign exchange market, U.S. bond yields are also closely related to other markets. Since bond yields are significantly affected by monetary policy, the Fed&#8217;s target interest rate affects the demand for Treasury bonds. Lower interest rates will increase the demand for U.S. stocks, and higher interest rates will reduce demand. The lower the demand for stocks, the higher the interest rate. Therefore, the market’s trend in Treasury bond yields is regarded y the market as the leading indicator of Fed policy. Just as the current market estimates the possibility that the Fed will raise interest rates in advance next year, U.S. bond yields have also climbed to new yearly highs.</p>
+<p>At the same time, bond yields can also be regarded as an indicator of investor confidence. When the <a href="https://www.atfx.com/en/markets/shares-trading">stock market</a> is in a bull market, the price of treasury bonds usually declines since investors have increased risk tolerance as they seek higher returns in stocks. Conversely, as interest rates rise, bonds are more attractive than stocks or other higher-risk investments.</p>
+<p><img decoding="async" src="https://www.atfx.com/hubfs/Others%20folders/ATFX%20Blog%20Image%202020/bear-bull-market.jpg" alt="bear-bull-market" width="1200" loading="lazy"></p>
+<p>An increase in nominal yield is good for the stock market, while an increase in the actual yield is not good for the stock market. In a high-inflation environment, rising yields usually lead to a decline in stock returns. However, each sector reacts differently to rising yields. For example, cyclical industries usually perform better when yields rise because this corresponds to improved economic prospects, while defensive industries do the opposite.</p>
+<h2>Impact on gold</h2>
+<p>Although both U.S. yields and <a href="https://www.atfx.com/en/markets/commodities/gold-trading">gold prices</a> appear to be trending opposite to the stock market, it does not mean that there is a positive correlation between the two. Treasury bonds and gold have a hedging attribute; hence, there is a negative correlation between gold and bond yields.&nbsp;</p>
+<p>When bond yields soar, or interest rates rise, this becomes detrimental to gold because it is originally an interest-free asset. Moreover, the rise in debt yields will also drive the dollar higher, putting additional pressure on gold. So when the 10-year U.S. Treasury yield hit a new high in over a year at the end of March, the spot gold price fell below the crucial $1,700 mark.</p>
+<p>But from another angle,&nbsp; rising yields indicate expectations for a strong economy. Such expectations will fuel inflation, and gold is typically used as a hedge against inflation. Therefore, inflation is not entirely detrimental to gold over the long run. If future increases in inflation cause market panic, the price of gold will once again show its charm.</p>
+<h2>Impact on oil prices</h2>
+<p>The trend in energy prices and Treasury bond yields can be used as a barometer of a country’s economic outlook. As mentioned above, a buoyant economy is favourable to rising bond yields. Similarly, when the economic growth prospects are optimistic, and the demand for crude oil is optimistic, it will drive rising <a href="https://www.atfx.com/en/markets/commodities/oil-trading">crude oil prices</a>. Therefore, the price relationship between the two is affected by the economic cycle and positive correlation.</p>
+<p>Inflation expectations also have an impact on crude oil prices. Past price trends have shown that the year-on-year growth rate of oil prices is positively correlated with the U.S. CPI (inflation) growth. Therefore, the rise in crude oil prices itself boosts inflation expectations, thereby increasing nominal bond yields and affecting bond prices. Therefore, since the beginning of this year, oil prices and inflation have often been mentioned in the same breath due to their correlation. In addition, the strong rebound in oil prices before March was also accompanied by rising bond yields.</p>
+<p><img decoding="async" src="https://www.atfx.com/hubfs/Others%20folders/ATFX%20Blog%20Image%202020/crude-oil-prices.jpg" alt="crude-oil-prices" width="1200" loading="lazy"></p>
+<p>Of course, in addition to US public debt, we should also pay attention to the relationship between the bond yields performance of major crude oil-exporting countries and oil prices (such as Canada) and other commodity-exporting countries (such as Australia). If inflation expectations and bond yields in various countries remain high or soar further, oil prices will also have a positive upward correlation. In addition, pay attention to the fact that the rising&nbsp; US interest rates will support the US dollar, and the strengthening of the US dollar will affect the overall increase in <a href="https://www.atfx.com/en/markets/commodities">commodity prices</a>.</p>
+<p>Open a <a href="https://www.atfx.com/en/trading-accounts">live trading account</a> or set up <a href="https://www.atfx.com/en/trading-accounts/demo-account">a demo trading account</a> to start trading!</p>
+<div class="article-banner article-banner__dark" style="background-image: url('https://www.atfx.com/wp-content/uploads/2023/10/Free-Demo-Trading-Account.webp');background-size: cover;background-position: center;color: #fff;padding: 20px;justify-content: space-between;align-items: center;margin: 20px 0">
+<div class="article-banner-content" style="flex: 1;margin-right: 20px">
+        <span style="font-size: 30px;color: #fff;font-weight: bold">Risk Free Demo Trading Account</span></p>
+<p style="font-size: 22px;color: #fff;margin-top: 10px">Learn, Practice, Trade</p>
+<p>        <a class="article-banner-button" href="https://www.atfx.com/en/trading-accounts/demo-account" id="banner_button_8_1" target="_blank" style="background-color: #f2672B;color: #fff;padding: 10px 20px;text-decoration: none;font-weight: bold;border-radius: 5px;margin-top: 10px" rel="noopener">OPEN DEMO ACCOUNT</a>
+    </p>
+</div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

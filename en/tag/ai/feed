@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>AI Archives - ATFX Global - Official Website</title>
+	<atom:link href="https://www.atfx.com/en/tag/ai/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Tue, 28 Jan 2025 07:47:09 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>https://www.atfx.com/wp-content/uploads/2023/06/favicon-150x150.webp</url>
+	<title>AI Archives - ATFX Global - Official Website</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>China’s DeepSeek Raises the Bar for Microsoft Earnings, 29 Jan</title>
+		<link>https://www.atfx.com/en/analysis/market-news/chinas-deepseek-raises-the-bar-for-microsoft-earnings</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Tue, 28 Jan 2025 02:25:12 +0000</pubDate>
+				<category><![CDATA[Market news & Insights]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[deepseek]]></category>
+		<category><![CDATA[mircosoft]]></category>
+		<category><![CDATA[MSFT]]></category>
+		<category><![CDATA[Recent news]]></category>
+		<guid isPermaLink="false">https://www.atfx.com/?p=45398</guid>
+
+					<description><![CDATA[MSFT: A new rival to ChatGPT will add focus to Microsoft’s earnings on 29 Jan 2025. MSFT – Daily Chart MSFT lost more than -3% on Monday with the stock below $30. The dip buyers saved it for now but there is risk of a move lower with earnings. Microsoft releases its latest earnings on [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><a href="https://www.atfx.com/en/earning-season-calendar">MSFT</a>: A new rival to ChatGPT will add focus to Microsoft’s earnings on 29 Jan 2025.</p>
+<p><img fetchpriority="high" decoding="async" class="size-full wp-image-45399 aligncenter" src="https://www.atfx.com/wp-content/uploads/2025/01/msft-daily-chart-20250128.png" alt="msft-mircosoft-daily-chart-20250128" width="903" height="544" srcset="https://www.atfx.com/wp-content/uploads/2025/01/msft-daily-chart-20250128.png 903w, https://www.atfx.com/wp-content/uploads/2025/01/msft-daily-chart-20250128-300x181.png 300w, https://www.atfx.com/wp-content/uploads/2025/01/msft-daily-chart-20250128-768x463.png 768w" sizes="(max-width: 903px) 100vw, 903px" /></p>
+<p style="text-align: center;">MSFT – Daily Chart</p>
+<p>MSFT lost more than -3% on Monday with the stock below $30. The dip buyers saved it for now but there is risk of a move lower with earnings.</p>
+<p>Microsoft releases its latest earnings on Wednesday after the market closes and there is now risk to the downside with the arrival of China’s DeepSeek AI tool. A clear threat to ChatGPT, investors will now put extra focus on MSFT earnings this week and could punish the stock with any negatives.</p>
+<p>One issue the market may have is any sign of increased AI spending from Microsoft. Investors may also look for references to ChatGPT after a cheaper and more accurate model has emerged. Tech companies have been given high valuations on the belief that AI revenue was coming down the pipeline.</p>
+<p>That is now at risk and stocks could get hurt after the big spending on chips and data centers from Big Tech.</p>
+<p>“Investor sentiment has shifted negative as a ‘wall of worry&#8217; around gross margins, capex, GenAI monetization and the OpenAI relationship builds,” Morgan Stanley analysts said. They also noted that Microsoft has underperformed other large-cap software firms over the last quarter.</p>
+<p>Wall Street expects Microsoft to deliver revenue of $68.9 billion, up 11% year-over-year; with earnings of $23.36 billion, up from $21.87 billion. Revenue from Microsoft&#8217;s Intelligent Cloud segment, which includes its Azure cloud computing platform, is expected to climb 20% to $25.76 billion.</p>
+<p>However, markets may see a drop in cloud spending coming if the DeepSeek app becomes the most popular application for AI. Microsoft wrote in its blog that it was expecting a &#8220;new, large Azure commitment&#8221; from OpenAI, the maker of ChatGPT, but that was before this week’s news.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

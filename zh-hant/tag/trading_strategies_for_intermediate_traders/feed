@@ -1,0 +1,851 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>中級交易策略 Archives - ATFX Global - Official Website</title>
+	<atom:link href="https://www.atfx.com/zh-hant/tag/trading_strategies_for_intermediate_traders/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Wed, 28 May 2025 08:04:26 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>https://www.atfx.com/wp-content/uploads/2023/06/favicon-150x150.webp</url>
+	<title>中級交易策略 Archives - ATFX Global - Official Website</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>交易中的相對強弱指數 (RSI) 是什麼？</title>
+		<link>https://www.atfx.com/zh-hant/analysis/trading-strategies/relative-strength-index</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Wed, 23 Apr 2025 04:39:09 +0000</pubDate>
+				<category><![CDATA[交易策略]]></category>
+		<category><![CDATA[RSI]]></category>
+		<category><![CDATA[RSI trading]]></category>
+		<category><![CDATA[中級交易策略]]></category>
+		<guid isPermaLink="false">https://www.atfx.com/?p=48346</guid>
+
+					<description><![CDATA[相對強弱指數 (RSI) 是一種動量震盪指標，用於衡量近期價格變動的速度和幅度，以識別資產的超買或超賣情況。其 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>相對強弱指數 (RSI) 是一種動量震盪指標，用於衡量近期價格變動的速度和幅度，以識別資產的超買或超賣情況。其範圍從 0 到 100，通常用於發現潛在的反轉點、確認市場趨勢強度以及評估市場趨勢的總體方向，尤其是與<a href="https://www.atfx.com/zh-hant/trading-platforms/metatrader-4/support-resistance-indicator" target="_blank" rel="noopener">支撐位和阻力位</a>結合使用時。</p>
+<p>RSI 最初由 J. Welles Wilder Jr. 於 1978 年創建，現已成為股票、<a href="https://www.atfx.com/zh-hant/markets/forex-trading" target="_blank" rel="noopener">外匯</a>、加密貨幣和<a href="https://www.atfx.com/zh-hant/markets/commodities" target="_blank" rel="noopener">大宗商品</a>等各個市場最廣泛使用的技術指標之一。透過掌握 RSI 交易訊號，交易者可以增強時機把握、改善決策並提高獲利能力。在本文中，我們將探討 RSI 的工作原理以及如何有效地使用它來加強您的交易策略。</p>
+<h2>RSI公式如何計算？</h2>
+<p>RSI 是一個動量振盪器，用於測量價格變動的速度和變化。它是透過比較特定時期（通常為 14 天）內的平均漲幅和跌幅來計算的。它可以幫助交易者確定資產是否超買或超賣。</p>
+<h3><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f9ee.png" alt="🧮" class="wp-smiley" style="height: 1em; max-height: 1em;" /> RSI 公式：</h3>
+<p>RSI = 100 − [100 / (1 + (平均漲幅 / 平均跌幅))]</p>
+<p>分解：</p>
+<ul>
+<li>平均漲幅：在給定期間內價格漲幅的平均值。</li>
+<li>平均跌幅：相同期間內價格平均跌幅。</li>
+</ul>
+<p>RSI 計算公式可協助交易者透過比較價格上漲和價格下跌的幅度來評估資產是上漲趨勢還是下跌趨勢。</p>
+<p><img fetchpriority="high" decoding="async" class="aligncenter size-large wp-image-48912" src="https://www.atfx.com/wp-content/uploads/2025/04/How-is-RSI-Formula-Calculated-TC-1024x529.webp" alt="How-is-RSI-Formula-Calculated-TC" width="800" height="413" srcset="https://www.atfx.com/wp-content/uploads/2025/04/How-is-RSI-Formula-Calculated-TC-1024x529.webp 1024w, https://www.atfx.com/wp-content/uploads/2025/04/How-is-RSI-Formula-Calculated-TC-300x155.webp 300w, https://www.atfx.com/wp-content/uploads/2025/04/How-is-RSI-Formula-Calculated-TC-768x397.webp 768w, https://www.atfx.com/wp-content/uploads/2025/04/How-is-RSI-Formula-Calculated-TC.webp 1200w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<h3><strong><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/23f1.png" alt="⏱" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </strong>根據市場狀況調整 RSI 週期</h3>
+<p>14 個週期的預設 RSI 設定被廣泛使用，因為它平衡了響應性和平滑度。然而，交易者經常會調整週期以更好地適應他們的交易市場。</p>
+<ul>
+<li>RSI 的較短週期（例如 7-9）對價格變化更加敏感，從而發出更快的信號。這通常用於價格快速波動的動盪市場。缺點是，它可能導致對微小波動做出更多錯誤訊號反應，並且交易者可能會過於頻繁地進入和退出交易。</li>
+<li>RSI 的較長週期（例如 21-30）反應性較低，可平滑短期波動。長期交易者或投資者經常使用此設定來關注大宗商品等重要的市場趨勢。缺點是 RSI 對價格變化的反應可能較慢，這意味著交易者可能會錯過早期的趨勢轉變或逆轉。</li>
+</ul>
+<h2>RSI 在交易中的作用</h2>
+<p>RSI 確定資產是否超買或超賣，預示潛在的逆轉。透過測量價格變動的動量，RSI 可以對資產價格走勢的強弱給予指引。</p>
+<p>該指標從 0 移動到 100，關鍵水準為 70（超買）和 30（超賣）。</p>
+<h3><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f680.png" alt="🚀" class="wp-smiley" style="height: 1em; max-height: 1em;" /> RSI 超買狀態（高於 70）：</h3>
+<p>當 RSI 超過 70 時，表示資產超買，可能即將出現回檔或逆轉。這通常與價格達到阻力位同時發生。</p>
+<p><strong><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4cc.png" alt="📌" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 行動：當 RSI 超過 70 時，交易者通常會賣出，因為他們預計市場將在阻力位附近出現回調。</strong></p>
+<p><strong>例子：</strong>如果<a href="https://www.atfx.com/zh-hant/live-chart/eur-usd" target="_blank" rel="noopener">歐元/美元</a>對的 RSI 為 80，則可能表示市場超買，預示價格接近阻力位時可能下跌。</p>
+<p><img decoding="async" class="aligncenter size-large wp-image-48910" src="https://www.atfx.com/wp-content/uploads/2025/04/EUR-USD-TC-1024x887.webp" alt="EUR-USD-TC" width="800" height="693" srcset="https://www.atfx.com/wp-content/uploads/2025/04/EUR-USD-TC-1024x887.webp 1024w, https://www.atfx.com/wp-content/uploads/2025/04/EUR-USD-TC-300x260.webp 300w, https://www.atfx.com/wp-content/uploads/2025/04/EUR-USD-TC-768x666.webp 768w, https://www.atfx.com/wp-content/uploads/2025/04/EUR-USD-TC.webp 1200w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<h3><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4c9.png" alt="📉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> RSI 超賣狀況（低於 30）：</h3>
+<p>當 RSI 跌破 30 時，表示資產超賣，價格可能即將反彈，尤其是在接近支撐位時。</p>
+<p><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4cc.png" alt="📌" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>行動：當 RSI 低於 30 時，交易者通常會尋找買入機會，預期支撐位會出現逆轉。</strong></p>
+<p><strong>例如：</strong>如果<a href="https://www.atfx.com/zh-hant/live-chart/gbp-usd" target="_blank" rel="noopener">英鎊/美元</a>對的 RSI 為 25，則可能意味著英鎊超賣，可能會出現逆轉，並可能從關鍵支撐位反彈。</p>
+<p><img decoding="async" class="aligncenter size-large wp-image-48911" src="https://www.atfx.com/wp-content/uploads/2025/04/GBP-USD-TC-1024x887.webp" alt="GBP-USD-TC" width="800" height="693" srcset="https://www.atfx.com/wp-content/uploads/2025/04/GBP-USD-TC-1024x887.webp 1024w, https://www.atfx.com/wp-content/uploads/2025/04/GBP-USD-TC-300x260.webp 300w, https://www.atfx.com/wp-content/uploads/2025/04/GBP-USD-TC-768x666.webp 768w, https://www.atfx.com/wp-content/uploads/2025/04/GBP-USD-TC.webp 1200w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<h2>RSI 背離：發現趨勢逆轉</h2>
+<p>當資產價格與 RSI 走勢相反時，就會出現 RSI 背離。這是潛在趨勢逆轉的關鍵訊號：</p>
+<h3><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f504.png" alt="🔄" class="wp-smiley" style="height: 1em; max-height: 1em;" />看漲背離</h3>
+<p>當價格創下更低的低點，但 RSI 形成更高的低點時發生。這表明拋售勢頭正在減弱，價格可能出現反轉上漲。</p>
+<p><strong>範例：</strong>如果美元/加幣創下新低，但 RSI 形成更高的低點，則可能出現買入訊號。</p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-large wp-image-48914" src="https://www.atfx.com/wp-content/uploads/2025/04/USD-CAD-TC-1024x887.webp" alt="USD-CAD-TC" width="800" height="693" srcset="https://www.atfx.com/wp-content/uploads/2025/04/USD-CAD-TC-1024x887.webp 1024w, https://www.atfx.com/wp-content/uploads/2025/04/USD-CAD-TC-300x260.webp 300w, https://www.atfx.com/wp-content/uploads/2025/04/USD-CAD-TC-768x666.webp 768w, https://www.atfx.com/wp-content/uploads/2025/04/USD-CAD-TC.webp 1200w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<h3><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f504.png" alt="🔄" class="wp-smiley" style="height: 1em; max-height: 1em;" />看跌背離</h3>
+<p>如果價格創下更高高點，但 RSI 未能創下新高，則表示買入動能減弱並可能出現下行逆轉。</p>
+<p><strong>範例：</strong>如果美元/瑞郎創下新高，但 RSI 顯示更低的高點，則發出賣出訊號。</p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-large wp-image-48915" src="https://www.atfx.com/wp-content/uploads/2025/04/USD-CHF-TC-1024x640.webp" alt="USD-CHF-TC" width="800" height="500" srcset="https://www.atfx.com/wp-content/uploads/2025/04/USD-CHF-TC-1024x640.webp 1024w, https://www.atfx.com/wp-content/uploads/2025/04/USD-CHF-TC-300x188.webp 300w, https://www.atfx.com/wp-content/uploads/2025/04/USD-CHF-TC-768x480.webp 768w, https://www.atfx.com/wp-content/uploads/2025/04/USD-CHF-TC.webp 1200w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<h2>RSI 中心線交叉：辨識趨勢強度</h2>
+<p><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4cd.png" alt="📍" class="wp-smiley" style="height: 1em; max-height: 1em;" />RSI 中心線（50 水平）對於確認現有趨勢的強度至關重要：</p>
+<ul>
+<li>RSI 高於 50：當 RSI 在上升趨勢中保持在 50 水平以上時，它預示著強勁的看漲勢頭，證實價格可能會繼續上漲。</li>
+<li>RSI 低於 50：當 RSI 在下行趨勢中保持在 50 水平以下時，表示看跌勢頭強勁，表明下行趨勢可能會持續。</li>
+</ul>
+<p><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4cd.png" alt="📍" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 50水平的交叉為趨勢的強度提供了額外的確認。例如：</p>
+<ul>
+<li>如果 RSI 從下方突破 50 以上，則可能預示上升趨勢的開始。</li>
+<li>相反，如果 RSI 從上方跌破 50，則可能預示下行趨勢的開始。</li>
+</ul>
+<p><img loading="lazy" decoding="async" class="aligncenter size-large wp-image-48913" src="https://www.atfx.com/wp-content/uploads/2025/04/RSI-50-uptrend-TC-1024x640.webp" alt="RSI-50-uptrend-TC" width="800" height="500" srcset="https://www.atfx.com/wp-content/uploads/2025/04/RSI-50-uptrend-TC-1024x640.webp 1024w, https://www.atfx.com/wp-content/uploads/2025/04/RSI-50-uptrend-TC-300x188.webp 300w, https://www.atfx.com/wp-content/uploads/2025/04/RSI-50-uptrend-TC-768x480.webp 768w, https://www.atfx.com/wp-content/uploads/2025/04/RSI-50-uptrend-TC.webp 1200w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<h2>RSI 交易策略以及如何在您的策略中使用它</h2>
+<p>當與其他技術指標、趨勢分析或市場條件結合時，RSI 交易最有效。以下是一些使用 RSI 的策略：</p>
+<h3><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4cc.png" alt="📌" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 辨識超買/超賣情況：</h3>
+<p>使用 RSI 來偵測資產何時超買或超賣。當 RSI 低於 30（超賣）時買入，當 RSI 高於 70（超買）時賣出。</p>
+<ul>
+<li>RSI 高於 70 = 超買 = 潛在賣出。</li>
+<li>RSI 低於 30 = 超賣 = 潛在買入。</li>
+</ul>
+<h3><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f511.png" alt="🔑" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 發現趨勢逆轉的背離：</h3>
+<p>尋找價格走勢和 RSI 之間的差異，以發現弱化趨勢並預測潛在的逆轉。</p>
+<ul>
+<li>看漲背離：價格創下更低地點，RSI 創更高低點。買入</li>
+<li>看跌背離：價格創下更高高點，RSI 創下更低高點。賣出</li>
+</ul>
+<h3><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/26a1.png" alt="⚡" class="wp-smiley" style="height: 1em; max-height: 1em;" />確認趨勢強度：</h3>
+<p>使用 RSI 來確認當前趨勢的強度。 RSI 讀數高於 50 確認看漲勢頭，而低於 50 的讀數確認看跌勢頭。</p>
+<ul>
+<li>RSI&gt; 50：表示強勁的上升趨勢。</li>
+<li>RSI &lt; 50：表示強勁的下降趨勢。</li>
+</ul>
+<h3><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4dd.png" alt="📝" class="wp-smiley" style="height: 1em; max-height: 1em;" />中心線交叉：</h3>
+<p>RSI 的 50 水準對於確認趨勢的方向和強度至關重要。用它來衡量潛在的買進或賣出訊號。</p>
+<ul>
+<li>突破超過 50：潛在的上升趨勢。</li>
+<li>跌破低於 50：潛在的下降趨勢。</li>
+</ul>
+<h2>不同市場的最佳 RSI 設置</h2>
+<p>RSI 的預設為 14 個週期，但可根據市場條件和交易方式進行調整。</p>
+<table>
+<tbody>
+<tr>
+<td><strong>市場類型</strong></td>
+<td><strong>最佳 RSI 設定</strong></td>
+<td><strong>交易風格</strong></td>
+</tr>
+<tr>
+<td>股票</td>
+<td>14</td>
+<td>波段交易</td>
+</tr>
+<tr>
+<td>外匯</td>
+<td>9或14</td>
+<td>日內和波段交易</td>
+</tr>
+<tr>
+<td>加密貨幣</td>
+<td>7或14</td>
+<td>高波動性</td>
+</tr>
+<tr>
+<td>大宗商品</td>
+<td>10</td>
+<td>趨勢確認</td>
+</tr>
+</tbody>
+</table>
+<p><strong><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4a1.png" alt="💡" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 專業提示：縮短 RSI 設定（例如 7-9 個週期），以便在加密貨幣等波動的市場中更快獲得訊號。</strong></p>
+<h3><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/2699.png" alt="⚙" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 如何在 MetaTrader 4（MT4）中設定 RSI</h3>
+<p>在 MT4 中設定 RSI 簡單快速。請依照以下步驟操作：</p>
+<ol>
+<li>開啟 <a href="https://www.atfx.com/zh-hant/trading-platforms/metatrader-4" target="_blank" rel="noopener">MT4</a> 並選擇您想要使用的圖表。</li>
+<li>點選插入 → 指標 → 振盪器 → 相對強弱指數。</li>
+<li>根據您的策略調整週期（預設為 14）。</li>
+<li>如有需要，修改關鍵水準（30 為超賣，70 為超買）。</li>
+<li>按一下「確定」將 RSI 指標套用到您的圖表。</li>
+</ol>
+<p>現在，您可以使用 RSI 來識別超買或超賣情況，並直接在 MT4 中做出明智的交易決策。</p>
+<p><a href="https://www.atfx.com/zh-hant/trading-platforms/metatrader-4/download-mt4" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="aligncenter wp-image-25078 size-full" src="https://www.atfx.com/wp-content/uploads/2023/10/mt4-download-taiwan.webp" alt="mt4 download taiwan" width="825" height="206" srcset="https://www.atfx.com/wp-content/uploads/2023/10/mt4-download-taiwan.webp 825w, https://www.atfx.com/wp-content/uploads/2023/10/mt4-download-taiwan-300x75.webp 300w, https://www.atfx.com/wp-content/uploads/2023/10/mt4-download-taiwan-768x192.webp 768w" sizes="(max-width: 825px) 100vw, 825px" /></a></p>
+<p>&nbsp;</p>
+<h2>RSI 交易策略建議</h2>
+<ul>
+<li>將 RSI 與其他指標結合：在交易中結合使用 RSI 和其他技術指標（如移動平均線或 MACD）來提高策略的有效性。</li>
+<li>注意極端 RSI 讀數：尋找 RSI 超過極端水平（高於 70 或低於 30）的情況，因為這些情況可能表示潛在的反轉點。</li>
+<li>使用 RSI 進行趨勢分析：如果市場處於強勁趨勢，則可以使用 RSI 來識別趨勢回調，從而提供更有利的切入點。</li>
+</ul>
+<h2>使用 RSI 時應避免的常見錯誤</h2>
+<p>即使是專業交易者也會誤用 RSI，導致錯誤訊號和不必要的損失。以下是需要避免的情況：</p>
+<p><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/274c.png" alt="❌" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 僅依靠 RSI – 始終使用其他指標來確認訊號。</p>
+<p><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/274c.png" alt="❌" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 不檢查市場趨勢－RSI 在橫盤市場中更有效。</p>
+<p><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/274c.png" alt="❌" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 忽略背離訊號－RSI 背離可以提前預測逆轉。</p>
+<p><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/274c.png" alt="❌" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 無需測試即可使用預設 RSI – 根據您的交易風格自訂 RSI 設定。</p>
+<p><strong><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4cc.png" alt="📌" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 專業提示：在進行即時交易之前，請務必在模擬帳戶中回測 RSI 策略。</strong></p>
+<h2>利用 RSI 策略最大化交易潛力</h2>
+<p>為了充分利用 RSI，請使用以下經過驗證的交易策略：</p>
+<p><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/2714.png" alt="✔" class="wp-smiley" style="height: 1em; max-height: 1em;" /> RSI 趨勢策略 – 跟隨 RSI 50 上方/下方的方向。</p>
+<p><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/2714.png" alt="✔" class="wp-smiley" style="height: 1em; max-height: 1em;" /> RSI 反轉策略－基於 RSI 背離進行交易。</p>
+<p><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/2714.png" alt="✔" class="wp-smiley" style="height: 1em; max-height: 1em;" /> RSI 剝頭皮策略－使用 RSI + MACD 進行短期交易。</p>
+<p><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/2714.png" alt="✔" class="wp-smiley" style="height: 1em; max-height: 1em;" /> RSI 和布林通道 – 辨識波動性突破。</p>
+<p><strong><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4cc.png" alt="📌" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 最後提示：在進行即時交易之前，先在模擬帳戶中測試 RSI 策略，以完善您的方法。</strong></p>
+<h2>結論</h2>
+<p>相對強弱指數 (RSI) 是一種強大的工具，可協助交易者識別超買和超賣情況、發現趨勢逆轉以及確認現有趨勢的強度。掌握 RSI 交易並了解其訊號可以增強您的市場分析能力並幫助您做出更明智的交易決策。</p>
+<p>無論您交易的是<a href="https://www.atfx.com/zh-hant/markets/shares-trading" target="_blank" rel="noopener">股票</a>、外匯還是加密貨幣，將 RSI 整合到您的策略中都可以提供有價值的見解並提高您的交易表現。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>川普的經濟政策：對股票和外匯市場的影響 &#124; 交易趨勢</title>
+		<link>https://www.atfx.com/zh-hant/analysis/trading-strategies/trump-economic-policies</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Tue, 26 Nov 2024 02:09:07 +0000</pubDate>
+				<category><![CDATA[交易策略]]></category>
+		<category><![CDATA[中級交易策略]]></category>
+		<guid isPermaLink="false">https://www.atfx.com/?p=43370</guid>
+
+					<description><![CDATA[川普的經濟政策：對股票和外匯市場的影響 唐納德·川普贏得 2024 年美國總統大選後，金融市場已經做出重大反應 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h2 dir="ltr">川普的經濟政策：對股票和外匯市場的影響</h2>
+<p dir="ltr">唐納德·川普贏得 2024 年美國總統大選後，金融市場已經做出重大反應，這是他在 2016 年第一任期後重返總統職位，投資者和交易者正在評估影響。他的勝利標誌着政府重新轉向親商政策，着重於放松管制、減稅和保護主義貿易政策。</p>
+<p dir="ltr">在本文中，我們將研究川普的經濟政策如何影響主要金融市場，特別是<a href="https://www.atfx.com/zh-hant/markets/forex-trading" target="_blank" rel="noopener">外匯交易</a>、美國股票、全球股票以及更廣闊的經濟前景。</p>
+<ol class="no-markers">
+<li dir="ltr">
+<h2 dir="ltr">對外匯市場的影響：川普贏得 2024 年大選後美元走強</h2>
+</li>
+</ol>
+<p dir="ltr">川普在 2024 年大選獲勝的最直接反應之一是美元 (USD) 在全球市場上大幅走強。</p>
+<p dir="ltr">美元的這種大幅走強主要是受到川普親商議程的預期所推動，該議程包括減稅、放松管制以及旨在刺激美國經濟增長的政策。</p>
+<p dir="ltr">投資者認爲，這些政策將促進企業盈利、增加經濟活動並推動對美元的需求。因此，美元兌主要貨幣（包括中國離岸人民幣（CNH）、墨西哥比索（MXN）和歐元（EUR））走強，反映出人們對川普政府政策下美國經濟表現的樂觀情緒。</p>
+<h3 dir="ltr">美元走強</h3>
+<p dir="ltr">由於預期川普執政下美國經濟將強勁增長，美元將從中受益。投資者預計川普的貿易和稅收政策將提高美國企業盈利，從而推動對美元的更多需求。</p>
+<p dir="ltr">如果川普繼續執行對進口產品（尤其是中國產品）徵收關稅的計劃，美元可能會進一步走高。因此，外匯交易者有希望利用美元走強的機會獲利，尤其是兌人民幣、墨西哥比索和歐元。</p>
+<h3 dir="ltr">中國離岸人民幣（CNH）承壓</h3>
+<p dir="ltr">由於對潛在貿易緊張局勢的擔憂，中國離岸人民幣（USDCNH）已經走弱。川普上一屆政府曾提高對中國的關稅，隨着他再次當選，很有可能採取更爲激進的立場，包括對中國商品徵收 60% 的關稅。</p>
+<p dir="ltr">因此，外匯交易者可能會在美元/離岸人民幣貨幣對中發現機會，押注人民幣因中美貿易戰緊張局勢升級而進一步走弱。</p>
+<p dir="ltr">替代交易：澳元/美元和美元/人民幣</p>
+<ol class="no-markers" style="list-style-type: upper-roman;">
+<li dir="ltr">
+<p dir="ltr">美元/離岸人民幣：鑑於川普的貿易政策和與中國持續的貿易戰風險，美元/離岸人民幣貨幣對可能是關注美元走強的最直接的替代交易。川普延續關稅戰略和保護主義立場可能會對人民幣（CNH）造成巨大的下行壓力，同時刺激對美元（USD）的需求。外匯交易者可以通過在交易中積極納入美元/離岸人民幣來利用這些貨幣變化趨勢。</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">澳元/美元：另一個潛在的替代交易是澳元/美元，澳元（AUD）通常充當中國離岸人民幣（CNH）的流動性替代。澳大利亞嚴重依賴對中國的出口（尤其是鐵礦石、煤炭和天然氣等大宗商品），這意味着中國經濟前景的變化會對澳元產生重大影響。當美國和中國之間的貿易緊張局勢加劇時，澳元通常會與人民幣做出同步反應，因爲這兩種貨幣都受到更廣泛的貿易環境和全球大宗商品市場的影響。</p>
+</li>
+</ol>
+<p dir="ltr">因此，如果川普的經濟政策導致中美關係波動加劇，澳元/美元貨幣對的波動性也可能會加劇。此外，如果川普政府專注於提高國內能源產量，澳元可能會受益於全球大宗商品價格上漲，從而進一步影響澳元/美元的交易趨勢變化。</p>
+<ol class="no-markers" start="2">
+<li dir="ltr">
+<h2 dir="ltr">對股票市場的影響：川普的親商議程提振美國股市</h2>
+</li>
+</ol>
+<p dir="ltr">川普獲勝後，受其親商政策樂觀情緒推動，<a href="https://www.atfx.com/zh-hant/markets/shares-trading" target="_blank" rel="noopener">美國股市</a>出現上漲。能源、科技和金融等關鍵行業有望實現大幅增長。放松管制、減稅以及注重國內能源生產的政策共同支撐了這種看漲情緒。</p>
+<h3 dir="ltr">美國股市飆升</h3>
+<p dir="ltr"><a href="https://www.atfx.com/zh-hant/live-chart/sp500" target="_blank" rel="noopener">標普500指數</a>、<a href="https://www.atfx.com/zh-hant/live-chart/dow-jones" target="_blank" rel="noopener">道瓊斯指數</a>、<a href="https://www.atfx.com/zh-hant/live-chart/nasdaq100" target="_blank" rel="noopener">納斯達克指數</a>等美國股市對川普的勝利做出了積極反應，各大<a href="https://www.atfx.com/zh-hant/markets/indices-trading" target="_blank" rel="noopener">指數</a>紛紛創下新高。那些有望受益於川普政策的行業的漲勢尤其明顯。能源股（尤其是石油和天然氣）和科技股一直處於領先地位，因爲投資者爲這些行業預期的有利環境做好了準備。</p>
+<h3 dir="ltr">能源行業提振</h3>
+<p dir="ltr">川普以“鑽吧，寶貝，鑽吧”的競選口號支持化石燃料，包括石油和天然氣，這種支持在他當選後提振了埃克森美孚和雪佛龍等公司。他的政府採取的取消國內石油和天然氣生產限制以及放鬆環境法規的舉措爲能源公司創造了更有利的環境。隨着對能源獨立和更少監管障礙的注重，能源股有望實現大幅增長、提高盈利能力並擴大國內資源獲取渠道。</p>
+<h3 dir="ltr">科技行業增長</h3>
+<p dir="ltr">由於投資者猜測唐納德·川普重返白宮可能會給特斯拉帶來受益，特斯拉股價飆升。這種預期包括來自小型電動汽車製造商的競爭減少和中國進口汽車關稅提高，這可能會給特斯拉帶來優勢。川普的放松管制和減稅等親商政策也被視爲對科技巨頭有利，有可能提高盈利能力並鼓勵對創新的再投資。具體來說，特斯拉可以從放寬有關電動汽車和可再生能源的監管中受益。</p>
+<h3 dir="ltr">金融業提振</h3>
+<p dir="ltr">川普獲勝後，摩根大通、高盛和美國銀行的股價以及大型銀行泛股指數均大幅上漲。由於投資者預期金融行業將出現更爲有利的監管環境，區域性銀行的股價也出現了顯著增長。川普的放松管制立場被視爲對大型金融機構的提振，因爲減少管制將允許銀行承擔更多風險並增加放貸。此外，減稅預期進一步支持了更高盈利前景，使這些銀行更具競爭力和效率。</p>
+<p><a href="https://www.atfx.com/zh-hant/trading-accounts/live-account" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="aligncenter wp-image-25087 size-full" src="https://www.atfx.com/wp-content/uploads/2023/10/live-account-taiwan.webp" alt="live account taiwan" width="825" height="206" srcset="https://www.atfx.com/wp-content/uploads/2023/10/live-account-taiwan.webp 825w, https://www.atfx.com/wp-content/uploads/2023/10/live-account-taiwan-300x75.webp 300w, https://www.atfx.com/wp-content/uploads/2023/10/live-account-taiwan-768x192.webp 768w" sizes="(max-width: 825px) 100vw, 825px" /></a></p>
+<ol class="no-markers" start="3">
+<li dir="ltr">
+<h2 dir="ltr">對指數的影響：美國表現優於全球指數</h2>
+</li>
+</ol>
+<p dir="ltr">儘管美國股市因川普勝選而上漲，但全球金融市場卻面臨阻力。川普貿易政策的影響——尤其是他在貿易和關稅方面的立場——可能會對美國以外的市場產生影響，特別是歐洲、中國和日本。</p>
+<h3 dir="ltr">美國指數對比全球指數</h3>
+<p dir="ltr">隨着川普推進“美國優先”政策，受減稅、放松管制和基礎設施支出的樂觀情緒推動，美國股市預計將在短期至中期內跑贏全球指數。然而，更容易受到中美貿易戰或更高關稅影響的歐洲和亞洲市場可能會落後。依賴美國出口或全球供應鏈的國家可能面臨增長放緩，促使投資者尋求美國資產的安全。由於川普的政策在全球範圍內引發了不同的反應，這可能進一步提振對美國股票和美元的需求。</p>
+<ol class="no-markers" start="4">
+<li dir="ltr">
+<h2 dir="ltr">川普貿易戰緊張局勢</h2>
+</li>
+</ol>
+<p dir="ltr">全球市場最大的風險之一是可能再次爆發貿易戰，尤其是美國和中國之間的貿易戰。川普激進的貿易政策，包括對外國商品徵收廣泛關稅的可能性，可能會加劇與中國和歐盟的緊張關係。他提議對所有進口產品徵收 10% 至 20% 的關稅，再加上汽車等具體關稅目標，這可能會擾亂全球供應鏈、推高通脹並減緩經濟增長。</p>
+<p dir="ltr">如果川普對中國商品徵收 60% 的關稅，這可能會導致中國採取報復性關稅，從而導致全球市場動盪。這將對墨西哥、韓國和巴西等嚴重依賴與美國和中國的貿易的新興市場產生尤爲明顯的影響。歐盟也容易受到美國關稅的影響，這可能會使其陷入更廣泛的貿易衝突。</p>
+<p dir="ltr">鑑於英國與歐盟的緊密聯繫以及陷入腹背受敵的風險，脫歐後的英國面臨着如何應對這些風險的艱難選擇。保護主義的擡頭可能破壞全球市場的穩定，損害較小經濟體的利益，並對全球經濟穩定構成嚴重風險。</p>
+<ol class="no-markers" start="5">
+<li dir="ltr">
+<h2 dir="ltr">投資者的交易機會和風險</h2>
+</li>
+</ol>
+<p dir="ltr">雖然美國股市和美元的短期前景樂觀，但長期風險依然存在，特別是與通脹、國家債務上升和全球貿易不確定性相關的風險。川普的親商政策或許會在短期內帶來經濟提振，但他的貿易戰和財政政策的長期影響仍不確定。</p>
+<h3 dir="ltr">川普的放松管制政策</h3>
+<p dir="ltr">川普繼續推動在關鍵領域特別是能源、金融和技術領域放松管制，這可能會帶來增長和創新的機會。通過減少監管障礙並允許企業獲得更大的運營靈活性，放松管制可以降低合規成本，提高生產力並刺激投資。石油和天然氣、金融服務和科技等行業的公司盈利能力可能會顯著提高，從而有可能在短期內提振美國股市的表現。這種環境也可能吸引尋求美國商業友好型環境的外國投資。然而，這些好處能否長期持續，這取決於放松管制是否會導致無法預料的負面後果，例如環境或系統性金融風險。</p>
+<h3 dir="ltr">債務和通脹風險</h3>
+<p dir="ltr">在川普執政下，美國國債問題依然令人擔憂。他提出的減稅和增加國防開支的政策可能會增加財政赤字，從而可能對利率造成上行壓力。此外，財政擴張和保護主義擡頭（包括對來自中國和其他貿易伙伴的進口商品徵收關稅）可能會推高美國消費者和企業的成本。隨着通貨膨脹加速，這可能會削弱購買力並抑制消費者支出，從而對經濟增長產生負面影響。通脹上升也可能導致美聯儲收緊貨幣政策，這可能會減緩股市的勢頭並增加借貸成本。</p>
+<h2 dir="ltr">結論：不確定時期的樂觀主義</h2>
+<p dir="ltr">唐納德·川普在 2024 年大選獲勝，引發美國股市強勁上漲，美元走強，這得益於減稅、放松管制以及包括關注能源獨立的親商議程的預期。預計能源、技術和金融等關鍵行業將在短期內實現增長，而全球市場則面臨潛在貿易戰、關稅和地緣政治緊張局勢帶來的風險。</p>
+<p dir="ltr">儘管美國市場情緒樂觀，但對通脹上升、國家債務和長期經濟穩定的擔憂仍然存在。投資者應保持積極但謹慎的態度，在短期市場機會與整體經濟的潛在波動性和不確定性之間取得平衡。</p>
+<p dir="ltr"><a href="https://www.atfx.com/zh-hant/trading-accounts/demo-account" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="aligncenter wp-image-25097 size-full" src="https://www.atfx.com/wp-content/uploads/2023/10/demo-account-taiwan.webp" alt="demo account taiwan" width="825" height="206" srcset="https://www.atfx.com/wp-content/uploads/2023/10/demo-account-taiwan.webp 825w, https://www.atfx.com/wp-content/uploads/2023/10/demo-account-taiwan-300x75.webp 300w, https://www.atfx.com/wp-content/uploads/2023/10/demo-account-taiwan-768x192.webp 768w" sizes="(max-width: 825px) 100vw, 825px" /></a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>4 種常見的交易圖表形態: 掌握市場走勢的關鍵</title>
+		<link>https://www.atfx.com/zh-hant/analysis/trading-strategies/4-trading-chart-patterns-why-important</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Thu, 24 Aug 2023 06:34:23 +0000</pubDate>
+				<category><![CDATA[交易策略]]></category>
+		<category><![CDATA[中級交易策略]]></category>
+		<guid isPermaLink="false">https://lptemplatedev.wpengine.com/uncategorized/4-trading-chart-patterns-why-important-2</guid>
+
+					<description><![CDATA[圖表形態是技術分析中使用的工具。 一些交易者會使用指標或振盪指標。一些則傾向於把分析重點放在價格上。 很清楚的 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>圖表形態是技術分析中使用的工具。</p>
+<p><span id="more-23215"></span></p>
+<p>一些交易者會使用指標或振盪指標。一些則傾向於把分析重點放在價格上。</p>
+<p>很清楚的是，這些技術形態表明了一些具體的東西：圖表的趨勢，價格目標等等。</p>
+<p>讓我們看看存在有哪些圖表形態以及它們的用途。</p>
+<p><strong>目錄</strong></p>
+<p><a href="#trading-chart-patterns" rel="noopener">交易圖表形態概述</a></p>
+<p><a href="#type-of-trading-chart-patterns" rel="noopener">2 種最常見的交易圖表形態</a></p>
+<p><a href="#other-chart-patterns" rel="noopener">其他常見的圖表形態</a></p>
+<p><a href="#importance-of-trading-with-patterns" rel="noopener">掌握圖表形態的重要性</a></p>
+<p><a href="#summary" rel="noopener">總結</a></p>
+<p><a id="trading-chart-patterns" data-hs-anchor="true"></a></p>
+<h2>交易圖表形態概述</h2>
+<p>當我們開始在交易世界中操作時，我們了解到某些工具可以幫助我們提前評估價格走勢，從而預測並採取相應的行動。</p>
+<p>顧名思義，這些工具是將歷史價格聯繫在一起的圖表設置。</p>
+<p>我們都經歷過經典的肩-頭-肩或日本燭圖。但是形態本身沒有任何意義。你要尋找對你有利的交易環境，而不僅僅是形態。</p>
+<p><a id="type-of-trading-chart-patterns" data-hs-anchor="true"></a></p>
+<h2>2 種最常見的交易圖表形態</h2>
+<p>圖形模式可以有2 種形態：反轉形態和延續形態。</p>
+<p>這2 種形態上有什麼區別呢?</p>
+<p>反轉形態預示著圖表上趨勢的變化。如果我們有一個看漲的圖表，反轉模式將表明一個看跌走勢。最常見的是頭肩型、坡跟型、W型或雙頂型。</p>
+<p>延續形態則意味著遵循當前趨勢。換句話說，在上升趨勢中，延續模式將表明該趨勢的延續。它們很常見，如三角形態或旗形。</p>
+<h3>1. 反轉形態</h3>
+<p>看圖表時，趨勢的方向是決定性的。</p>
+<p>讓我們更詳細地討論一些變化形態：</p>
+<ul>
+<li>
+<h4>頭肩形態(HCH)</h4>
+<h4><span style="font-size: 11px;color: #000000"><img loading="lazy" decoding="async" src="https://lh5.googleusercontent.com/kBdafG5Uog7EP0bOEIMD3LuSgoRxmeUJsU8yhtv5T3RvNerjPH0uumunzW25LWUvixRzzgGgvzblCXlrQ6M9l3VvqWOn9o7HuTpa7Mi8538lQ-h2mZqZNWR-BoDyniuhnoNLxZAxZKOHKYlJBsR0NAo" width="270" height="270" loading="lazy" style="width: 270px;height: auto;max-width: 100%"></span></h4>
+</li>
+</ul>
+<p>通常出現在上升趨勢的末端，表明市場可能會改變方向。它由3個相對極大值組成。</p>
+<ul>
+<li>
+<h4>楔形</h4>
+</li>
+</ul>
+<h4><span style="font-size: 14px;color: #434343"><img loading="lazy" decoding="async" src="https://lh5.googleusercontent.com/rp59cTOjzAYu6pBFslpjJaKfhNYSnyC5HS-O_BQ9gr4tl_ZZp_Q4jCsdh0sBZqqo4pZhijuDPjOfbOJJKUqOadCeoqo_lhnhVVjfD1OUa5FuBaPmA1tAheQmRbErqI-sZnFHtT9YtM93iqGgGO6PG98" width="279" height="279" loading="lazy" style="width: 279px;height: auto;max-width: 100%"></span></h4>
+<p>這也標誌著市場的趨勢變化。這種形態可以出現在任何時間框架圖上，無論是日圖、週圖還是月圖。</p>
+<ul>
+<li>
+<h4>雙頂或雙底(W形態)</h4>
+<h4><span style="font-size: 11px;color: #000000"><img loading="lazy" decoding="async" src="https://lh3.googleusercontent.com/ewuzeFyA8FOK4t1AB3r1k4E1BE9_HCgHEICqMX9ZIBSuwjnRTyLli03A1fnHMwM1HM2e45r4BQ1G9C11yKRdA-6bfesw3XKh23_wAnDz4upa1CR6vuaIW4qZLs4d4iEix2LX2O2Fx7J_qG_K-BeyK50" width="301" height="301" loading="lazy" style="width: 301px;height: auto;max-width: 100%"></span></h4>
+</li>
+</ul>
+<p>它們是一樣的，只是相反。 2 者都是典型的逆轉模式，預示著潛在的趨勢逆轉(雙頂-看漲到看跌；雙底-看跌到看漲)。</p>
+<h3>2. 持續形態</h3>
+<p>延續模式表示趨勢的鞏固，通常持續時間較短。</p>
+<p>我們看看一些例子：</p>
+<ul>
+<li>
+<h4>三角形</h4>
+<h4><span style="font-size: 11px;color: #000000"><img loading="lazy" decoding="async" src="https://lh3.googleusercontent.com/nn5RqtdNHA7mn4TWQAYTh-zpylO3h2iwTswT3A9cv5M-XDsXtQy6XnzVA9xrg3B0aRIsW-ZPqoGRySEquH1lWlfWzYr0z8nhxbPP6E44q7er_oGRfVFzXTCGqSt0RKgYv9hFg5VeOYP8XVNeapeqEkw" width="223" height="223" loading="lazy" style="width: 223px;height: auto;max-width: 100%"></span></h4>
+</li>
+</ul>
+<p>它們可以揭示當前市場的交易形勢，以及鯊魚和小魚之間的不匹配。三角形通常出現在趨勢的中間，表示其趨勢將延續。</p>
+<ul>
+<li>
+<h4>旗形</h4>
+<h4><span style="font-size: 11px;color: #000000"><img loading="lazy" decoding="async" src="https://lh4.googleusercontent.com/EZK9UpuMS_PgoKl4SWURZKG_RMmOMRcwcYcbu4x5_mDDjLYbYgsmw-OtUxbxQgji93vbnGb_Tb_Ksl63wIWJeP6zMDiHknPrERP_Y0Iu7es4DvM9QGuWlPU_fscfgbKjmYNqLL66JDP6nNALfBWSs2Q" width="208" height="208" loading="lazy" style="width: 208px;height: auto;max-width: 100%;margin-top: 0px;margin-bottom: 10px"></span></h4>
+</li>
+</ul>
+<p>它們出現在已經形成趨勢的圖表上，要么是看漲，要么是看跌。這是一個持續的模式，因為趨勢還在繼續。通常情況下，這些標誌在一個強勁的趨勢期之後形成。</p>
+<p><a id="other-chart-patterns" data-hs-anchor="true"></a></p>
+<h2>其他常見的圖表形態</h2>
+<p>我們還可以用其他元素來判斷數據或形態。</p>
+<p>只需要了解一些工具也可以在圖表上顯示價格的趨勢或連續性。</p>
+<p>仔細看一下這些例子。對於技術分析，您應該考慮所有這些因素。</p>
+<h3>1. 蠟燭圖形態</h3>
+<p>蠟燭圖在交易中是一個常識問題。</p>
+<p>只有2種蠟燭形態：反轉模式和延續模式。</p>
+<h3><span style="font-size: 11px;color: #000000"><img loading="lazy" decoding="async" src="https://lh3.googleusercontent.com/vgwyt9XoVnASwg7LX39I6hch-hIMjoNS5g8-0GKqxLSOSZr7g2M0EnUDeDaZ0iSYbaSAZ5Z5Sc5GQ_0m7mHH1j6qISfK-GiC-PFwVgg8D-4JWR5CcSdXi5PfqELDRdyhmVTfHcndQ77Q3lZ_i9i41AU" width="256" height="256" loading="lazy"></span></h3>
+<p>它們分別說明了什麼？</p>
+<p>反轉模式是指價格掉頭的模式。簡而言之，它包括在一個或多個蠟燭中觀察價格如何從看漲到看跌，或反之亦然。</p>
+<p>另一方面，延續模式指的是當前趨勢的中斷。價格通常會在一段時間內保持不變或略有回落。<a href="/zh-hant/analysis/trading-strategies/how-forex-traders-use-candlestick-charts-to-analyze-forex-trends?__hstc=45788219.a653b171e3405ee1d66f565d78e58ea9.1692844910765.1692844910765.1692844910765.1&amp;__hssc=45788219.1.1692844910765&amp;__hsfp=3106923833" rel="noopener" target="_blank">了解外匯交易員如何使用蠟燭圖來分析趨勢。</a></p>
+<h3>2. 趨勢形態</h3>
+<p>價格是按趨勢變動的嗎?</p>
+<p>答案是肯定的。</p>
+<p><span style="font-size: 11px;color: #000000"><img loading="lazy" decoding="async" src="https://lh5.googleusercontent.com/aenoyVgwKnG0WYIaUJMi52KCpNZnESa45E9zRW3TGD9qxqe6gjCVFitycOtHqRbvWWW1ZhultqQWTVvEWL3mC8CgwEHNVotYxAkmv3Rtsost7_u1lm5D5QwEqApEHPAeaGLLWue5yZqjgu61Rnur4Sw" width="181" height="204" loading="lazy" style="margin-top: 10px;margin-bottom: 10px;width: 181px;height: auto;max-width: 100%"></span></p>
+<p>趨勢模式是典型的技術分析工具。它們將幫助我們確定市場的方向、支撐和阻力。</p>
+<p>讓我們來看看一些趨勢線類型：</p>
+<ul>
+<li>看漲趨勢線</li>
+<li>上升趨勢線</li>
+<li>下降趨勢線</li>
+<li>看跌趨勢線</li>
+<li>拋物線趨勢線</li>
+</ul>
+<p>如果你想更多地了解每種類型的趨勢，請觀看下一篇完整介紹的文章。</p>
+<p>然而，請記住，趨勢顯示的是價格的變動。這個價格是不斷波動的。所以一個真正的趨勢總是伴隨振蕩的。</p>
+<p><span style="font-size: 11px;color: #000000"><img loading="lazy" decoding="async" src="https://lh6.googleusercontent.com/W12sLqmCcrLjZ8FTqusWORP67zwLw5YuGbO4O6venPzigJVWqjnkdZIg97_OILvHFXEML7QiRJy8-s40V2RaVRWvTRkg1JaU2w15IKPlaCeXGGRaeHw0pCjRp6Wh2irALVVQu2OWf0t1YTraKyX7Z3U" width="451" height="430" loading="lazy" style="margin-left: auto;margin-right: auto;width: 451px;height: auto;max-width: 100%"></span></p>
+<p><a id="importance-of-trading-with-patterns" data-hs-anchor="true"></a></p>
+<h2>掌握圖表形態的重要性</h2>
+<p>正如我們在文章中已經告訴你的，形態是開始交易的基礎。</p>
+<p>我們不懷疑它們能在某個時刻幫助你，但要做到愛上它們很難。</p>
+<p>在網上流傳的許多博客中，它們被定義為完美的交易策略，但事實並非如此。</p>
+<p>你必須尋找對應的趨勢，而不是認為公式會給你所有你需要的錢。</p>
+<p>我們甚至會將它們與其他技術指標結合起來，以確認你對價格走勢的看法，或者證明你的假設是錯誤的。</p>
+<p>隨機振盪器，強力指數，或MACD，可以幫助你在買賣時大大提高你的精確度。</p>
+<p><a id="summary" data-hs-anchor="true"></a></p>
+<h2>總結</h2>
+<p>技術分析用於研究市場中的機會，並確定進入和退出的時機，以及一般情況下管理我們的頭寸。</p>
+<p>有無數的<a href="/zh-hant/trading-platforms/metatrader-4/mt4-indicators?__hstc=45788219.a653b171e3405ee1d66f565d78e58ea9.1692844910765.1692844910765.1692844910765.1&amp;__hssc=45788219.1.1692844910765&amp;__hsfp=3106923833" rel="noopener" target="_blank">mt4指標</a>是免費使用的，可識別的模式、技術和交易系統。重要的是，在真正投入資金之前，你要學會識別常見的交易圖表形態。</p>
+<p>同時，如果你想在投資你的血汗錢之前測試一下你對交易圖表的了解，我們建議你<a href="/zh-hant/trading-accounts/demo-account?__hstc=45788219.a653b171e3405ee1d66f565d78e58ea9.1692844910765.1692844910765.1692844910765.1&amp;__hssc=45788219.1.1692844910765&amp;__hsfp=3106923833" rel="noopener" target="_blank">開立一個模擬賬戶</a>。 ATFX在一個非常實用的交易平台上提供所有主要的金融產品，以練習不同的策略，同時還可以從ATFX提供的指南或免費培訓材料中學習。所以，現在就免費獲得您的模擬交易賬戶吧！</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>白銀值得投資嗎？購買白銀的5 個利與弊</title>
+		<link>https://www.atfx.com/zh-hant/analysis/trading-strategies/is-silver-a-good-investment-5-pros-cons-of-silver-investment</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Thu, 29 Dec 2022 06:00:00 +0000</pubDate>
+				<category><![CDATA[交易策略]]></category>
+		<category><![CDATA[中級交易策略]]></category>
+		<guid isPermaLink="false">https://lptemplatedev.wpengine.com/uncategorized/is-silver-a-good-investment-5-pros-cons-of-silver-investment</guid>
+
+					<description><![CDATA[在決定何時投資哪種金屬最合適時，貴金屬投資者很可能有太多選擇。許多人想知道，根據他們的風險偏好、當前的經濟狀況 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p style="text-align: justify; line-height: 2;">在決定何時投資哪種金屬最合適時，貴金屬投資者很可能有太多選擇。許多人想知道，根據他們的風險偏好、當前的經濟狀況或投資時間框架，哪種白銀和黃金是正確的選擇。在做這樣重要的決定時，白銀常常被忽視，但從歷史上看，它一直是最便宜的貴金屬。然而，它在整個文明中都有價值。然而，在2022年，白銀是一個好的投資嗎？在目前經濟不確定的情況下，我現在應該投資白銀嗎?</p>
+<p><span id="more-11209"></span></p>
+<p style="text-align: justify; line-height: 2;">從消費者的角度來看，白銀可能看起來是一種有價值的財產，但從投資者的角度來看，有很多變量在起作用。白銀投資有利有弊，新手投資者也不能忽視。這些都是你在投資白銀之前需要考慮的問題。</p>
+<h2>白銀保值嗎？</h2>
+<p>白銀是一種具有實質價值的資產，能在貨幣貶值和經濟不確定時期提供有效的財富保障。其廣泛的工業用途，如電子產品、太陽能電池和新能源汽車，持續推動對白銀的需求，使其價格具有穩定支撐。加上歷史上白銀在市場震盪期間常表現出反彈趨勢，使它成為許多投資者用來分散風險和保護資產的選擇。</p>
+<p style="text-align: justify; line-height: 2;"><img loading="lazy" decoding="async" style="height: auto; max-width: 100%; width: 940px;" src="https://www.atfx.com/hubfs/Silver%20A%20Good%20Investment.webp" alt="Silver A Good Investment" width="940" height="483" /></p>
+<h2 style="text-align: justify; line-height: 2;">投資白銀的5個好處</h2>
+<h3 style="text-align: justify; line-height: 2;">1. 全天候價值儲存——它是有形的金錢</h3>
+<p style="text-align: justify; line-height: 2;">雖然現金存款、股票、國庫券、債券和其他類似的金融產品是很好的財富儲存方式，但它們仍然是本票。你可以預期，由於印鈔等做法，它們將面臨大量的貶值風險。擁有銀塊就保證了一種有限的有形資產。即使在動蕩的市場環境中，實物白銀也永遠不會變得一文不值。白銀將保持其內在和真正的價值。</p>
+<h3 style="text-align: justify; line-height: 2;">2. 對於入門者來說，銀是一種有效的投資組合分散工具。</h3>
+<p style="text-align: justify; line-height: 2;">銀應該是任何投資組合的特色成分。即使白銀有時在一個狹窄的區間內交易，人們總是預期市場將發生影響市場的事件。你應該考慮持有白銀，因為它能夠長期保值，使你的投資組合在不利的市場表現中有緩衝作用。當股市崩盤時，如果你的大部分儲蓄都是現金，那麼你的淨資產就會減少。如果你在股票和基金等風險較高的金融工具上過度投資，白銀資產可以讓你收回一些價值。</p>
+<p style="text-align: justify; line-height: 2;">從歷史上看，當股市崩盤時，白銀價格就會飆升，這並不奇怪。在投資組合中擁有黃金和白銀有助於投資者彌補股市損失，並在經濟開始復蘇時提供了一個備用資金來源，用於重新投資被低估的股票。</p>
+<p style="text-align: justify; line-height: 2;"><img loading="lazy" decoding="async" style="height: auto; max-width: 100%; width: 975px;" src="https://www.atfx.com/hubfs/5%20Pros%20and%20Cons%20of%20Silver%20Investment.webp" alt="5 Pros and Cons of Silver Investment" width="975" height="502" /></p>
+<h3 style="text-align: justify; line-height: 2;">3. 白銀的回報率比黃金高。</h3>
+<p style="text-align: justify; line-height: 2;">銀比黃金便宜得多，但回報率卻比黃金高。白銀現貨價格的波動比黃金價格的波動要大，即使它們的走勢是相同的。當銀價開始上漲時，你可以預期有更大的百分比收益。在尋找短期投機交易時，你可以指望白銀在牛市中表現優於黃金。例如，在2008年至2011年這兩種金屬的上漲期間，黃金只上漲了170%，而銀上漲了450%。投資者可以考慮在投資組合中持有更多的白銀而不是黃金。</p>
+<h3 style="text-align: justify; line-height: 2;">4. 白銀是一種避險投資</h3>
+<p style="text-align: justify; line-height: 2;">白銀是一種避險金屬，可以幫助投資者運用對沖機制來應對通貨膨脹和任何經濟衰退。最近的一個例子是，銀價在2020年初COVID-19大流行爆發時上漲。不確定性推動白銀現貨價格今年上漲了45%。隨著主要央行和政府調整財政政策，推出更多刺激方案，投資者紛紛買入白銀。</p>
+<h3 style="text-align: justify; line-height: 2;">5. 用途廣泛的多功能金屬——持續需求。</h3>
+<p style="text-align: justify; line-height: 2;">銀是工業部門中廣泛使用的金屬，也是投資組合中必不可少的金融大宗商品。許多工業用具使用銀，因為它的高導電性和防銹性。未來的技術創新包括電池、電子、能源電池和醫療研究設備中的銀。因此，即使全球經濟擴張，白銀投資也會繼續增長。</p>
+<p style="text-align: justify; line-height: 2;">經濟發展與技術發展是同步的。例如，新的純電動汽車(BEV)在許多方面都使用了銀。 BEV也在其他部件中使用銀，如車輛導航和充電狀態傳感器。許多半導體使用銀與電子元件相互作用。需要銀來運營的充電站(包括家庭充電站和基礎設施充電站)有望擴大。</p>
+<h2 style="text-align: justify; line-height: 2;">投資白銀的4個缺點</h2>
+<p style="text-align: justify; line-height: 2;">儘管有這麼多好處，白銀投資仍不是輕而易舉的事。它也有一些輕微的缺點，盲目投資可能會帶來可怕的後果，尤其是對入門者來說。在決定是否或何時投資白銀之前，有一些缺點需要考慮。</p>
+<h3 style="text-align: justify; line-height: 2;">1. 恐懼會對價格產生負面影響</h3>
+<p style="text-align: justify; line-height: 2;">由於購買白銀的投機持續增長，恐懼是不可忽視的推動力。恐懼會不可預測地震動價格，在某些情況下，很難找到價格為何以某種方式表現的解釋。由於恐懼，價格總是對投資者有利或不利。投資者的行為也不理性，因此對一些新聞事件反應過度。當你預計價格將傾向於上行，當消息看起來樂觀時轉向下行時，你可以賣出它們。極端的樂觀和悲觀也導致了現貨價格的大量錯誤定價。</p>
+<p style="text-align: justify; line-height: 2;">即使有很好的炒白銀策略，一些人仍然無法控制自己的情緒，最終拋售白銀來滿足短期生活開支。他們這樣做也可能是希望以不同的價格購買白銀，由於通貨膨脹，他們無法準確估計價格。當新冠肺炎疫情顯然將影響整個市場時，白銀價格在幾週內大幅波動，最終形成了一個明確的走勢。人們首先拋售了他們的庫存，白銀緊隨其後，因為工廠不得不削減產量，減少了對白銀的需求。當以白銀為基礎的投資出現過剩時，白銀價格就會出現波動。</p>
+<p style="text-align: justify; line-height: 2;"><img loading="lazy" decoding="async" style="height: auto; max-width: 100%; width: 975px;" src="https://www.atfx.com/hubfs/Cons%20of%20Silver%20Investment.webp" alt="Cons of Silver Investment" width="975" height="502" /></p>
+<h3 style="text-align: justify; line-height: 2;">2. 實物白銀沒有紅利</h3>
+<p style="text-align: justify; line-height: 2;">持有銀塊是一種依靠升值賺錢的投資。它削弱了投資銀幣或銀條的吸引力。在許多情況下，這類投資者不得不冒險進入其他業務或購買其他金融資產，以產生現金流，以維持他們退休後的生活。未來有很多獲得現金流入的選擇，但純粹依靠出售白銀來獲得生存收入是一個糟糕的主意，一生積蓄的白銀很容易用完。由於白銀價格的波動，如果人們想立即獲得現金，有時會以比買入更低的價格賣出。</p>
+<h3 style="text-align: justify; line-height: 2;">3.每盎司沒有對應的準確價值</h3>
+<p style="text-align: justify; line-height: 2;">即使可以在網上隨時獲取白銀的現貨價格，最終，你也只能以市場流行時刻有人願意支付的價格出售你的銀條。即使是在貴金屬等複雜市場的交易中，自願買賣規則也適用。除了供求關係，人們還需要擔心情緒和槓桿的結合。雖然根據收入預測、未償還貸款等參數很容易對企業進行估值，但銀價受到外部力量的影響。</p>
+<h3 style="text-align: justify; line-height: 2;">4. 白銀ETF存在交易對手風險</h3>
+<p style="text-align: justify; line-height: 2;">交易對手風險的概念僅僅意味著投資者依靠另一方來確保其投資得到良好管理。這就是為什麼投資於兩種不同的白銀ETF仍能產生不同的結果。這種情況就像擁有一個銀行賬戶一樣，這意味著你依賴銀行在你需要的時候支付你的提款。 ETF的流動性很高，但在發生災難性事件時，某些條款和條件有時有利於該基金。</p>
+<h2 style="text-align: justify; line-height: 2;">總結圖表</h2>
+<table style="border-collapse: collapse; margin-left: auto; margin-right: auto; border: 1px solid #99acc2; width: 99.8674%; height: 382.844px;">
+<tbody>
+<tr style="height: 53.2969px;">
+<td style="border: 1pt solid #000000; width: 4.13523%; height: 53px; vertical-align: top;"></td>
+<td style="border: 1pt solid #000000; width: 95.7831%; height: 53px; vertical-align: top;" colspan="2">
+<p style="text-align: center; font-size: 18px;"><strong>購買白銀</strong></p>
+</td>
+</tr>
+<tr style="height: 53.1719px;">
+<td style="border: 1pt solid #000000; width: 4.13523%; height: 53px; vertical-align: top;"><span style="font-size: 12px;"> </span></td>
+<td style="border: 1pt solid #000000; width: 48.6197%; height: 53px; vertical-align: top;">
+<p style="text-align: center;"><strong>5 大優點</strong></p>
+</td>
+<td style="border: 1pt solid #000000; width: 47.1634%; height: 53px; vertical-align: top;">
+<p style="text-align: center;"><strong>4 大缺點</strong></p>
+</td>
+</tr>
+<tr style="height: 48.3125px;">
+<td style="border: 1pt solid #000000; width: 4.13523%; height: 48px; vertical-align: top;">1.</td>
+<td style="border: 1pt solid #000000; width: 48.6197%; height: 48px; vertical-align: top;">全天候價值儲存——它是有形的金錢</td>
+<td style="border: 1pt solid #000000; width: 47.1634%; height: 48px; vertical-align: top;">恐懼會對價格產生負面影響</td>
+</tr>
+<tr style="height: 78.3125px;">
+<td style="border: 1pt solid #000000; width: 4.13523%; height: 78px; vertical-align: top;">2.</td>
+<td style="border: 1pt solid #000000; width: 48.6197%; height: 78px; vertical-align: top;">對於入門者來說，銀是一種有效的投資組合分散工具</td>
+<td style="border: 1pt solid #000000; width: 47.1634%; height: 78px; vertical-align: top;">實物白銀沒有紅利</td>
+</tr>
+<tr style="height: 50.0625px;">
+<td style="border: 1pt solid #000000; width: 4.13523%; height: 50px; vertical-align: top;">3.</td>
+<td style="border: 1pt solid #000000; width: 48.6197%; height: 50px; vertical-align: top;">白銀的回報率比黃金高</td>
+<td style="border: 1pt solid #000000; width: 47.1634%; height: 50px; vertical-align: top;">每盎司沒有對應的準確價值</td>
+</tr>
+<tr style="height: 50.0625px;">
+<td style="border: 1pt solid #000000; width: 4.13523%; height: 50px; vertical-align: top;">4.</td>
+<td style="border: 1pt solid #000000; width: 48.6197%; height: 50px; vertical-align: top;">白銀是一種避險投資</td>
+<td style="border: 1pt solid #000000; width: 47.1634%; height: 50px; vertical-align: top;">白銀ETF存在交易對手風險</td>
+</tr>
+<tr style="height: 48.3125px;">
+<td style="border: 1pt solid #000000; width: 4.13523%; height: 48px; vertical-align: top;">5.</td>
+<td style="border: 1pt solid #000000; width: 48.6197%; height: 48px; vertical-align: top;">用途廣泛的多功能金屬——持續需求</td>
+<td style="border: 1pt solid #000000; width: 47.1634%; height: 48px; vertical-align: top;"></td>
+</tr>
+</tbody>
+</table>
+<h2 style="text-align: justify; line-height: 2;">投資白銀的4種方法</h2>
+<p style="text-align: justify; line-height: 2;">掌握了投資白銀的利與弊的足夠信息後，你現在需要考慮如何投資白銀。如果你正在尋找投資白銀的最佳方式，這裡有一些現成的建議。</p>
+<h3 style="text-align: justify; line-height: 2;">1. 購買銀條</h3>
+<p style="text-align: justify; line-height: 2;">價值投資者可以以硬幣、銀條或各種形式購買白銀鑄造的實物。廢銀被認為是最純粹的形式。它通常是各種各樣的純銀，存放在家裡的一個小箱子裡，或存放在保險庫裡的大量白銀。然而，儲存白銀是困難的，因為需要為安全設備製定單獨的計劃，特別是知道貴金屬會被偷。你可以投資實物白銀，以避免其他方就其操作訂立合同或擔保。</p>
+<p style="text-align: justify; line-height: 2;">實物形式的白銀需要有人在網上商店或當地硬幣商店購買或出售。如果你在網上購買，你可能會得到更好的價格，因為實體店通常會考慮其他因素，如存儲、租金和安全成本。</p>
+<h3 style="text-align: justify; line-height: 2;">2. 買白銀ETF和期貨</h3>
+<p style="text-align: justify; line-height: 2;">交易所交易基金(ETF)的狂熱使得許多投資者更容易擁有貴金屬，而不用擔心它們的儲存。在投資白銀ETF之前，你可以通過一個演示賬戶來監控價格並學習交易。一些知名的<a href="/zh-hant/etf" target="_blank" rel="noopener">白銀ETF</a>和期貨合約包括景順銀行白銀基金(Invesco DB silver Fund)和SPDR。這是一種投資白銀的好方法，因為人們可以享受擁有白銀的好處、日內交易和實時報價，以監控投資組合中白銀的價格。</p>
+<p style="text-align: justify; line-height: 2;">喜歡波動性大的交易員喜歡白銀ETF，而不是黃金，因為白銀價格波動更大，對製造業數據的輕微波動更有反應。然而，最大的好處是在需要時立即賣出或買入。實物黃金可能需要很長時間才能以合適的價格和數量出售。點擊這裡進行<a href="/zh-hant/markets/commodities" target="_blank" rel="noopener">商品交易</a>。</p>
+<p style="text-align: justify; line-height: 2;"><img loading="lazy" decoding="async" style="height: auto; max-width: 100%; width: 975px;" src="https://www.atfx.com/hubfs/ETF.webp" alt="ETF" width="975" height="502" /></p>
+<h3 style="text-align: justify; line-height: 2;">3. 擁有白銀公司股票</h3>
+<p style="text-align: justify; line-height: 2;">如果你喜歡擁有白銀資產，而不擔心供應問題，你可以購買銀礦股。有時白銀礦業股票的表現可能會超過白銀本身的收益。</p>
+<p style="text-align: justify; line-height: 2;">此外，該礦業公司的管理層可能會進行資產投資，以增加其白銀產量，使其股價迅速上漲。一定要確保你投資的礦業公司以白銀為主要關注點。 First Magtic Silver(NYSE:AG)的主要業務是白銀，2020年65%的收入來自白銀開採。點擊這裡開始<a href="/zh-hant/markets/shares-trading" target="_blank" rel="noopener">股票交易</a>。</p>
+<h3 style="text-align: justify; line-height: 2;">4. 白銀作為外匯貨幣對進行交易</h3>
+<p style="text-align: justify; line-height: 2;">如果有一種技巧可以讓你以盡可能少的步驟投資白銀，那就是與貨幣對一起交易。如果你已經知道如何在<a href="/zh-hant/markets/forex-trading" target="_blank" rel="noopener">外匯交易</a>中使用銀對。人們可以任意投資他們想要的金額，因為它不要求交易者購買一定數量的最低數量來擁有白銀。這種貨幣只是根據當時現貨銀的價值進行交換。這種方法是投機交易者的最愛，因為無論現貨銀價格是否下跌，他們都可以從中獲利。當你打賭價格會下跌時，做空頭寸就會有利可圖，而這種情況確實會發生。</p>
+<h2 style="text-align: justify; line-height: 2;">那麼，你應該炒白銀嗎？</h2>
+<p style="text-align: justify; line-height: 2;">華爾街專家、交易員和市場行家的總體共識是，從長期來看，白銀有很大的上漲潛力。白銀幾乎沒有下跌風險，但與許多其他資產類型不同，白銀受到工業用途增加的支撐。它是新手的首選金屬。可以肯定的是，白銀將保持其戰略重要性，以對沖可能暗示經濟蕭條的不同市場事件。</p>
+<p style="text-align: justify; line-height: 2;">白銀投資受到高度評價，因為它給人們提供了一種安全的資產，即使是在動蕩的貴金屬市場。即使白銀在未來幾個月的表現仍不確定，你也可以指望它仍是投資組合經理和投機交易員的戰略持有資產。因此，強烈建議你在投資組合中加入白銀，以保護你的淨資產不受未來經濟波動的影響。<a href="/zh-hant/analysis/trading-strategies/how-to-become-a-trader" target="_blank" rel="noopener">學習如何成為一名操盤手</a>。</p>
+<p style="text-align: justify; line-height: 2;"><img loading="lazy" decoding="async" style="height: auto; max-width: 100%; width: 1200px;" src="https://www.atfx.com/hubfs/Trade%20Silver%20ATFX.webp" alt="Trade Silver ATFX" width="1200" height="619" /></p>
+<h2 style="text-align: justify; line-height: 2;">如何開始購買白銀？</h2>
+<p style="text-align: justify; line-height: 2;">只需幾個簡單的步驟，你就可以在幾分鐘內開始你的白銀投資生涯。在你的電腦或手機上開一個賬戶，開始<a href="/zh-hant/markets/commodities/oil-trading" target="_blank" rel="noopener">交易原油</a>、白銀、黃金、股票、外彙和其他金融工具。 ATFX在一個非常實用的交易平台上提供所有主要貨幣對、加密貨幣和其他貨幣對。</p>
+<p>&nbsp;</p>
+<p><a href="https://www.atfx.com/zh-hant/trading-accounts/demo-account" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="aligncenter wp-image-25097 size-full" src="https://www.atfx.com/wp-content/uploads/2023/10/demo-account-taiwan.webp" alt="demo account taiwan" width="825" height="206" srcset="https://www.atfx.com/wp-content/uploads/2023/10/demo-account-taiwan.webp 825w, https://www.atfx.com/wp-content/uploads/2023/10/demo-account-taiwan-300x75.webp 300w, https://www.atfx.com/wp-content/uploads/2023/10/demo-account-taiwan-768x192.webp 768w" sizes="(max-width: 825px) 100vw, 825px" /></a></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>買黃金來投資划算嗎？台灣黃金買賣的5個利與弊</title>
+		<link>https://www.atfx.com/zh-hant/analysis/trading-strategies/is-gold-good-investment</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Mon, 05 Dec 2022 06:00:00 +0000</pubDate>
+				<category><![CDATA[交易策略]]></category>
+		<category><![CDATA[中級交易策略]]></category>
+		<guid isPermaLink="false">https://lptemplatedev.wpengine.com/uncategorized/is-gold-good-investment-2</guid>
+
+					<description><![CDATA[購買黃金是一項好的投資嗎？交易員、儲蓄者和投資者青睞黃金的原因有很多，其中包括黃金令人印象深刻的特性，這使得它 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p style="text-align: justify; line-height: 2;">購買黃金是一項好的投資嗎？交易員、儲蓄者和投資者青睞黃金的原因有很多，其中包括黃金令人印象深刻的特性，這使得它與債券和股票等傳統證券形成了鮮明對比。全世界都認為黃金是一種很好的保值手段，儘管它不提供任何現金流。許多人認為黃金是對沖通脹的絕佳工具，但這是投資黃金的唯一理由嗎? 然而，黃金是一種好的投資嗎？更重要的是，你現在應該投資黃金嗎？</p>
+<p><span id="more-11165"></span></p>
+<p style="text-align: justify; line-height: 2;">購買黃金需要初學者了解買賣黃金有利有弊。很多因素都會起作用，包括策略、時機和定價。在你開始買賣黃金之前，你應該考慮以下5個利弊。</p>
+<p style="text-align: justify; line-height: 2;"><span style="font-size: 11px; color: #000000; background-color: #d9ead3;"><img loading="lazy" decoding="async" style="margin-left: auto; margin-right: auto; height: auto; max-width: 100%; width: 948px;" src="https://www.atfx.com/hubfs/is%20gold%20a%20good%20investment.webp" alt="is gold a good investment" width="948" height="489" /></span></p>
+<h2 style="text-align: justify; line-height: 2;">台灣黃金買賣的 5 大好處</h2>
+<h3 style="text-align: justify; line-height: 2;">1. 黃金有很長的升值歷史。</h3>
+<p style="text-align: justify; line-height: 2;">自從黃金被發現以來，它一直是人們夢寐以求的商品，用來儲存財富。儘管大多數央行最近已經停止使用黃金支持的貨幣，但黃金仍然非常有價值，尤其是在經濟低迷時期。與硬幣和紙幣不同，黃金幾個世紀以來一直保持穩定。投資者可以押注黃金，將財富傳給後代。</p>
+<h3 style="text-align: justify; line-height: 2;">2. 危機時期的可靠對沖</h3>
+<p style="text-align: justify; line-height: 2;">歷史上，黃金作為對抗通貨膨脹和其他危機的可靠對沖手段表現良好。即使在2022年生活成本繼續上升的情況下，它的價格仍在上漲。當世界主要經濟體遭受高通貨膨脹時，它們的貨幣會貶值，國債收益率也會變得不利。這種現象促使投資者關注黃金，因為作為避險資源，現金和國債收益率變得不那麼有效。在過去的50年裡，黃金價格持續上漲，而每當出現高通脹時期，股票指數就會暴跌。</p>
+<p style="text-align: justify; line-height: 2;"><img loading="lazy" decoding="async" style="height: auto; max-width: 100%; width: 1200px;" src="https://www.atfx.com/hubfs/Gold%20Markets%20Bear.webp" alt="Gold Markets Bear" width="1200" height="619" /></p>
+<h3 style="text-align: justify; line-height: 2;">3. 黃金幫助你分散投資組合</h3>
+<p style="text-align: justify; line-height: 2;">在投資組合中，除了普通股之外，擁有更多的股票是明智的。如果從十多年的時間來看，黃金有助於在經濟低迷時期減少損失。它對提高投資組合中經風險調整後的回報的表現有極好的作用。黃金期貨或ETF為你提供了一種流動性資產，同時在經濟繁榮和蕭條期間保持與其他資產類別的低相關性。根據金融投資建議，好的投資組合應該擁有相關性較低的資產，黃金是一個極好的選擇，因為它與股票呈負相關。</p>
+<h3 style="text-align: justify; line-height: 2;">4. 黃金需求持續增長</h3>
+<p style="text-align: justify; line-height: 2;">隨著新興經濟體的持續繁榮，新財富增加了消費者對黃金的需求。也有一些國家，金飾是文化的一部分。例如，印度是全球最大的黃金消費國，這是因為擁有黃金首飾的人非常普遍。印度家庭持有的黃金總量超過了前五大央行。贈送黃金首飾和家居裝飾是亞洲的一種普遍文化。中國和印度是全球最大的黃金消費國。對於那些計劃買賣黃金、又不確定需求的人來說，迅速壯大的中產階級已經是一個很好的投資線索。</p>
+<p style="text-align: justify; line-height: 2;">由於現金流動性高的中產階級對黃金珠寶、戒指和相關配件的需求更大，預計黃金需求將會增長。過去10年，由於網上交易的普及，機構投資者和基金經理紛紛湧向黃金和貴金屬，將其作為投資渠道。它們是配置資金和從微小價格變化中受益的流動性投資渠道。</p>
+<h3 style="text-align: justify; line-height: 2;">5. 全球政府債務正處於最高水平</h3>
+<p style="text-align: justify; line-height: 2;">全球政府債務總額每年都在增加。 2020年底的總債務為284萬億美元，預計在2023年還會增加，因為許多經濟體別無選擇，只能繼續借貸。全球主要經濟體所經歷的巨額赤字也可能意味著另一場金融危機可能正在醞釀之中。我現在應該投資黃金嗎？精明的投資者應該將此視為一個信號，將黃金作為一種可以保護其投資組合的避險資產。</p>
+<h2 style="text-align: justify; line-height: 2;">台灣黃金買賣的 5 個缺點</h2>
+<p style="text-align: justify; line-height: 2;">就像所有的投資一樣，它從來都不是一帆風順的。投資黃金也有一些重大的風險和缺點。這些常見的問題經常使人們不願在投資組合中持有大量黃金。</p>
+<h3 style="text-align: justify; line-height: 2;">1. 大幅上漲後又下跌</h3>
+<p style="text-align: justify; line-height: 2;">當全球經濟進入輕度或嚴重衰退時，黃金價格通常會飆升。這一點在2011年表現得很明顯，當時金價平均達到每盎司1888美元。然而，到2020年中期，價格已經下降。這表明價格表現良好，但與十年前相比仍有所下降。</p>
+<p style="text-align: justify; line-height: 2;">一個更為明顯的趨勢發生在70年代末，當時由於經濟不穩定，金價飆升。在屢創新高之後，現貨價格在接下來的20年裡逐漸下跌。根據你可能採取的策略，一個買入並持有的投資者不會等待10年，直到價格接近或低於他們買入時的價格。在2020年大流行期間，投資者不確定經濟將如何表現，反過來，許多人也不太清楚黃金交易的未來走向。在70年代的情況下，許多投資者還需要決定是立即買入黃金，還是等待金價稍微下跌後再買入。股市在持續反彈後大幅下跌，令許多沒有高風險偏好的投資者望而卻步。</p>
+<p style="text-align: justify; line-height: 2;"><img loading="lazy" decoding="async" style="height: auto; max-width: 100%; width: 1200px; margin-left: auto; margin-right: auto;" src="https://www.atfx.com/hubfs/Cons%20of%20Gold%20Investment.webp" alt="Cons of Gold Investment" width="1200" height="619" /></p>
+<h3 style="text-align: justify; line-height: 2;">2. 金幣並不是抵禦通貨膨脹的完美工具</h3>
+<p style="text-align: justify; line-height: 2;">由於金幣或金條不產生股息或任何利息回報，黃金並不是長期通貨膨脹的“完美對沖”。投資黃金也是有風險的，人們希望對這種風險有一定的補償。對黃金進行戰略性配置是可以的，但從長期來看，許多人認為，黃金無法產生足以證明簡單地將其存放在保險庫裡的回報水平。另一方面，儘管通貨膨脹保值債券在高通脹時期提供了一些保障，但其他證券，如通貨膨脹保值債券和自然資源類股票，可以提供更好的對沖效果。</p>
+<h3 style="text-align: justify; line-height: 2;">3.黃金不能生產或複制</h3>
+<p style="text-align: justify; line-height: 2;">如果從非價格的角度來看，隨著時間的推移，一盎司黃金仍將是一盎司黃金。相比之下，投資者可能更喜歡公司股，因為這些公司生產其他產品。例如，一支科技股可能會繼續生產一些消費電子產品，為投資者帶來新的收入來源。如果條件合適，一家公司可能會擁有不斷增長的資產組合，從而獲得更大的盈利潛力。從好的方面看，一家盈利的公司可能會給投資者更多的股息。它仍可能將利潤再投資於其他有可能獲得更多收入流的企業。發現投資者收回投資並從股息中獲得比最初投資更多的收益是很正常的。</p>
+<h3 style="text-align: justify; line-height: 2;">4. 黃金的用途有限</h3>
+<p style="text-align: justify; line-height: 2;">黃金需求最常見的來源是珠寶。然而，珠寶首飾在黃金總需求中所佔的比例已經慢慢下降，而大部分新需求都來自金融投機。除了裝飾、工業和醫療用途外，很難說將來是否會出現新的用途。由於實物黃金沒有收入來源，人們大多依靠短期需求變化來識別潛在的交易機會。</p>
+<h3 style="text-align: justify; line-height: 2;">5. 黃金缺乏標準的估值標準</h3>
+<p style="text-align: justify; line-height: 2;">與黃金相比，股票估值是一個簡單的過程。金融專家可以根據未來的現金流對任何資產進行估值。有準確的財務比率，以及其他被搜索為市盈率和市淨率的數據，可以幫助投資者在<a href="/zh-hant/markets/shares-trading" target="_blank" rel="noopener">交易公司股票</a>之前知道他們是否做了一筆划算的交易。對於黃金，事情變得有點模糊。黃金純粹是基於人們對其價值的印象。當你無法判斷收益的增長，因為你無法預測黃金的收益時，情況就更加棘手了。</p>
+<p style="text-align: justify; line-height: 2;">在給一隻股票評級時，公司股票的基本面也可以給投資者提供一條線索，讓他們知道該股的上行或下行潛力有多大。另一方面，黃金的價值會因供求關係而變化。在最壞的情況下，黃金的供需往往是由恐慌而非直接的基本面因素推動的。因此，估值方面的挑戰使得投資金條或金幣對於初學者來說是一個棘手的問題。</p>
+<h2 style="text-align: justify; line-height: 2;">總結圖表</h2>
+<table style="border-collapse: collapse; margin-left: auto; margin-right: auto; border: 1px solid #99acc2; width: 99.2614%; height: 358.906px;">
+<tbody>
+<tr style="height: 53.125px;">
+<td style="border: 1pt solid #000000; width: 5.38212%; height: 53px; vertical-align: top;"></td>
+<td style="border: 1pt solid #000000; width: 94.5357%; height: 53px; vertical-align: top;" colspan="2">
+<p style="text-align: center;"><span style="font-size: 18px;"><strong>黃金買賣</strong></span></p>
+</td>
+</tr>
+<tr style="height: 53px;">
+<td style="border: 1pt solid #000000; width: 5.38212%; height: 53px; vertical-align: top;">
+<p style="text-align: center;"><span style="font-size: 18px;"> </span></p>
+</td>
+<td style="border: 1pt solid #000000; width: 47.5731%; height: 53px; vertical-align: top; text-align: center;"><span style="font-size: 18px;"><strong>5 大優點</strong></span></td>
+<td style="border: 1pt solid #000000; width: 46.9626%; height: 53px; vertical-align: top; text-align: center;"><span style="font-size: 18px;"><strong>5 大缺點</strong></span></td>
+</tr>
+<tr style="height: 50.4375px;">
+<td style="border: 1pt solid #000000; width: 5.38212%; height: 50px; vertical-align: top;">
+<p style="text-align: center;"><span style="font-size: 18px;">1.</span></p>
+</td>
+<td style="border: 1pt solid #000000; width: 47.5731%; height: 50px; vertical-align: top;"><span style="font-size: 18px;">黃金有很長的升值歷史</span></td>
+<td style="border: 1pt solid #000000; width: 46.9626%; height: 50px; vertical-align: top;"><span style="font-size: 18px;">大幅上漲後又下跌</span></td>
+</tr>
+<tr style="height: 50.0938px;">
+<td style="border: 1pt solid #000000; width: 5.38212%; height: 50px; vertical-align: top;">
+<p style="text-align: center;"><span style="font-size: 18px;">2.</span></p>
+</td>
+<td style="border: 1pt solid #000000; width: 47.5731%; height: 50px; vertical-align: top;"><span style="font-size: 18px;">危機時期的可靠對沖</span></td>
+<td style="border: 1pt solid #000000; width: 46.9626%; height: 50px; vertical-align: top;"><span style="font-size: 18px;">金幣並不是抵禦通貨膨脹的完美工具</span></td>
+</tr>
+<tr style="height: 49.4375px;">
+<td style="border: 1pt solid #000000; width: 5.38212%; height: 49px; vertical-align: top;">
+<p style="text-align: center;"><span style="font-size: 18px;">3.</span></p>
+</td>
+<td style="border: 1pt solid #000000; width: 47.5731%; height: 49px; vertical-align: top;"><span style="font-size: 18px;">黃金幫助你分散投資組合</span></td>
+<td style="border: 1pt solid #000000; width: 46.9626%; height: 49px; vertical-align: top;"><span style="font-size: 18px;">黃金不能生產或複制</span></td>
+</tr>
+<tr style="height: 49.3125px;">
+<td style="border: 1pt solid #000000; width: 5.38212%; height: 49px; vertical-align: top;">
+<p style="text-align: center;"><span style="font-size: 18px;">4.</span></p>
+</td>
+<td style="border: 1pt solid #000000; width: 47.5731%; height: 49px; vertical-align: top;"><span style="font-size: 18px;">黃金需求持續增長</span></td>
+<td style="border: 1pt solid #000000; width: 46.9626%; height: 49px; vertical-align: top;"><span style="font-size: 18px;">黃金的用途有限</span></td>
+</tr>
+<tr style="height: 52.1875px;">
+<td style="border: 1pt solid #000000; width: 5.38212%; height: 52px; vertical-align: top;">
+<p style="text-align: center;"><span style="font-size: 18px;">5.</span></p>
+</td>
+<td style="border: 1pt solid #000000; width: 47.5731%; height: 52px; vertical-align: top;"><span style="font-size: 18px;">全球政府債務正處於最高水平</span></td>
+<td style="border: 1pt solid #000000; width: 46.9626%; height: 52px; vertical-align: top;"><span style="font-size: 18px;">黃金缺乏標準的估值標準</span></td>
+</tr>
+</tbody>
+</table>
+<h2 style="text-align: justify; line-height: 2;">4 種投資黃金的管道</h2>
+<p style="text-align: justify; line-height: 2;">現在你已經大致了解了黃金的利弊，接下來要考慮的是如何購買黃金。因此，了解你可以持有或買賣黃金的常用渠道是至關重要的。</p>
+<h3 style="text-align: justify; line-height: 2;">1. 金條</h3>
+<p style="text-align: justify; line-height: 2;">投資實物黃金最古老的方式是通過金條。人們通過JM bullion或APMEX等在線交易商購買金條。人們也從面對面的介紹人、當地的交易商、收藏家和典當行購買。由於以這種方式持有黃金的基本方式，投資者需要找到一個有意願的賣家，並確保所需的數量是可用的，他們可以獲得公平的交易。你可以隨時與現貨價格進行交叉核對，以免上當受騙。考慮到黃金的形式，它還需要一種安全的運輸和儲存方式。</p>
+<h3 style="text-align: justify; line-height: 2;">2. 購買黃金ETF</h3>
+<p style="text-align: justify; line-height: 2;">為了跳過擁有實物黃金的複雜性和安全儲存黃金的成本，你可以考慮投資黃金的etf。從全球頂級指數中<a href="/zh-hant/etf" target="_blank" rel="noopener">購買黃金ETF</a>。一些流行的黃金ETF包括SPDR gold Trust 和 iShares gold Trust。買賣黃金的etf為你提供了更多的流動性和便利，因為投資者只被發行由信託持有的實際黃金的股份。它們是在市場上複製黃金表現的好方法，同時只向投資者收取很小的費用比例。</p>
+<p style="text-align: justify; line-height: 2;"><img loading="lazy" decoding="async" style="height: auto; max-width: 100%; width: 1200px;" src="https://www.atfx.com/hubfs/Trade%20Gold%20ETF%20with%20ATFX.webp" alt="Trade Gold ETF with ATFX" width="1200" height="619" /></p>
+<h3 style="text-align: justify; line-height: 2;">3. 黃金期貨</h3>
+<p style="text-align: justify; line-height: 2;">黃金期貨是投機黃金價格的一種方便快捷的方式。投資者可以簡單地推測價格是漲是跌。 COMEX黃金期貨(GC)是黃金期貨合約的最高公認基準。當發佈在網上時，人們可以得到提示、分析和跟踪日常變化。經常做生意的人甚至在舒適的家裡下單。點擊這裡進行<a href="/zh-hant/markets/commodities" target="_blank" rel="noopener">商品交易</a>。</p>
+<h3 style="text-align: justify; line-height: 2;">4. 將黃金作為貨幣進行交易</h3>
+<p style="text-align: justify; line-height: 2;">澳元兌美元是目前外匯經紀人提供的貨幣對之一。如果你已經知道如何在<a href="/zh-hant/markets/forex-trading" target="_blank" rel="noopener">外匯交易</a>中使用黃金對。作為一個免費的建議，將黃金作為貨幣組合進行交易可以幫助你一舉兩得，因為你可以採用與交易貨幣和股票相同的策略。實時圖表還可以幫助您實時監控價格變化。初學者可以開一個模擬賬戶，用一個指南來測試不同的黃金價格波動賺錢策略。</p>
+<h2 style="text-align: justify; line-height: 2;">那麼，你應該投資黃金嗎?</h2>
+<p style="text-align: justify; line-height: 2;">買賣黃金的利遠大於弊。所選擇的投資工具取決於首選的時間框架(短期或長期)和首選的購買黃金的理由。希望在戰爭或政治危機期間有後備計劃的黃金持有者會更喜歡實物黃金，因為它與國家的金融體系沒有關聯。如果你更喜歡進行短期投機交易，黃金ETF和黃金期貨將為你提供利用價格波動的流動性解決方案。學習<a href="/zh-hant/analysis/trading-strategies/how-to-become-a-trader" target="_blank" rel="noopener">如何成為一名交易者</a>。</p>
+<p style="text-align: justify; line-height: 2;"><img loading="lazy" decoding="async" style="height: auto; max-width: 100%; width: 1200px;" src="https://www.atfx.com/hubfs/Pros%20of%20Gold%20Investment.webp" alt="Pros of Gold Investment" width="1200" height="619" /></p>
+<h2 style="text-align: justify; line-height: 2;">如何在台灣開始買賣黃金?</h2>
+<p style="text-align: justify; line-height: 2;">你可以在ATFX開一個黃金投資賬戶，今天就開始<a href="/zh-hant/markets/commodities/gold-trading" target="_blank" rel="noopener">買賣黃金</a>、白銀、<a href="/zh-hant/markets/commodities/oil-trading" target="_blank" rel="noopener">原油</a>等。你的新投資機會之旅可以從幾次點擊開始。有了ATFX，您可以享受低價差，快速執行訂單，24-5實時支持您所有的交易需求。如果你還是一個交易新手，你可以在ATFX<a href="/zh-hant/trading-accounts/demo-account" target="_blank" rel="noopener">註冊一個模擬賬戶</a>，然後練習，而不用存入真錢。用免費的有價值的培訓指南來測試你所有的策略，讓自己熟悉市場。一旦您想要升級到一個真實帳戶，一個有回報的未來正在等著您。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>道瓊斯指數為什麼非常重要— 中級交易策略</title>
+		<link>https://www.atfx.com/zh-hant/analysis/trading-strategies/why-dow-jones-important-in-world-of-stocks</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Wed, 16 Feb 2022 07:30:00 +0000</pubDate>
+				<category><![CDATA[交易策略]]></category>
+		<category><![CDATA[中級交易策略]]></category>
+		<guid isPermaLink="false">https://lptemplatedev.wpengine.com/uncategorized/why-dow-jones-important-in-world-of-stocks-2</guid>
+
+					<description><![CDATA[很多新手在解除美國股票的時候都聽過道瓊斯指數這個名詞，1884年的時候，道瓊斯公司的創始人查爾斯亨利道首次編制 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p style="text-align: justify;line-height: 1.75">很多新手在解除美國股票的時候都聽過<a href="/zh-hant/live-chart/dow-jones" rel="noopener" target="_blank"><span>道瓊斯指數</span></a>這個名詞，1884年的時候，道瓊斯公司的創始人查爾斯亨利道首次編制了道瓊斯指數，到目前為止，道瓊斯指數是目前世界上最古老的股票指數，道瓊斯只是的全稱是平均股價指數。</p>
+<p><span id="more-10649"></span></p>
+<p style="text-align: justify;line-height: 1.75">道瓊斯指數一共有四組指數，這四組指數是根據不同的規則來編制的，美國道瓊斯指數通常是指的這裡面比較具有代表性的道瓊斯工業平均指數，該指數選取了30家比較具有代表性的紐交所上市工業公司的股票進行編制，道瓊斯指數是道瓊斯公司的創始人於1884年所編寫的一種股價指數，也是世界上最早的<a href="/zh-hant/analysis/trading-strategies/what-you-should-know-about-the-three-major-us-stock-market-indexes" rel="noopener" target="_blank"><span>股票指數</span></a>。</p>
+<p style="text-align: justify;line-height: 1.75"><img decoding="async" src="https://www.atfx.com/hubfs/ATFX-dow-jones-trading.jpg?width=1200&amp;name=ATFX-dow-jones-trading.jpg" alt="ATFX-dow-jones-trading" loading="lazy" style="margin-left: auto;margin-right: auto"></p>
+<h3 style="text-align: justify;font-size: 18px;line-height: 1.75">1、道瓊斯指數所選取的上升公司都是在美國甚至是在世界上都舉足輕重的，並且所選擇的公司也不是一成不變的，會經常進行更新，所以其股價的走勢變化通常可以代表宏觀上的經濟發展情況。</h3>
+<h3 style="text-align: justify;line-height: 1.75;font-size: 18px">&nbsp;</h3>
+<h3 style="text-align: justify;font-size: 18px;line-height: 1.75">2、道瓊斯指數的相關信息都是由《華爾街日報》進行公佈的，該報紙在世界金融行業中的地位是舉足輕重的。</h3>
+<h3 style="text-align: justify;line-height: 1.75;font-size: 18px">&nbsp;</h3>
+<h3 style="text-align: justify;font-size: 18px;line-height: 1.75">3、道瓊斯指數有著悠久的歷史，並且從編制以來就沒有停止過，所以其可參考的範圍非常的大，研究的價值和意義也是高於其他<a href="/zh-hant/markets/indices-trading" rel="noopener" target="_blank"><span>指數</span></a>的。</h3>
+<p style="text-align: justify;line-height: 1.75">自2020年，ATFX對<a href="/zh-hant/trading-platforms/metatrader-4/mt4-indicators" rel="noopener" target="_blank"><span>MT4交易平台</span></a>進行優化升級，在現有新聞資訊的基礎上，最新增加了道瓊斯通訊社的新聞服務，並提供多種語言供投資者靈活選擇。</p>
+<p style="text-align: justify;line-height: 1.75"><img decoding="async" src="https://www.atfx.com/hubfs/ATFX-metatrader4-platform%20(1).jpg?width=1200&amp;name=ATFX-metatrader4-platform%20(1).jpg" alt="ATFX-metatrader4-platform (1)" loading="lazy" style="margin-left: auto;margin-right: auto"></p>
+<p style="text-align: justify;line-height: 1.75">道瓊斯通訊社的新聞服務的上線，使得ATFX交易平台的<a href="/zh-hant/analysis" rel="noopener" target="_blank"><span>金融投資資訊</span></a>更加全面化、國際化，客戶可以獲得來自眾多國際客戶端提供的最新新聞，學習最專業的分析技巧和<a href="/zh-hant/analysis/trading-strategies" rel="noopener" target="_blank"><span>投資策略</span></a>，有助於客戶做出最精準的判斷和決策，進一步提升客戶的交易水平。</p>
+<p style="text-align: justify;line-height: 1.75">道瓊斯通訊社提供的信息內容在金融市場具有很高的權威性和參考價值。 ATFX將道瓊斯通訊社的服務納入到MT4交易平台之中，進一步拓展了客戶獲取信息的渠道。 ATFX客戶可以從道瓊斯通訊中社獲得獨家的見解，並且也可以對金融市場的日常運作有更多的了解。新增的道瓊斯通訊社新聞內容提供豐富的信息和數據流，ATFX的客戶可以根據自己的興趣使用不同的語言輕鬆導航和自定義門戶。</p>
+<p style="text-align: justify;line-height: 1.75">ATFX所有客戶都可以在MT4交易平台上免費使用<a href="/zh-hant/education-and-tools/trading-central" rel="noopener" target="_blank"><span>Trading Central</span></a>的專業交易工具以及道瓊斯通訊社提供的免費財經新聞和市場信息。門戶網站中的專業工具包括實時新聞、分析師觀點指標、技術和基礎分析、模式識別以及大數據驅動的情感工具，這將有助於客戶制定更加精準的投資策略。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>美聯儲加息如何影響股票及外匯市場</title>
+		<link>https://www.atfx.com/zh-hant/analysis/trading-strategies/how-fed-rate-hikes-affect-stock-forex-market</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Wed, 02 Feb 2022 06:14:00 +0000</pubDate>
+				<category><![CDATA[交易策略]]></category>
+		<category><![CDATA[中級交易策略]]></category>
+		<guid isPermaLink="false">https://lptemplatedev.wpengine.com/uncategorized/how-fed-rate-hikes-affect-stock-forex-market-2</guid>
+
+					<description><![CDATA[在現實中，美聯儲加息就意味著使用美元兌換其他的貨幣會更加有吸引力，像國內的資金以及一些外資企業的資金就會流入美 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p style="text-align: justify;line-height: 1.75">在現實中，美聯儲加息就意味著使用美元兌換其他的貨幣會更加有吸引力，像國內的資金以及一些外資企業的資金就會流入美國的市場，這對於美國的投資市場來說屬於一件利好的消息，同時非常容易引髮美元升值，美聯儲加息提高了美國銀行的存款利率，一些穩妥的美國投資者就會選擇把錢存入銀行，美國股票市場的行情就會有所波動，造成股價下跌，但是從大方面來看，美聯儲加息對於美國經濟所產生的影響是利大於弊，接下來就來說一下美聯儲加息對於股票市場有哪些影響：</p>
+<p><span id="more-10615"></span></p>
+<p style="text-align: justify;line-height: 1.75"><img decoding="async" src="https://www.atfx.com/hubfs/ATFX-fed-rate-hikes.jpg?width=1200&amp;name=ATFX-fed-rate-hikes.jpg" alt="ATFX-fed-rate-hikes" loading="lazy" style="margin-left: auto;margin-right: auto"></p>
+<p style="text-align: justify;line-height: 1.75">1、對於美國股市來說，加息會提高銀行存款的利率，因此美國的投資者就會選擇將錢存入銀行，這樣就導致流入股市的資金大大的減少；</p>
+<p style="text-align: justify;line-height: 1.75">&nbsp;</p>
+<p style="text-align: justify;line-height: 1.75">2、對於中國的股市來說，美國的股市流入的資金減少，股價下跌，美股下跌就會對全球的股市造成影響。</p>
+<p style="text-align: justify;line-height: 1.75">&nbsp;</p>
+<p style="text-align: justify;line-height: 1.75">3、美聯儲的利息提高，大陸的資金或者外資就會流入美國市場，一旦美元升值，人民幣貶值，就會使得中國企業進購原料的成本提高。</p>
+<p style="text-align: justify;line-height: 1.75">&nbsp;</p>
+<h2 style="text-align: justify;line-height: 1.75;font-size: 24px">美聯儲加息如何影響外匯交易市場</h2>
+<p style="text-align: justify;line-height: 1.75">如果美聯儲進行加息，就意味著美元的資產收到追捧，美元升值幅度高，每個國家的資本對於購買美元資產的傾向就會增加，同樣這對我我們國家的資本流動也會產生很大的壓力。但是在大多數的時候，在外匯交易市場的盤面上，美元宣布加息，美元實際是沒有走高的。</p>
+<p style="text-align: justify;line-height: 1.75">&nbsp;</p>
+<p style="text-align: justify;line-height: 1.75">主要原因就在於外匯交易市場通過了各種渠道，比如說美國的經濟狀況以及政要人物的講話等因素，對於美元的加息有了一定的預期，這個時候外匯交易市場上有可能早就有了一個共識，就是美元即將要加息，外匯交易市場就會出現很多關於美元加息方向的行情，到了美元真正加息的時候，市場可能已經把這次加息對於外匯交易市場的影響已經走完，所以就導致了市場公佈數據的時候不會產生多大的影響，如果美元沒有宣布加息，市場就可能會有比較大的反應，並且會將之前的行情都吐回去。</p>
+<p style="text-align: justify;line-height: 1.75">&nbsp;</p>
+<h2 style="text-align: justify;line-height: 1.75;font-size: 24px">美聯儲加息對於外匯交易市場會有哪些影響呢？</h2>
+<p style="text-align: justify;line-height: 1.75"><img decoding="async" src="https://www.atfx.com/hubfs/ATFX-fed-rate-hikes-forex.jpg?width=1200&amp;name=ATFX-fed-rate-hikes-forex.jpg" alt="ATFX-fed-rate-hikes-forex" loading="lazy" style="margin-left: auto;margin-right: auto"></p>
+<p style="text-align: justify;line-height: 1.75">一、美聯儲加息，就意味著美元進入強勢的通道，和美元有所掛鉤的貨幣和商品都會有所貶值；</p>
+<p style="text-align: justify;line-height: 1.75">&nbsp;</p>
+<p style="text-align: justify;line-height: 1.75">二、國際的資本流入到美國的動力會更強；</p>
+<p style="text-align: justify;line-height: 1.75">&nbsp;</p>
+<p style="text-align: justify;line-height: 1.75">三、受到美元資本支持的國家就會面對資本抽造失血的風險；</p>
+<p style="text-align: justify;line-height: 1.75">&nbsp;</p>
+<p style="text-align: justify;line-height: 1.75">四、說明美聯儲看好美國的經濟發展，因為需要採取緊縮貨幣的政策來打壓經濟的勢頭；</p>
+<p style="text-align: justify;line-height: 1.75">&nbsp;</p>
+<p style="text-align: justify;line-height: 1.75">五、就整體來說美元加息對美元有好處，使得美元的指數上漲。</p>
+<p style="text-align: justify;line-height: 1.75">&nbsp;</p>
+<p style="text-align: justify;line-height: 1.75">美聯儲加息就是提高聯邦基金的利率，是商業銀行互相拆借資金是的利率。這個利率對於商業銀行的利率有著實質的影響，所以可以對銀行的利息產生影響。</p>
+<p style="text-align: justify;line-height: 1.75">&nbsp;</p>
+<p style="text-align: justify;line-height: 1.75">美聯儲加息，就會提高用戶存款的利息。所以外匯交易投資者就會更加會喜歡持有美元，國際資金都陸續湧入美國，就會使得美元在外匯交易市場上走強，相對於其他的貨幣升值，所以其他的貨幣相較於美元貶值。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>外匯市場的槓桿為什麼那麼高？—﻿中級交易策略</title>
+		<link>https://www.atfx.com/zh-hant/analysis/trading-strategies/why-is-leverage-high-in-the-forex-market</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Wed, 15 Dec 2021 10:25:00 +0000</pubDate>
+				<category><![CDATA[交易策略]]></category>
+		<category><![CDATA[中級交易策略]]></category>
+		<guid isPermaLink="false">https://lptemplatedev.wpengine.com/uncategorized/why-is-leverage-high-in-the-forex-market-2</guid>
+
+					<description><![CDATA[投資市場以小博大的有力投資工具，有人畏之如水火，有人甘之如蜜餞。 中國的A股市場沒有槓桿，因為個股的股價實在是 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><a href="https://www.atfx.com/zh-hant/markets"><span>投資市場</span></a>以小博大的有力<a href="https://www.atfx.com/zh-hant/education-and-tools"><span>投資工具</span></a>，有人畏之如水火，有人甘之如蜜餞。</p>
+<p><span id="more-10429"></span></p>
+<p>中國的A股市場沒有槓桿，因為個股的股價實在是太低了。一支10元的股票，交易一手的門檻只有1000元人民幣，這對於大部分個人交易者來說都是小意思。</p>
+<p>中國的期貨市場，槓桿大部分都設定在20倍。比如豆粕2105合約，當前報價3185元/噸，一手10噸，那麼最低交易門檻為3.185萬元。這一數額，足夠將大部分個人投資者拒之門外。</p>
+<p>為了增加市場流動性，讓散戶也能參與其中，引入20倍的槓桿就非常合適。同樣的合約，交易者只需要支付1592元保證金就可以進行交易，畢竟大部分並不想持有到期（交割需要支付全款），僅僅是參與期貨品種的價差交易。</p>
+<p>&nbsp;</p>
+<h2 style="font-size: 33px">匯市的槓桿為什麼那麼高？</h2>
+<p>同樣的道理，因為<a href="https://www.atfx.com/zh-hant/markets/forex-trading"><span>外匯市場</span></a>一手合約的價值高達10萬基礎貨幣，並且基礎貨幣往往是美元。 10萬美元轉換成人民幣就是70萬，這對於大部分交易者來說是很難達到的資金水平。</p>
+<p>要知道，中國科創板所設定的資金門檻是50萬人民幣，這種門檻就已經怨聲載道，更何況是70萬的外匯市場最低門檻。</p>
+<p><img decoding="async" src="https://www.atfx.com/hubfs/Others%20folders/ATFX%20Blog%20Image%202020/ATFX_forex-market-trading.jpg" alt="forex-market-trading" width="1200" loading="lazy" style="width: 1200px"></p>
+<p>也許會有人問，一定要10萬基礎貨幣嗎？我只交易幾百幾千不可以？</p>
+<p>答案是可以的。但是，對於匯市來說，匯率的波動在短期內是微乎其微的。它不像<a href="https://www.atfx.com/zh-hant/markets/shares-trading"><span>股票市場</span></a>一樣，今天一個10%漲停，明天一個10%跌停。</p>
+<p>以EURUSD為例，2019年全年波動2.22%，2018年波動4.45%，2017年波動13.98%，2016年波動3.14%，2015年波動10.17% 。</p>
+<p>全年的波動最高也只是在10%附近，一年有365天，一日的波動幅度之小可想而知。在如此小的波動之下幾百幾千美元的投資額基本就是開玩笑，可能持有數年時間，都沒能獲得可觀的收益。</p>
+<p>之所以匯率波動小，是因為匯率是一個國家經濟穩定的根本。如果匯率經常性的大幅波動，就會對這個國家的進出口產業造成重大打擊。</p>
+<p>另外，國內的企業經常會到國際市場進行貸款，如果匯率波動劇烈，貸款的金額就會隨著匯率的波動而劇烈變化，這顯然不利於企業的財務成本管理。</p>
+<p>匯市的槓桿在30~200之間，50倍以下的槓桿，適合機構參與，100~200的槓桿適合個人交易者參與。</p>
+<p>由於匯市的特性，人們一般不用漲跌百分比來衡量行情的波動性強弱，而是用“標準點”來計量。</p>
+<p>比如EURUSD，一個標準點是0.0001的匯率波動，也就是萬分之一。交易一手EURUSD，在200倍的槓桿之下，只需要支付500美金即可，匯率每波動一個標準點，交易者盈虧10美金。一天下來，EURUSD的波動點數大概在幾十到幾百之間，這樣就能夠實現低波動率下的可觀收益。</p>
+<p>槓桿是一把雙刃劍，既可以降低交易門檻，讓更多的個人交易者參與進來；同時也增大了交易的風險，尤其會出現本金虧光甚至倒欠錢的情況，也就是業內人士所說的爆倉。</p>
+<p>很多人將爆倉看作是槓桿太高的問題，但筆者看來，這和槓桿高低沒有多少關係，反而是交易者風險控制不到位。</p>
+<p>&nbsp;</p>
+<h2 style="font-size: 33px">風控有兩大要素：倉位和止損</h2>
+<p>個人交易者常犯的錯誤是，重倉交易時不設置止損，這是導致巨虧、爆倉和穿倉的根本原因。</p>
+<p><img decoding="async" src="https://www.atfx.com/hubfs/Others%20folders/ATFX%20Blog%20Image%202020/ATFX_trading-risk-control.jpg" alt="ATFX_trading-risk-control" width="1200" loading="lazy" style="width: 1200px"></p>
+<p>即便不用槓桿交易，犯了重倉和不止損的毛病，也會出現超預期的虧損。人們之所以愛犯這兩個問題，是因為人性的驅使。</p>
+<p>大家都想來投資市場賺快錢，耐心不足，經常抱著“賭一把”的心態下單。在衝動情緒的引導下，“一把定輸贏”的想法佔據上風，自然會出現各種不理智的行為。</p>
+<p>成熟的投資者都知道，財務自由並不是通過一筆交易達到的，需要無數的交易單不斷累積獲得, <a href="https://www.atfx.com/zh-hant/ways-to-trade"><span>學習投資</span></a>。把倉位降下來，把設定止損當做習慣，把交易衝動壓制住，這才是長期穩定盈利的訣竅。</p>
+<p>&nbsp;</p>
+<h2 style="font-size: 33px">小結</h2>
+<p>槓桿的範疇很廣，上市公司發債券也是槓桿的一種，只不過它被稱作財務槓桿。</p>
+<p>買房首付35%，這也是一種槓桿，購房者只需要支付一部分首付款就能夠獲得住宅房。螞蟻花唄也是一種槓桿，讓借用未來的現金流來人們提前消費。</p>
+<p>所以，槓桿並非魔鬼，它有它的好處，只是人們在使用槓桿時必須注重風險控制。風控是一根繩子，只有將槓桿的脖子套進去，才能讓使用者受益無窮。</p>
+<p>&nbsp;</p>
+<p>立即<a href="https://www.atfx.com/zh-hant/trading-platforms/metatrader-4/download-mt4"><span>下載 Metatrader 4</span></a> 賬戶或設置<a href="https://www.atfx.com/zh-hant/trading-accounts/demo-account"><span>模擬交易賬戶</span></a>開始交易！</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>投資美國股票要看哪幾種美股指數</title>
+		<link>https://www.atfx.com/zh-hant/analysis/trading-strategies/what-you-should-know-about-the-three-major-us-stock-market-indexes</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Wed, 15 Dec 2021 08:03:00 +0000</pubDate>
+				<category><![CDATA[交易策略]]></category>
+		<category><![CDATA[中級交易策略]]></category>
+		<guid isPermaLink="false">https://lptemplatedev.wpengine.com/uncategorized/what-you-should-know-about-the-three-major-us-stock-market-indexes-2</guid>
+
+					<description><![CDATA[大多數投資者都知道美國股票中有道瓊斯指數、納斯達克指數和標普500指數這個三種重要的美股指數，這三種指數對於美 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>大多數投資者都知道<a href="/zh-hant/markets/shares-trading" rel="noopener" target="_blank"><span>美國股票</span></a>中有道瓊斯指數、納斯達克指數和標普500指數這個三種重要的<a href="/zh-hant/markets/indices-trading" rel="noopener" target="_blank"><span>美股指數</span></a>，這三種指數對於美國股票的投資者有著非常重要的參考作用，但是很多新手投資者對於這三種指數並不是非常了解，今天就來給大家介紹一下這三種美國股票指數分別有什麼意義，在投資的時候應該要如何參考。</p>
+<p><span id="more-10508"></span></p>
+<p>&nbsp;</p>
+<h2 style="font-size: 30px">美國股票</h2>
+<p><img decoding="async" src="https://www.atfx.com/hubfs/ATFX-us-stock-market-index.jpg?width=1200&amp;name=ATFX-us-stock-market-index.jpg" alt="ATFX-us-stock-market-index" loading="lazy"></p>
+<h3 style="font-size: 24px"><span style="color: #434343">1、道瓊斯指數，整體市場成績指標</span></h3>
+<p><a href="/zh-hant/live-chart/dow-jones" rel="noopener" target="_blank">道瓊斯指數</a>作為世界上歷史悠久的股票指數，距今已經有100多年的歷史了，其成分股只有30支，為美國30加最大的知名上市公司，當然大家都知道美國股票有超過1萬隻股票，所以成分股只有30支股票的道瓊斯指數也受到了很多專家學者的懷疑，他們認為只有30只成分股並沒有代表性，但是大家需要注意的是這30只成分股都是在美國急著去找的公司，所以還是具備非常大的參考價值的，可以作為總體市場成績的指標來進行參考。</p>
+<p>&nbsp;</p>
+<h3 style="font-size: 24px"><span style="color: #434343">2、納斯達克指數，全世界科技股的重要指標</span></h3>
+<p>納斯達克指數於1971年成立，成分股包括美國納斯達克上市的股份，為全世界科技股最為重要的指標，納斯達克指數的成分股超過有5000只，其涵蓋的範圍包括生化科技等各個領域，比如說電腦軟硬件、半導體、網絡通訊等，是投資科技股的重要參考標準。</p>
+<p><img decoding="async" src="https://www.atfx.com/hubfs/ATFX-nasdaq-index-market.jpg?width=1200&amp;name=ATFX-nasdaq-index-market.jpg" alt="ATFX-nasdaq-index-market" loading="lazy"></p>
+<h2 style="font-size: 30px">為什麼說納斯達克指數市場是場外交易?</h2>
+<p>納斯達克指數市場預先投資者通過電話或者是互聯網交易，而不需要到交易大廳中進行交易，而且交易的內容大多與高科技尤其是計算機方面相關，是世界第一電子證券交易市場，納斯達克指數有著自己的市場製度，是一些獨立的<a href="/zh-hant/markets" rel="noopener" target="_blank"><span>股票交易</span></a>上，為投資者承擔了某一隻股票的買入和賣出。</p>
+<p>&nbsp;</p>
+<p>場外交易是指非上市或者是上市公司的證券，不再交易所中進行交易而是在場外市場進行的交易活動，而是私下以高於或者是低於功效會上所規定的價格或者是富有其他條件的價格所達成的交易，有稱作是店頭交易或者是櫃頭交易。</p>
+<p>&nbsp;</p>
+<h3 style="font-size: 24px"><span style="color: #434343">3、標普500指數，美國經濟興衰的指標</span></h3>
+<p>標普500指數是美國前500大上市公司總體衡量的標準，評級公司標準普爾根據市值和流通量在美國股票市場上選取了500家各行各業的龍頭企業，選取範圍涵蓋了美國的兩大股票交易市場。標普500指數所包含的上升公司比道瓊斯指數多得多，說開可以更好的反應美國股票市場的變化，風險也更加的分散。除此之外，標普500指數和道瓊斯指數使用的加權方式也有所不同，道指使用股價加權，而標普500指數則使用市值加權，其更能反應出公司股票的實際價值，甚至是可以反映出美國經濟的興衰。</p>
+<p>&nbsp;</p>
+<p>最後還有一點大家要注意的是，上面所說的三大美股指數所包含的成分股是不一樣的，比如說投資者購買了Google的股票，那麼Google的股價漲跌是不會影響到道瓊斯指數的，因為Google並不屬於道指的成分股，所以這三種美股指數沒有一個可以包含美國股票市場上所有的股票每日漲跌，投資在投資的時候千萬不能只看一個美股指數，而是要三種結合起來一起看，這樣才更加有利於投資者作出正確的決定。</p>
+<p>&nbsp;</p>
+<p>馬上<a href="/zh-hant/trading-platforms/metatrader-4/download-mt4" rel="noopener" target="_blank"><span>下載MT4</span></a>或<a href="/zh-hant/trading-platforms/metatrader-4/mt4-demo-account" rel="noopener" target="_blank"><span>MT4模擬帳戶</span></a>開始交易吧！</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>如何借美債收益率波動交易？先弄清它與各大資產的關係</title>
+		<link>https://www.atfx.com/zh-hant/analysis/trading-strategies/how-us-bond-yields-impact-forex-market-stock-markets-gold-oil-prices</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Tue, 14 Dec 2021 09:23:00 +0000</pubDate>
+				<category><![CDATA[交易策略]]></category>
+		<category><![CDATA[中級交易策略]]></category>
+		<guid isPermaLink="false">https://lptemplatedev.wpengine.com/uncategorized/how-us-bond-yields-impact-forex-market-stock-markets-gold-oil-prices-2</guid>
+
+					<description><![CDATA[今年以來美債收益率上升一直是市場交易的重要主題之一，引發了市場的集體震盪。在美國經濟強勁復甦的前景下，市場一直 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>今年以來美債收益率上升一直是<a href="https://www.atfx.com/zh-hant/markets"><span>市場交易</span></a>的重要主題之一，引發了市場的集體震盪。在美國經濟強勁復甦的前景下，市場一直在計價10年期美債收益率持續上漲的預期，不少機構認為年底前可能達到2%以上的水平，可見這樣的交易主題仍將在較長時間內持續，那麼如何通過債券收益率的變化來預測或者更好的交易？首先要先釐清它和不同資產之間的走勢相關性。</p>
+<p><span id="more-10376"></span></p>
+<p>&nbsp;</p>
+<h2 style="font-size: 33px">對匯市的影響</h2>
+<p style="font-size: 33px"><span style="font-size: 18px">國債收益率上漲反映的是經濟增長預期，也表明通脹前景在升溫，通脹水平又關乎央行貨幣政策的製定，如果通脹上漲過快，央行將不得不收緊政策來應對，市場對央行貨幣政策立場的預期會推動整體匯率走勢，所以收益率對<a href="https://www.atfx.com/zh-hant/markets/forex-trading">外匯市場</a>至關重要。</span></p>
+<p><img decoding="async" src="https://www.atfx.com/hubfs/forex-market-us-bond-yields.jpg" alt="forex-market-us-bond-yields" width="1200" loading="lazy"></p>
+<p>一國債券收益率與另一國債券收益率之間的差異，會影響相應的貨幣對走勢，利率較高的國家將吸引更多的投資者購買其債券，希望獲得更高的收益率。資本流動會被高收益貨幣所吸引，持有低收益率貨幣的成本上升，所以購買這些債券所需的需求會吸引資金流入，令該國的貨幣走強。</p>
+<h3 style="font-size: 18px"><span style="color: #434343">以下的例子可以更直觀了解其影響：</span></h3>
+<p>今年2月份開始，美國10年期國債收益率就開始出現明顯的上升，3月18日突破1.7%關口，直至3月30日創下去年1月份以來的新高。期間<a href="https://www.atfx.com/zh-hant/markets/indices-trading"><span>美元指數</span></a>也跟隨上漲，最高曾突破93關口。不過儘管長期國債收益率大幅上升，但短期國債收益率仍保持穩定，長短期國債利差走闊，指向了經濟增長和通脹增強的前景。</p>
+<p>今年以來歐元走勢一直弱於美元，部分原因在於美國經濟的恢復能力要超過歐元區，而且距離仍在拉大，在投資者越發看好美國經濟前景的情況下，美國國債收益率高於德國國債，利率上行會加速資金回流到美元，使美元兌歐元匯率走強。</p>
+<p><img decoding="async" src="https://www.atfx.com/hubfs/Others%20folders/ATFX%20Blog%20Image%202020/US-dollar-index.png" alt="US-dollar-index" width="1318" loading="lazy"></p>
+<p>另一個例子是，前不久新西蘭政府採取措施為不斷上漲的房價降溫，從而大大降低了通脹預期，相應地也導致新西蘭公債收益率下跌了10個基點，當時也拖累紐元兌美元在兩個交易日內大跌逾2.4%。</p>
+<p>&nbsp;</p>
+<h2 style="font-size: 33px">對股票市場的影響</h2>
+<p>除了匯市以外，國債收益率還與其他市場息息相關，由於債券收益率受到貨幣政策的顯著影響，美聯儲的目標利率通過影響需求來影響國債。較低的利率會增加國債的需求，較高的利率會減少需求，需求越低，利率就越高，所以收益率走勢被市場視為美聯儲政策的先行指標。就像目前市場計價美聯儲提前在明年加息的可能，美債收益率也攀升至逾一年的高位。</p>
+<p>同時債券收益率也可以視為衡量投資者信心的指標，因為在<a href="https://www.atfx.com/zh-hant/markets/shares-trading"><span>股票市場</span></a>處於牛市的時候，國債價格通常會下降，因為投資者風險意願增強希望尋求更高的回報。相反，隨著利率的上升，債券相對於股票或其他風險係數更高的投資更具吸引力。</p>
+<p><img decoding="async" src="https://www.atfx.com/hubfs/Others%20folders/ATFX%20Blog%20Image%202020/bear-bull-market.jpg" alt="bear-bull-market" width="1200" loading="lazy"></p>
+<p>名義收益率的上升對股市有利，而實際收益率的上升則不利於股市。在高通脹環境下，收益率上升通常會導致股票回報率下降。但是不同的板塊對收益率上升的反應不同，比如周期性行業在收益率上升時通常表現較好，因為其相對應的是經濟前景的改善，而防禦性行業則相反。</p>
+<p>&nbsp;</p>
+<h2 style="font-size: 33px">對黃金的影響</h2>
+<p>雖然美債收益率和<a href="https://www.atfx.com/zh-hant/markets/commodities/gold-trading"><span>黃金價格</span></a>看起來都與股市呈現相反走勢，但是並不代表兩者之間是正相關。國債和黃金都具備避險的屬性，黃金和債券價格之間存在正相關關係，黃金和債券收益率之間存在負相關關係。</p>
+<p>當債券收益率出現飆升或者利率上升對黃金更加不利，因為黃金原本就是無息資產，再加上債息上升同樣會帶動美元走高，對黃金又是另一重施壓。所以當10年期美債收益率在3月底觸及逾一年新高的同時，當時的現貨黃金就一度跌破了1700美元重要關口。</p>
+<p>不過從另外一個角度來看：收益率上升表明對經濟強勁的預期，這樣的預期會助長通貨膨脹，而黃金又通常被用來對沖通脹，所以長期來講對黃金並非完全不利，如果未來通脹加劇嚴重到引發市場恐慌的程度，金價會再次展現它的魅力。</p>
+<p>&nbsp;</p>
+<h2 style="font-size: 33px">對油價的影響</h2>
+<p>能源價格和國債收益率走勢都可以被視為經濟前景的晴雨表，如上面所說經濟向好有利國債收益率上漲。同樣地，當經濟增長前景被看好，原油需求面向好或者樂觀，會帶動油價的上漲。所以兩者間價格的關係受經濟周期的影響而呈現正相關關係。</p>
+<p><img decoding="async" src="https://www.atfx.com/hubfs/Others%20folders/ATFX%20Blog%20Image%202020/crude-oil-prices.jpg" alt="crude-oil-prices" width="1200" loading="lazy"></p>
+<p>這其中還涉及到通脹預期，以往的價格走勢表明，油價同比增速同美國CPI增長呈現積極相關，原油上漲本身會提振通脹預期，從而提高了名義債券收益率，進而影響債券價格。所以今年以來，<a href="https://www.atfx.com/zh-hant/markets/commodities/oil-trading"><span>原油價格</span></a>和通脹兩個關鍵詞常常搭對出現，油價在3月份之前的強勁反彈，也是伴隨著債券收益率的上升。</p>
+<p>當然除了美國公債外，也還要留意主要原油出口國的債券收益率表現和油價之間的關係（如加拿大），甚至是其他商品出口型國家（如澳大利亞）。如果各國通脹預期和公債收益率繼續高企或進一步飆升，油價也會有積極的上行配合。不過留意由於美國的債息上揚會對美元有支持，而美元走強又會影響整體<a href="https://www.atfx.com/zh-hant/markets/commodities"><span>商品價格</span></a>的上漲空間。</p>
+<p>&nbsp;</p>
+<p style="font-size: 18px">以上分析由ATFX亞太區首席分析師林銘添提供。</p>
+<p>（以上分析僅代表個人觀點，匯市有風險，投資需謹慎。ATFX不會為直接或間接使用或依賴此資料而可能引致的任何盈虧負責。）</p>
+<p>&nbsp;</p>
+<p>開設<a href="https://www.atfx.com/zh-hant/trading-accounts"><span>真實交易賬戶</span></a>或設置<a href="https://www.atfx.com/zh-hant/trading-accounts/demo-account"><span>模擬交易賬戶</span></a>開始交易吧！</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

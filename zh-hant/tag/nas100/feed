@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>NAS100 Archives - ATFX Global - Official Website</title>
+	<atom:link href="https://www.atfx.com/zh-hant/tag/nas100/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Thu, 16 May 2024 09:18:46 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>https://www.atfx.com/wp-content/uploads/2023/06/favicon-150x150.webp</url>
+	<title>NAS100 Archives - ATFX Global - Official Website</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>美國通膨數據小幅下滑，帶動股市大漲</title>
+		<link>https://www.atfx.com/zh-hant/analysis/market-news/stocks-surge-small-dip-us-inflation</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Thu, 16 May 2024 09:18:46 +0000</pubDate>
+				<category><![CDATA[市場新聞及觀點]]></category>
+		<category><![CDATA[NAS100]]></category>
+		<category><![CDATA[最近的新聞]]></category>
+		<guid isPermaLink="false">https://www.atfx.com/?p=33680</guid>
+
+					<description><![CDATA[在美國公佈通膨數據略有下降後，美國股市飆升，創下歷史新高。 納斯達克100指數-日圖 納斯達克100指數突破了 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>在美國公佈通膨數據略有下降後，<a href="https://www.atfx.com/zh-hant/markets/shares-trading" target="_blank" rel="noopener">美國股市</a>飆升，創下歷史新高。</p>
+<p><img fetchpriority="high" decoding="async" class="size-full wp-image-33582 aligncenter" src="https://www.atfx.com/wp-content/uploads/2024/05/NAS-100-–-Daily-Chart-1.png" alt="NAS 100 – Daily Chart" width="868" height="595" srcset="https://www.atfx.com/wp-content/uploads/2024/05/NAS-100-–-Daily-Chart-1.png 868w, https://www.atfx.com/wp-content/uploads/2024/05/NAS-100-–-Daily-Chart-1-300x206.png 300w, https://www.atfx.com/wp-content/uploads/2024/05/NAS-100-–-Daily-Chart-1-768x526.png 768w" sizes="(max-width: 868px) 100vw, 868px" /></p>
+<p style="text-align: center;">納斯達克100指數-日圖</p>
+<p><a href="https://www.atfx.com/zh-hant/live-chart/nasdaq100" target="_blank" rel="noopener">納斯達克100指數</a>突破了歷史高點18,492點，並將嘗試收於該點上方，以獲得潛在的突破。交易者應該警惕假突破或雙頂。</p>
+<p>美國4月的CPI報告符合預期，整體價格年增率從3.5%降至3.4%，而核心價格成長率降至3.6%。核心通膨率已處於三年來的最低水平，整體價格已從先前的波動中穩定。月價成長率也較為溫和，核心及整體月通膨率上升0.3%，是自1月以來的最低成長率。</p>
+<p>最新數據為人們帶來了一些希望，即美國的房價漲幅正在回落。這一數字符合預期。然而，交易員關注的是零售銷售疲軟，這可能迫使聯準會比預期更早降息。</p>
+<p>上個月高級零售額成長了0%，而核心零售額(不包括燃料)下降了0.1%。</p>
+<p>科技股全線上漲，但漲幅最大的是科技巨頭，其中特斯拉、英偉達、亞馬遜和蘋果漲幅最大。</p>
+<p>儘管最新的通膨數據令股市大漲，但許多分析師在數據公佈前表示，他們認為聯準會不會採取任何早期行動。</p>
+<p>沃爾夫經濟學家說:「雖然今天早上的CPI報告可能會引發一些大的短期波動，但我們預計，在美國正走向衰退，或聯準會將升息以抑制通膨之前，市場不會轉為看跌。</p>
+<p>聯準會主席鮑威爾本週提醒市場，即使通膨持續下降，速度也可能比預期的要慢。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

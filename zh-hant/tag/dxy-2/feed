@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>DXY Archives - ATFX Global - Official Website</title>
+	<atom:link href="https://www.atfx.com/zh-hant/tag/dxy-2/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Thu, 05 Sep 2024 08:40:38 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>https://www.atfx.com/wp-content/uploads/2023/06/favicon-150x150.webp</url>
+	<title>DXY Archives - ATFX Global - Official Website</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>美元指數面臨重要低點</title>
+		<link>https://www.atfx.com/zh-hant/analysis/market-news/us-dollar-index-probe-important-low</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Wed, 04 Sep 2024 23:26:34 +0000</pubDate>
+				<category><![CDATA[市場新聞及觀點]]></category>
+		<category><![CDATA[DXY]]></category>
+		<category><![CDATA[Indices]]></category>
+		<category><![CDATA[最近的新聞]]></category>
+		<guid isPermaLink="false">https://www.atfx.com/?p=40321</guid>
+
+					<description><![CDATA[美國大選大戲－民調的波動可能會影響美元未來的價格。 DXY-日線圖 DXY美元的價格已經從100.61反彈，該 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>美國大選大戲－民調的波動可能會影響美元未來的價格。</p>
+<p><img fetchpriority="high" decoding="async" class="aligncenter size-full wp-image-40320" src="https://www.atfx.com/wp-content/uploads/2024/09/DXY-Daily-Chart.png" alt="DXY - Daily Chart" width="768" height="600" srcset="https://www.atfx.com/wp-content/uploads/2024/09/DXY-Daily-Chart.png 768w, https://www.atfx.com/wp-content/uploads/2024/09/DXY-Daily-Chart-300x234.png 300w" sizes="(max-width: 768px) 100vw, 768px" /></p>
+<p style="text-align: center;">DXY-日線圖</p>
+<p>DXY美元的價格已經從100.61反彈，該價格在2024年保持了市場反彈。美元將不得不守住這一水平，否則將面臨進一步回調的風險。</p>
+<p>隨著民調顯示卡瑪拉·哈里斯在總統競選中的差距縮小，市場可能會出現一些混亂。</p>
+<p>在整體投票中，哈里斯據稱以48%對43%領先川普，誤差為3.1%。</p>
+<p>人們對前總統川普將在11月重新入主白宮的預期越來越高，這導致了所謂的“川普交易”，人們相信他的政策將提振企業利潤，緩解美國的債務螺旋。</p>
+<p>然而，由於投資者不確定外交和國內政策將會是什麼樣子，一些混亂正在悄悄進入市場。</p>
+<p><a href="https://www.atfx.com/zh-hant/markets/shares-trading" target="_blank" rel="noopener">股票</a>投資人一直在轉向可能受益於川普減稅和放鬆監管等政策的美國股市角落，包括小型股和能源股。這個想法也幫助推動了大型科技股轉向其他領域。</p>
+<p>前景中的一個問題是債券市場，投資者因擔心支出而撤出長期債券。英國商業銀行Close Brothers估計，川普的第二個任期可能會在10年內創造4至5兆美元的額外政府借款，這可能會推高通膨並損害債券價格。</p>
+<p>但民主政府不太可能在支出方面表現得更好，這可能是美元可能尋求反彈的原因。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,1221 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Featured Archives - ATFX Global - Official Website</title>
+	<atom:link href="https://www.atfx.com/en/tag/featured/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Mon, 19 May 2025 07:19:55 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>https://www.atfx.com/wp-content/uploads/2023/06/favicon-150x150.webp</url>
+	<title>Featured Archives - ATFX Global - Official Website</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Spot vs Futures vs CFD Trading</title>
+		<link>https://www.atfx.com/en/analysis/trading-strategies/spot-vs-futures-vs-contract-trading-for-beginner</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Mon, 21 Aug 2023 01:31:36 +0000</pubDate>
+				<category><![CDATA[Trading Strategies]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Trading Strategies for Beginners]]></category>
+		<guid isPermaLink="false">https://lptemplatedev.wpengine.com/uncategorized/spot-vs-futures-vs-contract-trading-for-beginner-2</guid>
+
+					<description><![CDATA[The financial markets have many unique terms that might confuse beginner traders. This article shall cover the main differences between spot, futures, and contracts for differences (CFD) trading. Depending on where an investor was raised, they could have difficulty understanding some of the terms used in the global financial markets. For example, many beginner Chinese [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>The financial markets have many unique terms that might confuse beginner traders. This article shall cover the main differences between spot, futures, and contracts for differences (CFD) trading.</p>
+<p><span id="more-10333"></span></p>
+<p>Depending on where an investor was raised, they could have difficulty understanding some of the terms used in the <a href="/en/markets" target="_blank" rel="noopener">global financial markets</a>. For example, many beginner Chinese traders may have challenges understanding terms such as ETF, CFD, swap fees and discounts, given that English is not their first language.</p>
+<p>However, we cannot dive into the intricacies of trading all the popular types of assets since that would need a whole book. Still, we can focus on the <a href="/en/markets/forex-trading" target="_blank" rel="noopener">foreign exchange</a> markets and analyse the differences between spot, futures and CFDs, which are the main types of assets that investors will encounter when trading using the popular MT4 platform.</p>
+<p><img decoding="async" style="width: 825px;" src="https://www.atfx.com/hubfs/ATFX-spot-vs-future-vs-contract%20(1).jpg" alt="ATFX-spot-vs-future-vs-contract (1)" width="825" /></p>
+<h2>1. Spot</h2>
+<p>Spot transactions usually have another group of abbreviations that appear with them, such as OTC, which means over-the-counter transactions.</p>
+<p>The financial market&#8217;s restriction on spot transactions includes the delivery of cash and commodities within two working(trading) days if it is a spot transaction. There are different versions of the  XAUUSD gold asset on the MT4 for Mac, PC, iOS, Android applications, which many people think are spot prices, but they are not.</p>
+<p>Spot transactions require the buyer to take delivery of physical gold within two working days, while the seller has to deliver physical gold to the buyer. Therefore, most of the gold trades executed by investors and traders alike are not spot transactions.</p>
+<p>However, if you decide to take your cash and approach the bank to buy gold bars, the physical gold engraved with &#8220;investment gold&#8221; is spot gold.</p>
+<p>Transactions in the Chinese A-share market are regarded as spot transactions because the equity of a listed company is reflected in your investment account when you buy the firm’s shares, which meets the definition of a spot. Although spot transactions usually result in the physical settlement of actual commodities, they also present the inconvenience of storing the commodity and high processing fees.</p>
+<p>Many people who trade commodities are not interested in physical commodities but are solely interested in price fluctuations. Likewise, most traders and investors are interested in speculating on future price movements, not the actual delivery of the asset.</p>
+<p>Therefore, we have now exposed the shortcomings of spot transactions, and it is now time to focus on futures, including their advantages and disadvantages.</p>
+<p><img decoding="async" src="https://www.atfx.com/hubfs/Others%20folders/ATFX%20Blog%20Image%202020/ATFX-spot-transaction.jpg" alt="ATFX-spot-transaction" width="1200" /></p>
+<h2>2. Futures</h2>
+<p>Futures are different from spot transactions, but they are also related to spot prices. Futures represent the expected prices at a future date, while spot prices are the current market prices. Most people do not understand the mechanism by which futures prices are quoted, which makes them think that futures prices are unpredictable. So, how can futures provide accurate future price quotations? While this is a valid question, traders will see futures prices fluctuating as market conditions reflect current and projected market volatility. Therefore, we cannot judge the different quotes we receive when trading futures, which typically reflect the price changes in the underlying assets.</p>
+<p>For example, crude oil futures. The current December contract listed on the MT4 corresponds to the expected crude oil price in December, a few months away. The price of this futures contract is determined by traders and analysts based on a comprehensive analysis of various factors.</p>
+<p>Some of the factors considered include the demand and corresponding supply of crude oil globally.  As December approaches, we will likely see the crude oil prices being very close to the spot crude oil prices. However, there are no guarantees that the prices will be the same.</p>
+<p>The most significant difference between futures and spot transactions is that futures can only be delivered on the expiry date, while spot transactions are delivered within two days. The concept of delivery is quite simple. That is, the physical goods purchased by the trader are shipped to them by the seller. If you close your position before the expiry date, you do not need to take delivery of the assets you were trading. However, you must understand that the delivery process is quite complicated. Unless you are a large institution, ordinary traders and investors generally don&#8217;t want to accept deliveries in the futures market because the products delivered are often in large quantities, and the shipping and handling fee is usually extremely high. The traders also need to prepare their warehouses and trucks to stock and transport the delivered commodities.</p>
+<p>Many people think that the <a href="/en/markets/commodities/oil-trading" target="_blank" rel="noopener">crude oil trading</a> done on the MT4 platform is based on futures. However, the above misconception is not true since traders cannot take delivery of the crude oil traded on the MT4. Instead, the crude oil traded on the MT4 operates on a “cash delivery” system where traders do not receive actual crude oil on the expiry date but instead receive a cash payment. Traders will receive cash after discounting the market price.</p>
+<p>I prefer to call the crude oil assets in the MT4: futures-style CFD contracts. Naturally, the gold trading in MT4 is in the form of spot CFD contracts. The forex traded on the MT4 is also a spot foreign exchange CFD contract.</p>
+<h2>3. CFD (Contracts for difference)</h2>
+<p>I can tell you with certainty that all instruments traded on the MT4 platform are <a href="/en/ways-to-trade/cfd-trading" target="_blank" rel="noopener">CFD</a>s, including the currency pairs, <a href="/en/markets/commodities/gold-trading" target="_blank" rel="noopener">gold and silver</a>, commodities, stock indexes, among others.  Spot and physical transactions are closely related, and futures will postpone the time of physical transactions. CFDs simply eliminate the physical transactions completely allowing investors to trade purely based on price quotations.</p>
+<p>The history of CFDs is not long,  they were originally invented in the London financial markets in the early 1990s with the purpose of further reducing the intermediate costs of transactions, such as stamp duty.</p>
+<p><img decoding="async" src="https://www.atfx.com/hubfs/Others%20folders/ATFX%20Blog%20Image%202020/ATFX-contract-for-difference-cfd.jpg" alt="ATFX-contract-for-difference-cfd" width="1200" /></p>
+<p>The biggest advantage associated with CFDs is the extremely low transaction costs compared to other tradable instruments. Taking currency pairs as an example, traders do not have to pay any handling fees, as long as they can bear the difference (spread) between the buying price and the selling price.</p>
+<p>CFD trading represents a  quotation of the corresponding investment product. Whether the underlying investment product is from spot or futures markets, there is no physical delivery of any products. However, if the delivery date of a futures contract arrives, it will be discounted and delivered in cash.</p>
+<p>Since the CFD market does not have the same restrictions as the spot and futures markets, traders tend to use more leverage with many brokers offering leverage of up to 1:200 on certain instruments.</p>
+<h2>Conclusion</h2>
+<p>The spot and futures markets have a long history and are widely accepted and understood by most investors. However,  most people are unaware of their related operating mechanisms. CFDs are quite different from spot and futures contracts as they offer greater flexibility to investors. Some people have criticised CFD trading because of its short history and the lack of the delivery of physical commodities.</p>
+<p>In my opinion, the characteristics of CFDs imply that it is not suitable for large institutions that value physical guarantees and would like to take delivery of the commodities traded. However, for most retail traders, the physical delivery is not important. To the contrary, it is very necessary to trade small sizes and use high leverage to maximise their gains. Only the CFDs The market can satisfy the needs of retail traders who do not have the massive funds that institutions have.</p>
+<p>Everyone has different needs. The financial markets do not necessarily teach investors what to do, but they provide enough products and options to suit the different needs of each trader. Therefore, the CFD market is legitimate and it exists to serve the specific needs of retail traders.</p>
+<p><a href="/en/trading-platforms/metatrader-4/download-mt4" target="_blank" rel="noopener">Download Metatrader 4</a> or set up a <a href="/en/trading-accounts/demo-account" target="_blank" rel="noopener">demo trading account</a> to start trading now!&lt;/p</p>
+<div class="article-banner article-banner__dark" style="background-image: url('https://www.atfx.com/wp-content/uploads/2022/03/Free-Metatrader-4.webp'); background-size: cover; background-position: center; color: #fff; padding: 20px; justify-content: space-between; align-items: center; margin: 20px 0;">
+<div class="article-banner-content" style="flex: 1; margin-right: 20px;">
+<p><span style="font-size: 30px; color: #fff; font-weight: bold;">Practice with Metatrader 4 Demo Account</span></p>
+<p style="font-size: 22px; color: #fff; margin-top: 10px;">Be Ready To Trade Live</p>
+<p><a id="banner_button_8_1" class="article-banner-button" style="background-color: #f2672b; color: #fff; padding: 10px 20px; text-decoration: none; font-weight: bold; border-radius: 5px; margin-top: 10px;" href="https://www.atfx.com/en/trading-platforms/metatrader-4/mt4-demo-account" target="_blank" rel="noopener">REGISTER NOW</a></p>
+</div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>ATFX: Top 10 Most Influential Companies of the Year 2021</title>
+		<link>https://www.atfx.com/en/company-news/atfx-top10-most-influential-companies-of-the-year</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Wed, 27 Oct 2021 09:40:00 +0000</pubDate>
+				<category><![CDATA[Company News]]></category>
+		<category><![CDATA[Featured]]></category>
+		<guid isPermaLink="false">https://lptemplatedev.wpengine.com/uncategorized/atfx-top10-most-influential-companies-of-the-year-2</guid>
+
+					<description><![CDATA[Oct. 27, 2021 &#8212; ATFX was recently rated among the Top 10 Most Influential Companies of the Year 2021 by The Chief’s Digest, an influential UK publication. We won global recognition for our quality services, dedicated management team, and our client-first philosophy.&#160; This is our 9th award in 2021. ATFX has so far won over [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p style="font-size: 18px"><img decoding="async" src="https://www.atfx.com/hubfs/ATFX_10_most_influential_brand_2021.jpg" alt="ATFX_10_most_influential_brand_2021" width="2000" loading="lazy" style="width: 2000px"></p>
+<p style="font-size: 18px">Oct. 27, 2021 &#8212; ATFX was recently rated among the Top 10 Most Influential Companies of the Year 2021 by <em>The Chief’s Digest</em>, an influential UK publication. We won global recognition for our quality services, dedicated management team, and our client-first philosophy.&nbsp;</p>
+<p><span id="more-10751"></span></p>
+<p style="text-align: justify">This is our 9<sup>th</sup> award in 2021. ATFX has so far won over 60 international awards for its trading platform, fintech and innovative technologies.</p>
+<p style="text-align: justify">&nbsp;</p>
+<div data-hs-responsive-table="true" style="max-width: 100%;width: 824px;margin-left: auto;margin-right: auto">
+<table style="border-collapse: collapse;border: 1px solid #99acc2;height: 634.438px">
+<tbody>
+<tr style="height: 48.3125px">
+<td style="border: 1pt solid #000000;width: 306px;height: 48px;background-color: #cccccc">
+<p style="text-align: center;font-weight: bold">Awards</p>
+</td>
+<td style="border: 1pt solid #000000;width: 325px;height: 48px;background-color: #cccccc">
+<p style="text-align: center;font-weight: bold">Category</p>
+</td>
+<td style="border: 1pt solid #000000;width: 192px;height: 48px;background-color: #cccccc">
+<p style="text-align: center;font-weight: bold">Sponsor</p>
+</td>
+</tr>
+<tr style="height: 78.3125px">
+<td style="border: 1pt solid #000000;width: 306px;height: 78px">
+<p style="text-align: center">Top 10 Most Influential Companies of the Year 2021&nbsp;</p>
+</td>
+<td style="border: 1pt solid #000000;width: 325px;height: 78px">
+<p style="text-align: center">10 Most Influential Companies of the Year 2021</p>
+</td>
+<td style="border: 1pt solid #000000;width: 192px;height: 78px">
+<p style="text-align: center">The Chief’s Digest</p>
+</td>
+</tr>
+<tr style="height: 78.3125px">
+<td style="border: 1pt solid #000000;width: 306px;height: 78px">
+<p style="text-align: center">Best Forex Introducing Broker Programme &#8211; Middle East</p>
+</td>
+<td style="border: 1pt solid #000000;width: 325px;height: 78px">
+<p style="text-align: center">Global Forex Awards 2021 &#8211; Retail</p>
+</td>
+<td style="border: 1pt solid #000000;width: 192px;height: 78px">
+<p style="text-align: center">Holliston Media</p>
+</td>
+</tr>
+<tr style="height: 78.3125px">
+<td style="border: 1pt solid #000000;width: 306px;height: 78px">
+<p style="text-align: center">Best Forex MT4 Broker &#8211; Asia</p>
+</td>
+<td style="border: 1pt solid #000000;width: 325px;height: 78px">
+<p style="text-align: center">Global Brands Magazine Awards 2021</p>
+</td>
+<td style="border: 1pt solid #000000;width: 192px;height: 78px">
+<p style="text-align: center">Global Brands Magazine</p>
+</td>
+</tr>
+<tr style="height: 78.3125px">
+<td style="border: 1pt solid #000000;width: 306px;height: 78px">
+<p style="text-align: center">Top 10 Hot Brands of the year 2021</p>
+</td>
+<td style="border: 1pt solid #000000;width: 325px;height: 78px">
+<p style="text-align: center">Hot Brands of the year 2021</p>
+</td>
+<td style="border: 1pt solid #000000;width: 192px;height: 78px">
+<p style="text-align: center">The CEO Views</p>
+</td>
+</tr>
+<tr style="height: 48.3125px">
+<td style="border: 1pt solid #000000;width: 306px;height: 48px">
+<p style="text-align: center">Best Institutional Forex Broker</p>
+</td>
+<td style="border: 1pt solid #000000;width: 325px;height: 48px">
+<p style="text-align: center">Global Forex Awards 2021 &#8211; B2B</p>
+</td>
+<td style="border: 1pt solid #000000;width: 192px;height: 48px">
+<p style="text-align: center">Holliston Media</p>
+</td>
+</tr>
+<tr style="height: 48.3125px">
+<td style="border: 1pt solid #000000;width: 306px;height: 48px">
+<p style="text-align: center">Best Trading Experience</p>
+</td>
+<td style="border: 1pt solid #000000;width: 325px;height: 48px">
+<p style="text-align: center">Forex Brokers Awards 2021</p>
+</td>
+<td style="border: 1pt solid #000000;width: 192px;height: 48px">
+<p style="text-align: center">Fxdailyinfo</p>
+</td>
+</tr>
+<tr style="height: 48.3125px">
+<td style="border: 1pt solid #000000;width: 306px;height: 48px">
+<p style="text-align: center">Best Forex MT4 Broker Asia&nbsp;</p>
+</td>
+<td style="border: 1pt solid #000000;width: 325px;height: 48px">
+<p style="text-align: center">Forex Brokers Awards 2021</p>
+</td>
+<td style="border: 1pt solid #000000;width: 192px;height: 48px">
+<p style="text-align: center">Fxdailyinfo</p>
+</td>
+</tr>
+<tr style="height: 48.3125px">
+<td style="border: 1pt solid #000000;width: 306px;height: 48px">
+<p style="text-align: center">Best Fintech Forex Broker</p>
+</td>
+<td style="border: 1pt solid #000000;width: 325px;height: 48px">
+<p style="text-align: center">Forex Brokers Awards 2021</p>
+</td>
+<td style="border: 1pt solid #000000;width: 192px;height: 48px">
+<p style="text-align: center">Fxdailyinfo</p>
+</td>
+</tr>
+<tr style="height: 78.3125px">
+<td style="border: 1pt solid #000000;width: 306px;height: 78px">
+<p style="text-align: center">Best LATAM Region Broker</p>
+</td>
+<td style="border: 1pt solid #000000;width: 325px;height: 78px">
+<p style="text-align: center">ADVFN International Financial Awards 2021</p>
+</td>
+<td style="border: 1pt solid #000000;width: 192px;height: 78px">
+<p style="text-align: center">ADVFN</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p style="text-align: center;font-weight: bold;font-size: 18px">List of ATFX awards in 2021</p>
+<p style="text-align: left">&nbsp;</p>
+<p style="text-align: left">Why is ATFX so well-rated among global institutions? How did it become an industry leader?</p>
+<p>In addition to offering over 300 CFD products, we provide unique investment instruments and comprehensive <a href="/en/education-and-tools" rel="noopener">trading education</a>. Equipped by a strong team of veteran analysts, we give investors valuable trade suggestions based on market dynamics. At the same time, we run a wide range of trading education events, sharing <a href="/en/analysis" rel="noopener">investing tactics</a> with global investors and teaching them about the keys to successful trading.</p>
+<p>With a technical team of over 100 employees worldwide, we keep upgrading its <a href="/en/markets" rel="noopener">products and services</a>, empowering investors with the latest technologies. For example, we pioneered technologies enabling clients to open accounts using facial recognition while integrating Adobe Sign into our platform and introducing a low-latency accelerator. Moreover, we have upgraded the Membership Center by launching a new version. These technologies and tools have generated substantial interest across the retail brokerage industry.</p>
+<p>ATFX will always put its clients first and keep launching innovative fintech solutions to enhance the client experience. We launched the leading research platform AT Premier in the Middle East, which gives investors valuable market insights created by globally-renowned experts who have excellent reputations. We also released ATFX TeamUp, a social media application, in Latin America. ATFX will launch more fintech-based products and services to provide an excellent trading experience to our clients.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Which varieties are most suitable for short-term trading?</title>
+		<link>https://www.atfx.com/en/analysis/trading-strategies/which-varieties-are-most-suitable-for-short-term-trading-beginners-trading-guide-by-atfx</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Mon, 25 Oct 2021 09:53:39 +0000</pubDate>
+				<category><![CDATA[Trading Strategies]]></category>
+		<category><![CDATA[Featured]]></category>
+		<guid isPermaLink="false">https://lptemplatedev.wpengine.com/uncategorized/which-varieties-are-most-suitable-for-short-term-trading-beginners-trading-guide-by-atfx</guid>
+
+					<description><![CDATA[Trading styles are roughly divided into three categories: long-term economic cycle, mid-term news, and short-term technology. Short-term technical schools can be subdivided into overnight short-term, intra-day short-term, and high-frequency trading. In theory, the shorter the trading cycle, the more ups and downs involved, and the greater the gains. Click here to learn how to become [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Trading styles are roughly divided into three categories: long-term economic cycle, mid-term news, and short-term technology. Short-term technical schools can be subdivided into overnight short-term, intra-day short-term, and high-frequency trading. In theory, the shorter the trading cycle, the more ups and downs involved, and the greater the gains. Click here to learn <a href="https://www.atfx.com/en/analysis/trading-strategies/how-to-become-a-trader">how to become a trader</a>.</p>
+<p><span id="more-10381"></span></p>
+<p>A typical case is: Gann, the inventor of the Gann theory, operated 286 transactions in 25 trading days, of which only 22 losses were made, and the remaining 264 were profitable, with a winning rate of 92%, creating a legend of the era.</p>
+<p>Of course, the risk and return are equal, and participation in more volatility is a higher return for people with strong technical analysis skills, but for those with weak technical analysis skills, or even radical novices, it means continuous accumulation. Transaction risks and rapidly increasing transaction costs.</p>
+<p>There is no doubt that the varieties that are suitable for short-term trading must be highly volatile. Such volatility does not require a unilateral rise or unilateral decline, as long as the transaction cost can be covered. The cruel reality is that investment products develop in shocks 70% of the time, and most of the short-term trading orders are also completed in shocks.</p>
+<p><img decoding="async" src="https://www.atfx.com/hubfs/Others%20folders/ATFX%20Blog%20Image%202020/ATFX-short-term-varieties.jpg" alt="ATFX-short-term-varieties" width="1200" loading="lazy"></p>
+<p>Even if there is a large-scale unilateral trend, short-term traders will waste most of the market because of the limited holding time. The so-called &#8220;let profits run&#8221; by swing traders is not entirely applicable in short-term trading, because this concept will cause short-term traders to frequently stop losses in the volatile <a href="https://www.atfx.com/en/markets">online trading market</a>.</p>
+<p>Establish the awareness of &#8220;small take profit&#8221; and avoid greed. You must know that there are many V-shaped reversals in the market. Most of the time, extending the holding cycle will only make you ride the roller coaster again and again.</p>
+<p>The varieties with higher volatility in <a href="https://www.atfx.com/en/trading-platforms/metatrader-4">MT4 software</a> are EURUSD, XAUUSD, WTI, which are also the short-term trading varieties most recommended by the author.</p>
+<h2>Choose EURUSD</h2>
+<p>The reason is that the euro is the currency with the highest weight in the calculation of the US dollar index, accounting for 57.6%. It can be said that trading EURUSD is trading the US dollar index. The US dollar is a hegemonic currency, and the world&#8217;s attention is focused on the economic development of the United States. Whether it is a popular event such as the U.S. election, or the Federal Reserve&#8217;s interest rate decision, or even sub-data such as the non-agricultural employment report, there is a high degree of attention. Another reason is that EURUSD is the currency pair with the highest trading volume in the world, accounting for about 30% of the total trading volume of all currency pairs throughout the year.</p>
+<p><img decoding="async" src="https://www.atfx.com/hubfs/ATFX-eurusd-online-trading%20(1).jpg" alt="ATFX-eurusd-online-trading (1)" width="825" loading="lazy" style="width: 825px"></p>
+<p>The volume of transactions means that the variety is highly active, and the activeness is the volatility that short-term traders most value. Here can be a supplement. In the ranking of global currency pairs trading volume, EURUSD ranks first, the second is USDJPY, accounting for about 13%, and the third is GBPUSD, accounting for about 11%. The rest are AUDUSD (6%), USDCAD (5%), USDCHF (4%), NZDUSD (4%), EURJPY (3%), GBPJPY (3%), EURGBP (2%). When EURUSD trading opportunities are insufficient, short-term traders can choose USDJPY and GBPUSD as supplements. Especially USDJPY, which is far more active during the Asian trading hours than EURUSD and GBPUSD.</p>
+<h2>Choose XAUUSD</h2>
+<p>It is because gold is the world&#8217;s core safe-haven asset. When facing an economic recession, when the <a href="https://www.atfx.com/en/markets/shares-trading">stock markets</a> of all countries are falling and currencies are depreciating, gold can be boosted by panic and rise sharply.</p>
+<p>Moreover, gold is the most well-known <a href="https://www.atfx.com/en/markets/commodities">commodity investment</a>. The Ministry of Finance, the Central Bank, and the common people all know that gold is a precious metal. Whether it is a peaceful and prosperous age or world chaos, it is always right to reserve some gold. Secondly, the trading volume of gold is huge, which is the same as EURUSD.</p>
+<p>Even in an environment where the macro news is light, the natural volatility of gold is very high. In fact, there are a large number of short-term traders who only operate gold varieties, and none of the other trading varieties is touched.</p>
+<p>The advantage of the gold market over EURUSD is that the relevant data about gold is more transparent, and traders can find all the data they need on the World Gold Council. In the <a href="https://www.atfx.com/en/markets/forex-trading">currency market</a>, because of national policies, important information is often blocked or modified.</p>
+<h2>Choose WTI</h2>
+<p>Because it complements <a href="https://www.atfx.com/en/markets/commodities/gold-trading">gold trading</a>. Gold is a counter-cyclical hedging product, while crude oil is a pro-cyclical value product. When the global economy continues to recover, the demand for crude oil has steadily picked up, and prices have risen.</p>
+<p>In addition, the attention and trading volume of crude oil, like EURUSD and XAUUSD, are very high. Especially after experiencing three oil crises, its low position in the international market is irreplaceable.</p>
+<p>Crude oil futures are the mainstream trading product. Since it is a futures, it means that it has an expiry date. The crude oil contract is only valid for one month, and after one month, it must be replaced with a new contract, <span>which is also known as </span><a href="https://www.atfx.com/en/ways-to-trade/cfd-trading">contracts for difference</a>.</p>
+<p><img decoding="async" src="https://www.atfx.com/hubfs/Others%20folders/ATFX%20Blog%20Image%202020/ATFX-wti-crude-oil-trading.jpg" alt="ATFX-wti-crude-oil-trading" width="1200" loading="lazy" style="width: 1200px"></p>
+<p>This kind of contract replacement makes long-term traders at a loss what to do, but it has little effect on short-term traders. From the perspective of the game, a large part of the funds lost by long-term investors participating in <a href="https://www.atfx.com/en/markets/commodities/oil-trading">crude oil trading</a> is absorbed by short-term traders. This is one of the reasons why crude oil short-term trading is logically optimistic.</p>
+<p>Crude oil is also a bulk commodity, and the bulk commodity category has the same analysis idea, which is to observe the changes in inventory data: high inventory, oil prices are under downward pressure; inventory reduction, oil prices will be supported.</p>
+<p><a href="https://www.atfx.com/en/trading-platforms/metatrader-4/download-mt4">Download Metatrader 4</a> or set up a <a href="https://www.atfx.com/en/trading-accounts/demo-account">demo trading account</a> to start trading now!</p>
+<div class="article-banner article-banner__dark" style="background-image: url('https://www.atfx.com/wp-content/uploads/2023/10/Free-Demo-Trading-Account.webp');background-size: cover;background-position: center;color: #fff;padding: 20px;justify-content: space-between;align-items: center;margin: 20px 0">
+<div class="article-banner-content" style="flex: 1;margin-right: 20px">
+        <span style="font-size: 30px;color: #fff;font-weight: bold">Risk Free Demo Trading Account</span></p>
+<p style="font-size: 22px;color: #fff;margin-top: 10px">Learn, Practice, Trade</p>
+<p>        <a class="article-banner-button" href="https://www.atfx.com/en/trading-accounts/demo-account" id="banner_button_8_1" target="_blank" style="background-color: #f2672B;color: #fff;padding: 10px 20px;text-decoration: none;font-weight: bold;border-radius: 5px;margin-top: 10px" rel="noopener">OPEN DEMO ACCOUNT</a>
+    </p>
+</div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>ATFX LATAM Visits APAC´s Headquarters</title>
+		<link>https://www.atfx.com/en/company-news/atfx-latam-visits-apac-headquarters</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Fri, 15 Oct 2021 04:50:00 +0000</pubDate>
+				<category><![CDATA[Company News]]></category>
+		<category><![CDATA[Featured]]></category>
+		<guid isPermaLink="false">https://lptemplatedev.wpengine.com/uncategorized/atfx-latam-visits-apac-headquarters</guid>
+
+					<description><![CDATA[ATFX LATAM team members (Gissel, Melissa, Irvin, Zaid, Uriel, Eduardo and Karina) had the opportunity to visit APAC headquarters in Mexico City on October 15th, 2021. APAC is a charity that focuses on helping people of all ages who have cerebral palsy, they offer programs such as educational, physical and baking programs to help them [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" src="https://www.atfx.com/hubfs/ATFX%20LATAM%20Visits%20APAC%C2%B4s%20Headquarters3-1.webp" alt="ATFX LATAM Visits APAC´s Headquarters3-1" width="2000" loading="lazy" style="width: 2000px;margin-left: auto;margin-right: auto"></p>
+<p style="text-align: justify;line-height: 1.75">ATFX LATAM team members (Gissel, Melissa, Irvin, Zaid, Uriel, Eduardo and Karina) had the opportunity to visit APAC headquarters in Mexico City on October 15th, 2021. APAC is a charity that focuses on helping people of all ages who have cerebral palsy, they offer programs such as educational, physical and baking programs to help them increase their quality of life quality now and in the future.</p>
+<p><span id="more-10696"></span></p>
+<p style="text-align: justify;line-height: 1.75">The ATFX team met with Guadalupe Maldonado (general management), Stefania Rivera (Manager of National Acquisitions), Daniela Montenegro (Head of Events), and six students who attend the APAC facilities whom ATFX will sponsor. This sponsorship consists of physical therapy, school supplies and educational classes for the students. With Halloween close by, ATFX LATAM Team also gave away toys and facemasks to the kids and family members who were present on the day of the visit.</p>
+<p><img decoding="async" src="https://www.atfx.com/hubfs/ATFX%20LATAM%20Visits%20APAC%C2%B4s%20Headquarters2-2.webp" alt="ATFX LATAM Visits APAC´s Headquarters2-2" width="2000" loading="lazy" style="width: 2000px;margin-left: auto;margin-right: auto"></p>
+<p style="text-align: justify;line-height: 1.75">Pedro Zaid Meneses Morales, VP Regional of LATAM, commented: “As a growing company we have to look into ways of helping communities grow as well. We also like to give our employees the opportunity to give back and get involved in change”.&nbsp;</p>
+<p style="text-align: justify;line-height: 1.75">In 2022, ATFX is looking into increasing its community collaboration in needed communities to decrease the inequality disadvantages and help future leaders achieve their goals.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>ATFX Attends iFX Expo Cyprus 2021</title>
+		<link>https://www.atfx.com/en/company-news/atfx-attends-ifx-expo-cyprus-2021</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Tue, 12 Oct 2021 10:53:00 +0000</pubDate>
+				<category><![CDATA[Company News]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Recent news]]></category>
+		<guid isPermaLink="false">https://lptemplatedev.wpengine.com/uncategorized/atfx-attends-ifx-expo-cyprus-2021-2</guid>
+
+					<description><![CDATA[Oct. 12, 2021&#160;&#8212; ATFX recently attended the iFX Expo held in Limassol,&#160;Cyprus, from&#160;4-6 October 2021. Ultimate Fintech organizes the B2B fintech expo to connect top-level executives from companies operating in the FX and fintech sectors. The expo features executives from leading companies in the technology and liquidity sectors, digital assets and blockchain sectors, retail and [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: bold">Oct. 12, 2021</span>&nbsp;&#8212; ATFX recently attended the iFX Expo held in Limassol,&nbsp;Cyprus, from&nbsp;4-6 October 2021.</p>
+<p><span id="more-10665"></span></p>
+<p><img decoding="async" src="https://www.atfx.com/hubfs/Others%20folders/ATFX%20Blog%20Image%202020/iFX_expo_photos.jpg" alt="iFX_expo_photos" width="2000" loading="lazy"></p>
+<p>Ultimate Fintech organizes the B2B fintech expo to connect top-level executives from companies operating in the FX and fintech sectors.</p>
+<p>The expo features executives from leading companies in the technology and liquidity sectors, digital assets and blockchain sectors, retail and institutional brokers, etc.</p>
+<p>ATFX participated in the expo via ATFX Connect fintech arm that primarily targets institutional clients.</p>
+<p>ATFX’s executives were delighted to participate in the event and connect with other top-level executives from FX and fintech firms.</p>
+<p><a href="https://www.atfxconnect.com/">ATFX Connect</a>, the institutional arm of ATFX, focusing on Hedge Funds, Family Offices, B2B, Asset Managers, HNW&#8217;s, and spread betting accounts, has reported a quarterly growth of over 30% for trading volumes for Q1 2021 and Q2 2021.&nbsp;</p>
+<p>ATFX Connect supports institutional clients by providing them with Direct Market access to liquidity from T1 bank and non-bank providers in <a href="https://www.atfx.com/en/markets/forex-trading">Spot FX</a>, <a href="https://www.atfx.com/en/markets/commodities">Precious Metals</a> and <a href="https://www.atfx.com/en/ways-to-trade/cfd-trading">CFDs</a>. In addition, the flexible infrastructure enables ATFX to manage aggregation, pricing and allows integration with any third-party platform.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Stock Market Opening Times Worldwide</title>
+		<link>https://www.atfx.com/en/analysis/market-news/stock-market-opening-times-worldwide</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Thu, 27 Aug 2020 11:50:52 +0000</pubDate>
+				<category><![CDATA[Market news & Insights]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[market news]]></category>
+		<category><![CDATA[opening times]]></category>
+		<category><![CDATA[stock market]]></category>
+		<category><![CDATA[trading hours]]></category>
+		<guid isPermaLink="false">https://lptemplatedev.wpengine.com/uncategorized/stock-market-opening-times-worldwide</guid>
+
+					<description><![CDATA[In this article, you’ll find the stock market opening times of the world’s top stock exchanges, ranked by market capitalization. This is important for traders because most trading happens during these sessions. The end of trading sessions are also important because we tend to see trading volume pick up around this time. Keep on reading [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>In this article, you’ll find the stock market opening times of the world’s top stock exchanges, ranked by market capitalization. This is important for traders because most trading happens during these sessions. The end of trading sessions are also important because we tend to see trading volume pick up around this time. Keep on reading to learn more about the trading hours.</p>
+<p><span id="more-10247"></span></p>
+<p>&nbsp;</p>
+<h2>Top 10 stock exchange markets: Opening and closing times</h2>
+<p>Depending on the country the stock market is based in will determine the opening times. No matter the time zone you’re based in, there will be a market available for you to trade.</p>
+<p>See below for the top ten stock exchange opening times.</p>
+<table style="border: none; border-color: #99acc2; border-collapse: collapse; table-layout: fixed; margin-left: auto; margin-right: auto;">
+<tbody>
+<tr>
+<td style="border: 0.5pt solid #000000; padding: 4px;">
+<p style="text-align: center;"><strong>Rank</strong></p>
+<p style="text-align: center;"><strong>(Market Cap)</strong></p>
+</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">
+<p style="text-align: center;"><strong>Stock</strong></p>
+<p style="text-align: center;"><strong>exchange</strong></p>
+</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;"><strong>Short name</strong></td>
+<td style="border: 0.5pt solid #000000; padding: 4px;"><strong>Trading hours (local time)  </strong></td>
+<td style="border: 0.5pt solid #000000; padding: 4px;"><strong>Trading hours</strong></p>
+<p><strong>UK time (GMT)</strong></td>
+</tr>
+<tr>
+<td style="border: 0.5pt solid #000000; padding: 4px;">
+<p style="text-align: center;">1</p>
+</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;"><a href="https://en.wikipedia.org/wiki/New_York_Stock_Exchange">New York Stock Exchange</a></td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">NYSE</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">09:30-16:00</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">14:30-21:00</td>
+</tr>
+<tr>
+<td style="border: 0.5pt solid #000000; padding: 4px;">
+<p style="text-align: center;">2</p>
+</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;"><a href="https://en.wikipedia.org/wiki/Nasdaq">Nasdaq</a></td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">NASDAQ</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">09:30-16:00</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">14:30-21:00</td>
+</tr>
+<tr>
+<td style="border: 0.5pt solid #000000; padding: 4px;">
+<p style="text-align: center;">3</p>
+</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;"><a href="https://en.wikipedia.org/wiki/Japan_Exchange_Group">Japan Exchange Group</a></td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">JPX</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">09:00-15:00</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">00:00-06:00</td>
+</tr>
+<tr>
+<td style="border: 0.5pt solid #000000; padding: 4px;">
+<p style="text-align: center;">4</p>
+</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;"><a href="https://en.wikipedia.org/wiki/London_Stock_Exchange">London Stock Exchange</a></td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">LSE</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">08:00-16:30</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">08:00-16:30</td>
+</tr>
+<tr>
+<td style="border: 0.5pt solid #000000; padding: 4px;">
+<p style="text-align: center;">5</p>
+</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;"><a href="https://en.wikipedia.org/wiki/Shanghai_Stock_Exchange">Shanghai Stock Exchange</a></td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">SSE</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">09:30-15:00</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">01:30-07:00</td>
+</tr>
+<tr>
+<td style="border: 0.5pt solid #000000; padding: 4px;">
+<p style="text-align: center;">6</p>
+</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;"><a href="https://en.wikipedia.org/wiki/Hong_Kong_Stock_Exchange">Hong Kong Stock Exchange</a></td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">MKEX</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">09:30-16:10</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">01:30-08:10</td>
+</tr>
+<tr>
+<td style="border: 0.5pt solid #000000; padding: 4px;">
+<p style="text-align: center;">7</p>
+</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;"><a href="https://en.wikipedia.org/wiki/Euronext">Euronext</a></td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">ENX</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">09:00-17:30</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">08:00-16:30</td>
+</tr>
+<tr>
+<td style="border: 0.5pt solid #000000; padding: 4px;">
+<p style="text-align: center;">8</p>
+</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;"><a href="https://en.wikipedia.org/wiki/Shenzhen_Stock_Exchange">Shenzhen Stock Exchange</a></td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">SZSE</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">09:30-15:00</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">01:30-07:00</td>
+</tr>
+<tr>
+<td style="border: 0.5pt solid #000000; padding: 4px;">
+<p style="text-align: center;">9</p>
+</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;"><a href="https://en.wikipedia.org/wiki/Toronto_Stock_Exchange">Toronto Stock Exchange</a></td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">TSX</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">09:30-16:00</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">14:30-21:00</td>
+</tr>
+<tr>
+<td style="border: 0.5pt solid #000000; padding: 4px;">
+<p style="text-align: center;">10</p>
+</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;"><a href="https://en.wikipedia.org/wiki/Bombay_Stock_Exchange">Bombay Stock Exchange</a></td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">BSE</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">09:15-15:30</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">03:45-10:00</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h2>Stock exchange trading hours in Europe</h2>
+<p>There are several stock exchanges in Europe, but the London stock exchange, LSE, and the German Deutsche Börse (Xetra) are the biggest per market capitalization. Others are the French Stock Exchange (CAC40), the EuroStoxx which is based in Belgium, and the Zurich SMI.</p>
+<table style="border: none; border-color: #99acc2; border-collapse: collapse; table-layout: fixed; margin-left: auto; margin-right: auto;">
+<tbody>
+<tr>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">
+<p style="text-align: center;"><strong>Rank (Market Cap)</strong></p>
+</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">
+<p style="text-align: center;"><strong>Stock exchange</strong></p>
+</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">
+<p style="text-align: center;"><strong>Short name</strong></p>
+</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">
+<p style="text-align: center;"><strong>Region</strong></p>
+</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">
+<p style="text-align: center;"><strong>Trading hours UK time (GMT)</strong></p>
+</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">
+<p style="text-align: center;"><strong>Trading hours (local time)</strong></p>
+</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">
+<p style="text-align: center;"><strong>Market cap</strong><a href="https://en.wikipedia.org/wiki/United_States_dollar"> <strong><span style="text-decoration: underline;">(USD bn)</span></strong></a></p>
+</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">
+<p style="text-align: center;"><strong>Monthly trade volume</strong><a href="https://en.wikipedia.org/wiki/United_States_dollar"> <strong><span style="text-decoration: underline;">(USD bn)</span></strong></a></p>
+</td>
+</tr>
+<tr>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">
+<p style="text-align: center;">1</p>
+</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">
+<p style="text-align: center;">London Stock Exchange</p>
+</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">
+<p style="text-align: center;">LSE</p>
+</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">
+<p style="text-align: center;">Europe</p>
+</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">
+<p style="text-align: center;">08:00-16:30</p>
+</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">
+<p style="text-align: center;">08:00-16:30</p>
+</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">
+<p style="text-align: center;">4590</p>
+</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">
+<p style="text-align: center;">219</p>
+</td>
+</tr>
+<tr>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">
+<p style="text-align: center;">2</p>
+</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">
+<p style="text-align: center;">Deutsche Börse (Xetra)</p>
+</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">
+<p style="text-align: center;">DAX</p>
+</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">
+<p style="text-align: center;">Europe</p>
+</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">
+<p style="text-align: center;">08:00-16:30</p>
+</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">
+<p style="text-align: center;">09:00-17:30</p>
+</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">
+<p style="text-align: center;">1864</p>
+</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">
+<p style="text-align: center;">140</p>
+</td>
+</tr>
+<tr>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">
+<p style="text-align: center;">3</p>
+</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">
+<p style="text-align: center;">European New Exchange Technology</p>
+</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">
+<p style="text-align: center;">Euronext</p>
+</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">
+<p style="text-align: center;">Europe</p>
+</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">
+<p style="text-align: center;">08:00-16:30</p>
+</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">
+<p style="text-align: center;">09:00-17:30</p>
+</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">
+<p style="text-align: center;">3833</p>
+</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">
+<p style="text-align: center;">84.8</p>
+</td>
+</tr>
+<tr>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">
+<p style="text-align: center;">4</p>
+</td>
+<td style="padding: 4px; border: 1px none #99acc2;">
+<p style="text-align: center;">SIX Swiss Exchange (SMI Component)</p>
+</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">Zurich SMI</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">
+<p style="text-align: center;">Europe</p>
+</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">
+<p style="text-align: center;">08:00-16:30</p>
+</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">
+<p style="text-align: center;">09:00-17:30</p>
+</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">
+<p style="text-align: center;">1710</p>
+</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">
+<p style="text-align: center;">60.28</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 4px;">
+<p style="text-align: center;">5</p>
+</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">
+<p style="text-align: center;"><a href="https://en.wikipedia.org/wiki/Stockholm_Stock_Exchange" rel="noopener">Stockholm Stock Exchange</a></p>
+</td>
+<td style="padding: 4px;">OMXS</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">
+<p style="text-align: center;">Europe</p>
+</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">
+<p style="text-align: center;">08:00-16:30</p>
+</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">
+<p style="text-align: center;">09:00-17:30</p>
+</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">
+<p style="text-align: center;">1520</p>
+</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">
+<p style="text-align: center;">40</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h3>What time does the stock market open in the UK?</h3>
+<p style="text-align: justify;">The London stock exchange opens at 08:00 UK time and closes at 16:00. You will find big firms like Lloyd’s Bank and Tesco trading on the London stock exchange.</p>
+<p style="text-align: justify;">
+<h3>What time does the stock market open in Germany?</h3>
+<p style="text-align: justify;">The opening time of Deutsche Börse (Xetra) is 08:00 UK time, and the stock market closes at 16:30 GMT. Deutsche Börse operates several venues, but Xetra is the most popular and hosts most of the DAX 30 firms. The DAX 30 is a stock index of the 30 biggest German firms.</p>
+<p style="text-align: justify;">
+<h3><span style="background-color: #ffffff;">What time does the Euronext stock market in Paris, Lisbon, Brussels and Amsterdam open?</span></h3>
+<p style="text-align: justify;">The opening time of the Euronext is 08:00 GMT, and the closing time is 16:30 GMT. Euronext is based in the Netherlands but operates its markets in Belgium, UK, Netherlands, Portugal, Ireland, Sweden and France.</p>
+<p style="text-align: justify;">It has more than 1,500 listed companies pooled from these countries, with a market cap of 4.1 trillion Euros. Among the top 10 stocks on Euronext by market cap are IBM, LVMH, Merck and Co Inc, L&#8217;Oreal, HSBC Holdings, Total, AB INBEV, Royal Dutch Shell and Sanofi.</p>
+<p style="text-align: justify;">
+<h3><span style="background-color: #ffffff;">What time does the SIX Swiss Exchange Open?</span></h3>
+<p style="text-align: justify;">The Swiss Exchange opens at 08:00 GMT and closes by 16:00 GMT. The SIX Swiss Exchange is the principal stock exchange of Switzerland. It is owned by the SIX Group, hence the name and was formed by a merger of the three local exchanges.</p>
+<p style="text-align: justify;">Several indices are measured on the SIX Swiss Exchange, of which the Swiss Market Index or SMI (also known as Zurich SMI) is the largest. The SMI measures the 20 largest companies out of 200 that are listed on the Swiss Performance Index. Among the top companies by market cap are Nestle, Roche, Novartis, Zurich Insurance, Asea Brown Boveri (ABB) and Lonza.</p>
+<p style="text-align: justify;"><img decoding="async" style="width: 1400px;" src="https://www.atfx.com/hubfs/ATFX.COM/NEW%20pages/Pages%20-%20go%20live%20-%20Analysis/Analysis%20-%20C%20-%20Market%20news/Stock%20markets%20opening%20times/analysis-market-news-europe-timezone.jpg" alt="analysis-market-news-europe-timezone" width="1400" /></p>
+<p>&nbsp;</p>
+<h2>Stock exchange trading hours in the Americas</h2>
+<p style="text-align: justify;">The major stock exchanges in the Americas are those of the US, Canada, Mexico and Brazil. The US exchanges dwarf all the others by market capitalisation and is the largest stock exchange in the world.</p>
+<table style="border: none; border-color: #99acc2; border-collapse: collapse; table-layout: fixed; margin-left: auto; margin-right: auto;">
+<tbody>
+<tr>
+<td style="border: 0.996098pt solid #000000; padding: 4px;"><strong> </strong></p>
+<p><strong>Rank (Market Cap)</strong></td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;"><strong>Stock exchange</strong></td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;"><strong>Short name</strong></td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;"><strong>Region</strong></td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;"><strong>Trading hours UK time (GMT)</strong></td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;"><strong>Trading hours (local time)</strong></td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;"><strong>Market cap</strong><a href="https://en.wikipedia.org/wiki/United_States_dollar"><strong> (USD bn)</strong></a></td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;"><strong>Monthly trade volume</strong><a href="https://en.wikipedia.org/wiki/United_States_dollar"><strong> (USD bn)</strong></a></td>
+</tr>
+<tr>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">1</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">New York Stock Exchange</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">NYSE</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">Americas</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">14:30-21:00</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">09:30-16:00</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">22923</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">1452</td>
+</tr>
+<tr>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">2</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">Nasdaq</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">NASDAQ</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">Americas</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">14:30-21:00</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">09:30-16:00</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">10857</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">1262</td>
+</tr>
+<tr>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">3</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">Toronto Stock Exchange</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">TSX</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">Americas</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">14:30-21:00</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">09:30-16:00</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;"><span style="background-color: #f8f9fa;">2095</span></td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;"><span style="background-color: #f8f9fa;">97</span></td>
+</tr>
+<tr>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">4</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">Brasil Bolsa Balcão S.A</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">B3</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">Americas</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">12:00 – 21:00</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">&nbsp;</p>
+<p>09:00-18:00</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">894</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;"><span style="background-color: #f8f9fa;">29</span></td>
+</tr>
+<tr>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">5</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">Mexican Stock Exchange</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;"><span style="background-color: #f8f9fa;">BMV</span></td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">Americas</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;"><span style="background-color: #f8f9fa;">14:30- 21:00</span></td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;"><span style="background-color: #f8f9fa;">08:30- 15:00</span></td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;"><span style="background-color: #f8f9fa;">530</span></td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">11.23</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h3>What time does the US stock market open? (North America)</h3>
+<p style="text-align: justify;">There are several US stock markets, but the most popular are the NYSE and NASDAQ. The New York stock exchange hours are 14:30 to 21:00 UK time (GMT). The NASDAQ trading hours are also 14:30-21:00 UK time.</p>
+<p style="text-align: justify;">The Nasdaq opening time at 14:30 UK time is essential and we tend to see the highest volume at that time. The Nasdaq is also known as the tech index, because of the sheer number of companies involved in the tech space that are listed on the index. This is where big companies like Apple, Alphabet, Amazon, Tesla and Microsoft are all listed. Foreign companies are also listed on these markets as American Depository Receipts (ADR).</p>
+<p style="text-align: justify;">
+<h3>What time does the stock market open in Canada?</h3>
+<p style="text-align: justify;">The Toronto Stock Exchange, TSX, opens for trading at 14:30 UK time. The trading session ends at -21:00 GMT. The Toronto Stock Exchange (TSX) is located in Toronto, Canada and is one of the top 10 largest exchanges in the world.</p>
+<p style="text-align: justify;">Owned and operated by the TMX Group, it features 1,569 assets which also include ETFs and other derivatives. Among the top 10 stocks on the TSX by market cap are Royal Bank of Canada, Toronto Dominion Bank, Enbridge Inc, Ban of Nova Scotia and Canada National Railway Co. Others are Brookfield Asset Management, Suncor Energy Inc and TransCanada Corp.</p>
+<p style="text-align: justify;">
+<h3>What time does the stock market open in Brazil? (South America)</h3>
+<p style="text-align: justify;">The Ibovespa’s trading hours are 12:00 to 21:00 London time. The Bovespa index, also known as Índice Bovespa or Ibovespa, is Brazil&#8217;s stock exchange. It tracks the performance of 60 stocks traded on the Bolsa Balcão, which is where most of the trading on the Brazilian stock market takes place.</p>
+<p style="text-align: justify;">Among the most capitalised stocks on the Ibovespa include Petrobras, Itaú Unibanco, Banco Bradesco, AmBev, Vale, Santander Brasil and Banco do Brasil. Itausa and Telefônica Brasil also make the list.</p>
+<p style="text-align: justify;">
+<h3>What time does the stock market open in Mexico? (Latin America)</h3>
+<p>The Mexico stock exchange opens at 14:30 UK time and closes at 21:00. Also known as the Mexican Bolsa or Mexbol, the Mexican Stock Exchange is the second-largest stock exchange in Latin America. Owned by the BMV Group, the top-ranked stocks on the exchange by market cap are America Movil, Wal-Mart de Mexico, Southern Copper Corporation, Fomento Economico Mexicano, Grup Mexico, Grupo Elektra, Arca Continental and Grup Financiero Banorte.</p>
+<p><img decoding="async" style="width: 1400px;" src="https://www.atfx.com/hubfs/ATFX.COM/NEW%20pages/Pages%20-%20go%20live%20-%20Analysis/Analysis%20-%20C%20-%20Market%20news/Stock%20markets%20opening%20times/analysis-market-news-america-timezone.jpg" alt="analysis-market-news-america-timezone" width="1400" /></p>
+<p>&nbsp;</p>
+<h2>Stock exchange trading hours in Asia</h2>
+<p style="text-align: justify;">The Tokyo stock exchange is Asia’s biggest stock market by market capitalisation, and it’s open between 09:00 to 15:00 local time. However, if you’re based in the UK, the stock market opens at midnight, and closes at six am in the morning. The night hours trading is excellent if trading during the day is not possible for you.</p>
+<table style="border: none; border-color: #99acc2; border-collapse: collapse; table-layout: fixed; margin-left: auto; margin-right: auto;">
+<tbody>
+<tr>
+<td style="border: 0.5pt solid #000000; padding: 4px;">Rank (Market Cap)</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">Stock exchange</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">Short name</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">Region</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">Trading hours UK time (GMT)</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">Trading hours (local time)</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">Market cap <a href="https://en.wikipedia.org/wiki/United_States_dollar">(USD bn)</a></td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">Monthly trade volume <a href="https://en.wikipedia.org/wiki/United_States_dollar">(USD bn)</a></td>
+</tr>
+<tr>
+<td style="border: 0.5pt solid #000000; padding: 4px;">1</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">Japan Exchange Group (Nikkei)</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">JPX</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">Asia</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">00:00-06:00</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">09:00-15:00</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">5679</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">481</td>
+</tr>
+<tr>
+<td style="border: 0.5pt solid #000000; padding: 4px;">2</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">Shanghai Composite Index, China</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">SSE</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">Asia</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">01:30-03:30 and 05:00- 07:00</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">09:30-11:30 and 13:00-15:00</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">4670</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">36.61</td>
+</tr>
+<tr>
+<td style="border: 0.5pt solid #000000; padding: 4px;">3</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">Hong Kong Stock Exchange (Hang Seng)</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">MKEX</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">Asia</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">01:30-08:10</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">09:30-16:10</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">3936</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">182</td>
+</tr>
+<tr>
+<td style="border: 0.5pt solid #000000; padding: 4px;">4</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">Korea Composite Stock Price Index</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">KOSPI</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">Asia</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">00:00-06:30</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">09:00-15:30</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">1298</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;"></td>
+</tr>
+<tr>
+<td style="border: 0.5pt solid #000000; padding: 4px;">5</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">Singapore Exchange (SGX)</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">STI</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">Asia</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">00:30-09:06</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">08:30 &#8211; 17:06</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">175.883</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;"></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h3>What time does the stock market open in Japan?</h3>
+<p style="text-align: justify;">The Tokyo stock exchange opens at 00:00 GMT and closes at 06:00 GMT. The Tokyo Stock exchange is the Nikkei, which tracks the performance of the top 225 stocks in the exchange. Chugai Pharmaceutical, Fast Retailing, Daikin Industries, Daiichi Sankyo and FANUC make up the top five stocks on the Nikkei 225 by market capitalisation.</p>
+<p style="text-align: justify;">The price-weighting method has been used to calculate the daily value of the index since 1950, and this is performed annually by the Nihon Keizai Shimbun (The Nikkei) newspaper.</p>
+<p style="text-align: justify;">
+<h3>What time does the stock market open in Shanghai, China?</h3>
+<p style="text-align: justify;">The Shanghai Composite Index (SSE Index) tracks the performance of stocks that trade on both the Shanghai Stock Exchange and a smaller exchange in Shenzhen. It is the 4th largest stock exchange in the world by market capitalization.</p>
+<p style="text-align: justify;">The SSE opens at 01:30 GMT and trades till 03:30 GMT, before proceeding on a 90-minute break period. Trading then resumes at 05:00 and closes at 07:00 GMT. Stock trading is composed of the A shares and B shares and commenced in 1991 with a base value of CNY100.</p>
+<p style="text-align: justify;">It tracks the performance of the top 30 companies in Singapore by market capitalisation on the SGX Main Board. DBS Group Holdings makes up 15% of the market cap of the STI, followed by Oversea-Chinese Banking (12.66%) and United Overseas Bank (10.64%). The largest companies by market cap are led by PetroChina, followed by Industrial and Commercial Bank of China, Agricultural Bank of China and Bank of China.</p>
+<p style="text-align: justify;">
+<h3><span style="background-color: #ffffff;">What time does the stock market open in Hong Kong?</span></h3>
+<p style="text-align: justify;">The Hong Kong Stock Exchange opens at 01:30 and closes early in the UK morning at 08:10. The Hang Seng Index tracks the performance of the top 50 companies by market capitalisation on the Hong Kong exchange.</p>
+<p style="text-align: justify;">However, these companies make up only 58% of the exchange&#8217;s total market cap. It was formed 50 years ago. The top companies by market cap include Tencent, followed by Industrial and Commercial Bank of China, Ping An Insurance and China Construction Bank. China Mobile, AIA Group and HSBC are also found in the top 10 companies by market cap on the Hang Seng.</p>
+<p style="text-align: justify;">
+<h3><span style="background-color: #ffffff;">What time does the stock market open in South Korea?</span></h3>
+<p style="text-align: justify;">The stock market of South Korea is the KOSPI. KOSPI is the acronym for the Korea Composite Stock Price Index and it tracks the performance of 200 common stocks of the Korea Exchange. It started in 1983 with a base value of 100 Won, and is equivalent to the S&amp;P 500 in the US.</p>
+<p style="text-align: justify;">The KOSPI’s trading hours start from midnight GMT and end at 06:30 GMT. Samsung Electronics has the largest weighting on the KOSPI, comprising almost 30% of the weight of the KOSPI 200. POSCO, KT, Pan Ocean and Hyundai Motors make up the rest of the top five stocks on the KOSPI by market cap.</p>
+<p style="text-align: justify;">
+<h3 style="text-align: justify;"><span style="background-color: #ffffff;">What time does the stock market open in Singapore?</span></h3>
+<p style="text-align: justify;">The stock market of the Singapore Exchange, the Straits Times Index (STI) opens at 00:30 GMT and closes at 09:06 GMT. The Straits Times Index is owned by the FTSE Group and the Singapore Exchange (SGX).</p>
+<p style="text-align: justify;">The Straits Times Index (STI) dates back to 1966 but has been recalculated several times in its history. The STI tracks the performance of the top 30 companies in Singapore by market capitalisation on the SGX Main Board. DBS Group Holdings makes up 15% of the market cap of the STI, followed by Oversea-Chinese Banking (12.66%) and United Overseas Bank (10.64%).</p>
+<p style="text-align: justify;"><img decoding="async" style="width: 1400px;" src="https://www.atfx.com/hubfs/ATFX.COM/NEW%20pages/Pages%20-%20go%20live%20-%20Analysis/Analysis%20-%20C%20-%20Market%20news/Stock%20markets%20opening%20times/analysis-market-news-asia-timezone.jpg" alt="analysis-market-news-asia-timezone" width="1400" /></p>
+<p>&nbsp;</p>
+<h2>Stock exchange trading hours in the Middle East and Africa</h2>
+<p style="text-align: justify;">This section is made up of the top exchanges in the MENA region (the Middle East and North Africa) as well as the stock exchanges within the African continent. Here, the stock exchanges in Saudi Arabia, Dubai, South Africa, Egypt and Nigeria are featured.</p>
+<table style="border: none; border-color: #99acc2; border-collapse: collapse; table-layout: fixed; margin-left: auto; margin-right: auto;">
+<tbody>
+<tr>
+<td style="border: 0.5pt solid #000000; padding: 4px;"><strong>Rank (Market Cap)</strong></td>
+<td style="border: 0.5pt solid #000000; padding: 4px;"><strong>Stock exchange</strong></td>
+<td style="border: 0.5pt solid #000000; padding: 4px;"><strong>Short name</strong></td>
+<td style="border: 0.5pt solid #000000; padding: 4px;"><strong>Region</strong></td>
+<td style="border: 0.5pt solid #000000; padding: 4px;"><strong>Trading hours UK time (GMT)</strong></td>
+<td style="border: 0.5pt solid #000000; padding: 4px;"><strong>Trading hours (local time)</strong></td>
+<td style="border: 0.5pt solid #000000; padding: 4px;"><strong>Market cap </strong><a href="https://en.wikipedia.org/wiki/United_States_dollar"><strong>(bn)</strong></a></td>
+<td style="border: 0.5pt solid #000000; padding: 4px;"><strong>Monthly trade volume </strong><a href="https://en.wikipedia.org/wiki/United_States_dollar"><strong>(USD bn)</strong></a></td>
+</tr>
+<tr>
+<td style="border: 0.5pt solid #000000; padding: 4px;">1</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">Saudi Stock Exchange</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">Tadawul All Share Index (TASI)</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">Middle East</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">07:00-12:00</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">10:00-15:00</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">$2406</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">8.3</td>
+</tr>
+<tr>
+<td style="border: 0.5pt solid #000000; padding: 4px;">2</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">JSE Limited</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">JSE</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">Africa</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">07:00-15:00</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">09:00-17:00</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">$597.28</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">0.503</td>
+</tr>
+<tr>
+<td style="border: 0.5pt solid #000000; padding: 4px;">3</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">Dubai Financial Market</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">DFM</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">Middle East</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">05:30 -10:00</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">09:30-14:00</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">$89.18</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;"></td>
+</tr>
+<tr>
+<td style="border: 0.5pt solid #000000; padding: 4px;">4</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">Egyptian Exchange</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">EGX</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">Africa</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">08:00-10:30</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">10:00-12:30</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">$44.2</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">1.006</td>
+</tr>
+<tr>
+<td style="border: 0.5pt solid #000000; padding: 4px;">5</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">Nigerian Stock Exchange</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">NSE</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">Africa</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">08:30-13:30</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">09:30-14:30</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">$34.79</td>
+<td style="border: 0.5pt solid #000000; padding: 4px;">21.35</td>
+</tr>
+</tbody>
+</table>
+<h3></h3>
+<h3>What time does the stock market open in Saudi Arabia?</h3>
+<p style="text-align: justify;">The Saudi Stock Exchange opens from 07:00 to 12:00 GMT, Sunday to Thursday. Fridays and Saturdays are considered a weekend in Saudi Arabia, with Friday taken off as the worship day.</p>
+<p style="text-align: justify;">It tracks the performance of 171 publicly-listed companies. The Tadawul is the largest stock exchange in the Middle East and North African region (MENA).</p>
+<p style="text-align: justify;">It started trading in 1985 with a nominal value of 1000. The Tadawul was the world’s 25th biggest stock exchange in 2018. As of July 2020, it’s in 9th position. Saudi Aramco is expected to become the largest stock by market cap on the Tadawul when it lists. The weighting will be capped at 10%.</p>
+<p>&nbsp;</p>
+<h3>What time does the stock market open in the UAE?</h3>
+<p style="text-align: justify;">The Dubai financial market opens at 05:30 am UK time, and closes at 10:00 GMT. It is the largest of three stock markets that operate in the UAE. It tracks the performance of 67 companies operating in the UAE. The top 5 companies by market cap include Emirates NBD, Emirates Islamic, Dubai Islamic Bank, Emaar Properties and Emirates Integrated Telecoms Company.</p>
+<p style="text-align: justify;">
+<h3><span style="background-color: #ffffff;">What time does the stock market open in Egypt? (Middle East)</span></h3>
+<p style="text-align: justify;">The Egypt stock exchange opens at 08:00 am UK time, and closes at 10:30 GMT. Two exchanges, one in Cairo and the other in Alexandria make up the Egyptian Stock Exchange. The exchange tracks the performance of the top 30 most liquid company stocks by market cap. It is one of the few exchanges where gains made on stock trading are free of capital gains tax.</p>
+<p style="text-align: justify;">
+<h3>What time does the stock market open in South Africa?</h3>
+<p style="text-align: justify;">The South Africa stock exchange opens at 07:00 am UK time, and closes at 15:00 GMT. 473 companies are listed on the JSE and it is reputed to be the largest in Africa by market cap. Among the top 10 companies by market cap on the JSE include Prosus NV, Anheuser-Busch InBex SA/NV, British American Tobacco (BAT), Naspers Ltd, BHP Group, Anglo-American Plc and mining company Glencore.</p>
+<h3>What time does the stock market open in Nigeria?</h3>
+<p style="text-align: justify;">The Nigerian Stock Exchange opens at 08:30 am UK time, and closes at 13:30 GMT. The 10 top stocks by market cap on the Nigerian Stock Exchange include MTN Communications, Dangote Cement, Airtel Africa, Nestle, Guaranty Trust Bank, Zenith Bank, Stanbic IBTC and Nigerian Breweries.</p>
+<p style="text-align: justify;"><img decoding="async" style="width: 1400px;" src="https://www.atfx.com/hubfs/ATFX.COM/NEW%20pages/Pages%20-%20go%20live%20-%20Analysis/Analysis%20-%20C%20-%20Market%20news/Stock%20markets%20opening%20times/analysis-market-news-africa-timezone.jpg" alt="analysis-market-news-africa-timezone" width="1400" /></p>
+<p>&nbsp;</p>
+<h2>Stock exchange trading hours in Oceania</h2>
+<p>The biggest stock exchange in Oceania is the Australian Securities Exchange, which is the home to the ASX 200 index. Other stock exchanges of importance include the New Zealand Exchange, and the Fiji Stock Exchange is known as the South Pacific Stock Exchange.</p>
+<table style="border: none; border-color: #99acc2; border-collapse: collapse; table-layout: fixed; margin-left: auto; margin-right: auto;">
+<tbody>
+<tr>
+<td style="border: 0.996098pt solid #000000; padding: 4px;"><strong>Rank (Market Cap)</strong></td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;"><strong>Stock exchange</strong></td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;"><strong>Short name</strong></td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;"><strong>Region</strong></td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;"><strong>Trading hours UK time (GMT)</strong></td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;"><strong>Trading hours (local time)</strong></td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;"><strong>Market cap (bn)</strong></td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;"><strong>Monthly trade volume</strong><a href="https://en.wikipedia.org/wiki/United_States_dollar"> <strong><span style="text-decoration: underline;">(USD bn)</span></strong></a></td>
+</tr>
+<tr>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">1</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">Australian Securities Exchange</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">ASX</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">Oceania</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">00:00-06:00</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">10:00-16:00</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;"><span style="background-color: #f8f9fa;">$1260</span></td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">
+<p style="text-align: center;">66.6</p>
+</td>
+</tr>
+<tr>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">2</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">New Zealand Exchange</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">NZX</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">Oceania</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">22:00-04:00</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">10:00-16:00</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">$94.35</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">
+<p style="text-align: center;">1.74</p>
+</td>
+</tr>
+<tr>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">3</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">South Pacific Stock Exchange, Fiji</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">SPX</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">Oceania</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">22:30-23:30 and 02:30-03:30</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">10:30-11:30 and  14:30-15:30</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">$1.6</td>
+<td style="border: 0.996098pt solid #000000; padding: 4px;">
+<p style="text-align: center;">0.00148</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h3>What time does the stock market open in Australia?</h3>
+<p style="text-align: justify;">The Australia stock exchange opens at 00:00 UK time and closes at 06:00 GMT. The index includes big firms like the miner, BHP Group Ltd, and the Commonwealth Bank of Australia. BHP Group Ltd, Rio Tinto Ltd, Commonwealth Bank of Australia, CSL Limited and Westpac Banking Corporation are some of the largest stocks listed on the ASX by market cap.</p>
+<p style="text-align: justify;">
+<h3>What time does the stock market open in New Zealand?</h3>
+<p style="text-align: justify;">The New Zealand stock exchange opens at 22:00 UK time and closes at 06:00 GMT. The New Zealand Exchange or NZX has 178 listed companies. It started operations as NZX in 2002, but the earliest trading in New Zealand stocks dates back to the 1870s when a number of regional exchanges sprang up during the gold rush of that era.</p>
+<p style="text-align: justify;">The top companies on the NZX by market cap include Westpac Banking Corp, Aust &amp; NZ Bank Group, Telstra Corp Ltd, Fisher &amp; Paykel, A2 Milk Co Ltd and Meridian Energy Ltd.</p>
+<p style="text-align: justify;">
+<h3><span style="background-color: #ffffff;">What time does the stock market open in Fiji?</span></h3>
+<p style="text-align: justify;">The South Pacific Stock Exchange in Fiji uses an electronic platform which operates in two trading sessions. The first session starts by 22:30 GMT and ends at 23:30 GMT, while the second session opens at 02:30 UK time and closes at 03:30 GMT. There are premarket and aftermarket hours, but no matching of orders takes place during those times.</p>
+<p style="text-align: justify;"><img decoding="async" style="width: 1400px;" src="https://www.atfx.com/hubfs/ATFX.COM/NEW%20pages/Pages%20-%20go%20live%20-%20Analysis/Analysis%20-%20C%20-%20Market%20news/Stock%20markets%20opening%20times/analysis-market-news-oceania-timezone.jpg" alt="analysis-market-news-oceania-timezone" width="1400" /></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Trading for Beginners: Learn How to Start Trading Online</title>
+		<link>https://www.atfx.com/en/analysis/trading-strategies/how-to-start-trading-for-beginners</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Sat, 22 Aug 2020 00:37:25 +0000</pubDate>
+				<category><![CDATA[Trading Strategies]]></category>
+		<category><![CDATA[beginner trader]]></category>
+		<category><![CDATA[beginner trading]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[How to trade]]></category>
+		<category><![CDATA[Trading Strategies for Beginners]]></category>
+		<guid isPermaLink="false">https://lptemplatedev.wpengine.com/uncategorized/how-to-start-trading-for-beginners-2</guid>
+
+					<description><![CDATA[How to start trading? If you’re just starting your trading journey, our “complete guide for beginners” is aimed at you. You’re curious about online trading, you find the idea exciting, and ultimately you believe you have the qualities to become successful. We’ll provide you with all the necessary tools, educational resources and extensive research that’ll get you [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h2 style="font-weight: normal; text-align: justify; line-height: 2; font-size: 33px;">How to start trading?</h2>
+<p style="text-align: justify; line-height: 2;">If you’re just starting your trading journey, our “complete guide for beginners” is aimed at you. You’re curious about <a href="/en/analysis/trading-strategies/what-is-online-trading" target="_blank" rel="noopener">online trading</a>, you find the idea exciting, and ultimately you believe you have the qualities to become successful.</p>
+<p><span id="more-10218"></span></p>
+<p style="text-align: justify; line-height: 2;"><span style="background-color: #ffffff;">We’ll provide you with all the necessary tools, </span>educational resources<span style="background-color: #ffffff;"> and extensive research that’ll get you started. We want to ensure your eyes are wide open when it comes to trading so that you understand both the risks and opportunities that come with the financial markets. You’ll avoid the pitfalls, and be aware of the steep learning curve you’re about to experience. A good steep learning curve that is.</span></p>
+<p style="text-align: justify; line-height: 2;"><span style="letter-spacing: 0px; text-transform: initial; background-color: transparent;">Before you take the plunge and put your funds to work, there are many aspects of trading to consider. For example, what broker to choose, how much capital is required to open your account and what strategy you’ll use to trade your selected markets. </span></p>
+<p style="text-align: justify; line-height: 2;"><span style="letter-spacing: 0px; text-transform: initial; background-color: transparent;">You can’t learn everything you need to know at once &#8211; trading is a long-term journey. What you can do, though, is give yourself the best possible start by building the right foundations and begin acquiring valuable knowledge at the outset.</span></p>
+<h2 style="text-align: justify; line-height: 2;">How does trading work?</h2>
+<p style="background-color: #ffffff; text-align: justify; text-decoration: none; font-weight: 300; margin: 0px 0px 15px; color: #4c4c4c; font-size: 18px; line-height: 2;">You start trading by <a style="font-weight: bold; color: #f2672a; text-decoration: underline;" href="/en/trading-accounts" target="_blank" rel="noopener">opening an account</a> with a broker and downloading a trading platform such as <a style="font-weight: bold; color: #f2672a; text-decoration: underline;" href="/en/trading-platforms/metatrader-4" target="_blank" rel="noopener">MetaTrader 4</a> (MT4). You then deposit money, choose which markets to trade and you’re in the game.<span style="letter-spacing: 0px; text-transform: initial; background-color: transparent;"><img decoding="async" style="width: 218px; height: auto; max-width: 100%; float: right; margin: 10px 0px 10px 10px;" src="https://www.atfx.com/hubfs/analysis-trading-strategies-how-to-start-graph1-image-1-1.webp" alt="analysis-trading-strategies-how-to-start-graph1-image-1-1" width="218" height="156" /></span></p>
+<p style="background-color: #ffffff; text-align: justify; text-decoration: none; font-weight: 300; margin: 0px 0px 15px; color: #4c4c4c; font-size: 18px; line-height: 2;">Let’s start by discussing what happens when you place an order, or as many of us would call it; “executing a trade.”</p>
+<p style="background-color: #ffffff; text-align: justify; text-decoration: none; font-weight: 300; margin: 0px 0px 15px; color: #4c4c4c; font-size: 18px; line-height: 2;">You’re buying or selling a financial product, often referred to as a security, an instrument or an asset. You can trade a currency pair such as USD/JPY, a commodity such as <a style="font-weight: bold; color: #f2672a; text-decoration: underline;" href="/en/markets/commodities/gold-trading" target="_blank" rel="noopener">gold</a>, an equity index such as the DOW 30 or perhaps a cryptocurrency such as Bitcoin (BTC).</p>
+<p style="background-color: #ffffff; text-align: justify; text-decoration: none; font-weight: 300; margin: 0px 0px 15px; color: #4c4c4c; font-size: 18px; line-height: 2;">Click either ‘buy’ or ‘sell’, depending on whether you think the market is going to go up or down. You’ll go long if you think the market price is going up, or short if you think it is going down.</p>
+<h4 style="text-align: justify; line-height: 2;">Your order and the cost</h4>
+<p style="text-align: justify; line-height: 2;">Your order gets routed to the market via your broker, and then gets completed (filled) at the best possible price. The broker will charge you a fee and normally this comes in the form of a spread, otherwise it’ll be a commission.</p>
+<p style="text-align: justify; line-height: 2;">Spreads will change frequently. For example, the cost/spread of a currency pair like EUR/USD will continually change; it could be 0.2 pips, then 0.7 pips, or higher. Why does it change? Keep reading.</p>
+<h4 style="text-align: justify; line-height: 2;">Factors affecting the spread</h4>
+<p style="background-color: #ffffff; text-align: justify; line-height: 2;"><span style="background-color: #ffffff; text-align: left; font-weight: 300;">&#8211; Sudden spikes in price can cause fluctuations in the spread.</span></p>
+<p style="background-color: #ffffff; text-align: justify; line-height: 2;">&#8211; Increased volatility results in increased spreads.</p>
+<p style="background-color: #ffffff; text-align: justify; line-height: 2;">&#8211; How active the brokers’ clients are will have an impact. The more active, the tighter the spread.</p>
+<p style="background-color: #ffffff; text-align: justify; line-height: 2;">&#8211; <a style="font-weight: bold; margin: 0px; color: #f2672a; text-decoration: underline;" href="/en/analysis/market-news/stock-market-opening-times-worldwide" target="_blank" rel="noopener">Time of trade</a>. A more active market will have more participants and cause a lower spread.</p>
+<h3 style="border: none; font-weight: normal; text-align: justify; line-height: 2;">How leverage and margins work</h3>
+<p style="text-align: justify; line-height: 2;">Leverage refers to how much of the broker’s money you can use combined with your own. For example; if leverage is 1:20, every £100 you put in, the broker will loan you another £2000. Leverage magnifies both your profits and your losses. Margin refers to how much you need to keep in your account to avoid a “margin call”. Hopefully you won’t encounter this issue but it’s when you don’t have enough money in your account to cover your open positions.</p>
+<h2 style="font-weight: normal; text-align: justify; line-height: 2;">How much money do I need to start trading?</h2>
+<p style="background-color: #ffffff; text-align: justify; text-decoration: none; font-weight: 300; margin: 0px 0px 15px; line-height: 2;">In theory, you can begin trading without any money. A <a style="font-weight: bold; color: #f2672a; text-decoration: underline;" href="/en/trading-accounts/demo-account" target="_blank" rel="noopener">demo account</a> offers virtual money and is a great way to enjoy a live market environment, without financial consequence. Many analysts and experienced traders would recommend this as a starting place as it&#8217;s totally risk-free and great experience. You don’t have to stay on the demo long, only until you feel confident enough to trade real funds.</p>
+<p style="background-color: #ffffff; text-align: justify; text-decoration: none; font-weight: 300; margin: 0px 0px 15px; line-height: 2;">You’ll need to have a clear grasp of leverage and margin before you begin trading for real, and you can start to explore these boundaries while on the demo.</p>
+<h4 style="border: none; font-weight: normal; text-align: justify; line-height: 2;">Who makes successful trading debuts?</h4>
+<p style="background-color: #ffffff; text-align: justify; text-decoration: none; font-weight: 300; margin: 0px 0px 15px; line-height: 2;">The most successful novice traders are those that are willing to learn and can follow a plan. They park their egos to one side and accept that it’ll take time to become familiar with this new industry.</p>
+<p style="background-color: #ffffff; text-align: justify; text-decoration: none; font-weight: 300; margin: 0px 0px 15px; line-height: 2;">If you fail to plan &#8211; you plan to fail. Avoiding the most <a href="/en/analysis/trading-strategies/why-do-day-traders-fail" target="_blank" rel="noopener">common mistakes</a> will help you make a successful debut in the industry. Developing a trading plan is essential. If you were starting a new business venture, you’d put together a business plan, the same is the case for trading, you need to put a plan together before you start.</p>
+<div class="article-banner article-banner__dark" style="background-image: url('https://www.atfx.com/wp-content/uploads/2023/10/Free-Demo-Trading-Account.webp'); background-size: cover; background-position: center; color: #fff; padding: 20px; justify-content: space-between; align-items: center; margin: 20px 0;">
+<div class="article-banner-content" style="flex: 1; margin-right: 20px;">
+<p><span style="font-size: 30px; color: #fff; font-weight: bold;">Risk Free Demo Trading Account</span></p>
+<p style="font-size: 22px; color: #fff; margin-top: 10px;">Learn, Practice, Trade</p>
+<p><a id="banner_button_8_1" class="article-banner-button" style="background-color: #f2672b; color: #fff; padding: 10px 20px; text-decoration: none; font-weight: bold; border-radius: 5px; margin-top: 10px;" href="https://www.atfx.com/en/trading-accounts/demo-account" target="_blank" rel="noopener">OPEN DEMO ACCOUNT</a></p>
+</div>
+</div>
+<h2 style="border: none; font-weight: normal; text-align: justify; line-height: 2;">Trading plan</h2>
+<p style="background-color: #ffffff; text-align: justify; text-decoration: none; font-weight: 300; margin: 0px 0px 15px; line-height: 2;"><span style="background-color: white;"><img decoding="async" style="width: 189px; height: auto; max-width: 100%; float: left; margin: 10px 10px 10px 0px;" src="https://www.atfx.com/hubfs/how-to-start-trading-success-ATFX.webp" alt="how-to-start-trading-success-ATFX" width="189" height="71" />When you create your trading plan, you can insert criteria such as the times you’ll trade and what percentage of your funds you’ll risk per session and per trade. Straightaway this will help you: </span></p>
+<ul style="text-align: justify; line-height: 2;">
+<li><span style="background-color: white;">Limit losses</span></li>
+<li><span style="background-color: white;">Prevent you from over-trading</span></li>
+<li><span style="background-color: white;">Ensure that you’re not undercapitalised (in comparison to the trades you place)</span></li>
+</ul>
+<p style="background-color: #ffffff; text-align: justify; text-decoration: none; font-weight: 300; margin: 0px 0px 15px; line-height: 2;"><span style="background-color: white;">Putting a plan together will also reduce stress and help prevent emotions from affecting your trading decisions. </span></p>
+<p style="background-color: #ffffff; text-align: justify; text-decoration: none; font-weight: 300; margin: 0px 0px 15px; line-height: 2;"><span style="background-color: white;">Your trading plan should include the following:</span></p>
+<div style="background-color: #ffffff; text-align: justify; line-height: 2;">
+<ul>
+<li><span style="background-color: white;">Trade set up. This describes how you decide the direction and entry and exit levels.</span></li>
+<li><span style="background-color: white;"><span style="font-size: 18px;"><a style="text-decoration: underline; font-weight: bold; color: #f2672a;" href="/en/analysis/trading-strategies/risk-reward-ratio-management-techniques" target="_blank" rel="noopener">Risk management</a>.</span> This describes how you will manage your risk, for instance how much you will have on each trade.</span></li>
+<li>Trade execution. This describes what criteria is needed for you to hit the buy/sell button.</li>
+</ul>
+</div>
+<h4 style="font-weight: normal; text-align: justify; line-height: 2;">Understanding different trading markets</h4>
+<p style="background-color: #ffffff; text-align: justify; text-decoration: none; font-weight: 300; margin: 0px 0px 15px; line-height: 2;">There are lots of different financial markets you can trade. Some of the most popular include forex, equity indices, commodities, cryptocurrencies and individual shares.</p>
+<p style="background-color: #ffffff; text-align: justify; text-decoration: none; font-weight: 300; margin: 0px 0px 15px; line-height: 2;">Each market is different and has its own characteristics. You can either trade the underlying asset (using gold as an example, you would actually own the gold you buy), or you can trade derivatives of the assets. An example would be <a style="font-weight: bold; color: #f2672a; text-decoration: underline;" href="/en/ways-to-trade/cfd-trading" target="_blank" rel="noopener">CFDs (contracts for difference)</a>.</p>
+<h2 style="text-align: justify; line-height: 2;"><span style="color: #425b76;"><a style="text-decoration: none; font-weight: normal; color: #425b76;" href="/en/analysis/trading-strategies/how-trade-forex" target="_blank" rel="noopener">How to trade forex for beginners</a></span></h2>
+<p style="background-color: #ffffff; text-align: justify; text-decoration: none; font-weight: 300; margin: 0px 0px 15px; line-height: 2;">You trade <a style="font-weight: bold; color: #f2672a; text-decoration: underline;" href="/en/markets/forex-trading" target="_blank" rel="noopener">forex</a> (FX) by speculating on which direction a currency pair will move. To use <a href="/en/live-chart/eur-usd" target="_blank" rel="noopener">EUR/USD</a> as an example, the Euro gets classed as the base currency, and the US dollar is the term currency. If you speculate on this currency pair rising, you’re predicting that the Euro is more in demand than the Dollar.</p>
+<p style="background-color: #ffffff; text-align: justify; text-decoration: none; font-weight: 300; margin: 0px 0px 15px; line-height: 2;">Currency pairs get classed into three groups; majors, minors and exotics. There are four major pairs; EUR/USD, <a href="/en/live-chart/usd-jpy" target="_blank" rel="noopener">USD/JPY</a>, <a href="/en/live-chart/gbp-usd" target="_blank" rel="noopener">GBP/USD</a> and USD/CHF, although some analysts also class AUD/USD, NZD/USD and USD/CAD as major pairs. Minors are pairs such as EUR/JPY, EUR/GBP and GBP/JPY. Exotics might include pairs that have currencies such as the Swedish Krona or Turkish Lira as the base currencies.</p>
+<p style="background-color: #ffffff; text-align: justify; text-decoration: none; font-weight: 300; margin: 0px 0px 15px; line-height: 2;">The best spreads and trading conditions usually occur when trading the majors because these currency pairs are the most liquid (bought and sold the most) and most stable.</p>
+<h2 style="font-weight: normal; text-align: justify; line-height: 2;">How to trade indices for beginners</h2>
+<p style="text-align: justify; font-size: 18px; line-height: 2;"><span style="background-color: #ffffff; color: #000000;">Popular and well known equity (share) </span><span style="font-size: 18px;"><a style="font-weight: bold; color: #f2672a; text-decoration: underline;" href="/en/markets/indices-trading" target="_blank" rel="noopener">indices</a></span><span style="background-color: #ffffff; color: #000000;"> include the <a href="/en/live-chart/dow-jones" target="_blank" rel="noopener">DOW 30</a>, the FTSE 100 and the <a href="/en/live-chart/sp500" target="_blank" rel="noopener">Standard &amp; Poor’s 500 (S&amp;P 500)</a>. These are indexes of the best performing stocks in that country or category. You can speculate on the direction of these markets and take positions in them rather than having to own all the shares that comprise them. You can’t invest directly into an index but you can trade derivatives or invest in funds that mimic the price.</span></p>
+<h2 style="font-weight: normal; text-align: justify; line-height: 2;">How to trade shares for beginners</h2>
+<p style="background-color: #ffffff; text-align: justify; text-decoration: none; font-weight: 300; margin: 0px 0px 15px; line-height: 2;">Many forex brokers also offer their clients the opportunity to buy and sell individual shares (also known as equities), such as Microsoft, Apple, Amazon and Google etc. You can trade them directly by owning the actual share or you can trade them as a derivative, like a CFD. Currently, ATFX only offers <a href="/en/markets/shares-trading" target="_blank" rel="noopener">share CFDs</a>. You’ll see a list of the tradable assets available on your platform. The spreads will be different, and the movements in an individual share can be quite volatile in comparison to currency pairs.</p>
+<p style="background-color: #ffffff; text-align: justify; text-decoration: none; font-weight: 300; margin: 0px 0px 15px; line-height: 2;">For example, the price of a Facebook share could easily rise or fall by 5% in a trading session, whereas a 1% change in a currency pair during a trading session is unusual. Forex is a 24/5 market and experiences moderate changes during the various sessions, unlike share prices that can suddenly and sharply rise or fall when markets open. They’re less liquid, there are fewer buyers and sellers, therefore these large price movements are more common.</p>
+<h2 style="font-weight: normal; text-align: justify; line-height: 2;">How to trade cryptocurrency for beginners</h2>
+<p style="background-color: #ffffff; text-align: justify; text-decoration: none; font-weight: 300; margin: 0px 0px 15px; line-height: 2;"><a style="text-decoration: underline; font-weight: bold; color: #f2672a;" href="/en/markets/cryptocurrencies" target="_blank" rel="noopener">Cryptocurrency</a> trading has grown massively in popularity during recent years. Virtual coins such as Bitcoin, Ethereum, Ripple and Litecoin are now on most platforms, and you can trade them using similar methods to other markets. Cryptocurrencies can be more volatile than FX pairs, and the spreads (the cost of making each trade) can be higher because the market isn’t as large and liquid as the FX market.</p>
+<p style="background-color: #ffffff; text-align: justify; text-decoration: none; font-weight: 300; margin: 0px 0px 15px; line-height: 2;">You can also <a href="/en/analysis/trading-strategies/ten-best-cryptocurrency-cfd-to-trade" target="_blank" rel="noopener">trade cryptocurrencies</a> by owning the underlying asset, so the actual coins or tokens. This is quite an arduous process because you need to own a wallet first and normally you would need to buy bitcoin in order to buy another coin.</p>
+<h2 style="font-weight: normal; text-align: justify; line-height: 2;">How to choose a broker?</h2>
+<h4 style="font-weight: normal; text-align: justify; line-height: 2; font-size: 20px;">Top questions to ask a broker<img decoding="async" style="width: 181px; height: auto; max-width: 100%; float: right; margin: 10px 0px 10px 10px;" src="https://www.atfx.com/hubfs/analysis-trading-strategies-how-to-start-checklist.webp" alt="analysis-trading-strategies-how-to-start-checklist" width="181" height="68" /></h4>
+<h3 style="border: none; font-weight: normal; text-align: justify; line-height: 2;">What platform does the broker offer?</h3>
+<p style="text-align: justify; line-height: 2;">Brokers offer different types of platforms. There are the main platforms that allow you to take trades, others that allow you to copy other traders, mobile device platforms and platforms that allow you to manage your account.</p>
+<p style="text-align: justify; line-height: 2;">The main two that allow you to execute your trades are proprietary platforms or third-party platforms. Proprietary platforms belong to the broker whilst third-party (as you’d expect) are developed by an external company.</p>
+<p style="text-align: justify; line-height: 2;">A great example of a third-party platform is MT4. Experienced traders will often choose to trade through brokers who offer MT4 because they trust the platform.</p>
+<div class="article-banner article-banner__dark" style="background-image: url('https://www.atfx.com/wp-content/uploads/2022/03/Free-Metatrader-4.webp'); background-size: cover; background-position: center; color: #fff; padding: 20px; justify-content: space-between; align-items: center; margin: 20px 0;">
+<div class="article-banner-content" style="flex: 1; margin-right: 20px;">
+<p><span style="font-size: 30px; color: #fff; font-weight: bold;">Practice with Metatrader 4 Demo Account</span></p>
+<p style="font-size: 22px; color: #fff; margin-top: 10px;">Be Ready To Trade Live</p>
+<p><a id="banner_button_8_1" class="article-banner-button" style="background-color: #f2672b; color: #fff; padding: 10px 20px; text-decoration: none; font-weight: bold; border-radius: 5px; margin-top: 10px;" href="https://www.atfx.com/en/trading-platforms/metatrader-4/mt4-demo-account" target="_blank" rel="noopener">REGISTER NOW</a></p>
+</div>
+</div>
+<h3 style="font-weight: normal; text-align: justify; line-height: 2;">What are the typical spreads?</h3>
+<p style="text-align: justify; line-height: 2;">Spreads vary from broker to broker. With forex, you normally look at the most liquid pair to compare the brokers spreads. That’s EURUSD.</p>
+<p style="text-align: justify; line-height: 2;">Spreads on EURUSD can range from as low as 0.0 up to normally around 2.0. If you see a broker say their average is higher than 2 for EURUSD, I’d probably keep looking. It’s also given as an average, which means you will get both higher and lower than that if you consistently trade EURUSD.</p>
+<p style="text-align: justify; line-height: 2;">Spreads on other asset classes will range depending on that asset. Cryptocurrencies, for example, are very volatile and not very liquid. Their spread is therefore pretty high.</p>
+<h3 style="font-weight: normal; text-align: justify; line-height: 2;">What reputation does the broker have?</h3>
+<p style="text-align: justify; line-height: 2;">This is important. You want a broker whose clients speak highly of it. The same way you wouldn’t buy a car if all the feedback was that the brakes don’t work.</p>
+<p style="text-align: justify; line-height: 2;">It’s worth scanning various forums to check out the reputation of a broker beforehand. However, you need to be cautious with commercial website rankings, as the owners of these sites often charge to rank a broker, and thus the more the broker pays, the higher the ranking.</p>
+<p style="text-align: justify; line-height: 2;">An absolute must (in our opinion) should be that the broker is regulated. You don’t have to use a regulated broker, but we, and most others in the industry would highly recommend it. It adds to a broker&#8217;s reputation if it is regulated.</p>
+<h3 style="font-weight: normal; text-align: justify; line-height: 2;">What is the quality of the broker&#8217;s analysis and research?</h3>
+<p style="background-color: #ffffff; text-align: justify; text-decoration: none; font-weight: 300; margin: 0px 0px 15px; line-height: 2;">Ethical brokers want you to win, and they need you to be successful in order to become successful themselves. This bi-directional feedback loop stimulates their business. They’ll provide a range of tools and widgets to help you make good trading decisions, and they’ll also publish a wide range of educational material on a daily or weekly basis.</p>
+<p style="background-color: #ffffff; text-align: justify; text-decoration: none; font-weight: 300; margin: 0px 0px 15px; line-height: 2;">Reputable brokers also broadcast webinars, hold seminars, have trading academies and publish e-Books to help their clients <a style="font-weight: bold; color: #f2672a; text-decoration: underline;" href="/en/analysis/trading-strategies/how-to-become-a-trader" target="_blank" rel="noopener">become better traders</a>.</p>
+<p style="background-color: #ffffff; text-align: justify; text-decoration: none; font-weight: 300; margin: 0px 0px 15px; line-height: 2;">If the broker’s analysis is not up to date, and if they don’t have the structure in place to deliver the aforementioned support, then some alarm bells should ring.</p>
+<h3 style="text-align: justify; line-height: 2;">What trading tools and widgets does the broker offer?</h3>
+<p style="background-color: #ffffff; text-align: justify; text-decoration: none; font-weight: 300; margin: 0px 0px 15px; line-height: 2;">Whilst this isn’t essential, it is not a bad thing to have an armoury of tools at your disposal. They’re there to improve your trading experience, so the better the choice, the better your options.</p>
+<p style="background-color: #ffffff; text-align: justify; text-decoration: none; font-weight: 300; margin: 0px 0px 15px; line-height: 2;">Tools such as Autochartist  and <a style="font-weight: bold; color: #f2672a; text-decoration: underline;" href="/en/education-and-tools/trading-central" target="_blank" rel="noopener">Trading Central</a>, matched with an extensive <a style="font-weight: bold; color: #f2672a; text-decoration: underline;" href="/en/analysis/economic-calendar" target="_blank" rel="noopener">economic calendar</a>, are the types of tools you should look out for.</p>
+<h3 style="font-weight: normal; text-align: justify; line-height: 2;">How does the broker respond to your questions?</h3>
+<p style="background-color: #ffffff; text-align: justify; text-decoration: none; font-weight: 300; margin: 0px 0px 15px; line-height: 2;">You can assess the quality of a broker by how quickly they respond to your queries before you open an account, and afterwards. The after-sales, service and support mechanisms are crucial to your trading journey. Good brokers will provide the right information at the right time, to help you build confidence in your trading strategy.</p>
+<p style="background-color: #ffffff; text-align: justify; text-decoration: none; font-weight: 300; margin: 0px 0px 15px; line-height: 2;">If the broker ignores your requests or replies late, or offers you too many choices at the outset, it can cause frustration. A broker that replies with the correct information quickly, will speed up your learning process.</p>
+<h2 style="font-weight: normal; text-align: justify; line-height: 2;">How to choose a forex broker?</h2>
+<p style="background-color: #ffffff; text-align: justify; text-decoration: none; font-weight: 300; margin: 0px 0px 15px; line-height: 2;">You should spend some time surfing the company website, perhaps reading their company <a style="font-weight: bold; color: #f2672a; text-decoration: underline;" href="/en/about-us/our-vision" target="_blank" rel="noopener"> mission statement</a> to get a feel for their ethics and standards.</p>
+<p style="background-color: #ffffff; text-align: justify; text-decoration: none; font-weight: 300; margin: 0px 0px 15px; line-height: 2;">Find a set of criteria you’re looking for in a broker. This might include the <a style="font-weight: bold; color: #f2672a; text-decoration: underline;" href="/en/analysis/trading-strategies/type-of-brokers" target="_blank" rel="noopener">type of broker</a>, whether it’s regulated, it’s spreads, any number of things, it’s up to you. Do your research until one fulfills all your needs. Use the questions above to help form a judgement.</p>
+<p style="background-color: #ffffff; text-align: justify; text-decoration: none; font-weight: 300; margin: 0px 0px 15px; line-height: 2;"><img decoding="async" style="width: 825px; margin: 10px auto;" src="https://www.atfx.com/hubfs/analysis-trading-strategies-how-to-start-umbrella.webp" alt="analysis-trading-strategies-how-to-start-umbrella" width="825" /></p>
+<h3 style="border: none; font-weight: normal; text-align: justify; line-height: 2;">Are Forex brokers reliable?</h3>
+<p style="background-color: #ffffff; text-align: justify; text-decoration: none; font-weight: 300; margin: 0px 0px 15px; line-height: 2;">You can only judge the reliability of a broker based on your own experience. You’ll decide their credibility based on how honest you perceive them to be. You’ll see spreads quoted, and very quickly you’ll learn how close your orders get filled at the prices you see quoted.</p>
+<p style="background-color: #ffffff; text-align: justify; text-decoration: none; font-weight: 300; margin: 0px 0px 15px; line-height: 2;">Regulated brokers offer particular reliability and assurance because you know that the regulatory authorities are there to help protect financial consumers like you.</p>
+<h3 style="background-color: #ffffff; text-decoration: none; font-weight: 300; margin: 0px 0px 15px; text-align: justify; line-height: 2;"><span style="color: #0f2c52; font-size: 28px; letter-spacing: 0px; text-transform: initial; background-color: transparent;">How do I know if a forex broker is regulated?</span></h3>
+<p style="background-color: #ffffff; text-align: justify; text-decoration: none; font-weight: 300; margin: 0px 0px 15px; line-height: 2;">Typically if a broker is regulated, they’ll make it very clear that they are. Why wouldn’t they want to promote the fact that they adhere to strict measures to protect you?</p>
+<p style="background-color: #ffffff; text-align: justify; text-decoration: none; font-weight: 300; margin: 0px 0px 15px; line-height: 2;">Some brokers will have a regulation page  of their website. Others will have a footer on all their web pages that says who they’re regulated by. Each broker will also have a registration number with the authority it&#8217;s covered by. You can check with the regulatory authority to ensure that the broker you’re interested in is regulated.</p>
+<h3 style="text-align: justify; line-height: 2;">Which is the best forex broker for beginners?</h3>
+<p style="text-align: justify; line-height: 2;">The online retail forex trading industry is an ever-evolving, competitive field. You can decide which forex brokers are the best for you as a novice by running through a quick checklist.</p>
+<ul style="text-align: justify; line-height: 2;">
+<li style="border: none;">Credibility</li>
+<li style="border: none;">Reputation</li>
+<li style="border: none;">Reliability</li>
+</ul>
+<p style="text-align: justify; line-height: 2;">And it’s also worth checking out how user-friendly the trading platform is.</p>
+<p style="text-align: justify; line-height: 2;">The best forex brokers for beginners will offer support when you’re opening an account and throughout the early weeks. They’ll provide lots of information to help get you started. The best brokers for novices will have informative eBooks, webinars, articles and guides to help get you started safely and securely. By the way, ATFX offers all this.</p>
+<h3 style="text-align: justify; line-height: 2;">What is the best trading platform for beginners?</h3>
+<p style="background-color: #ffffff; text-align: justify; text-decoration: none; font-weight: 300; margin: 0px 0px 15px; line-height: 2;">Begin your trading on a flexible platform that you can adjust as you mature as a trader. Platforms like MetaTrader 4 (MT4) are ideal for this. Simple and user-friendly for beginners but with a host of advanced tools for more experienced traders.</p>
+<p style="background-color: #ffffff; text-align: justify; text-decoration: none; font-weight: 300; margin: 0px 0px 15px; line-height: 2;">Start by simply using MT4 to buy and sell the market you want. Then slowly add in <a style="font-weight: bold; color: #f2672a; text-decoration: underline;" href="/en/trading-platforms/metatrader-4/mt4-indicators" target="_blank" rel="noopener">technical indicators</a> and before you know it you could be using the expert advisors (EAs) &#8211; these will trade your strategy automatically for you.</p>
+<h2 style="text-align: justify; line-height: 2;">Which trading account is best for beginners?</h2>
+<p style="text-align: justify; line-height: 2;">After the demo trading account (we always recommend beginners start with a demo), the trading account you use will depend on how much capital you have to trade and what sort of tools you want from your account.</p>
+<p style="text-align: justify; line-height: 2;">With most accounts you can work your way up, as you gain confidence. For example, you could start at the basic level account because you don’t need all the tools yet. But as you gather more experience, you could upgrade to tools that offer slightly more.</p>
+<h3 style="text-align: justify; line-height: 2;">What type of account best suits my needs?</h3>
+<p style="text-align: justify; line-height: 2;">If you’re a novice trader, it’s best to start with the most basic account. Concentrate on becoming familiar with its features and the benefits. You can always upgrade when you progress. It’ll also depend on how much you intend to deposit.</p>
+<p style="text-align: justify; line-height: 2;">Make sure you’re doing what is right for you and your circumstances. Remember, never deposit more than you can afford to lose. If you do, you’ll become too attached to your trades and will struggle to follow your plan.</p>
+<h2 style="font-weight: normal; text-align: justify; line-height: 2;">How to open a trading account</h2>
+<p style="text-align: justify; line-height: 2;">Opening an online trading account is a straightforward process and only takes a few minutes. You fill in an application form , and you might need to send the firm some evidence of identification depending on where you live. When your account is active, you’ll be notified by the broker, and you can transfer funds and begin trading.</p>
+<h3 style="border: none; text-align: justify; line-height: 2;">How to deposit &amp; withdraw funds in my account?</h3>
+<p style="background-color: #ffffff; text-align: justify; text-decoration: none; font-weight: 300; margin: 0px 0px 15px; line-height: 2;">You can use a variety of methods to transfer funds into your online trading account such as your credit or debit card, bank transfer, or use a variety of E-Wallets.</p>
+<p style="background-color: #ffffff; text-align: justify; text-decoration: none; font-weight: 300; margin: 0px 0px 15px; line-height: 2;">Each broker is different in the options they offer. Here at ATFX we think it’s important to offer all the options for <a style="font-weight: bold; color: #f2672a; text-decoration: underline;" href="/en/trading-accounts/deposits-and-withdrawals" target="_blank" rel="noopener">deposit and withdrawal</a>. Some methods take minutes, while others like bank transfers can take longer. But your broker will notify you once your funds have cleared and you’re ready to trade.</p>
+<h3 style="text-align: justify; line-height: 2;">What is the best trading strategy for beginners?</h3>
+<p style="background-color: #ffffff; text-align: justify; text-decoration: none; font-weight: 300; margin: 0px 0px 15px; line-height: 2;">Keep it simple from the start and don’t overcomplicate things.</p>
+<p style="background-color: #ffffff; text-align: justify; text-decoration: none; font-weight: 300; margin: 0px 0px 15px; line-height: 2;">There’s no holy grail, and there’s no magic indicator that results in endless profits. Anything that claims to make you rich overnight is wrong. You’re best concentrating on tight money-management and developing an understanding of risk and probability.</p>
+<p style="background-color: #ffffff; text-align: justify; text-decoration: none; font-weight: 300; margin: 0px 0px 15px; line-height: 2;">When it comes to strategies, you’ll need to find what works best for you. Although that might sound like a cop out, you’ll hear time and time again that one strategy works for one person but not another.</p>
+<p style="background-color: #ffffff; text-align: justify; text-decoration: none; font-weight: 300; margin: 0px 0px 15px; line-height: 2;">A simple yet effective strategy for beginners is to use support and resistance levels to trade between. See our page for great beginner <a style="font-weight: bold; color: #f2672a; text-decoration: underline;" href="/en/analysis/trading-strategies/day-trading-strategies-for-beginners" target="_blank" rel="noopener">trading strategies</a>.</p>
+<h5 style="border: none; font-weight: normal; text-align: justify; line-height: 2; font-size: 20px;">Are you ready to start trading?</h5>
+<p style="text-align: justify; line-height: 2;">This brief guide is a simple step-by-step introduction, helping you understand what’s involved in the early stages. We think we’ve covered most bases; from how to evaluate the quality of brokers, opening your account, how to transfer funds, and how to build a basic trading strategy.</p>
+<p style="text-align: justify; line-height: 2;">This should give you an idea about how to get started in trading. We don’t suggest you dive straight into a live account yet. Test the water on a demo first. If you’re a beginner and eager to get started, speak to one of our dedicated support team to give you a bit more information. We have a live chat service on the website, or you could call us and have a relaxed chat with one of our specialists.</p>
+<div class="article-banner article-banner__dark" style="background-image: url('https://www.atfx.com/wp-content/uploads/2022/12/Live-Trading-Account.webp'); background-size: cover; background-position: center; color: #fff; padding: 20px; justify-content: space-between; align-items: center; margin: 20px 0;">
+<div class="article-banner-content" style="flex: 1; margin-right: 20px;">
+<p><span style="font-size: 30px; color: #fff; font-weight: bold;">Start Trading wtih Live Account</span></p>
+<p style="font-size: 22px; color: #fff; margin-top: 10px;">Elevate Your Trading Skills</p>
+<p><a id="banner_button_8_1" class="article-banner-button" style="background-color: #f2672b; color: #fff; padding: 10px 20px; text-decoration: none; font-weight: bold; border-radius: 5px; margin-top: 10px;" href="https://www.atfx.com/en/trading-accounts/live-account" target="_blank" rel="noopener">TRADE NOW</a></p>
+</div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>ATFX Releases Dynamic Q3 Report</title>
+		<link>https://www.atfx.com/en/company-news/post-covid-19-performance-report</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Mon, 06 Jul 2020 02:04:00 +0000</pubDate>
+				<category><![CDATA[Company News]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Recent news]]></category>
+		<guid isPermaLink="false">https://lptemplatedev.wpengine.com/uncategorized/post-covid-19-performance-report</guid>
+
+					<description><![CDATA[ATFX just released its Q3 2020 market outlook report How will financial markets perform post Covid-19? 06 July, 2020, ATFX UK&#160;&#8211; ATFX has just released its eagerly anticipated&#160;Q3 2020 market outlook report. In it, you can find extensive and in-depth analysis from the broker’s top analysts who share their expert predictions on the price movements [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h2 style="background-color: #ffffff;text-decoration: none;margin: 12pt 0cm 12pt 0px;color: #0f2c52;font-size: 30px;line-height: 1;text-align: left;font-weight: normal">ATFX just released its Q3 2020 market outlook report</h2>
+<h3 style="background-color: #ffffff;text-decoration: none;margin: 12pt 0cm 12pt 0px;color: #0f2c52;font-size: 22px;line-height: 1;text-align: left;font-weight: normal">How will financial markets perform post Covid-19?</h3>
+<p><img decoding="async" src="https://www.atfx.com/hubfs/Others%20folders/ATFX%20Blog%20Image%202020/Report-Financial-markets-performance-after-Covid-19_1_.jpg" alt="Report-Financial-markets-performance-after-Covid-19_1_" width="2000" loading="lazy" style="width: 2000px;margin-left: auto;margin-right: auto"></p>
+<p style="background-color: #ffffff;text-align: justify;text-decoration: none;margin: 12pt 0cm 12pt 0px;line-height: 1.75"><span style="background-color: #ffffff"><strong>06 July, 2020, ATFX UK</strong><span>&nbsp;</span>&#8211; AT</span>FX has just released its eagerly anticipated<span>&nbsp;</span>Q3 2020 market outlook report. In it, you can find extensive and in-depth analysis from the broker’s top analysts who share their expert predictions on the price movements of various assets including<span>&nbsp;</span><a href="/en/markets/forex-trading" rel="noopener" style="text-decoration: underline;font-weight: bold;margin: 0px;color: #f2682b" target="_blank">FX pairs</a>, stocks,<span>&nbsp;</span><a href="/en/markets/commodities" rel="noopener" style="text-decoration: underline;font-weight: bold;margin: 0px;color: #f2682b" target="_blank">commodities</a>, and cryptocurrencies.</p>
+<p><span id="more-10486"></span></p>
+<p style="background-color: #ffffff;text-align: justify;text-decoration: none;margin: 12pt 0cm 12pt 0px">ATFX (UK) Chief Market Analyst, Alejandro Zambarano, suggested that market volatility will decline in Q3, this is ahead of a Q2 that brought with it lucrative trading opportunities. He offered examples of the EURUSD and AUDUSD &#8211; whereby traders overreacted on the way down but now look to overact on the way up. In essence, large losses were followed by almost complete retracements in this sense. Further to this, he outlined the potential price action in the euro, based on crucial factors such as the pending €750 billion Covid-19 bill and the reopening of most European economies.</p>
+<p style="background-color: #ffffff;text-align: justify;text-decoration: none;margin: 12pt 0cm 12pt 0px">Zambrano also covered the future outlook for the GBP/USD currency pair, with the main determinants of performance resulting from the Bank of England (BoE) interest rates, rising coronavirus cases, reopening of the British economy and post-Brexit trade talks.</p>
+<p style="background-color: #ffffff;text-align: justify;text-decoration: none;margin: 12pt 0cm 12pt 0px">Dean Chen, the Senior Market Analyst for ATFX China covered the USD/JPY currency pair in fantastic detail, highlighting the negative impact of ‘Abenomics’ on the Bank of Japan’s ability to use monetary policy as a tool to regulate inflation. This impacted Japan’s economic growth rates, no doubt.</p>
+<p style="background-color: #ffffff;text-align: justify;text-decoration: none;margin: 12pt 0cm 12pt 0px">Martin Lam, ATFX Chief Analyst for the Asia Pacific region addressed the AUD/USD pair with a strict emphasis on the challenges that the Australian economy is currently facing, as well as how these hurdles specifically affect the AUD.</p>
+<p style="background-color: #ffffff;text-align: justify;text-decoration: none;margin: 12pt 0cm 12pt 0px">Jason Tee, ATFX (Asia Pacific) Global Market Strategist analysed the NZD/USD currency pair, rightly pointing out that New Zealand has been significantly less affected by the coronavirus pandemic than many other advanced western countries.</p>
+<p style="background-color: #ffffff;text-align: justify;text-decoration: none;margin: 12pt 0cm 12pt 0px">Jessica Lin, ATFX (Asia Pacific) Global Market Analyst shed light on the global crude oil markets and offered insight into where the commodity is headed for Q3. She noted that the quick recovery in global<span>&nbsp;</span><a href="/en/markets/commodities/oil-trading" rel="noopener" style="text-decoration: underline;font-weight: bold;margin: 0px;color: #f2682b" target="_blank">crude oil</a>&nbsp; prices after the market rout witnessed in April was a healthy sign for the industry as a whole.</p>
+<p style="background-color: #ffffff;text-align: justify;text-decoration: none;margin: 12pt 0cm 12pt 0px">Cameron Bowen, ATFX’s Senior Content Manager provided an excellent overview of<span>&nbsp;</span><a href="/en/markets/cryptocurrencies/bitcoin-trading" rel="noopener" style="text-decoration: underline;font-weight: bold;margin: 0px;color: #f2682b" target="_blank">Bitcoin&#8217;s</a>&nbsp;recovery, as well as gauging readers with pertinent questions such as: “What would Bitcoin’s price have been had the Covid-19 crisis not hit” or “What roadblocks are there for Bitcoin in Q3?”. By shining a spotlight onto the future of the<span>&nbsp;</span><a href="/en/markets/cryptocurrencies" rel="noopener" style="text-decoration: underline;font-weight: bold;margin: 0px;color: #f2682b" target="_blank">cryptocurrency markets</a>, as well as the potential opportunities available in Q3, Bowen provides an accurate benchmark for traders to follow.</p>
+<p style="background-color: #ffffff;text-align: justify;text-decoration: none;margin: 12pt 0cm 12pt 0px">The report did well to touch upon the performance of U.S. equity markets, with a keen focus on the S&amp;P 500 index. It looks into the index’s performance in Q2 and highlights what could change in Q3.</p>
+<p style="background-color: #ffffff;text-align: justify;text-decoration: none;margin: 12pt 0cm 12pt 0px">Finally, the report explores how economic stimulus measures have boosted demand for gold against a backdrop of economies attempting to reopen from the pandemic. What we are finding is that 2020 has been a great year for the safe-haven asset, primarily due to low-interest rates and geopolitical factors. The analysts go on to predict gold’s future performance for Q3.&nbsp;&nbsp;</p>
+<p style="background-color: #ffffff;text-align: justify;text-decoration: none;margin: 12pt 0cm 12pt 0px">Simply put, ATFX’s report goes into outstanding detail and is generally regarded as must-have within the FX industry for all market participants, new or experienced. ATFX’s compelling and informative Q3 2020 report can be found here.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Federal Reserve Meeting</title>
+		<link>https://www.atfx.com/en/analysis/financial-events/fomc-meeting</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Fri, 07 Jun 2019 01:00:00 +0000</pubDate>
+				<category><![CDATA[Financial Events]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[financial events]]></category>
+		<guid isPermaLink="false">https://lptemplatedev.wpengine.com/uncategorized/fomc-meeting</guid>
+
+					<description><![CDATA[What is the Federal Open Market Committee meeting? The Federal Open Market Committee (FOMC) meeting is a regular session held by members of the US central bank, the Federal Reserve (FED). At the FOMC meeting, its members decide on the future of US monetary policy. Typically, they will set the discount rate, which is the [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h2>What is the Federal Open Market Committee meeting?</h2>
+<p>The Federal Open Market Committee (FOMC) meeting is a regular session held by members of the US central bank, the Federal Reserve (FED). At the FOMC meeting, its members decide on the future of US monetary policy. Typically, they will set the discount rate, which is the interest rate at which US banks can borrow money from the Federal Reserve. The FED has the power to lend and print an unlimited amount of money, therefore the discount rate it sets becomes a benchmark for all banks. If the interest rate of all other banks is higher than the discount rate then a bank can borrow money from the central banks at the discount rate, instead of borrowing from its peers. This means the FED funds rate, which is the rate at which banks charge each other, does not deviate too much from the discount rate. During the FOMC meeting, decisions are also made on quantitative easing or quantitative tightening programs. These programs are where the FED buys and sells government bonds.</p>
+<p><span id="more-10304"></span></p>
+<p>Fed Meeting Schedule</p>
+<p>The next meeting will take place on June 18-19, with any policy changes announced on June 19, 2019. Since 2019, the FOMC publishes a statement as well as holding a press conference, to answer questions from the media.</p>
+<ul>
+<li>
+<p>Jun 19, 2019</p>
+</li>
+<li>
+<p>Jul 31, 2019</p>
+</li>
+<li>
+<p>Sep 18, 2019</p>
+</li>
+<li>
+<p>Oct 30, 2019</p>
+</li>
+<li>
+<p>Dec 11, 2019</p>
+</li>
+</ul>
+<p>Jan 29, 2020</p>
+<p></p>
+<h3>How does the FOMC meeting affect the markets?</h3>
+<p>On the second day of each rate meeting, the FOMC share its view on the US economy and address any possible changes to the US monetary policy. The central bank’s tries to influence the state of the US economy and its inflation path via interest rates and quantitative easing or tightening programs.</p>
+<p>However, in the immediate future, its direct impact is on short-term interest rates. This normally has a direct impact on bonds, Forex, and indices.</p>
+<p>Forex: the overnight charges (swap rates) that you receive or are charged by your broker, are typically based on the threemonth LIBOR rate, which is directly affected by any actual and anticipated changes to the discount rate.</p>
+<p>In short, an increase in the FED funds rates tends to strengthen the US Dollar, as investors and traders are now paid higher interest rates by holding dollars. However, if the FOMC decides to lower interest rates or introduce quantitative easing, the dollar tends to soften, as the discount rate is now lower.</p>
+<p>Stock market indices, such as the S&amp;P 500, will at times react strongly to the FED’s actions, but it depends on where in the cycle the economy is. A critical time is when the economy is running hot, and the Fed aggressively increases interest rates to combat the economy from overheating. Another critical time is when the economy is heading towards a recession, and the economy needs lower rates to return to growth. The FOMC decisions influence interest rates and bond rates, and in the long run, they tend to affect the real economy as higher interest rates will make mortgages, credit card spending, auto loans, and student loans more expensive and vice versa.</p>
+<p>&nbsp;</p>
+<h3>What is the Federal Funds rate?</h3>
+<p>The federal funds rate is the interest rate at which participating banks of the FED system lend balances at the Federal Reserve to other depository institutions overnight. The banks set themselves this rate and it depends entirely on supply and demand. However, it will not deviate much from the FED discount rate as it acts as a substitution. In other words, if the federal funds rate is too high then a participating bank can borrow money from the FED. The federal funds rate is a short-term interest rate for on loans overnight, much like the discount rate.</p>
+<p>&nbsp;</p>
+<h3>What is Federal Reserve quantitative easing?</h3>
+<p>In the last decade, Quantitative easing (QE) was an extra measure introduced by the Federal Reserve, as the discount rate was about to reach the zero bound and the FED was not ready to impose negative interest rates to boost lending. But the zero-bound of the discount rate was just one part of the problem. As the discount rate is a short-term interest rate, it will influence short-term lending between banks, and not have a direct impact on longer-term bond rates, such as the US ten-year government bond yield or the 30-year mortgage rates of homeowners. Instead, QE was introduced, to allow the Federal Reserve to buy an unlimited amount of bonds on the secondary market to artificially lower interest rates, where they were deemed as most necessary. By March 2009, the FED held $1.75 trillion of bank debt, mortgage-backed securities, and Treasury notes, and the amount increased to $2.1 trillion by June 2010, according to Ali, Abdulmalik in “Quantitative Monetary Easing: The history and impacts on financial markets“.Academia.edu.</p>
+<p>&nbsp;</p>
+<h3>FED meeting dates</h3>
+<p>The FOMC meets eight times a year, but if the situation warrants it, they can also meet at any time. Policy changes are announced at the end of each meeting, and starting from 2019, a televised press release follows each meeting. The televised press release offers additional insights behind the thinking of the FED, as journalists are given the opportunity to ask questions. Traders gage the mood of the FED chair, they analyze his tone of voice and body language when he delivers his statement and answers questions. The minutes are made available to the public three weeks after the FED meeting.</p>
+<p>&nbsp;</p>
+<h3>History of the FOMC</h3>
+<p>In 1913, the Federal Reserve was made up by twelve geographical districts, each with their distinct Reserve Bank. The sectioning was based on the prevailing trade regions that existed in 1913, and don’t coincide with current state lines. The original idea was that each Reserve bank would independently set a discount rate to serve each region best. However, by 1933 and 1935 the US economy was so integrated that the FOMC was born. The FOMC has since then decided on the discount rate for the whole country.</p>
+<p>The Federal Open Market Committee is made up by seven members of the Board of Governors of the Federal Reserve, and these members are appointed by the US president, and the president of New York Fed, and four other Fed presidents.</p>
+<p>&nbsp;</p>
+<h3>Doves and Hawks</h3>
+<p>The chair of the FOMC and Fed, currently Jerome Powell, is perceived to be the most important member as his comments and actions sway much of the work of the FOMC. Powell’s views tend to be centrist in relation to the views of the other Fed and FOMC members. Members are then classified as “doves” or “hawks.” Hawks tend to focus on inflation and raising interest rates to combat inflation even when there is no inflation. Doves, on the other hand, prefer having low-interest rates to support the labor market and are less worried about inflation. Traders pay attention to who says what as it might hint about what lays ahead for monetary policy. A Dove talking about keeping interest rates low is not out of the ordinary and would usually not garner much attention, but a dove talking about the need to raise interest rates would be viewed as a reason to expect higher interest rates in the future. While a hawk not worrying about inflation would be perceived as a clue that future monetary policy will be less restrictive.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

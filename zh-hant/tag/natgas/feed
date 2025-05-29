@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>NATGAS Archives - ATFX Global - Official Website</title>
+	<atom:link href="https://www.atfx.com/zh-hant/tag/natgas/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Tue, 20 Feb 2024 09:42:35 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>https://www.atfx.com/wp-content/uploads/2023/06/favicon-150x150.webp</url>
+	<title>NATGAS Archives - ATFX Global - Official Website</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>天然氣價格暴跌持續打擊對沖基金面臨危機</title>
+		<link>https://www.atfx.com/zh-hant/analysis/market-news/natural-gas-price-collapse-hurting-hedge-funds</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Tue, 20 Feb 2024 09:42:35 +0000</pubDate>
+				<category><![CDATA[市場新聞及觀點]]></category>
+		<category><![CDATA[NATGAS]]></category>
+		<guid isPermaLink="false">https://www.atfx.com/?p=30117</guid>
+
+					<description><![CDATA[儘管中東局勢緊張，天然氣價格已從1月的3.341跌至1.60。 GAS-日圖 天然氣價格已經跌至2023年的低 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>儘管中東局勢緊張，天然氣價格已從1月的3.341跌至1.60。</p>
+<p><img fetchpriority="high" decoding="async" class="size-full wp-image-30088 aligncenter" src="https://www.atfx.com/wp-content/uploads/2024/02/GAS-–-Daily-Chart.png" alt="GAS – Daily Chart" width="1012" height="565" srcset="https://www.atfx.com/wp-content/uploads/2024/02/GAS-–-Daily-Chart.png 1012w, https://www.atfx.com/wp-content/uploads/2024/02/GAS-–-Daily-Chart-300x167.png 300w, https://www.atfx.com/wp-content/uploads/2024/02/GAS-–-Daily-Chart-768x429.png 768w" sizes="(max-width: 1012px) 100vw, 1012px" /></p>
+<p style="text-align: center;">GAS-日圖</p>
+<p><a href="https://www.atfx.com/zh-hant/trading-accounts/product-specifications" target="_blank" rel="noopener">天然氣</a>價格已經跌至2023年的低點1.80附近，未來可能會出現波動，因為價格在一定程度上似乎是由被迫拋售造成的。</p>
+<p>上週，伊朗指責以色列襲擊其一條重要的天然氣管道後，天然氣供應無法增加。 《紐約時報》報道稱，伊朗掌握了以色列參與攻擊的證據。 同時，以色列繼續對加薩和哈馬斯施壓。</p>
+<p>儘管價格處於1990年以來的最低水平，但價格進一步下跌的看跌頭寸仍在繼續增加。 上週，對沖基金和基金經理人賣出了3,910億立方英尺與美國Henry Hub基準價格相關的兩種主要期貨和選擇權合約。</p>
+<p>美國商品期貨交易委員會(CFTC)的數據顯示，最近四周，基金經理人一直在拋售天然氣，自1月中旬以來，他們的多頭部位總計減少了1,687立方英尺。</p>
+<p>自去年以來，基金經理人一直試圖預測天然氣價格將出現突破，最近的阻力位突破3美元導致這些投機部位大幅出清。 溫和的氣溫等外部因素有助於抑制價格，而北美和歐洲的天然氣庫存遠高於季節性平均水平，而且這兩個地區的過剩庫存仍在繼續增加。</p>
+<p>對沖基金的一些強制拋售將推低天然氣價格。 這可能會給交易員提供一些大幅反彈的空間，以尋找賣出的機會。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

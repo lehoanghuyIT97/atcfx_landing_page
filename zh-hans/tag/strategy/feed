@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>strategy Archives - ATFX Global - Official Website</title>
+	<atom:link href="https://www.atfx.com/zh-hans/tag/strategy/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Thu, 13 Feb 2025 07:59:00 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>https://www.atfx.com/wp-content/uploads/2023/06/favicon-150x150.webp</url>
+	<title>strategy Archives - ATFX Global - Official Website</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>什么是斐波那契回撤？了解价格水平和交易黄金比率</title>
+		<link>https://www.atfx.com/zh-hans/analysis/trading-strategies/fibonacci-retracement</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Mon, 27 Jan 2025 06:47:36 +0000</pubDate>
+				<category><![CDATA[交易策略]]></category>
+		<category><![CDATA[Fibonacci]]></category>
+		<category><![CDATA[strategy]]></category>
+		<guid isPermaLink="false">https://www.atfx.com/?p=45355</guid>
+
+					<description><![CDATA[斐波那契回撤是一个重要的技术分析工具，可以提升交易策略。这些回撤水平 (23.6%、38.2%、50%、61. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p dir="ltr">斐波那契回撤是一个重要的技术分析工具，可以提升交易策略。这些回撤水平 (23.6%、38.2%、50%、61.8% 和 78.6%) 源自斐波那契数列，可帮助交易者识别支撑、阻力、潜在反转和价格回调的关键区域。黄金比率 (61.8%) 为做出更明智的交易决策提供了坚实的数学基础。</p>
+<p dir="ltr">这些回撤（也称为斐波那契）源于数学家莱昂纳多·波纳契 (Leonardo Bonacci) 的研究成果，如今已被现代分析师广泛用于预测市场走势。如果运用得当，这些回撤可以让交易者根据市场情况调整自己的策略。</p>
+<p dir="ltr">本指南用简单的术语解释了斐波那契回撤，并演示了如何在<a href="https://www.atfx.com/zh-hans/trading-platforms/metatrader-4" target="_blank" rel="noopener">MT4</a>/ <a href="https://www.atfx.com/zh-hans/trading-platforms/metatrader-5" target="_blank" rel="noopener">MT5</a> (MetaTrader4/MetaTrader5) 等平台有效使用它们。此外，本指南还介绍了如何利用 ATFX 交易平台上的支撑和阻力指标来提高交易精确度。</p>
+<p dir="ltr"><img fetchpriority="high" decoding="async" class="size-full wp-image-45356 aligncenter" src="https://www.atfx.com/wp-content/uploads/2025/01/Fibonacci.webp" alt="Fibonacci" width="951" height="547" srcset="https://www.atfx.com/wp-content/uploads/2025/01/Fibonacci.webp 951w, https://www.atfx.com/wp-content/uploads/2025/01/Fibonacci-300x173.webp 300w, https://www.atfx.com/wp-content/uploads/2025/01/Fibonacci-768x442.webp 768w" sizes="(max-width: 951px) 100vw, 951px" /></p>
+<h3 dir="ltr">斐波那契比率的解析：</h3>
+<ul>
+<li dir="ltr">
+<p dir="ltr">23.6% (0.236) 和 38.2% (0.382)：表示回调幅度相对较浅，这种情况通常出现在强劲的趋势行情中。</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">50% (0.5)：这并非斐波那契比率。（尽管许多人都将此水平当作斐波那契比率来使用）</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">61.8% (0.618)：黄金比率对于寻找反转至关重要。</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">78.6% (0.786):更深幅度的回撤更有可能最终引发重大反转。</p>
+</li>
+</ul>
+<h2 dir="ltr">斐波那契回撤如何运作</h2>
+<p dir="ltr">斐波那契回撤显示价格在某一变动之后可能出现反转或反向的位置。这些回撤水平通常会转变为支撑区和阻力区，并且它们与其他技术工具（例如 ATFX 的 MT4 平台中的支撑和阻力指标）结合使用时，其作用会显著增强。</p>
+<p dir="ltr"><img decoding="async" class="size-full wp-image-45357 aligncenter" src="https://www.atfx.com/wp-content/uploads/2025/01/Support-Ressist.webp" alt="Support &amp; Ressist" width="803" height="449" srcset="https://www.atfx.com/wp-content/uploads/2025/01/Support-Ressist.webp 803w, https://www.atfx.com/wp-content/uploads/2025/01/Support-Ressist-300x168.webp 300w, https://www.atfx.com/wp-content/uploads/2025/01/Support-Ressist-768x429.webp 768w" sizes="(max-width: 803px) 100vw, 803px" /></p>
+<h3 dir="ltr">绘制斐波那契回撤的步骤</h3>
+<ol>
+<li dir="ltr">
+<p dir="ltr">寻找趋势：确定要分析的趋势的高点和低点。</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">上升趋势：从波动低点（最低价格）到波动高点（最高价格）画一条线。<img decoding="async" class="size-full wp-image-45358 aligncenter" src="https://www.atfx.com/wp-content/uploads/2025/01/Uptrend.webp" alt="Uptrend" width="800" height="459" srcset="https://www.atfx.com/wp-content/uploads/2025/01/Uptrend.webp 800w, https://www.atfx.com/wp-content/uploads/2025/01/Uptrend-300x172.webp 300w, https://www.atfx.com/wp-content/uploads/2025/01/Uptrend-768x441.webp 768w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+</li>
+<li dir="ltr">
+<p dir="ltr">下降趋势：从最高价格点（波动高点）到最低价格点（波动低点）。<img loading="lazy" decoding="async" class="size-full wp-image-45359 aligncenter" src="https://www.atfx.com/wp-content/uploads/2025/01/Downtrend.webp" alt="Downtrend" width="803" height="452" srcset="https://www.atfx.com/wp-content/uploads/2025/01/Downtrend.webp 803w, https://www.atfx.com/wp-content/uploads/2025/01/Downtrend-300x169.webp 300w, https://www.atfx.com/wp-content/uploads/2025/01/Downtrend-768x432.webp 768w" sizes="(max-width: 803px) 100vw, 803px" /></p>
+</li>
+<li dir="ltr">
+<p dir="ltr">使用斐波那契工具：使用交易平台上的斐波那契回撤工具，并将回撤水平叠加至正在分析的图表上。</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">寻找反转区域：观察价格如何随斐波那契所示的支撑位或阻力位而变化，一般来说，在上升趋势中为支撑，在下降趋势中为阻力。</p>
+</li>
+</ol>
+<h2 dir="ltr">如何在交易策略中使用斐波那契回撤</h2>
+<p dir="ltr">斐波那契回撤具有流动性，可与大多数交易系统配合良好。以下是如何使用斐波那契回撤的示例：</p>
+<ol>
+<li dir="ltr">
+<h3 dir="ltr">识别进场点</h3>
+</li>
+</ol>
+<p dir="ltr">● 当主要趋势再次恢复时，寻求价格回升至关键的斐波那契目标位（即 0.382 ［38.2%］ 和 0.618 ［61.8%］ 等位置），由此开启交易。使用 ATFX 的支撑和阻力指标验证这些水平，有助于确认与反转区域是否契合。</p>
+<ol start="2">
+<li dir="ltr">
+<h3 dir="ltr">设置止损和止盈水平</h3>
+</li>
+</ol>
+<p dir="ltr">● 止损：如果价格没有按预期反转，则调整止损和止盈水平，以确保止损位于下一个斐波那契水平以下。</p>
+<p dir="ltr">● 止盈：使用斐波那契扩展（超过 100% 的水平）来设定利润目标，预测价格突破回撤水平后可能的走向。</p>
+<ol start="3">
+<li dir="ltr">
+<h3 dir="ltr">将斐波那契回撤与 RSI 相结合</h3>
+</li>
+</ol>
+<p dir="ltr">该策略涉及使用斐波那契回撤水平来识别潜在的支撑和阻力，并结合 RSl 来衡量超买或超卖状况，以及结合交易量来确认价格突破。</p>
+<p dir="ltr">在看涨市场中，等待价格回落至斐波那契水平（例如 50%）。如果 RSl 进入超卖区域（低于 30），则可能表明存在买入机会</p>
+<p dir="ltr">● 使用斐波那契回撤时，可以结合移动平均线、相对强弱指数 (RSI) 或 K 线形态来辅助得出结论。</p>
+<p dir="ltr">● 示例：在看涨旗形形态中，61.8% 回撤位出现的看涨形态会强化买入信号。</p>
+<ol start="4">
+<li dir="ltr">
+<h3 dir="ltr">发现反转</h3>
+</li>
+</ol>
+<p dir="ltr">● 使用斐波那契回撤来识别潜在的反转区域。如果价格未能突破关键的斐波那契水平，则很可能会反转方向。</p>
+<h2 dir="ltr"><a href="https://www.atfx.com/zh-hans/trading-accounts/demo-account" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="aligncenter wp-image-45724 size-large" src="https://www.atfx.com/wp-content/uploads/2025/01/Demo-Banner-ATFX-SC-1024x256.webp" alt="Demo Fibo-Banner ATFX SC" width="800" height="200" srcset="https://www.atfx.com/wp-content/uploads/2025/01/Demo-Banner-ATFX-SC-1024x256.webp 1024w, https://www.atfx.com/wp-content/uploads/2025/01/Demo-Banner-ATFX-SC-300x75.webp 300w, https://www.atfx.com/wp-content/uploads/2025/01/Demo-Banner-ATFX-SC-768x192.webp 768w, https://www.atfx.com/wp-content/uploads/2025/01/Demo-Banner-ATFX-SC.webp 1200w" sizes="(max-width: 800px) 100vw, 800px" /></a></h2>
+<h2 dir="ltr">斐波那契回撤实际应用示例</h2>
+<p dir="ltr">各斐波那契回撤水平解析：</p>
+<p dir="ltr">● 23.6%：小幅回调；在强劲趋势期间，价格可能会从此处快速反弹。</p>
+<p dir="ltr">● 38.2%：适度回撤，通常被视为强劲的支撑位或阻力位。</p>
+<p dir="ltr">● 50%：虽然它不是一个官方的斐波那契数字，但交易者广泛使用它来标记回撤幅度达到一半的位置。</p>
+<p dir="ltr">● 61.8%：称为黄金比率，被认为是潜在反转的强劲区域。</p>
+<p dir="ltr">● 73.6%：深度回撤；如果价格维持在此水平，则很可能出现反转，但突破这一水平可能预示着趋势的转变。</p>
+<p dir="ltr">回撤水平不仅帮助交易者识别货币对在走势过程中可能出现反转或暂停的位置，也让交易者更有信心地规划进场点、出场点和止损点。</p>
+<p dir="ltr">示例：以下是 2024 年 9 月 6 日至 2025 年 1 月 13 日期间 <a href="https://www.atfx.com/zh-hans/markets/forex-trading" target="_blank" rel="noopener">USD/CHF </a>的示例：价格从 0.8377（波动低点）上涨至 0.9201（波动高点）。我们可以使用斐波那契回撤水平来发现那些潜在的反转点。在上升趋势中，等待价格回撤至关键的斐波那契水平，例如 50% 或 61.8%，这可能是潜在的反转区域。如果价格随后再次开始上涨，则表示有买入机会。</p>
+<p dir="ltr"><img loading="lazy" decoding="async" class="size-full wp-image-45360 aligncenter" src="https://www.atfx.com/wp-content/uploads/2025/01/USD-CHF.webp" alt="USD-CHF" width="797" height="446" srcset="https://www.atfx.com/wp-content/uploads/2025/01/USD-CHF.webp 797w, https://www.atfx.com/wp-content/uploads/2025/01/USD-CHF-300x168.webp 300w, https://www.atfx.com/wp-content/uploads/2025/01/USD-CHF-768x430.webp 768w" sizes="(max-width: 797px) 100vw, 797px" /></p>
+<h2 dir="ltr">斐波那契回撤的优势</h2>
+<p dir="ltr">● 简单、方便、易于使用：该工具在各类交易平台上备受欢迎。</p>
+<p dir="ltr">● 用途广泛：适用于外汇、股票、商品和其他金融工具。</p>
+<p dir="ltr">● 增强决策能力：有助于交易者能够更清晰、更有把握地区分哪些交易布局可能盈利，哪些可能无法盈利。</p>
+<h2 dir="ltr">应避免的常见错误</h2>
+<ol>
+<li dir="ltr">
+<p dir="ltr">单独使用斐波那契工具：始终将斐波那契水平与其他指标或分析方法相结合，以确认交易信号。</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">忽视市场趋势：斐波那契回撤对于识别市场趋势卓有成效。</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">水平过多导致过于复杂：为了避免混淆，请关注最关键的比率水平（例如 38.2%、50%、61.8%）。</p>
+</li>
+</ol>
+<h2 dir="ltr">结论</h2>
+<p dir="ltr">斐波那契回撤是识别关键支撑位和阻力位的绝佳工具。掌握这一工具，便可以加强交易计划，完善进场点和出场点，并深入了解市场的运作方式。</p>
+<p dir="ltr">正确使用这一工具：在 MT4/MT5 平台上针对不同市场交易对采取实践策略。为了增强交易能力，请使用斐波那契回撤，采取更明智的举措。</p>
+<p dir="ltr"><a href="https://www.atfx.com/zh-hans/trading-accounts/live-account" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="aligncenter wp-image-45725 size-large" src="https://www.atfx.com/wp-content/uploads/2025/01/Live-Banner-2-Fibonacci-Retracements-SC-1024x256.webp" alt="Live Banner 2 Fibonacci Retracements SC" width="800" height="200" srcset="https://www.atfx.com/wp-content/uploads/2025/01/Live-Banner-2-Fibonacci-Retracements-SC-1024x256.webp 1024w, https://www.atfx.com/wp-content/uploads/2025/01/Live-Banner-2-Fibonacci-Retracements-SC-300x75.webp 300w, https://www.atfx.com/wp-content/uploads/2025/01/Live-Banner-2-Fibonacci-Retracements-SC-768x192.webp 768w, https://www.atfx.com/wp-content/uploads/2025/01/Live-Banner-2-Fibonacci-Retracements-SC.webp 1200w" sizes="(max-width: 800px) 100vw, 800px" /></a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

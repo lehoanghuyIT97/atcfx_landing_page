@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>MCD Archives - ATFX Global - Official Website</title>
+	<atom:link href="https://www.atfx.com/zh-hant/tag/mcd/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Mon, 05 Feb 2024 09:06:01 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>https://www.atfx.com/wp-content/uploads/2023/06/favicon-150x150.webp</url>
+	<title>MCD Archives - ATFX Global - Official Website</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>隨著道瓊期貨持穩，市場迎來麥當勞業績</title>
+		<link>https://www.atfx.com/zh-hant/analysis/market-news/dow-futures-steady-mcdonalds-earnings-ahead</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Mon, 05 Feb 2024 09:06:01 +0000</pubDate>
+				<category><![CDATA[市場新聞及觀點]]></category>
+		<category><![CDATA[MCD]]></category>
+		<category><![CDATA[最近的新聞]]></category>
+		<guid isPermaLink="false">https://www.atfx.com/?p=29690</guid>
+
+					<description><![CDATA[美國股指期貨週日晚間走低，投資人期待本週企業財報密集發布。 道瓊工業指數期貨在美國東部時間下午7點(格林尼治標 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><a href="https://www.atfx.com/zh-hant/markets/shares-trading" target="_blank" rel="noopener">美國股指期貨</a>週日晚間走低，投資人期待本週企業財報密集發布。</p>
+<p><a href="https://www.atfx.com/zh-hant/live-chart/dow-jones" target="_blank" rel="noopener">道瓊工業指數期貨</a>在美國東部時間下午7點(格林尼治標準時間上午12點)保持穩定，而<a href="https://www.atfx.com/zh-hant/live-chart/sp500" target="_blank" rel="noopener">標準普爾500期貨</a>和<a href="https://www.atfx.com/zh-hant/live-chart/nasdaq100" target="_blank" rel="noopener">納斯達克100期貨</a>分別下跌0.1%。</p>
+<p>在此之前，三大股指上週表現出色，這是過去14週以來的第13週上漲。 一月份的就業報告和科技巨頭微軟公司(納斯達克股票代碼:MSFT)和Meta平台公司(納斯達克股票代碼:Meta)強勁的收益報告推動了這種好轉。 儘管聯準會主席鮑威爾上週三講話與一些交易員的預期相反，即聯準會不太可能在3月降息，但股市這種上行勢頭仍在保持。</p>
+<p><img fetchpriority="high" decoding="async" class="size-full wp-image-29661 aligncenter" src="https://www.atfx.com/wp-content/uploads/2024/02/MicrosoftTeams-image-1.png" alt="mcd 4 hour chart" width="1280" height="576" srcset="https://www.atfx.com/wp-content/uploads/2024/02/MicrosoftTeams-image-1.png 1280w, https://www.atfx.com/wp-content/uploads/2024/02/MicrosoftTeams-image-1-300x135.png 300w, https://www.atfx.com/wp-content/uploads/2024/02/MicrosoftTeams-image-1-1024x461.png 1024w, https://www.atfx.com/wp-content/uploads/2024/02/MicrosoftTeams-image-1-768x346.png 768w" sizes="(max-width: 1280px) 100vw, 1280px" /></p>
+<p style="text-align: center;">MCD 4小時圖</p>
+<p>更多的業績報告將於下周公布，麥當勞公司(NYSE:MCD)將於週一公佈，福沃德工業(納斯達克代碼:FORD)業績將於週二公佈。</p>
+<p>投資者也將密切關注美國週五開始對伊拉克和敘利亞發動空襲後的中東局勢。 週日，美國國家安全顧問傑克·沙利文在NBC新聞的「與媒體見面」節目中表示，美國計劃對伊朗支持的組織實施「額外打擊」。</p>
+<p>在債券市場，美國10年期公債殖利率為4.078%。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

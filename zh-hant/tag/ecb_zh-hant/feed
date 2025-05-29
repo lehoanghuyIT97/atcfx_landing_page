@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ECB Archives - ATFX Global - Official Website</title>
+	<atom:link href="https://www.atfx.com/zh-hant/tag/ecb_zh-hant/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Fri, 15 Sep 2023 09:31:33 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>https://www.atfx.com/wp-content/uploads/2023/06/favicon-150x150.webp</url>
+	<title>ECB Archives - ATFX Global - Official Website</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>美國通脹蓋過歐央行加息影響，歐元繼續大跌</title>
+		<link>https://www.atfx.com/zh-hant/analysis/market-news/euro-freefall-continue-us-surprise-beat-ecb-rate-hike</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Fri, 15 Sep 2023 09:31:33 +0000</pubDate>
+				<category><![CDATA[市場新聞及觀點]]></category>
+		<category><![CDATA[ECB]]></category>
+		<category><![CDATA[EURUSD]]></category>
+		<category><![CDATA[最近的新聞]]></category>
+		<guid isPermaLink="false">https://lptemplatedev.wpengine.com/uncategorized/euro-freefall-continue-us-surprise-beat-ecb-rate-hike-2</guid>
+
+					<description><![CDATA[在歐洲央行意外的加息和美國出人意料的通脹數據之後，歐元兌美元匯率繼續下跌。 EURUSD日圖 歐元兌美元在1. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>在歐洲央行意外的加息和美國出人意料的通脹數據之後，<a href="/zh-hant/live-chart/eur-usd" rel="noopener" target="_blank" style="text-decoration: underline">歐元兌美元匯率</a>繼續下跌。</p>
+<p><span id="more-24490"></span></p>
+<p><span style="font-size: 12px;color: #000000"><img loading="lazy" decoding="async" src="https://www.atfx.com/hubfs/media.png" width="767" height="556" loading="lazy" alt="EURUSD: Daily Chart" style="width: 767px;height: auto;max-width: 100%;margin: 10px auto"></span></p>
+<p style="text-align: center">EURUSD日圖</p>
+<p>歐元兌美元在1.080附近顯示出強勢跡象，但此後又大跌至測試6月份以來的1.064水平。歐元多頭將在這一水平感受到壓力。</p>
+<p>儘管存在一些通脹壓力，但分析師此前預計，由於近期經濟預測下調，歐洲央行將暫停加息。歐洲央行指出，歐元區最大經濟體德國的衰退是下調預測的一個因素。</p>
+<p>但政策制定者在14個月內進行了第14次加息，避免了對滯脹的擔憂和對經濟衰退的擔憂。然而，歐洲央行暗示，最近的加息可能是最後一次。</p>
+<p>同日，美國PPI漲幅高於預期。生產者價格指數是衡量企業投入價格的指標，這意味著美聯儲可能不會停止加息。</p>
+<p>由於一年多來通貨膨脹率一直高於美聯儲2%的目標，市場擔心進一步加息，推動美元大幅走高。</p>
+<p>美國8月份的PPI上漲了0.7%，其中80%的漲幅是由於最終需求商品上漲了2%，這是由油價飆升20%所推動的。這將是未來幾個月的一個問題，因為<a href="/zh-hant/live-chart/crude-oil" rel="noopener" target="_blank" style="text-decoration: underline">油價</a>將繼續走高，週四突破每桶90美元。</p>
+<p>英國Evelyn Partners的Nathan Casey表示:</p>
+<p>美國8月份的通脹報告顯示，總體通脹率上升了0.6%，是自2022年6月以來的最高水平。價格上漲的壓力主要來自能源行業，該行業的月度通脹率加速至5.6%。</p>
+<p>“其中一個重要的驅動因素是最近原油價格飆升，這促使汽油價格在8月份上漲。”</p>
+<p><a href="/zh-hant/markets/shares-trading" rel="noopener" target="_blank" style="text-decoration: underline">美國股市</a>出現反彈，但美元也碾壓了其他主要貨幣，因為交易員意識到，這些數據表明通脹還遠未達到美聯儲目標。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

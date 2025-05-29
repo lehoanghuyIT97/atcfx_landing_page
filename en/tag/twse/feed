@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>TWSE Archives - ATFX Global - Official Website</title>
+	<atom:link href="https://www.atfx.com/en/tag/twse/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Fri, 16 May 2025 00:41:02 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>https://www.atfx.com/wp-content/uploads/2023/06/favicon-150x150.webp</url>
+	<title>TWSE Archives - ATFX Global - Official Website</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Taiwan’s Foxconn Rallies After Beating Earnings Expectations</title>
+		<link>https://www.atfx.com/en/analysis/market-news/taiwan-foxconn-rallies-beating-earnings-expectations</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Thu, 15 May 2025 03:50:52 +0000</pubDate>
+				<category><![CDATA[Market news & Insights]]></category>
+		<category><![CDATA[TWSE]]></category>
+		<guid isPermaLink="false">https://www.atfx.com/?p=50278</guid>
+
+					<description><![CDATA[Taiwan&#8217;s Foxconn, the world&#8217;s largest contract electronics supplier, reported a 91% jump in quarterly profit, due to AI server demand.  The price of Foxconn (TWSE:2354) has found a price bottom below the $50 level. Price has now rallied through the $55 barrier from August 2024 and can push higher if it holds as support.  Net [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">Taiwan&#8217;s Foxconn, the world&#8217;s largest contract electronics supplier, reported a 91% jump in quarterly profit, due to AI server demand. </span></p>
+<figure id="attachment_50275" aria-describedby="caption-attachment-50275" style="width: 889px" class="wp-caption aligncenter"><img fetchpriority="high" decoding="async" class="wp-image-50275 size-full" src="https://www.atfx.com/wp-content/uploads/2025/05/GBPUSD-–-Daily-Chart.png" alt="TWSE:2354" width="889" height="549" srcset="https://www.atfx.com/wp-content/uploads/2025/05/GBPUSD-–-Daily-Chart.png 889w, https://www.atfx.com/wp-content/uploads/2025/05/GBPUSD-–-Daily-Chart-300x185.png 300w, https://www.atfx.com/wp-content/uploads/2025/05/GBPUSD-–-Daily-Chart-768x474.png 768w" sizes="(max-width: 889px) 100vw, 889px" /><figcaption id="caption-attachment-50275" class="wp-caption-text">TWSE:2354 &#8211; Daily Chart</figcaption></figure>
+<p><span style="font-weight: 400;">The price of </span><a href="https://www.atfx.com/en/markets/indices-trading"><b>Foxconn (TWSE:2354)</b></a><span style="font-weight: 400;"> has found a price bottom below the $50 level. Price has now rallied through the $55 barrier from August 2024 and can push higher if it holds as support. </span></p>
+<p><span style="font-weight: 400;">Net profit for the first quarter came in at T$42.12 billion ($1.39 billion), versus the T$37.8 billion expected by analysts. The company is a big supplier to Apple and Nvidia, which means that a healthy outlook supports the overall tech sector. </span></p>
+<p><span style="font-weight: 400;">Foxconn added that revenue jumped 24.2% to a record for the period but Chairman Young Liu said on an </span><a href="https://www.atfx.com/en/earning-season-calendar"><span style="font-weight: 400;">earnings</span></a><span style="font-weight: 400;"> call that the recent tariff uncertainty brings more challenges. Management guidance for the full year was more cautious than previous remarks. </span></p>
+<p><span style="font-weight: 400;">The recent 90-day tariff halt between the US and China has the potential to support the coming year, but there is still some uncertainty due to recent swings in the Taiwanese dollar. </span></p>
+<p><span style="font-weight: 400;">Liu said the recent deal would need a permanent solution and that means the remaining tariffs could still weigh on the global economy. The majority of Apple’s iPhones are assembled in China by Foxconn, but they are now building a new plant in Mexico in order to support the build of Nvidia servers. </span></p>
+<p><span style="font-weight: 400;">Foxconn expects to see significant on-year growth in the second quarter, with high double-digit growth year-on-year for servers and an accelerating volume production ramp-up. </span></p>
+<p><span style="font-weight: 400;">The company has been looking to expand its footprint in electric vehicles, which it also sees as a driver of future growth. Nvidia is also involved in the EV space and could provide additional business for Foxconn. </span></p>
+<p><span style="font-weight: 400;">Foxtron Vehicle Technologies and Japan’s Mitsubishi signed a deal last week to work on an EV model together, after Foxconn had previously considered a stake in Nissan.</span></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

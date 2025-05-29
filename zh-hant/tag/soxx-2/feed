@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>SOXX Archives - ATFX Global - Official Website</title>
+	<atom:link href="https://www.atfx.com/zh-hant/tag/soxx-2/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Tue, 26 Nov 2024 13:17:20 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>https://www.atfx.com/wp-content/uploads/2023/06/favicon-150x150.webp</url>
+	<title>SOXX Archives - ATFX Global - Official Website</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>半導體指數處於十字路口，正在測試上升趨勢</title>
+		<link>https://www.atfx.com/zh-hant/analysis/market-news/semiconductor-index-crossroads-test-uptrend</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Tue, 26 Nov 2024 01:32:14 +0000</pubDate>
+				<category><![CDATA[市場新聞及觀點]]></category>
+		<category><![CDATA[SOXX]]></category>
+		<category><![CDATA[最近的新聞]]></category>
+		<guid isPermaLink="false">https://www.atfx.com/?p=43369</guid>
+
+					<description><![CDATA[SOXX (NYSE:SOXX) 半導體指數的價格正在測試自2022年底以來一直存在的上升趨勢。這可能對美國股 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>SOXX (NYSE:SOXX) 半導體指數的價格正在測試自2022年底以來一直存在的上升趨勢。這可能對<a href="https://www.atfx.com/zh-hant/markets/shares-trading" target="_blank" rel="noopener">美國股市</a>的反彈產生重大影響，該指數追蹤英偉達和高通等所有大型晶片製造商。</p>
+<p><img fetchpriority="high" decoding="async" class="aligncenter size-full wp-image-43371" src="https://www.atfx.com/wp-content/uploads/2024/11/SOXX-Daily-Chart.png" alt="SOXX - Daily Chart" width="814" height="610" srcset="https://www.atfx.com/wp-content/uploads/2024/11/SOXX-Daily-Chart.png 814w, https://www.atfx.com/wp-content/uploads/2024/11/SOXX-Daily-Chart-300x225.png 300w, https://www.atfx.com/wp-content/uploads/2024/11/SOXX-Daily-Chart-768x576.png 768w" sizes="(max-width: 814px) 100vw, 814px" /></p>
+<p style="text-align: center;">SOXX日線圖</p>
+<p>SOXX的價格已經從7月接近260美元的高點回落，在突破上升趨勢線後，目前的交易價格為216美元。如果它不能守住這一支撐位，就可能形成回調。</p>
+<p>半導體產業一直是現代技術創新的驅動力，根據半導體產業協會（SIA）的數據，9月份全球銷售額達到創紀錄的553億美元。這是有史以來最高的月度總數，突顯了該行業在推動從人工智慧到電動車進步方面的作用。</p>
+<p>人工智慧熱潮推動了美國股市的上漲，投資人預期晶片銷售將持續強勁，但英偉達最新的收益暗示，成長熱潮將放緩。人工智慧趨勢也難以為資料中心和雲端運算儲存以外的公司帶來巨大收益。</p>
+<p>如果目前的價格水準找不到買家，未來一兩週可能對整體反彈很重要。隨著烏克蘭戰爭的爆發，全球緊張局勢正在加劇，獲利了結的可能性可能成為一個主題。</p>
+<p>億萬富翁投資者肯費雪仍然是人工智慧趨勢的粉絲，他在第三季度購買了價值4.815億美元的英偉達股票和價值2.628億美元的微軟股票。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

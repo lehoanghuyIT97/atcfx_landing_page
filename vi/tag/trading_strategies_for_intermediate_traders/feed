@@ -1,0 +1,895 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Chiến lược cho người ít kinh nghiệm Archives - ATFX Global - Official Website</title>
+	<atom:link href="https://www.atfx.com/vi/tag/trading_strategies_for_intermediate_traders/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Wed, 07 May 2025 04:13:55 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>https://www.atfx.com/wp-content/uploads/2023/06/favicon-150x150.webp</url>
+	<title>Chiến lược cho người ít kinh nghiệm Archives - ATFX Global - Official Website</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Chỉ số sức mạnh tương đối RSI trong giao dịch là gì?</title>
+		<link>https://www.atfx.com/vi/analysis/trading-strategies/relative-strength-index</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Wed, 23 Apr 2025 06:46:49 +0000</pubDate>
+				<category><![CDATA[Chiến lược Giao dịch của bạn]]></category>
+		<category><![CDATA[Chiến lược cho người ít kinh nghiệm]]></category>
+		<category><![CDATA[RSI]]></category>
+		<category><![CDATA[RSI trading]]></category>
+		<guid isPermaLink="false">https://www.atfx.com/?p=48354</guid>
+
+					<description><![CDATA[Chỉ số sức mạnh tương đối (RSI) là một chỉ báo dao động động lượng đo lường tốc độ và mức độ biến động giá gần đây, giúp xác định tình trạng quá mua hoặc quá bán của một tài sản. Chỉ báo này dao động trong phạm vi từ 0 đến 100 và thường [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Chỉ số sức mạnh tương đối (RSI) là một chỉ báo dao động động lượng đo lường tốc độ và mức độ biến động giá gần đây, giúp xác định tình trạng quá mua hoặc quá bán của một tài sản. Chỉ báo này dao động trong phạm vi từ 0 đến 100 và thường được sử dụng để: nhận diện điểm đảo chiều tiềm năng, xác nhận sức mạnh xu hướng thị trường, đánh giá hướng đi tổng thể của xu hướng, đặc biệt khi kết hợp với các <a href="https://www.atfx.com/vi/trading-platforms/metatrader-4/support-resistance-indicator" target="_blank" rel="noopener">ngưỡng hỗ trợ và kháng cự</a>.</p>
+<p>Được phát triển bởi J. Welles Wilder Jr. vào năm 1978, RSI đã trở thành một trong những chỉ báo kỹ thuật phổ biến nhất trên nhiều thị trường như chứng khoán, <a href="https://www.atfx.com/vi/markets/forex-trading" target="_blank" rel="noopener">forex</a>, tiền điện tử và <a href="https://www.atfx.com/vi/markets/commodities" target="_blank" rel="noopener">hàng hóa</a>. Nếu biết cách giao dịch với RSI, nhà giao dịch có thể tối ưu hóa thời điểm giao dịch, nâng cao khả năng ra quyết định và gia tăng hiệu suất giao dịch. Trong bài viết này, chúng ta sẽ cùng tìm hiểu cách thức hoạt động của RSI và phương pháp giao dịch RSI để củng cố chiến lược giao dịch của bạn.</p>
+<h2>Công thức RSI được tính toán như thế nào?</h2>
+<p>RSI là một chỉ báo dao động động lượng đo lường tốc độ và sự thay đổi của biến động giá. Nó được tính toán bằng cách so sánh mức tăng trung bình và mức giảm trung bình trong một khoảng thời gian cụ thể, thường là 14 chu kỳ. Chỉ báo này giúp các nhà giao dịch xác định liệu một tài sản đang trong tình trạng quá mua hay quá bán.</p>
+<h3><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f9ee.png" alt="🧮" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Công thức tính RSI:</h3>
+<p>RSI = 100 − [100 / (1 + (Lợi nhuận trung bình / Thua lỗ trung bình))]</p>
+<p>Ý nghĩa thành phần:</p>
+<ul>
+<li>Lợi nhuận trung bình (Avg.Gain): Giá trị trung bình của các mức tăng giá trong khoảng thời gian xác định.</li>
+<li>Thua lỗ trung bình (Avg.Loss): Giá trị trung bình của các mức giảm giá trong cùng khoảng thời gian.</li>
+</ul>
+<p>Việc tính toán RSI giúp nhà giao dịch đánh giá xu hướng tăng hay giảm của tài sản bằng cách so sánh mức độ biến động giá tăng với biến động giá giảm.</p>
+<p><img fetchpriority="high" decoding="async" class="aligncenter size-large wp-image-48927" src="https://www.atfx.com/wp-content/uploads/2025/04/How-is-RSI-Formula-Calculated-VN-1024x529.webp" alt="How-is-RSI-Formula-Calculated-VN" width="800" height="413" srcset="https://www.atfx.com/wp-content/uploads/2025/04/How-is-RSI-Formula-Calculated-VN-1024x529.webp 1024w, https://www.atfx.com/wp-content/uploads/2025/04/How-is-RSI-Formula-Calculated-VN-300x155.webp 300w, https://www.atfx.com/wp-content/uploads/2025/04/How-is-RSI-Formula-Calculated-VN-768x397.webp 768w, https://www.atfx.com/wp-content/uploads/2025/04/How-is-RSI-Formula-Calculated-VN.webp 1200w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<h3><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/23f1.png" alt="⏱" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Điều chỉnh chu kỳ tính RSI theo điều kiện thị trường</h3>
+<p>RSI thường được mặc định đặt ở mức 14 chu kỳ nhằm cân bằng giữa độ nhạy và độ mượt. Tuy nhiên, nhà giao dịch thường điều chỉnh chu kỳ để phù hợp hơn với thị trường:</p>
+<ul>
+<li>Với chu kỳ ngắn (ví dụ 7-9 chu kỳ) thì RSI nhạy hơn với biến động giá, cho tín hiệu nhanh và phù hợp thị trường biến động mạnh với biến động giá nhanh. Tuy nhiên, nhược điểm của nó là dễ dẫn đến tín hiệu sai do phản ứng với biến động nhỏ, và nhà giao dịch có thể vào hoặc thoát lệnh quá thường xuyên.</li>
+<li>Với chu kỳ dài (ví dụ 21-30 chu kỳ) thì RSI ít nhạy hơn, lọc được tín hiệu nhiễu ngắn hạn, phù hợp nhà đầu tư dài hạn tập trung vào xu hướng chính (ví dụ như hàng hóa). Tuy nhiên, nhược điểm của nó là phản ứng chậm với biến động giá, khiến nhà giao dịch có thể bỏ lỡ các điểm đảo chiều xu hướng sớm.</li>
+</ul>
+<h2>Cách thức hoạt động của RSI trong giao dịch</h2>
+<p>RSI xác định tình trạng quá mua/quá bán để cảnh báo khả năng giá đảo chiều. Bằng cách đo lường động lượng biến động giá, RSI cho thấy sức mạnh/yếu của xu hướng giá.</p>
+<p>Chỉ báo dao động từ 0-100 với các mốc quan trọng: 70 (quá mua) và 30 (quá bán)</p>
+<h3><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f680.png" alt="🚀" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Tín hiệu quá mua (RSI &gt; 70):</h3>
+<p>Khi RSI vượt 70, tài sản có thể đã trong trạng thái quá mua và sắp điều chỉnh/đảo chiều, thường trùng với vùng kháng cự.</p>
+<p><strong><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4cc.png" alt="📌" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Hành động: Nhà giao dịch thường bán ra khi RSI &gt; 70 để chờ giá điều chỉnh gần kháng cự.</strong></p>
+<p><strong>Ví dụ:</strong> Cặp<a href="https://www.atfx.com/vi/live-chart/eur-usd" target="_blank" rel="noopener"> EUR/USD</a> có RSI=80 báo hiệu thị trường quá mua, dự báo giá có thể giảm khi chạm ngưỡng kháng cự.</p>
+<p><img decoding="async" class="aligncenter size-large wp-image-48925" src="https://www.atfx.com/wp-content/uploads/2025/04/EUR-USD-VN-1024x887.webp" alt="EUR-USD-VN" width="800" height="693" srcset="https://www.atfx.com/wp-content/uploads/2025/04/EUR-USD-VN-1024x887.webp 1024w, https://www.atfx.com/wp-content/uploads/2025/04/EUR-USD-VN-300x260.webp 300w, https://www.atfx.com/wp-content/uploads/2025/04/EUR-USD-VN-768x666.webp 768w, https://www.atfx.com/wp-content/uploads/2025/04/EUR-USD-VN.webp 1200w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<h3><strong><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4c9.png" alt="📉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </strong>Tín hiệu quá bán (RSI &lt; 30):</h3>
+<p>Khi RSI giảm xuống dưới 30, điều này cho thấy tài sản đang trong trạng thái quá bán và giá có khả năng phục hồi, đặc biệt khi giá tiến gần các ngưỡng hỗ trợ quan trọng.</p>
+<p><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4cc.png" alt="📌" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Hành động:</strong> <strong>Nhà giao dịch thường tìm kiếm cơ hội mua vào khi RSI dưới 30, với dự đoán giá xảy ra đảo chiều tại vùng hỗ trợ.</strong></p>
+<p><strong>Ví dụ:</strong> Nếu cặp <a href="https://www.atfx.com/vi/live-chart/gbp-usd" target="_blank" rel="noopener">GBP/USD</a> có RSI ở mức 25, điều này có thể cho thấy đồng bảng Anh đang trong trạng thái quá bán và sắp phục hồi, với khả năng bật tăng từ một ngưỡng hỗ trợ chính.</p>
+<p><img decoding="async" class="aligncenter size-large wp-image-48926" src="https://www.atfx.com/wp-content/uploads/2025/04/GBP-USD-VN-1024x887.webp" alt="GBP-USD-VN" width="800" height="693" srcset="https://www.atfx.com/wp-content/uploads/2025/04/GBP-USD-VN-1024x887.webp 1024w, https://www.atfx.com/wp-content/uploads/2025/04/GBP-USD-VN-300x260.webp 300w, https://www.atfx.com/wp-content/uploads/2025/04/GBP-USD-VN-768x666.webp 768w, https://www.atfx.com/wp-content/uploads/2025/04/GBP-USD-VN.webp 1200w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<h2>Phân kỳ RSI: Nhận diện đảo chiều xu hướng</h2>
+<p>Phân kỳ RSI xảy ra khi giá tài sản di chuyển ngược hướng với chỉ báo RSI &#8211; tín hiệu quan trọng cảnh báo khả năng đảo chiều xu hướng:</p>
+<h3><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f504.png" alt="🔄" class="wp-smiley" style="height: 1em; max-height: 1em;" />Phân kỳ tăng</h3>
+<p>Xuất hiện khi giá tạo đáy thấp hơn, nhưng RSI lại tạo đáy cao hơn. Điều này cho thấy động lực bán đang suy yếu và giá có khả năng đảo chiều tăng.</p>
+<p><strong>Ví dụ:</strong> Nếu cặp USD/CAD tạo đáy mới thấp hơn nhưng RSI hình thành đáy cao hơn → xuất hiện tín hiệu mua vào.</p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-large wp-image-48929" src="https://www.atfx.com/wp-content/uploads/2025/04/USD-CAD-VN-1024x887.webp" alt="USD-CAD-VN" width="800" height="693" srcset="https://www.atfx.com/wp-content/uploads/2025/04/USD-CAD-VN-1024x887.webp 1024w, https://www.atfx.com/wp-content/uploads/2025/04/USD-CAD-VN-300x260.webp 300w, https://www.atfx.com/wp-content/uploads/2025/04/USD-CAD-VN-768x666.webp 768w, https://www.atfx.com/wp-content/uploads/2025/04/USD-CAD-VN.webp 1200w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<h3><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f504.png" alt="🔄" class="wp-smiley" style="height: 1em; max-height: 1em;" />Phân kỳ giảm</h3>
+<p>Xuất hiện khi giá tạo đỉnh cao hơn nhưng RSI lại tạo đỉnh thấp hơn, báo hiệu động lực mua đang suy yếu và giá có thể đảo chiều giảm.</p>
+<p><strong>Ví dụ:</strong> Khi cặp USD/CHF liên tục tạo đỉnh mới nhưng RSI lại hình thành các đỉnh thấp dần → Đây là tín hiệu bán.</p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-large wp-image-48930" src="https://www.atfx.com/wp-content/uploads/2025/04/USD-CHF-VN-1024x640.webp" alt="USD-CHF-VN" width="800" height="500" srcset="https://www.atfx.com/wp-content/uploads/2025/04/USD-CHF-VN-1024x640.webp 1024w, https://www.atfx.com/wp-content/uploads/2025/04/USD-CHF-VN-300x188.webp 300w, https://www.atfx.com/wp-content/uploads/2025/04/USD-CHF-VN-768x480.webp 768w, https://www.atfx.com/wp-content/uploads/2025/04/USD-CHF-VN.webp 1200w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<h2>Giao cắt đường trung tâm RSI: Đo lường sức mạnh xu hướng</h2>
+<p><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4cd.png" alt="📍" class="wp-smiley" style="height: 1em; max-height: 1em;" />Đường trung tâm RSI (mức 50) đóng vai trò quan trọng trong việc xác nhận sức mạnh xu hướng hiện tại:</p>
+<ul>
+<li>RSI Trên 50: RSI duy trì trên mức 50 trong xu hướng tăng báo hiệu động lực tăng giá mạnh mẽ và xác nhận khả năng giá tiếp tục đi lên</li>
+<li>RSI Dưới 50: RSI nằm dưới mức 50 trong xu hướng giảm cho thấy lực bán áp đảo, dự báo xu hướng giảm có thể kéo dài</li>
+</ul>
+<p><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4cd.png" alt="📍" class="wp-smiley" style="height: 1em; max-height: 1em;" />Giao cắt tại đường 50 cho thấy tín hiệu xác nhận sức mạnh xu hướng. Ví dụ:</p>
+<ul>
+<li>Nếu RSI vượt lên trên 50 từ phía dưới → Dấu hiệu bắt đầu xu hướng tăng</li>
+<li>Ngược lại, RSI cắt xuống dưới 50 từ phía trên → Cảnh báo khởi đầu xu hướng giảm</li>
+</ul>
+<p><img loading="lazy" decoding="async" class="aligncenter size-large wp-image-48928" src="https://www.atfx.com/wp-content/uploads/2025/04/RSI-50-uptrend-VN-1024x640.webp" alt="RSI-50-uptrend-VN" width="800" height="500" srcset="https://www.atfx.com/wp-content/uploads/2025/04/RSI-50-uptrend-VN-1024x640.webp 1024w, https://www.atfx.com/wp-content/uploads/2025/04/RSI-50-uptrend-VN-300x188.webp 300w, https://www.atfx.com/wp-content/uploads/2025/04/RSI-50-uptrend-VN-768x480.webp 768w, https://www.atfx.com/wp-content/uploads/2025/04/RSI-50-uptrend-VN.webp 1200w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<h2>Chiến lược giao dịch RSI và cách áp dụng</h2>
+<p>Giao dịch RSI phát huy hiệu quả cao nhất khi kết hợp với các chỉ báo kỹ thuật khác, phân tích xu hướng hoặc đánh giá điều kiện thị trường. Dưới đây là các chiến lược giao dịch RSI:</p>
+<h3><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4cc.png" alt="📌" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Nhận diện vùng quá mua/quá bán</h3>
+<p>Sử dụng RSI để phát hiện xem một tài sản đang bị quá mua hay quá bán:</p>
+<ul>
+<li>RSI &lt; 30 = Quá bán → Tín hiệu mua</li>
+<li>RSI &gt; 70 = Quá mua → Tín hiệu bán</li>
+</ul>
+<h3><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f511.png" alt="🔑" class="wp-smiley" style="height: 1em; max-height: 1em;" />Phát hiện phân kỳ để tìm điểm đảo ngược xu hướng</h3>
+<p>Phát hiện phân kỳ giữa hành động giá và RSI để nhận biết xu hướng suy yếu và dự đoán khả năng đảo chiều.</p>
+<ul>
+<li>Phân kỳ tăng (Mua): Giá tạo đáy thấp hơn trong khi RSI tạo đáy cao hơn.</li>
+<li>Phân kỳ giảm (Bán): Giá tạo đỉnh cao hơn nhưng RSI tạo đỉnh thấp hơn.</li>
+</ul>
+<h3><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/26a1.png" alt="⚡" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Xác nhận sức mạnh xu hướng:</h3>
+<p>Sử dụng RSI để xác nhận sức mạnh của xu hướng hiện tại. RSI trên 50 xác nhận động lượng tăng giá, trong khi RSI dưới 50 xác nhận động lượng giảm giá.</p>
+<ul>
+<li>RSI &gt; 50: Xác nhận xu hướng tăng mạnh</li>
+<li>RSI &lt; 50: Xác nhận xu hướng giảm mạnh</li>
+</ul>
+<h3><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4dd.png" alt="📝" class="wp-smiley" style="height: 1em; max-height: 1em;" />Giao cắt đường trung tâm:</h3>
+<p>Ngưỡng RSI 50 đóng vai trò then chốt trong việc xác nhận hướng đi và sức mạnh của xu hướng, đồng thời cung cấp tín hiệu mua/bán tiềm năng.</p>
+<ul>
+<li>Vượt lên trên 50: Dấu hiệu xu hướng tăng tiềm năng</li>
+<li>Cắt xuống dưới 50: Dấu hiệu xu hướng giảm tiềm năng</li>
+</ul>
+<h2>Thiết lập RSI tối ưu cho các thị trường khác nhau</h2>
+<p>Thiết lập mặc định của RSI là 14 chu kỳ, nhưng nhà giao dịch có thể điều chỉnh linh hoạt tùy theo điều kiện thị trường và phong cách giao dịch cá nhân.</p>
+<table>
+<tbody>
+<tr>
+<td>Thị trường</td>
+<td>Chu kỳ RSI tối ưu</td>
+<td>Phong cách giao dịch</td>
+</tr>
+<tr>
+<td>Cổ phiếu</td>
+<td>14</td>
+<td>Giao dịch Swing</td>
+</tr>
+<tr>
+<td>Forex</td>
+<td>9 hoặc 14</td>
+<td>Giao dịch trong ngày và giao dịch Swing</td>
+</tr>
+<tr>
+<td>Tiền điện tử</td>
+<td>7 hoặc 14</td>
+<td>Mức độ biến động cao</td>
+</tr>
+<tr>
+<td>Hàng hoá</td>
+<td>10</td>
+<td>Xác nhận xu hướng</td>
+</tr>
+</tbody>
+</table>
+<p><strong><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4a1.png" alt="💡" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Mẹo chuyên gia: Giảm số chu kỳ RSI (ví dụ: 7-9) để nhận tín hiệu nhanh hơn trong các thị trường biến động mạnh như tiền điện tử.</strong></p>
+<h3><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/2699.png" alt="⚙" class="wp-smiley" style="height: 1em; max-height: 1em;" />Cách cài đặt RSI trên MetaTrader 4 (MT4)</h3>
+<p>Thao tác thiết lập RSI trên <a href="https://www.atfx.com/vi/trading-platforms/metatrader-4" target="_blank" rel="noopener">MT4</a> rất đơn giản và nhanh chóng. Thực hiện theo các bước sau:</p>
+<ol>
+<li>Mở MT4 và chọn đồ thị bạn muốn sử dụng.</li>
+<li>Bấm vào Insert → Indicators → Oscillators → Relative Strength Index.</li>
+<li>Điều chỉnh chu kỳ (Period) (mặc định là 14) theo chiến lược của bạn.</li>
+<li>Thay đổi mức ngưỡng (30 cho quá bán, 70 cho quá mua) nếu cần.</li>
+<li>Bấm OK để áp dụng chỉ báo RSI lên đồ thị.</li>
+</ol>
+<p>Giờ đây, bạn có thể sử dụng RSI để xác định vùng quá mua/quá bán và đưa ra quyết định giao dịch chính xác ngay trên MT4</p>
+<p><a href="https://www.atfx.com/vi/trading-platforms/metatrader-4/download-mt4" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="aligncenter wp-image-25077 size-full" src="https://www.atfx.com/wp-content/uploads/2023/10/mt4-download-vietnam.webp" alt="mt4 download vietnam" width="825" height="206" srcset="https://www.atfx.com/wp-content/uploads/2023/10/mt4-download-vietnam.webp 825w, https://www.atfx.com/wp-content/uploads/2023/10/mt4-download-vietnam-300x75.webp 300w, https://www.atfx.com/wp-content/uploads/2023/10/mt4-download-vietnam-768x192.webp 768w" sizes="(max-width: 825px) 100vw, 825px" /></a></p>
+<h2>Mẹo giao dịch RSI</h2>
+<ul>
+<li>Kết hợp RSI với các chỉ báo khác: Sử dụng RSI cùng các công cụ như đường trung bình động (MA) hoặc MACD để tăng hiệu quả chiến lược.</li>
+<li>Theo dõi các mức RSI cực đoan: Khi RSI vượt quá 70 (quá mua) hoặc dưới 30 (quá bán), đó có thể là tín hiệu đảo chiều tiềm năng.</li>
+<li>Sử dụng RSI kết hợp phân tích xu hướng: Trong xu hướng mạnh, RSI giúp xác định thời điểm điều chỉnh (pullback) để tìm ra cơ hội vào lệnh thích hợp.</li>
+</ul>
+<h2>Những sai lầm cần tránh khi sử dụng RSI</h2>
+<p>Ngay cả những nhà giao dịch chuyên nghiệp cũng có thể dùng sai RSI trong giao dịch, dẫn đến tín hiệu bị nhiễu và thua lỗ. Các lỗi cần tránh là:</p>
+<p><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/274c.png" alt="❌" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Chỉ dựa vào mỗi RSI → Luôn xác nhận tín hiệu với các chỉ báo khác.<br />
+<img src="https://s.w.org/images/core/emoji/15.0.3/72x72/274c.png" alt="❌" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Bỏ qua xu hướng thị trường → RSI hiệu quả hơn trong thị trường đi ngang.<br />
+<img src="https://s.w.org/images/core/emoji/15.0.3/72x72/274c.png" alt="❌" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Phớt lờ tín hiệu phân kỳ → Phân kỳ RSI thường báo hiệu đảo chiều sớm.<br />
+<img src="https://s.w.org/images/core/emoji/15.0.3/72x72/274c.png" alt="❌" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Sử dụng cài đặt mặc định RSI mà không kiểm tra → Điều chỉnh thông số RSI phù hợp với phong cách giao dịch.</p>
+<p><strong><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4cc.png" alt="📌" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Mẹo chuyên gia: Luôn backtest chiến lược RSI trên tài khoản demo trước khi giao dịch thật.</strong></p>
+<h2>Tối ưu hóa tiềm năng RSI trong giao dịch với các chiến lược</h2>
+<p>Để khai thác tối đa hiệu quả của RSI, hãy áp dụng các chiến lược đã được chứng minh sau:</p>
+<p><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/2714.png" alt="✔" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Chiến lược theo xu hướng với RSI – Theo dõi hướng RSI trên/dưới mức 50.<br />
+<img src="https://s.w.org/images/core/emoji/15.0.3/72x72/2714.png" alt="✔" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Chiến lược đảo chiều với RSI – Giao dịch dựa trên tín hiệu phân kỳ RSI.<br />
+<img src="https://s.w.org/images/core/emoji/15.0.3/72x72/2714.png" alt="✔" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Chiến lược lướt sóng với RSI – Kết hợp RSI + MACD cho các giao dịch ngắn hạn.<br />
+<img src="https://s.w.org/images/core/emoji/15.0.3/72x72/2714.png" alt="✔" class="wp-smiley" style="height: 1em; max-height: 1em;" /> RSI &amp; Dải Bollinger – Phát hiện điểm phá vỡ với biến động mạnh.</p>
+<p><strong><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4cc.png" alt="📌" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Lời khuyên cuối cùng: Luôn kiểm tra chiến lược RSI trên tài khoản demo trước khi giao dịch thật để tối ưu hóa phương pháp giao dịch.</strong></p>
+<h2>Kết luận</h2>
+<p>Chỉ số sức mạnh tương đối (RSI) là công cụ mạnh mẽ giúp các nhà giao dịch nhận diện vùng quá mua/quá bán, phát hiện điểm đảo chiều xu hướng và xác nhận sức mạnh xu hướng hiện tại. Làm chủ giao dịch RSI và hiểu rõ các tín hiệu của nó sẽ nâng cao năng lực phân tích thị trường, giúp bạn đưa ra quyết định giao dịch chính xác hơn.</p>
+<p>Dù bạn giao dịch <a href="https://www.atfx.com/vi/markets/shares-trading" target="_blank" rel="noopener">cổ phiếu</a>, forex hay crypto, tích hợp RSI vào chiến lược sẽ mang lại những góc nhìn giá trị và cải thiện hiệu suất giao dịch đáng kể.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Chính sách kinh tế của Trump: Tác động đến thị trường chứng khoán và Forex &#124; Xu hướng giao dịch</title>
+		<link>https://www.atfx.com/vi/analysis/trading-strategies/trump-economic-policies</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Tue, 26 Nov 2024 03:50:59 +0000</pubDate>
+				<category><![CDATA[Chiến lược Giao dịch của bạn]]></category>
+		<category><![CDATA[Chiến lược cho người ít kinh nghiệm]]></category>
+		<guid isPermaLink="false">https://www.atfx.com/?p=43382</guid>
+
+					<description><![CDATA[Chính sách kinh tế của Trump: Tác động đến thị trường chứng khoán và Forex Donald Trump giành chiến thắng trong cuộc bầu cử tổng thống Mỹ năm 2024. Thị trường tài chính sau đó đã phản ứng bằng những biến động mạnh mẽ, trong bối cảnh các nhà đầu tư và nhà giao dịch [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h2 dir="ltr">Chính sách kinh tế của Trump: Tác động đến thị trường chứng khoán và Forex</h2>
+<p dir="ltr">Donald Trump giành chiến thắng trong cuộc bầu cử tổng thống Mỹ năm 2024. Thị trường tài chính sau đó đã phản ứng bằng những biến động mạnh mẽ, trong bối cảnh các nhà đầu tư và nhà giao dịch đánh giá những tác động của việc ông trở lại nắm quyền sau nhiệm kỳ đầu tiên vào năm 2016. Chiến thắng của ông báo hiệu sự chuyển hướng trở lại của chương trình nghị sự có lợi cho doanh nghiệp, tập trung vào hành động bãi bỏ quy định, cắt giảm thuế và các chính sách bảo hộ thương mại.</p>
+<p dir="ltr">Trong bài viết này, chúng ta sẽ cùng phân tích xem các chính sách kinh tế chính của Trump có thể ảnh hưởng đến các thị trường tài chính quan trọng như thế nào, đặc biệt là <a href="https://www.atfx.com/vi/markets/forex-trading" target="_blank" rel="noopener">giao dịch Forex </a>, thị trường cổ phiếu Mỹ, cổ phiếu toàn cầu và triển vọng kinh tế vĩ mô.</p>
+<ol class="no-markers">
+<li dir="ltr">
+<h2 dir="ltr">Tác động đến thị trường Forex: Đồng đô la Mỹ mạnh lên sau chiến thắng của Trump năm 2024</h2>
+</li>
+</ol>
+<p dir="ltr">Một trong những phản ứng tức thời nhất đối với chiến thắng trong cuộc bầu cử năm 2024 của Trump là động thái tăng giá đáng kể của đồng đô la Mỹ (USD) trên khắp các thị trường toàn cầu.</p>
+<p dir="ltr">Động thái tăng giá này phần lớn được hỗ trợ bởi kỳ vọng về chương trình nghị sự có lợi cho doanh nghiệp của Trump – bao gồm cắt giảm thuế, bãi bỏ quy định và các chính sách được thiết kế để kích thích tăng trưởng nền kinh tế của Mỹ.</p>
+<p dir="ltr">Các nhà đầu tư tin rằng các chính sách này sẽ nâng cao lợi nhuận của doanh nghiệp, cải thiện hoạt động kinh tế và thúc đẩy nhu cầu đối với đồng đô la Mỹ. Do đó, đồng USD đã tăng giá so với các đồng tiền chính – bao gồm Nhân dân tệ tại nước ngoài của Trung Quốc (CNH), Peso Mexico (MXN) và Euro (EUR) – phản ánh tâm lý lạc quan về hiệu suất kinh tế của Mỹ dựa theo các chính sách của chính quyền Trump.</p>
+<h3 dir="ltr">Đồng USD mạnh lên</h3>
+<p dir="ltr">Với kỳ vọng về một nền kinh tế Mỹ mạnh mẽ dưới thời Trump, đồng USD đã sẵn sàng để hưởng lợi. Các nhà đầu tư dự đoán rằng các chính sách thương mại và thuế quan của Trump sẽ tác động tích cực đến lợi nhuận của các công ty Mỹ, từ đó thúc đẩy nhu cầu đồng đô la.</p>
+<p dir="ltr">Đồng đô la Mỹ có khả năng tiếp tục tăng cao hơn nếu Trump thực hiện các kế hoạch áp dụng hàng rào thuế quan đối với hàng nhập khẩu, đặc biệt là từ Trung Quốc. Do đó, các nhà giao dịch Forex đang tìm cách nắm bắt cơ hội giao dịch khi đồng USD mạnh lên, đặc biệt là tương quan so với đồng CNY, MXN và EUR.</p>
+<h3 dir="ltr">Áp lực lên đồng Nhân dân tệ tại nước ngoài của Trung Quốc (CNH)</h3>
+<p dir="ltr">Đồng Nhân dân tệ nước ngoài của Trung Quốc (USDCNH) đã suy yếu do thị trường quan ngại về căng thẳng thương mại tiềm ẩn. Chính quyền trước đây của Trump từng thực hiện chính sách tăng thuế đối với Trung Quốc. Với sự kiện ông tái đắc cử, nhiều khả năng ông sẽ thể hiện lập trường cứng rắn hơn – bao gồm kế hoạch đánh mức thuế 60% đối với hàng hóa Trung Quốc.</p>
+<p dir="ltr">Do đó, các nhà giao dịch Forex có thể tìm thấy cơ hội giao dịch cặp USD/CNH bằng cách đặt cược vào khả năng suy yếu mạnh hơn của đồng Nhân dân tệ, bắt nguồn từ căng thẳng chiến tranh thương mại leo thang giữa Mỹ và Trung Quốc.</p>
+<p dir="ltr">Giao dịch các cặp tiền chính: AUD/USD và USD/CNY</p>
+<ol class="no-markers">
+<li dir="ltr">
+<p dir="ltr">USD/CNH: Với các chính sách thương mại của Trump và rủi ro chiến tranh thương mại mà Trung Quốc đang phải đối mặt, cặp tiền USD/CNH có thể trở thành chỉ số quan trọng nhất để theo dõi trực tiếp sức mạnh của USD. Chiến lược thuế quan và lập trường bảo hộ của Trump có thể gây áp lực giảm đáng kể lên đồng Nhân dân tệ Trung Quốc (CNH), đồng thời thúc đẩy nhu cầu về Đô la Mỹ (USD). Các nhà giao dịch Forex có thể tận dụng những biến động tiền tệ này và ưu tiên giao dịch cặp USD/CNH.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">AUD/USD: Một giao dịch khác có thể đại diện cho thị trường là cặp AUD/USD, với Đô la Úc (AUD) thường đóng vai trò là đồng tiền thanh khoản chính cho đồng Nhân dân tệ tại nước ngoài của Trung Quốc (CNH). Sự phụ thuộc lớn của Úc vào hoạt động xuất khẩu sang Trung Quốc – đặc biệt là các mặt hàng như quặng sắt, than đá và khí đốt tự nhiên – hàm ý rằng những thay đổi trong triển vọng kinh tế của Trung Quốc có thể tác động đáng kể đến đồng AUD. Khi căng thẳng thương mại giữa Mỹ và Trung Quốc gia tăng, AUD thường phản ứng song song với CNY, vì cả hai đồng tiền đều chịu ảnh hưởng của môi trường thương mại và thị trường hàng hóa toàn cầu.</p>
+</li>
+</ol>
+<p dir="ltr">Do đó, nếu các chính sách kinh tế của Trump làm gia tăng biến động trong quan hệ Mỹ-Trung Quốc, cặp AUD/USD cũng có thể trải qua biến động mạnh mẽ hơn. Ngoài ra, nếu chính quyền Trump tập trung vào kế hoạch thúc đẩy sản xuất năng lượng trong nước, đồng đô la Úc có thể được hưởng lợi từ hệ quả giá hàng hóa toàn cầu tăng, từ đó tiếp tục ảnh hưởng đến động lực giao dịch cặp AUD/USD.</p>
+<ol class="no-markers" start="2">
+<li dir="ltr">
+<h2 dir="ltr">Tác động đến thị trường chứng khoán: Chương trình nghị sự ủng hộ doanh nghiệp của Trump ảnh hưởng tích cực đến thị trường cổ phiếu Mỹ</h2>
+</li>
+</ol>
+<p dir="ltr">Sau chiến thắng bầu cử của Trump, thị trường <a href="https://www.atfx.com/vi/markets/shares-trading" target="_blank" rel="noopener">cổ phiếu Mỹ </a>đã tăng nhờ tâm lý lạc quan về các chính sách có lợi cho doanh nghiệp của ông. Các lĩnh vực chính như năng lượng, công nghệ và tài chính có thể được hưởng lợi nhiều nhất. Sự kết hợp của hành động bãi bỏ quy định, cắt giảm thuế và tập trung vào sản xuất năng lượng trong nước là nền tảng chủ đạo cho tâm lý lạc quan này.</p>
+<h3 dir="ltr">Thị trường cổ phiếu Mỹ tăng vọt</h3>
+<p dir="ltr">Thị trường chứng khoán Mỹ – bao gồm <a href="https://www.atfx.com/vi/live-chart/sp500" target="_blank" rel="noopener">S&amp;P 500 </a>, <a href="https://www.atfx.com/vi/live-chart/dow-jones" target="_blank" rel="noopener">Dow Jones</a> và <a href="https://www.atfx.com/vi/live-chart/nasdaq100" target="_blank" rel="noopener">Nasdaq </a>– đã phản ứng tích cực với chiến thắng của Trump khi chứng kiến các <a href="https://www.atfx.com/vi/markets/indices-trading" target="_blank" rel="noopener">chỉ số </a>tăng lên đỉnh cao mới. Đà phục hồi đặc biệt đáng chú ý ở các lĩnh vực được hưởng lợi từ các chính sách của Trump. Cổ phiếu năng lượng (đặc biệt là dầu khí) và cổ phiếu công nghệ đang dẫn đầu, do các nhà đầu tư đặt kỳ vọng vào một môi trường thuận lợi cho các ngành công nghiệp này.</p>
+<h3 dir="ltr">Ngành năng lượng được tiếp sức</h3>
+<p dir="ltr">Sự ủng hộ của Trump đối với ngành công nghiệp nhiên liệu hóa thạch được thể hiện qua khẩu hiệu chiến dịch &#8220;khoan, hãy tiếp tục khoan&#8221; của ông, bao gồm dầu và khí đốt tự nhiên, đã tác động tích cực đến các công ty như ExxonMobil và Chevron sau cuộc bầu cử. Động thái của chính quyền Trump nhằm xóa bỏ các hạn chế đối với sản xuất dầu khí trong nước và bãi bỏ các quy định về môi trường đã tạo điều kiện kinh doanh thuận lợi hơn cho các công ty năng lượng. Với trọng tâm là ủng hộ ngành năng lượng độc lập và giảm thiểu rào cản về quy định, nhóm cổ phiếu năng lượng được dự đoán sẽ ghi nhận mức tăng trưởng đáng kể, cải thiện lợi nhuận và mở rộng khả năng tiếp cận các nguồn tài nguyên trong nước.</p>
+<h3 dir="ltr">Ngành công nghệ chứng kiến tăng trưởng</h3>
+<p dir="ltr">Giá cổ phiếu của Tesla đã tăng vọt khi các nhà đầu tư đặt cược vào triển vọng sáng lạn của công ty sau khi Donald Trump quay trở lại Nhà Trắng. Tâm lý lạc quan đến từ kỳ vọng giảm thiểu cạnh tranh từ các nhà sản xuất xe điện nhỏ hơn và hàng rào thuế quan cao hơn đối với hàng nhập khẩu từ Trung Quốc – điều này có thể mang lại lợi thế cho Tesla. Các chính sách có lợi cho doanh nghiệp của Trump, chẳng hạn như bãi bỏ quy định và cắt giảm thuế, cũng được coi là có lợi cho các công ty công nghệ khổng lồ, giúp nâng cao lợi nhuận và khuyến khích tái đầu tư vào đổi mới sáng tạo. Cụ thể, Tesla có thể hưởng lợi từ việc nới lỏng các quy định liên quan đến xe điện và năng lượng tái tạo.</p>
+<h3 dir="ltr">Ngành tài chính thăng hoa</h3>
+<p dir="ltr">Cổ phiếu của JPMorgan Chase, Goldman Sachs và Bank of America đã tăng giá đáng kể, cùng với các chỉ số chung của nhóm cổ phiếu ngân hàng sau chiến thắng của Trump. Các ngân hàng khu vực cũng ghi nhận mức tăng trưởng đáng kể khi các nhà đầu tư đặt kỳ vọng vào một môi trường pháp lý thuận lợi hơn cho lĩnh vực tài chính. Lập trường bãi bỏ các quy định của Trump được coi là động lực cho các tổ chức tài chính lớn, vì quy định ít hơn sẽ cho phép các ngân hàng chấp nhận nhiều rủi ro hơn và tăng trưởng tín dụng. Ngoài ra, kế hoạch cắt giảm thuế sẽ càng hỗ trợ thêm cho triển vọng lợi nhuận, giúp các ngân hàng này hoạt động cạnh tranh và hiệu quả hơn.</p>
+<p dir="ltr"><a href="https://www.atfx.com/vi/trading-accounts/live-account" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="aligncenter wp-image-25070 size-full" src="https://www.atfx.com/wp-content/uploads/2023/10/live-account-vietnam.webp" alt="live account vietnam" width="825" height="206" srcset="https://www.atfx.com/wp-content/uploads/2023/10/live-account-vietnam.webp 825w, https://www.atfx.com/wp-content/uploads/2023/10/live-account-vietnam-300x75.webp 300w, https://www.atfx.com/wp-content/uploads/2023/10/live-account-vietnam-768x192.webp 768w" sizes="(max-width: 825px) 100vw, 825px" /></a></p>
+<ol class="no-markers" start="3">
+<li dir="ltr">
+<h2 dir="ltr">Tác động đến các chỉ số: Thị trường Mỹ vượt trội hơn các chỉ số toàn cầu</h2>
+</li>
+</ol>
+<p dir="ltr">Trong khi thị trường cổ phiếu Mỹ phản ứng tích cực đối với chiến thắng của Trump, thị trường tài chính toàn cầu đang phải đối mặt với những trở ngại. Tác động của chính sách thương mại của Trump – đặc biệt là lập trường của ông về thương mại và thuế quan – có thể ảnh hưởng đến các thị trường ngoài Mỹ, đặc biệt là ở Châu Âu, Trung Quốc và Nhật Bản.</p>
+<h3 dir="ltr">Chỉ số của Mỹ so với chỉ số toàn cầu</h3>
+<p dir="ltr">Khi Trump đẩy mạnh các chính sách &#8220;Nước Mỹ trên hết&#8221;, thị trường cổ phiếu Mỹ dự kiến ​​sẽ có hiệu suất vượt trội hơn các chỉ số toàn cầu trong ngắn hạn đến trung hạn – được hỗ trợ bởi tâm lý lạc quan nhờ chính sách cắt giảm thuế, bãi bỏ quy định và tăng chi tiêu cho cơ sở hạ tầng. Tuy nhiên, các thị trường châu Âu và châu Á – vốn dễ bị tổn thương hơn trước cuộc chiến tranh thương mại Mỹ-Trung Quốc hoặc thuế quan cao hơn – có thể tụt lại phía sau. Các quốc gia phụ thuộc vào xuất khẩu của Mỹ hoặc chuỗi cung ứng toàn cầu có thể phải đối mặt với tốc độ tăng trưởng chậm hơn, do đó thúc đẩy các nhà đầu tư tìm kiếm sự an toàn trong các tài sản của Mỹ. Điều này có thể thúc đẩy nhu cầu đối với cổ phiếu Mỹ và đồng đô la, vì các chính sách của Trump gây ra phản ứng trái chiều trên toàn cầu.</p>
+<ol class="no-markers" start="4">
+<li dir="ltr">
+<h2 dir="ltr">Căng thẳng chiến tranh thương mại đến từ Trump</h2>
+</li>
+</ol>
+<p dir="ltr">Một trong những rủi ro lớn nhất trên thị trường toàn cầu là khả năng xảy ra một cuộc chiến tranh thương mại mới, đặc biệt là giữa Mỹ và Trung Quốc. Các chính sách thương mại hung hăng của Trump, bao gồm áp dụng thuế quan trên diện rộng đối với hàng hóa nước ngoài, có thể làm gia tăng căng thẳng với cả Trung Quốc và EU. Đề xuất áp thuế từ 10% đến 20% đối với tất cả hàng nhập khẩu, kết hợp với các mục tiêu nhắm đến cụ thể như ô tô, có thể làm gián đoạn chuỗi cung ứng toàn cầu, khiến lạm phát gia tăng và làm chậm tốc độ tăng trưởng kinh tế.</p>
+<p dir="ltr">Nếu Trump thực hiện mức thuế 60% đối với hàng hóa nhập khẩu từ Trung Quốc, Trung Quốc có thể sẽ áp thuế trả đũa, tạo ra sự biến động trên khắp các thị trường toàn cầu. Điều này sẽ đặc biệt ảnh hưởng đến các thị trường mới nổi như Mexico, Hàn Quốc và Brazil – những thị trường phụ thuộc nhiều vào thương mại với Mỹ và Trung Quốc. EU cũng dễ bị tổn thương trước chính sách thuế quan của Mỹ, và nó có thể kéo EU vào một cuộc xung đột thương mại có tầm vóc lớn.</p>
+<p dir="ltr">Nước Anh hậu Brexit đã phải đối mặt với những lựa chọn khó khăn để tìm cách vượt qua những rủi ro này, do mối quan hệ chặt chẽ của nước này với EU và nguy cơ bị cuốn vào cuộc chiến. Chủ nghĩa bảo hộ lớn mạnh hơn có thể làm cho thị trường toàn cầu mất ổn định, gây tổn hại đến các nền kinh tế nhỏ hơn và sinh ra rủi ro nghiêm trọng cho sự ổn định kinh tế toàn cầu.</p>
+<ol class="no-markers" start="5">
+<li dir="ltr">
+<h2 dir="ltr">Cơ hội giao dịch và rủi ro đối với nhà đầu tư</h2>
+</li>
+</ol>
+<p dir="ltr">Trong khi triển vọng ngắn hạn của thị trường cổ phiếu Mỹ và đồng đô la là tích cực, rủi ro dài hạn vẫn còn tồn tại, đặc biệt là liên quan đến yếu tố lạm phát, nợ công tăng và bất ổn thương mại toàn cầu. Các chính sách ủng hộ doanh nghiệp của Trump có thể thúc đẩy kinh tế trong ngắn hạn, nhưng những tác động dài hạn của các cuộc chiến tranh thương mại và chính sách tài khóa của ông vẫn chưa thể khẳng định chắc chắn.</p>
+<h3 dir="ltr">Trump bãi bỏ quy định</h3>
+<p dir="ltr">Việc Trump liên tục thúc đẩy kế hoạch bãi bỏ quy định trong các lĩnh vực quan trọng – đặc biệt là năng lượng, tài chính và công nghệ – sẽ tạo ra những cơ hội tăng trưởng và đổi mới sáng tạo. Bằng cách giảm bớt rào cản hành chính và cho phép các doanh nghiệp có sự linh hoạt hơn trong hoạt động, chính sách bãi bỏ quy định có thể giúp giảm chi phí tuân thủ, nâng cao năng suất và kích thích đầu tư. Các công ty trong những lĩnh vực như dầu khí, dịch vụ tài chính và công nghệ có thể chứng kiến sự cải thiện đáng kể về lợi nhuận, từ đó thúc đẩy hiệu suất thị trường chứng khoán Mỹ trong thời gian tới. Môi trường này cũng có thể thu hút các nhà đầu tư nước ngoài đang tìm kiếm một môi trường thân thiện với doanh nghiệp tại Mỹ. Tuy nhiên, tính bền vững lâu dài của những lợi ích này phụ thuộc vào việc liệu chính sách bãi bỏ quy định có dẫn đến hậu quả tiêu cực không lường trước được hay không, chẳng hạn như rủi ro về môi trường hoặc hệ thống tài chính.</p>
+<h3 dir="ltr">Rủi ro nợ công và lạm phát</h3>
+<p dir="ltr">Nợ quốc gia của Mỹ vẫn là mối quan tâm ngày càng thu hút sự chú ý dưới thời chính quyền Trump. Đề xuất cắt giảm thuế và tăng chi tiêu quốc phòng của ông có thể khiến thâm hụt ngân sách trầm trọng thêm, từ đó gây áp lực đẩy lãi suất lên cao hơn. Ngoài ra, sự kết hợp giữa chính sách tăng chi tiêu chính phủ và chủ nghĩa bảo hộ gia tăng, bao gồm thuế quan đối với hàng nhập khẩu từ Trung Quốc và các đối tác thương mại khác, có thể khiến người tiêu dùng và doanh nghiệp Mỹ phải chịu mức chi phí lớn hơn. Lạm phát tăng tốc làm xói mòn sức mua và làm giảm chi tiêu của người tiêu dùng, và điều này sẽ gây ra hậu quả tiêu cực cho tăng trưởng kinh tế. Lạm phát cao hơn cũng có thể dẫn đến hành động thắt chặt chính sách tiền tệ của Cục Dự trữ Liên bang, từ đó làm chậm đà tăng của thị trường chứng khoán và tăng chi phí đi vay.</p>
+<h2 dir="ltr">Kết luận: Tâm lý lạc quan trong thời kỳ bất ổn</h2>
+<p dir="ltr">Chiến thắng trong cuộc bầu cử năm 2024 của Donald Trump đã dẫn đến động thái tăng giá mạnh mẽ của thị trường chứng khoán Mỹ và đồng đô la Mỹ, được hỗ trợ bởi kỳ vọng về chính sách cắt giảm thuế, bãi bỏ quy định và chương trình nghị sự có lợi cho doanh nghiệp – bao gồm mục tiêu ngành năng lượng độc lập. Các lĩnh vực chính như năng lượng, công nghệ và tài chính dự kiến ​​sẽ tăng trưởng trong ngắn hạn, trong khi thị trường toàn cầu phải đối mặt với rủi ro từ các cuộc chiến tranh thương mại tiềm ẩn, hàng rào thuế quan và căng thẳng địa chính trị.</p>
+<p dir="ltr">Bất chấp tâm lý lạc quan trên thị trường Mỹ, mối lo ngại về lạm phát gia tăng, nợ công và tính ổn định của nền kinh tế trong dài hạn vẫn còn tồn tại. Các nhà đầu tư cần duy trì thái độ tích cực nhưng thận trọng, cân bằng các cơ hội thị trường ngắn hạn với rủi ro biến động và bất ổn trong nền kinh tế nói chung.</p>
+<p dir="ltr"><a href="https://www.atfx.com/vi/trading-accounts/demo-account" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="aligncenter wp-image-25069 size-full" src="https://www.atfx.com/wp-content/uploads/2023/10/demo-account-vietnam.webp" alt="demo account vietnam" width="825" height="206" srcset="https://www.atfx.com/wp-content/uploads/2023/10/demo-account-vietnam.webp 825w, https://www.atfx.com/wp-content/uploads/2023/10/demo-account-vietnam-300x75.webp 300w, https://www.atfx.com/wp-content/uploads/2023/10/demo-account-vietnam-768x192.webp 768w" sizes="(max-width: 825px) 100vw, 825px" /></a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>4 kiểu mô hình đồ thị trong giao dịch &#124; Tại sao chúng lại quan trọng? </title>
+		<link>https://www.atfx.com/vi/analysis/trading-strategies/4-trading-chart-patterns-why-important</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Thu, 24 Aug 2023 06:34:15 +0000</pubDate>
+				<category><![CDATA[Chiến lược Giao dịch của bạn]]></category>
+		<category><![CDATA[Chiến lược cho người ít kinh nghiệm]]></category>
+		<guid isPermaLink="false">https://lptemplatedev.wpengine.com/uncategorized/4-trading-chart-patterns-why-important-2</guid>
+
+					<description><![CDATA[Các mô hình đồ thị giao dịch là công cụ được sử dụng trong phân tích kỹ thuật.&#160; Một số nhà giao dịch sẽ sử dụng các chỉ báo hoặc các bộ dao động. Một số khác lại thích tập trung phân tích về giá. Điều rõ ràng là những mô hình này chỉ ra [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Các mô hình đồ thị giao dịch là công cụ được sử dụng trong phân tích kỹ thuật.&nbsp;</p>
+<p><span id="more-23212"></span></p>
+<p>Một số nhà giao dịch sẽ sử dụng các chỉ báo hoặc các bộ dao động. Một số khác lại thích tập trung phân tích về giá.</p>
+<p>Điều rõ ràng là những mô hình này chỉ ra điều gì đó cụ thể: xu hướng của đồ thị, mục tiêu giá, v.v.</p>
+<p>Chúng ta hãy cùng xem có những mô hình đồ thị nào và chúng được sử dụng ra sao. Bạn đã sẵn sàng chưa nào?</p>
+<p><strong>mục lục</strong></p>
+<p><a href="#trading-chart-patterns" rel="noopener">Tổng quan về mô hình đồ thị giao dịch</a></p>
+<p><a href="#type-of-trading-chart-patterns" rel="noopener">2 mô hình đồ thị giao dịch phổ biến</a></p>
+<p><a href="#other-chart-patterns" rel="noopener">Các mô hình đồ thị khác</a></p>
+<p><a href="#importance-of-trading-with-patterns" rel="noopener">Tầm quan trọng của các mô hình trong giao dịch</a></p>
+<p><a href="#summary" rel="noopener">Kết luận</a></p>
+<p><a id="trading-chart-patterns" data-hs-anchor="true"></a></p>
+<h2>Tổng quan về mô hình đồ thị giao dịch</h2>
+<p>Khi bắt đầu tham gia thế giới giao dịch, chúng ta học được rằng có những công cụ nhất định sẽ giúp ta phát hiện trước chuyển động giá. Nhờ đó, chúng ta có thể có sự chuẩn bị và đưa ra hành động phù hợp.</p>
+<p>Vậy các mô hình đồ thị thì sao?</p>
+<p>Đúng như tên gọi, các công cụ này là những hình mẫu trên đồ thị, dựa trên diễn biến giá trong lịch sử.</p>
+<p>Chúng ta đều đã biết những mô hình kinh điển như vai-đầu-vai hoặc nến Nhật. Nhưng chỉ mô hình không là chưa đủ. Bạn cần xem những tình huống thuận lợi cho mình thay vì chỉ riêng các mô hình.&nbsp;</p>
+<p><a id="type-of-trading-chart-patterns" data-hs-anchor="true"></a></p>
+<h2>2 mô hình đồ thị giao dịch phổ biến &nbsp;</h2>
+<p>Mô hình đồ họa có 2 kiểu.</p>
+<p>Đúng vậy, bạn không đọc nhầm đâu.&nbsp;</p>
+<p>Có 2 mô hình: mô hình đảo chiều và mô hình tiếp diễn.&nbsp;</p>
+<p>Sau đây là sự khác biệt giữa chúng.&nbsp;</p>
+<ul>
+<li>Mô hình đảo chiều báo trước sự thay đổi về xu hướng trên đồ thị. Mô hình đảo chiều cho thấy khả năng giá giảm khi chúng ta đang có đồ thị tăng. Những mô hình cảnh báo đảo chiều phổ biến là mô hình Vai Đầu Vai, mô hình Nêm, mô hình W hoặc mô hình Hai đỉnh.</li>
+</ul>
+<ul>
+<li>Mô hình tiếp diễn cho thấy khả năng giá tiếp tục đi theo xu hướng hiện tại. Nói cách khác, trong xu hướng tăng, mô hình tiếp diễn cho thấy khả năng tiếp tục của xu hướng tăng đó. Chúng tương đối thông dụng. Nổi bật trong số các mô hình này là mô hình Tam giác hoặc Lá cờ.&nbsp;</li>
+</ul>
+<h3>1. Mô hình đồ thị đảo chiều&nbsp;</h3>
+<p>Chiều của xu hướng là yếu tố quyết định khi nhìn vào đồ thị.</p>
+<p>Hãy cùng thảo luận chi tiết hơn về một số mô hình báo hiệu sự thay đổi xu hướng:&nbsp;</p>
+<ul>
+<li>
+<h4>Mô hình Vai-Đầu-Vai ( VĐV )</h4>
+<h4><span style="font-size: 11px;color: #000000"><img loading="lazy" decoding="async" src="https://lh5.googleusercontent.com/kBdafG5Uog7EP0bOEIMD3LuSgoRxmeUJsU8yhtv5T3RvNerjPH0uumunzW25LWUvixRzzgGgvzblCXlrQ6M9l3VvqWOn9o7HuTpa7Mi8538lQ-h2mZqZNWR-BoDyniuhnoNLxZAxZKOHKYlJBsR0NAo" width="270" height="270" loading="lazy" style="width: 270px;height: auto;max-width: 100%"></span></h4>
+</li>
+</ul>
+<p>Mô hình này thường xuất hiện vào cuối chu kỳ tăng và báo hiệu thị trường có thể thay đổi hướng đi. Nó được tạo thành bởi 3 cực đại tương đối.</p>
+<ul>
+<li>
+<h4>Nêm</h4>
+<h4><span style="font-size: 14px;color: #434343"><img loading="lazy" decoding="async" src="https://lh5.googleusercontent.com/rp59cTOjzAYu6pBFslpjJaKfhNYSnyC5HS-O_BQ9gr4tl_ZZp_Q4jCsdh0sBZqqo4pZhijuDPjOfbOJJKUqOadCeoqo_lhnhVVjfD1OUa5FuBaPmA1tAheQmRbErqI-sZnFHtT9YtM93iqGgGO6PG98" width="279" height="279" loading="lazy" style="width: 279px;height: auto;max-width: 100%"></span></h4>
+</li>
+</ul>
+<p>Mô hình này cũng báo hiệu sự thay đổi xu hướng trên thị trường. Mô hình này có thể xuất hiện ở bất kỳ khung thời gian nào, dù là ngày, tuần hay tháng.</p>
+<ul>
+<li>
+<h4>Hai đỉnh và hai đáy ( mô hình W )</h4>
+<h4><span style="font-size: 11px;color: #000000"><img loading="lazy" decoding="async" src="https://lh3.googleusercontent.com/ewuzeFyA8FOK4t1AB3r1k4E1BE9_HCgHEICqMX9ZIBSuwjnRTyLli03A1fnHMwM1HM2e45r4BQ1G9C11yKRdA-6bfesw3XKh23_wAnDz4upa1CR6vuaIW4qZLs4d4iEix2LX2O2Fx7J_qG_K-BeyK50" width="301" height="301" loading="lazy" style="width: 301px;height: auto;max-width: 100%"></span></h4>
+</li>
+</ul>
+<p>Các mô hình này tương tự như các mô hình ở trên, nhưng ở hai chiều ngược nhau. Cả hai đều là những mô hình đảo chiều kinh điển báo hiệu khả năng đảo chiều xu hướng ( hai đỉnh – tăng thành giảm; hai đáy – giảm thành tăng).&nbsp;</p>
+<h3>2. Các mô hình tiếp diễn&nbsp;</h3>
+<p>Các mô hình tiếp diễn cho thấy sự tích lũy trong xu hướng. Chúng thường tồn tại trong thời gian ngắn.</p>
+<p>Hãy cùng xem một số mô hình:&nbsp;</p>
+<ul>
+<li>
+<h4>Tam giác</h4>
+<h4><span style="font-size: 11px;color: #000000"><img loading="lazy" decoding="async" src="https://lh3.googleusercontent.com/nn5RqtdNHA7mn4TWQAYTh-zpylO3h2iwTswT3A9cv5M-XDsXtQy6XnzVA9xrg3B0aRIsW-ZPqoGRySEquH1lWlfWzYr0z8nhxbPP6E44q7er_oGRfVFzXTCGqSt0RKgYv9hFg5VeOYP8XVNeapeqEkw" width="223" height="223" loading="lazy" style="width: 223px;height: auto;max-width: 100%"></span></h4>
+</li>
+</ul>
+<p>Chúng có thể cho thấy nhiều dữ liệu về tình hình thị trường hiện tại và sự không thống nhất giữa các cá mập và cá con. Tam giác thường xuất hiện giữa xu hướng và báo hiệu sự tiếp diễn của xu hướng đó.</p>
+<ul>
+<li>
+<h4>Lá cờ</h4>
+<h4><span style="font-size: 11px;color: #000000"><img loading="lazy" decoding="async" src="https://lh4.googleusercontent.com/EZK9UpuMS_PgoKl4SWURZKG_RMmOMRcwcYcbu4x5_mDDjLYbYgsmw-OtUxbxQgji93vbnGb_Tb_Ksl63wIWJeP6zMDiHknPrERP_Y0Iu7es4DvM9QGuWlPU_fscfgbKjmYNqLL66JDP6nNALfBWSs2Q" width="208" height="208" loading="lazy" style="width: 208px;height: auto;max-width: 100%;margin-top: 0px;margin-bottom: 10px"></span></h4>
+</li>
+</ul>
+<p>Chúng thường xuất hiện khi thị trường đang trong xu hướng tăng hoặc giảm. Đây là một mô hình tiếp diễn vì nó báo hiệu xu hướng sẽ tiếp tục. Thông thường, những lá cờ này hình thành sau một giai đoạn giá có xu hướng mạnh.</p>
+<p><a id="other-chart-patterns" data-hs-anchor="true"></a></p>
+<h2>Các mô hình đồ thị khác&nbsp;</h2>
+<p>Chúng ta cũng sẽ có hình ảnh hoặc mô hình từ những yếu tố khác.&nbsp;</p>
+<p>Hãy hiểu rằng một số công cụ cũng cho thấy xu hướng hoặc sự tiếp diễn của giá trên đồ thị.</p>
+<p>Hãy xem những ví dụ sau và sử dụng chúng trong phân tích kỹ thuật nhé!</p>
+<h3>1. Mô hình nến</h3>
+<p>Phân tích nến Nhật là một điều rất phổ biến trong giao dịch.</p>
+<p>Sẽ chỉ có 2 mô hình nến: mô hình đảo chiều và mô hình tiếp diễn.</p>
+<h3><span style="font-size: 11px;color: #000000"><img loading="lazy" decoding="async" src="https://lh3.googleusercontent.com/vgwyt9XoVnASwg7LX39I6hch-hIMjoNS5g8-0GKqxLSOSZr7g2M0EnUDeDaZ0iSYbaSAZ5Z5Sc5GQ_0m7mHH1j6qISfK-GiC-PFwVgg8D-4JWR5CcSdXi5PfqELDRdyhmVTfHcndQ77Q3lZ_i9i41AU" width="256" height="256" loading="lazy"></span></h3>
+<p>Chúng thể hiện điều gì?</p>
+<p>Đảo chiều là những mô hình mà giá sẽ quay ngược lại. Nói cách khác, nó là cách giá chuyển từ tăng thành giảm hoặc ngược lại sau một hoặc nhiều nến.</p>
+<p>Mặt khác, mô hình tiếp diễn đi liền với sự bứt phá trong xu hướng hiện tại. Giá thường đi ngang trong một khoảng thời gian hoặc giảm nhẹ. Hãy<span>&nbsp;</span><a href="/vi/analysis/trading-strategies/how-forex-traders-use-candlestick-charts-to-analyze-forex-trends?__hstc=45788219.71dddad6ab525dd717f3744dc1368cac.1692844889163.1692844889163.1692844889163.1&amp;__hssc=45788219.1.1692844889163&amp;__hsfp=3106923833" rel="noopener" target="_blank">tìm hiểu cách các nhà giao dịch Forex sử dụng đồ thị nến để phân tích xu hướng.</a></p>
+<h3>2. Mô hình xu hướng</h3>
+<p>Giá có di chuyển theo xu hướng không?</p>
+<p>Câu trả lời là có.&nbsp;</p>
+<p><span style="font-size: 11px;color: #000000"><img loading="lazy" decoding="async" src="https://lh5.googleusercontent.com/aenoyVgwKnG0WYIaUJMi52KCpNZnESa45E9zRW3TGD9qxqe6gjCVFitycOtHqRbvWWW1ZhultqQWTVvEWL3mC8CgwEHNVotYxAkmv3Rtsost7_u1lm5D5QwEqApEHPAeaGLLWue5yZqjgu61Rnur4Sw" width="181" height="204" loading="lazy" style="margin-top: 10px;margin-bottom: 10px;width: 181px;height: auto;max-width: 100%"></span></p>
+<p>Các mô hình xu hướng là những công cụ phân tích kỹ thuật đắc lực. Chúng giúp chúng ta xác định hướng của thị trường và các mức hỗ trợ, kháng cự.</p>
+<p>Hãy cùng xem một số kiểu đường xu hướng :</p>
+<ul>
+<li>Đường xu hướng lành mạnh.&nbsp;</li>
+<li>Đường xu hướng tăng.&nbsp;</li>
+<li>Đường xu hướng giảm.&nbsp;</li>
+<li>Đường xu hướng suy yếu.&nbsp;</li>
+<li>Đường xu hướng Parabol.&nbsp;</li>
+</ul>
+<p>Nếu bạn muốn tìm hiểu thêm về từng kiểu xu hướng, hãy xem bài viết đầy đủ tại đây.&nbsp;</p>
+<p>Tuy nhiên, bạn cần lưu ý rằng xu hướng cho thấy sự tiến lên của giá. Và giá biến động liên tục. Vì vậy, xu hướng thực vẫn luôn có sự dao động.</p>
+<p><span style="font-size: 11px;color: #000000"><img loading="lazy" decoding="async" src="https://lh6.googleusercontent.com/W12sLqmCcrLjZ8FTqusWORP67zwLw5YuGbO4O6venPzigJVWqjnkdZIg97_OILvHFXEML7QiRJy8-s40V2RaVRWvTRkg1JaU2w15IKPlaCeXGGRaeHw0pCjRp6Wh2irALVVQu2OWf0t1YTraKyX7Z3U" width="451" height="430" loading="lazy" style="margin-left: auto;margin-right: auto;width: 451px;height: auto;max-width: 100%"></span></p>
+<p><a id="importance-of-trading-with-patterns" data-hs-anchor="true"></a></p>
+<h2>Tầm quan trọng của các mô hình trong giao dịch</h2>
+<p>Như chúng tôi đã đề cập trong suốt bài viết, các mô hình là một dạng kiến thức nền tảng mà bạn cần biết trước khi bắt đầu giao dịch.&nbsp;</p>
+<p>Chúng tôi không nghi ngờ gì về việc chúng có thể giúp bạn vào một thời điểm nhất định, nhưng điều đó không có nghĩa là chúng tôi thích chúng.</p>
+<p>Trên nhiều trang blog trên mạng, các mô hình được coi là chiến lược hoàn hảo trong giao dịch, nhưng sự thực không phải vậy.</p>
+<p>Bạn cần phải xem xét cả bối cảnh thay vì nghĩ rằng các công thức sẽ mang đến tất cả số tiền bạn cần.</p>
+<p>Chúng tôi không bán cho bạn con cá mà chúng tôi cung cấp cho bạn chiếc cần câu. Việc sử dụng mô hình để nhận diện sự đảo chiều xu hướng cũng tốt thôi, nhưng đừng chỉ dùng mỗi chúng để đưa ra quyết định.</p>
+<p>Thay vào đó, chúng ta nên kết hợp chúng với các chỉ báo kỹ thuật khác để xác nhận diễn biến giá mà bạn nghĩ hoặc để phủ định giả thuyết của bạn.</p>
+<p>Các chỉ báo như Stochastic, chỉ số Force Index hoặc MACD có thể giúp bạn cải thiện đáng kể độ chính xác khi ra quyết định mua hoặc bán.&nbsp;</p>
+<p><a id="summary" data-hs-anchor="true"></a></p>
+<h2>Kết luận</h2>
+<p>Phân tích kỹ thuật được sử dụng để nghiên cứu các cơ hội trên thị trường và xác định thời điểm vào, thoát và nói chung là quản lý các vị thế.</p>
+<p>Hiện có vô số<span>&nbsp;</span><a href="/vi/trading-platforms/metatrader-4/mt4-indicators?__hstc=45788219.71dddad6ab525dd717f3744dc1368cac.1692844889163.1692844889163.1692844889163.1&amp;__hssc=45788219.1.1692844889163&amp;__hsfp=3106923833" rel="noopener" target="_blank">chỉ báo mt4</a><span>&nbsp;</span>miễn phí để bạn sử dụng, bên cạnh đó là những mô hình, kỹ thuật và hệ thống giao dịch dễ nhận biết. Điều quan trọng là bạn cần học cách nhận diện những mô hình đồ thị giao dịch thường gặp trước khi đầu tư bằng tiền thật.</p>
+<p>ATFX cung cấp tất cả các sản phẩm tài chính lớn trên một nền tảng giao dịch cực kỳ thực tế. Nếu bạn muốn tìm hiểu thêm về các thị trường trước khi đầu tư tiền thật, bạn có thể<span>&nbsp;</span><a href="/vi/trading-accounts/demo-account?__hstc=45788219.71dddad6ab525dd717f3744dc1368cac.1692844889163.1692844889163.1692844889163.1&amp;__hssc=45788219.1.1692844889163&amp;__hsfp=3106923833" rel="noopener" target="_blank">mở tài khoản demo</a><span>&nbsp;</span>và thực hành các chiến lược khác nhau, đồng thời học trong hướng dẫn hoặc các tài liệu đào tạo miễn phí mà ATFX cung cấp. Hãy đăng ký ngay thôi!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Bạc có phải là một khoản đầu tư tốt không? 5 ưu và nhược điểm của đầu tư bạc</title>
+		<link>https://www.atfx.com/vi/analysis/trading-strategies/is-silver-a-good-investment-5-pros-cons-of-silver-investment</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Thu, 29 Dec 2022 06:00:00 +0000</pubDate>
+				<category><![CDATA[Chiến lược Giao dịch của bạn]]></category>
+		<category><![CDATA[Chiến lược cho người ít kinh nghiệm]]></category>
+		<guid isPermaLink="false">https://lptemplatedev.wpengine.com/uncategorized/is-silver-a-good-investment-5-pros-cons-of-silver-investment-2</guid>
+
+					<description><![CDATA[Các nhà đầu tư kim loại quý rất có thể đã tha hồ lựa chọn khi quyết định xem kim loại nào là tốt nhất để đầu tư vào bất kỳ thời điểm nào. Nhiều người thắc mắc bạc và vàng nào là lựa chọn phù hợp với khẩu vị rủi ro, điều kiện kinh [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p style="line-height: 2;text-align: justify">Các nhà đầu tư kim loại quý rất có thể đã tha hồ lựa chọn khi quyết định xem kim loại nào là tốt nhất để đầu tư vào bất kỳ thời điểm nào. Nhiều người thắc mắc bạc và vàng nào là lựa chọn phù hợp với khẩu vị rủi ro, điều kiện kinh tế hiện tại hoặc khung thời gian đầu tư. Bạc thường bị bỏ qua khi đưa ra những quyết định quan trọng như vậy, nhưng trong lịch sử, nó là kim loại quý có giá phải chăng nhất. Tuy nhiên, nó có giá trị xuyên suốt nền văn minh. Tuy nhiên, vào năm 2022, bạc có phải là một khoản đầu tư tốt không? Với những bất ổn kinh tế hiện nay, tôi có nên đầu tư vào bạc bây giờ không?</p>
+<p><span id="more-11224"></span></p>
+<p style="line-height: 2;text-align: justify">Từ quan điểm của người tiêu dùng, bạc có thể trông giống như một tài sản có giá trị, nhưng từ quan điểm của nhà đầu tư, có nhiều biến số phát huy tác dụng. Đầu tư bạc có những ưu và nhược điểm mà một người mới đầu tư không thể bỏ qua. Đây là một số cân nhắc trong tầm tay của bạn trước khi đầu tư vào bạc.</p>
+<p style="line-height: 2;text-align: justify"><span style="font-size: 11px;color: #000000"><img loading="lazy" decoding="async" src="https://www.atfx.com/hubfs/Silver%20A%20Good%20Investment.webp" alt="Silver A Good Investment" width="940" height="483" loading="lazy" style="height: auto;max-width: 100%;width: 940px"></span></p>
+<h2 style="line-height: 2;text-align: justify"><strong>5 ưu điểm của đầu tư bạc</strong></h2>
+<h3 style="line-height: 2;text-align: justify"><strong>1. Kho lưu trữ giá trị mọi thời tiết &#8211; Đó là tiền hữu hình</strong></h3>
+<p style="line-height: 2;text-align: justify">Trong khi tiền gửi bằng tiền mặt, cổ phiếu, tín phiếu kho bạc, trái phiếu và các sản phẩm tài chính tương tự khác là những kho tài sản tốt, chúng vẫn là kỳ phiếu. Bạn có thể mong đợi chúng có khả năng bị mất giá đáng kể do các hoạt động như in tiền. Có thỏi bạc đảm bảo một tài sản hữu hạn và hữu hình. Ngay cả trong điều kiện thị trường hỗn loạn, bạc vật chất sẽ không bao giờ trở nên vô giá trị. Bạc sẽ giữ giá trị nội tại và thực của nó.</p>
+<h3 style="line-height: 2;text-align: justify"><strong>2. Bạc là công cụ đa dạng hóa danh mục đầu tư hiệu quả cho người mới bắt đầu.</strong></h3>
+<p style="line-height: 2;text-align: justify">Bạc nên là một thành phần nổi bật trong bất kỳ danh mục đầu tư nào. Ngay cả khi bạc đôi khi giao dịch trong một phạm vi hẹp, luôn có kỳ vọng rằng một sự kiện chuyển động thị trường sắp xảy ra trên thị trường. Bạn nên cân nhắc sở hữu bạc vì khả năng duy trì giá trị của nó trong thời gian dài, tạo cho danh mục đầu tư của bạn một tấm đệm chống lại diễn biến bất lợi của thị trường. Bất cứ khi nào thị trường chứng khoán sụp đổ, phần lớn tiền tiết kiệm bằng tiền mặt có thể làm giảm giá trị ròng của bạn. Tài sản bạc cho phép bạn thu lại một số giá trị nếu bạn đã đầu tư quá mức vào các công cụ tài chính rủi ro hơn như cổ phiếu và quỹ.</p>
+<p style="line-height: 2;text-align: justify">Không có gì đáng ngạc nhiên khi trong thời kỳ thị trường chứng khoán sụp đổ, bạc đã tăng vọt trong lịch sử. Có vàng và bạc trong danh mục đầu tư giúp các nhà đầu tư phục hồi các khoản lỗ trên thị trường chứng khoán và cung cấp nguồn vốn dự phòng để tái đầu tư vào các cổ phiếu bị định giá thấp khi nền kinh tế bắt đầu phục hồi.</p>
+<p style="line-height: 2;text-align: justify"><img loading="lazy" decoding="async" src="https://www.atfx.com/hubfs/5%20Pros%20and%20Cons%20of%20Silver%20Investment.webp" alt="5 Pros and Cons of Silver Investment" width="975" height="502" loading="lazy" style="height: auto;max-width: 100%;width: 975px"></p>
+<h3 style="line-height: 2;text-align: justify"><strong>3. Bạc mang lại lợi nhuận cao hơn vàng.</strong></h3>
+<p style="line-height: 2;text-align: justify">Bạc rẻ hơn nhiều so với vàng, nhưng nó có lợi nhuận cao hơn vàng. Giá bạc giao ngay di chuyển xa hơn giá vàng di chuyển, ngay cả khi chúng có cùng xu hướng. Bạn có thể mong đợi mức tăng phần trăm lớn hơn bất cứ khi nào giá bạc bắt đầu tăng. Khi tìm kiếm các giao dịch đầu cơ ngắn hạn, bạn có thể tin tưởng rằng bạc sẽ vượt trội so với vàng trong một đợt tăng giá. Ví dụ, khi cả hai kim loại tăng giá từ năm 2008 đến 2011, vàng chỉ tăng 170% trong khi bạc tăng 450%. Các nhà đầu tư có thể xem xét có nhiều bạc hơn vàng trong danh mục đầu tư của họ.</p>
+<h3 style="line-height: 2;text-align: justify"><strong>4. Bạc là khoản đầu tư trú ẩn an toàn</strong></h3>
+<p style="line-height: 2;text-align: justify">Bạc là kim loại trú ẩn an toàn sẽ giúp các nhà đầu tư áp dụng các cơ chế phòng ngừa rủi ro chống lại lạm phát và bất kỳ suy thoái kinh tế nào. Một ví dụ gần đây là giá bạc đã tăng như thế nào khi bắt đầu đại dịch COVID-19 vào đầu năm 2020. Sự không chắc chắn đã khiến giá bạc giao ngay tăng 45% trong năm. Với việc các ngân hàng trung ương lớn và chính phủ thay đổi chính sách tài khóa của họ để cung cấp nhiều gói kích thích hơn, đã có một cơn sốt mua bạc.</p>
+<h3 style="line-height: 2;text-align: justify"><strong>5. Kim loại đa năng với nhiều công dụng – Tiếp tục có nhu cầu.</strong></h3>
+<p style="line-height: 2;text-align: justify">Bạc là kim loại được sử dụng rộng rãi trong lĩnh vực công nghiệp và là mặt hàng tài chính thiết yếu được đầu tư vào danh mục đầu tư. Nhiều thiết bị công nghiệp sử dụng bạc vì tính dẫn điện và khả năng chống gỉ cao. Những đổi mới công nghệ cho tương lai bao gồm bạc trong pin, thiết bị điện tử, tế bào năng lượng và thiết bị nghiên cứu y tế. Do đó, bạn có thể kỳ vọng đầu tư vào bạc sẽ tiếp tục tăng ngay cả khi nền kinh tế toàn cầu mở rộng.</p>
+<p style="line-height: 2;text-align: justify">Mở rộng kinh tế đi đôi với mở rộng công nghệ. Ví dụ, xe chạy bằng pin (BEV) mới bao gồm bạc theo nhiều cách. BEV cũng sử dụng bạc trong các thành phần khác, chẳng hạn như điều hướng xe và cảm biến trạng thái sạc. Rất nhiều chất bán dẫn sử dụng bạc để tương tác với các thành phần điện. Dự kiến sẽ có sự mở rộng các trạm sạc (cả ở cấp độ gia đình và cơ sở hạ tầng) cần bạc để hoạt động.</p>
+<h2 style="line-height: 2;text-align: justify"><strong>4<span>&nbsp;</span></strong><strong>Nhược điểm của đầu tư<span>&nbsp;</span></strong><strong>bạc</strong></h2>
+<p style="line-height: 2;text-align: justify">Với tất cả những lợi ích của nó, đầu tư bạc vẫn không phải là một điệu nhảy trong công viên. Một số nhược điểm nhỏ đi kèm với nó và việc đầu tư một cách mù quáng có thể gây ra những hậu quả nghiêm trọng, đặc biệt là đối với những người mới bắt đầu. Dưới đây là một số nhược điểm cần xem xét trước khi quyết định có nên đầu tư vào bạc hay không.</p>
+<h3 style="line-height: 2;text-align: justify"><strong>1. Nỗi sợ hãi khiến giá tiêu cực.</strong></h3>
+<p style="line-height: 2;text-align: justify">Kể từ khi đầu cơ tiếp tục phát triển trong giao dịch bạc, nỗi sợ hãi là một động lực không thể bỏ qua. Nỗi sợ hãi đẩy giá lên một cách khó lường, và trong một số trường hợp, thật khó để tìm ra lời giải thích tại sao giá lại hành xử theo một cách nhất định. Do sợ hãi, giá luôn có thể có lợi hoặc chống lại nhà đầu tư. Các nhà đầu tư cũng hành động phi lý và do đó phản ứng thái quá với một số sự kiện tin tức. Chúng có thể bị bán tháo khi bạn kỳ vọng giá sẽ tăng và chuyển sang giảm khi tin tức có vẻ lạc quan. Sự lạc quan và bi quan cực đoan cũng gây ra nhiều định giá sai về giá giao ngay.</p>
+<p style="line-height: 2;text-align: justify">Ngay cả khi có một chiến lược giao dịch tốt, một số người vẫn không thể làm chủ được cảm xúc của mình và cuối cùng đổ bạc để đáp ứng các chi phí sinh hoạt ngắn hạn của họ. Họ cũng có thể làm điều đó với hy vọng mua được bạc ở một mức giá khác mà họ không thể ước tính chính xác do lạm phát. Khi rõ ràng rằng Covid-19 sẽ ảnh hưởng đến thị trường chung, giá bạc đã giảm mạnh trong vài tuần trước khi cuối cùng đi theo một hướng xác định so với thị trường. Mọi người đầu tiên bán tháo cổ phiếu của họ, và bạc ngay sau đó khi các nhà máy phải cắt giảm sản xuất, làm giảm nhu cầu về bạc. Giá dao động khi có thặng dư đầu tư dựa trên bạc.</p>
+<p style="line-height: 2;text-align: justify"><img loading="lazy" decoding="async" src="https://www.atfx.com/hubfs/Cons%20of%20Silver%20Investment.webp" alt="Cons of Silver Investment" width="975" height="502" loading="lazy" style="height: auto;max-width: 100%;width: 975px"></p>
+<h3 style="line-height: 2;text-align: justify"><strong>2<span>&nbsp;</span></strong><strong>. Bạc vật chất không có cổ tức.</strong></h3>
+<p style="line-height: 2;text-align: justify">Nắm giữ bạc thỏi là một loại hình đầu tư dựa vào sự đánh giá cao để kiếm tiền. Nó làm xói mòn sự hấp dẫn của việc đầu tư vào một đồng bạc hoặc thanh bạc. Trong nhiều trường hợp, những nhà đầu tư như vậy phải đầu tư vào các hoạt động kinh doanh khác hoặc mua các tài sản tài chính khác để tạo ra dòng tiền duy trì cho họ sau khi nghỉ hưu. Có rất nhiều lựa chọn để có được dòng tiền trong tương lai nhưng hoàn toàn dựa vào việc bán bớt bạc để tạo thu nhập sinh tồn là một ý tưởng tồi. Số bạc mà bạn đã tích lũy cả đời rất dễ cạn kiệt. Với sự biến động của giá bạc, đôi khi mọi người bán nó rẻ hơn giá họ mua nếu họ muốn có tiền mặt ngay lập tức.</p>
+<h3 style="line-height: 2;text-align: justify"><strong>3. Không có giá giao ngay trên mỗi ounce</strong></h3>
+<p style="line-height: 2;text-align: justify">Ngay cả khi có thể truy cập trực tuyến và nhận được giá bạc giao ngay bất cứ lúc nào, thì cuối cùng, bạn chỉ có thể bán thanh bạc của mình với giá mà ai đó sẵn sàng trả tại thời điểm hiện hành. Quy tắc người mua sẵn sàng-người bán sẵn sàng áp dụng ngay cả khi giao dịch trên một thị trường phức tạp như kim loại quý. Bên cạnh cung và cầu, còn có sự kết hợp giữa cảm xúc và đòn bẩy để lo lắng. Mặc dù có thể dễ dàng định giá một doanh nghiệp dựa trên dự báo doanh thu, dư nợ cho vay và các thông số như vậy, nhưng giá bạc bị ảnh hưởng bởi các lực lượng bên ngoài.</p>
+<h3 style="line-height: 2;text-align: justify"><strong>4. ETF bạc mang rủi ro đối tác</strong></h3>
+<p style="line-height: 2;text-align: justify">Ý tưởng về rủi ro đối tác đơn giản có nghĩa là một nhà đầu tư phụ thuộc vào một bên khác để đảm bảo rằng khoản đầu tư của họ được quản lý tốt. Đây là lý do tại sao đầu tư vào hai ETF bạc khác nhau vẫn có thể mang lại kết quả khác nhau. Tình huống cũng giống như việc bạn có tài khoản ngân hàng, có nghĩa là bạn dựa vào ngân hàng để rút tiền bất cứ khi nào bạn cần. ETF có tính thanh khoản cao, nhưng một số điều khoản và điều kiện đôi khi có lợi cho quỹ trong trường hợp xảy ra sự kiện thảm khốc.</p>
+<h2 style="line-height: 2;text-align: justify"><strong>Bảng tóm tắt</strong></h2>
+<table style="border-collapse: collapse;margin-left: auto;margin-right: auto;border: 1px solid #99acc2;width: 99.9886%;height: 437.5px">
+<tbody>
+<tr style="height: 50.3125px">
+<td style="border: 0.99609pt solid #000000;width: 4.36711%;height: 50px" rowspan="2">
+<p>&nbsp;</p>
+</td>
+<td style="border: 0.99609pt solid #000000;width: 95.6708%;height: 50px;vertical-align: top" colspan="2">
+<p style="text-align: center;font-size: 18px"><strong>Đầu Tư Bạc</strong></p>
+</td>
+</tr>
+<tr style="height: 48.3125px">
+<td style="border: 0.99609pt solid #000000;width: 46.7445%;height: 48px;vertical-align: top">
+<p style="text-align: center"><strong>5 Ưu điểm</strong></p>
+</td>
+<td style="border: 0.99609pt solid #000000;width: 48.9263%;height: 48px;vertical-align: top">
+<p style="text-align: center"><strong>5 nhược điểm</strong></p>
+</td>
+</tr>
+<tr style="height: 78.3125px">
+<td style="border: 0.99609pt solid #000000;width: 4.36711%;height: 78px;vertical-align: top">
+<p>1.</p>
+</td>
+<td style="border: 0.99609pt solid #000000;width: 46.7445%;height: 78px;vertical-align: top">
+<p>Kho lưu trữ giá trị trong mọi thời tiết &#8211; Đó là tiền hữu hình</p>
+</td>
+<td style="border: 0.99609pt solid #000000;width: 48.9263%;height: 78px;vertical-align: top">
+<p>Sợ hãi đẩy giá tiêu cực</p>
+</td>
+</tr>
+<tr style="height: 78.3125px">
+<td style="border: 0.99609pt solid #000000;width: 4.36711%;height: 78px;vertical-align: top">
+<p>2.</p>
+</td>
+<td style="border: 0.99609pt solid #000000;width: 46.7445%;height: 78px;vertical-align: top">
+<p>Bạc là công cụ đa dạng hóa danh mục đầu tư hiệu quả cho người mới bắt đầu</p>
+</td>
+<td style="border: 0.99609pt solid #000000;width: 48.9263%;height: 78px;vertical-align: top">
+<p>Bạc vật chất không có cổ tức</p>
+</td>
+</tr>
+<tr style="height: 48.3125px">
+<td style="border: 0.99609pt solid #000000;width: 4.36711%;height: 48px;vertical-align: top">
+<p>3.</p>
+</td>
+<td style="border: 0.99609pt solid #000000;width: 46.7445%;height: 48px;vertical-align: top">
+<p>Bạc mang lại lợi nhuận cao hơn vàng</p>
+</td>
+<td style="border: 0.99609pt solid #000000;width: 48.9263%;height: 48px;vertical-align: top">
+<p>Không có giá trị giao ngay trên mỗi ounce</p>
+</td>
+</tr>
+<tr style="height: 54.3125px">
+<td style="border: 0.99609pt solid #000000;width: 4.36711%;height: 54px;vertical-align: top">
+<p>4.</p>
+</td>
+<td style="border: 0.99609pt solid #000000;width: 46.7445%;height: 54px;vertical-align: top">
+<p>Bạc là một khoản đầu tư trú ẩn an toàn</p>
+</td>
+<td style="border: 0.99609pt solid #000000;width: 48.9263%;height: 54px;vertical-align: top">
+<p>ETF bạc mang rủi ro đối tác</p>
+</td>
+</tr>
+<tr style="height: 78.3125px">
+<td style="border: 0.99609pt solid #000000;width: 4.36711%;height: 78px;vertical-align: top">
+<p>5.</p>
+</td>
+<td style="border: 0.99609pt solid #000000;width: 46.7445%;height: 78px;vertical-align: top">
+<p>Kim loại đa năng với nhiều công dụng – Tiếp tục có nhu cầu</p>
+</td>
+<td style="border: 0.99609pt solid #000000;width: 48.9263%;height: 78px;vertical-align: top">
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h2 style="line-height: 2;text-align: justify"><strong>4 cách đầu tư vào bạc</strong></h2>
+<p style="line-height: 2;text-align: justify">Được trang bị đầy đủ thông tin về những ưu điểm và nhược điểm của việc đầu tư vào bạc, bây giờ bạn cần xem xét cách đầu tư vào bạc. Dưới đây là một số mẹo sẵn có nếu bạn đang tìm kiếm cách tốt nhất để đầu tư vào bạc.</p>
+<h3 style="line-height: 2;text-align: justify"><strong>1. Mua<span>&nbsp;</span></strong><strong>s</strong><strong>ilver<span>&nbsp;</span></strong><strong>bu</strong><strong>llion</strong></h3>
+<p style="line-height: 2;text-align: justify">Một nhà đầu tư giá trị có thể mua những con tàu đúc bằng bạc vật chất dưới dạng tiền xu, thanh bạc hoặc các loại bạc vụn. Bạc tạp được coi là dạng tinh khiết nhất mà bạn có thể lấy được bạc. Nó thường là một loại bạc nguyên chất được đựng trong một chiếc rương nhỏ ở nhà hoặc với số lượng lớn trong một kho tiền. Tuy nhiên, rất khó để cất giữ bạc vì cần phải có kế hoạch riêng cho thiết bị an ninh, đặc biệt là khi biết rằng kim loại quý có thể bị đánh cắp. Bạn có thể đầu tư vào bạc vật chất để tránh các bên khác lập hợp đồng hoặc đảm bảo về việc xử lý bạc. Bạc thỏi không mang rủi ro vỡ nợ, như với trái phiếu hoặc cổ phiếu công ty.</p>
+<p style="line-height: 2;text-align: justify">Bạc ở dạng vật chất cần ai đó mua hoặc bán nó trong cửa hàng trực tuyến hoặc cửa hàng tiền xu địa phương. Bạn có nhiều khả năng nhận được mức giá tốt hơn nếu mua trực tuyến vì các cửa hàng truyền thống thường tính đến những thứ khác như chi phí lưu trữ, tiền thuê và bảo mật.</p>
+<h3 style="line-height: 2;text-align: justify"><strong>2. Giao dịch<span>&nbsp;</span></strong><strong>các<span>&nbsp;</span></strong><strong>quỹ ETF và hợp đồng tương lai trên bạc</strong></h3>
+<p style="line-height: 2;text-align: justify">Cơn sốt quỹ ETF đã giúp nhiều nhà đầu tư dễ dàng sở hữu kim loại quý mà không phải lo lắng về việc lưu trữ. Bạn có thể theo dõi giá và học cách giao dịch thông qua tài khoản demo trước khi<span>&nbsp;</span><a href="/vi/etf" rel="noopener" target="_blank">đầu tư vào quỹ ETF bạc</a>. Một số ETF bạc và hợp đồng tương lai nổi tiếng bao gồm Quỹ bạc Invesco DB và SPDR. Đây là một cách tốt để đầu tư vào bạc vì mọi người có thể tận hưởng lợi ích của việc sở hữu bạc, giao dịch trong ngày và báo giá theo thời gian thực để theo dõi giá bạc trong danh mục đầu tư của bạn.</p>
+<p style="line-height: 2;text-align: justify">Các nhà giao dịch thích nhiều biến động thích quỹ ETF bạc hơn vàng vì giá bạc dễ biến động hơn và dễ phản ứng hơn với những biến động nhẹ trong dữ liệu sản xuất. Tuy nhiên, lợi thế lớn nhất là bán hoặc mua ngay khi có nhu cầu. Vàng thỏi vật chất có thể mất nhiều thời gian để bán đúng giá và đúng số lượng. Nhấn vào đây để<span>&nbsp;</span><a href="/vi/markets/commodities" rel="noopener" target="_blank">giao dịch hàng hóa</a>.</p>
+<p style="line-height: 2;text-align: justify"><img loading="lazy" decoding="async" src="https://www.atfx.com/hubfs/ETF.webp" alt="ETF" width="975" height="502" loading="lazy" style="height: auto;max-width: 100%;width: 975px"></p>
+<h3 style="line-height: 2;text-align: justify"><strong>3. Sở hữu cổ phiếu công ty bạc</strong></h3>
+<p style="line-height: 2;text-align: justify">Nếu bạn muốn có tài sản bạc mà không phải lo lắng về vấn đề nguồn cung, bạn có thể mua cổ phiếu khai thác bạc. Có những lúc cổ phiếu khai thác bạc có thể vượt trội so với lợi nhuận kiếm được từ chính bạc.</p>
+<p style="line-height: 2;text-align: justify">Hơn nữa, ban quản lý của công ty khai thác có thể thực hiện các khoản đầu tư tài sản cho phép công ty tăng sản lượng bạc, khiến giá cổ phiếu của công ty tăng nhanh. Luôn đảm bảo rằng bạn đầu tư vào một công ty khai thác lấy bạc làm trọng tâm chính. First Magestic Silver (NYSE:AG) coi bạc là hoạt động kinh doanh chính của mình, với 65% doanh thu năm 2020 đến từ việc khai thác bạc. Nhấn vào đây để bắt đầu<span>&nbsp;</span><a href="/vi/markets/shares-trading" rel="noopener" target="_blank">giao dịch chứng khoán</a>.</p>
+<h3 style="line-height: 2;text-align: justify"><strong>4. Giao dịch bạc dưới dạng các cặp tiền ngoại hối</strong></h3>
+<p style="line-height: 2;text-align: justify">Nếu có một thủ thuật có thể cho phép bạn đầu tư vào bạc với ít bước nhất có thể, thì đó phải là giao dịch bạc cùng với một cặp tiền tệ. Bao gồm các cặp bạc trong<span>&nbsp;</span><a href="/vi/markets/forex-trading" rel="noopener" target="_blank">giao dịch ngoại hối của bạn</a><span>&nbsp;</span>nếu bạn đã biết cách thức hoạt động của nó. Mọi người có thể đầu tư bất kỳ số tiền nào họ muốn vì nó không yêu cầu thương nhân phải mua một số lượng tối thiểu để sở hữu bạc. Tiền tệ được hoán đổi đơn giản theo giá trị của bạc giao ngay tại thời điểm hiện hành. Phương pháp này được các nhà giao dịch đầu cơ ưa thích vì họ cũng có thể kiếm được lợi nhuận cho dù giá bạc giao ngay có xu hướng giảm hay không. Các vị trí ngắn trở nên có lãi khi bạn đặt cược rằng giá sẽ giảm và điều đó sẽ xảy ra.</p>
+<h2 style="line-height: 2;text-align: justify"><strong>Vì vậy, bạn có nên đầu tư vào bạc?</strong></h2>
+<p style="line-height: 2;text-align: justify">Sự đồng thuận chung giữa các chuyên gia Phố Wall, thương nhân và những người sành sỏi về thị trường là bạc có nhiều tiềm năng tăng giá trong dài hạn. Có rất ít rủi ro giảm giá, nhưng bạc được hỗ trợ bởi việc sử dụng công nghiệp ngày càng tăng, không giống như nhiều loại tài sản khác. Nó là kim loại ưa thích cho người mới bắt đầu và người mới bắt đầu. Bạn có thể đặt cược rằng bạc sẽ duy trì tầm quan trọng chiến lược của nó trong việc phòng ngừa các sự kiện thị trường khác nhau có thể gợi ý suy thoái kinh tế.</p>
+<p style="line-height: 2;text-align: justify">Đầu tư bạc được đánh giá cao vì nó mang lại cho mọi người một tài sản an toàn ngay cả trong thị trường kim loại quý đầy biến động. Ngay cả khi hiệu suất của bạc trong vài tháng tới vẫn chưa chắc chắn, bạn có thể tin tưởng rằng nó vẫn là một mặt hàng chiến lược cho các nhà quản lý danh mục đầu tư và các nhà giao dịch đầu cơ. Do đó, bạn nên đưa bạc vào danh mục đầu tư để bảo vệ giá trị ròng của mình trước những biến động kinh tế trong tương lai. Tìm hiểu<span>&nbsp;</span><a href="/vi/analysis/trading-strategies/how-to-become-a-trader" rel="noopener" target="_blank">làm thế nào để trở thành một thương nhân</a>.</p>
+<p style="line-height: 2;text-align: justify"><img loading="lazy" decoding="async" src="https://www.atfx.com/hubfs/Trade%20Silver%20ATFX.webp" alt="Trade Silver ATFX" width="1200" height="619" loading="lazy" style="height: auto;max-width: 100%;width: 1200px"></p>
+<h2 style="line-height: 2;text-align: justify"><strong>Làm thế nào để bắt đầu đầu tư vào bạc?</strong></h2>
+<p style="line-height: 2;text-align: justify">Bạn có thể bắt đầu sự nghiệp đầu tư bạc của mình trong vòng vài phút với một vài bước đơn giản. Mở tài khoản và bắt đầu<span>&nbsp;</span><a href="/vi/markets/commodities/oil-trading" rel="noopener" target="_blank">giao dịch dầu thô</a>, bạc, vàng, chứng khoán, ngoại hối và các công cụ tài chính khác trên máy tính hoặc điện thoại của bạn. ATFX cung cấp tất cả các cặp tiền tệ chính, tiền điện tử và các cặp khác trên một nền tảng giao dịch rất thiết thực. Nếu bạn vẫn muốn tìm hiểu thêm một chút về thị trường trước khi đầu tư tiền thật, bạn có thể<span>&nbsp;</span><a href="/vi/trading-accounts/demo-account" rel="noopener" target="_blank">mở tài khoản demo</a><span>&nbsp;</span>và thực hành các chiến lược khác nhau trong khi vẫn học từ hướng dẫn hoặc tài liệu đào tạo miễn phí mà ATFX cung cấp. Đăng ký ngay!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Vàng có phải là một khoản đầu tư tốt? 5 ưu &#038; nhược điểm của đầu tư vàng</title>
+		<link>https://www.atfx.com/vi/analysis/trading-strategies/is-gold-good-investment</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Mon, 05 Dec 2022 07:41:00 +0000</pubDate>
+				<category><![CDATA[Chiến lược Giao dịch của bạn]]></category>
+		<category><![CDATA[Chiến lược cho người ít kinh nghiệm]]></category>
+		<guid isPermaLink="false">https://lptemplatedev.wpengine.com/uncategorized/is-gold-good-investment-2</guid>
+
+					<description><![CDATA[Mua vàng có phải là một khoản đầu tư tốt? Các nhà giao dịch, người tiết kiệm và nhà đầu tư ưa thích vàng vì nhiều lý do, bao gồm cả những thuộc tính ấn tượng khiến nó trở thành đối trọng với các chứng khoán truyền thống như trái phiếu và cổ phiếu. Thế [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p style="line-height: 2;">Mua vàng có phải là một khoản đầu tư tốt? Các nhà giao dịch, người tiết kiệm và nhà đầu tư ưa thích vàng vì nhiều lý do, bao gồm cả những thuộc tính ấn tượng khiến nó trở thành đối trọng với các chứng khoán truyền thống như trái phiếu và cổ phiếu. Thế giới coi vàng là một kho lưu trữ giá trị tốt mặc dù nó không mang lại bất kỳ dòng tiền nào. Nhiều ý kiến cho rằng vàng có thể là một phương tiện tuyệt vời để phòng ngừa lạm phát nhưng đó có phải là lý do duy nhất để đầu tư vào vàng? Tuy nhiên, vàng có phải là một khoản đầu tư tốt? Ngay cả khi vậy, bạn có nên đầu tư vào vàng bây giờ?</p>
+<p><span id="more-11170"></span></p>
+<p style="line-height: 2;">Đầu tư vào vàng cần những người mới bắt đầu hiểu rằng có một số ưu và nhược điểm khi đầu tư vào vàng. Nhiều thứ phát huy tác dụng, bao gồm chiến lược, thời gian và giá cả tại bất kỳ thời điểm nào. Dưới đây là 5 ưu và nhược điểm bạn nên cân nhắc trước khi bắt đầu mạo hiểm đầu tư vào vàng.</p>
+<p style="line-height: 2;"><span style="font-size: 11px; color: #000000; background-color: #d9ead3;"><img loading="lazy" decoding="async" style="margin-left: auto; margin-right: auto; height: auto; max-width: 100%; width: 948px;" src="https://www.atfx.com/hubfs/is%20gold%20a%20good%20investment.webp" alt="is gold a good investment" width="948" height="489" /></span></p>
+<h2 style="line-height: 2;"><strong>5 ưu điểm của đầu tư vàng</strong></h2>
+<h3 style="line-height: 2;"><strong>1. Vàng có lịch sử gia tăng giá trị từ lâu</strong></h3>
+<p style="line-height: 2;">Kể từ khi được phát hiện, vàng đã trở thành một mặt hàng được mọi người thèm muốn và sử dụng để tích trữ của cải. Mặc dù hầu hết các ngân hàng trung ương gần đây đã ngừng sử dụng các loại tiền tệ được đảm bảo bằng vàng, nhưng nó vẫn vô cùng có giá trị, đặc biệt là trong thời kỳ suy thoái kinh tế. Không giống như tiền xu và tiền giấy, vàng vẫn ổn định qua nhiều thế kỷ. Các nhà đầu tư có thể đặt cược vào vàng để truyền của cải cho các thế hệ tương lai.</p>
+<h3 style="line-height: 2;"><strong>2. Hàng rào đáng tin cậy trong thời kỳ khủng hoảng</strong></h3>
+<p style="line-height: 2;">Trong lịch sử, vàng đã hoạt động tốt như một hàng rào đáng tin cậy chống lại lạm phát và các cuộc khủng hoảng khác. Nó đã tăng giá ngay cả khi chi phí sinh hoạt tiếp tục tăng vào năm 2022. Khi các nền kinh tế lớn trên thế giới bị lạm phát cao, đồng tiền của họ giảm giá trị và lợi suất trái phiếu kho bạc của họ trở nên bất lợi. Hiện tượng này khiến các nhà đầu tư tập trung vào vàng vì lợi suất tiền mặt và trái phiếu kho bạc trở nên kém hiệu quả hơn với vai trò là tài sản trú ẩn an toàn. Trong 50 năm qua, giá vàng liên tục tăng vọt và các chỉ số chứng khoán lao dốc bất cứ khi nào có thời kỳ lạm phát cao.</p>
+<p style="line-height: 2;"><span style="font-size: 11px; color: #000000;"><img loading="lazy" decoding="async" style="height: auto; max-width: 100%; width: 912px; margin-left: auto; margin-right: auto;" src="https://www.atfx.com/hubfs/ATFX-gold-economic-crisis%20(1).webp" alt="gold as an inflation hedge" width="912" height="471" /></span></p>
+<h3 style="line-height: 2;"><strong>3. Vàng giúp bạn đa dạng hóa danh mục đầu tư của mình</strong></h3>
+<p style="line-height: 2;">Sẽ là khôn ngoan nếu có nhiều hơn là chỉ cổ phiếu phổ thông trong một danh mục đầu tư. Nếu được xem xét trong hơn một thập kỷ, vàng sẽ giúp giảm thiểu tổn thất trong thời kỳ suy thoái kinh tế. Nó có sức mạnh tuyệt vời để cải thiện hiệu suất đối với lợi nhuận được điều chỉnh theo rủi ro trong danh mục đầu tư. Hợp đồng tương lai vàng hoặc quỹ ETF cung cấp cho bạn một tài sản thanh khoản trong khi duy trì mối tương quan thấp với các loại tài sản khác trong thời kỳ bùng nổ và suy thoái kinh tế. Với khuyến nghị đầu tư tài chính rằng các danh mục đầu tư tốt nên có ít tài sản tương quan hơn, vàng là một lựa chọn tuyệt vời vì nó có tương quan nghịch với chứng khoán.</p>
+<h3 style="line-height: 2;"><strong>4. Nhu cầu vàng không ngừng tăng</strong></h3>
+<p style="line-height: 2;">Khi các nền kinh tế mới nổi tiếp tục phát triển mạnh, sự giàu có mới đã làm tăng nhu cầu của người tiêu dùng đối với vàng. Cũng có những quốc gia mà các vật phẩm bằng vàng là một phần của văn hóa. Ví dụ, Ấn Độ là nước tiêu thụ vàng lớn nhất trên toàn cầu và đó là do việc sở hữu đồ trang sức bằng vàng rất phổ biến. Tổng số hộ gia đình sở hữu vàng của Ấn Độ vượt qua 5 ngân hàng trung ương hàng đầu. Tặng vàng trang sức và đồ trang trí trong nhà là một nét văn hóa phổ biến ở châu Á. Trung Quốc và Ấn Độ là những người tiêu dùng vàng thỏi hàng đầu trên thế giới. Tầng lớp trung lưu đang phát triển nhanh chóng đã là một đầu mối đầu tư tốt cho những người có kế hoạch kinh doanh vàng và không chắc chắn về nhu cầu.</p>
+<p style="line-height: 2;">Nhu cầu dự kiến sẽ tăng lên vì tầng lớp trung lưu thanh khoản bằng tiền mặt có nhu cầu cao hơn đối với đồ trang sức bằng vàng, nhẫn và các phụ kiện liên quan. Trong thập kỷ qua, các nhà đầu tư tổ chức và các nhà quản lý quỹ đã đổ xô đến vàng và kim loại quý như một kênh đầu tư do sự phổ biến của giao dịch trực tuyến. Chúng là một kênh đầu tư thanh khoản để phân bổ vốn và hưởng lợi từ những thay đổi nhỏ về giá.</p>
+<h3 style="line-height: 2;"><strong>5. Nợ chính phủ toàn cầu đang ở mức cao nhất</strong></h3>
+<p style="line-height: 2;">Tổng nợ chính phủ toàn cầu đã tiếp tục tăng hàng năm. Tổng nợ vào cuối năm 2020 là 284 nghìn tỷ USD, dự kiến sẽ tăng trong năm 2023 do nhiều nền kinh tế không còn lựa chọn nào khác ngoài việc tiếp tục vay nợ. Các khoản thâm hụt lớn mà các nền kinh tế lớn trên toàn cầu phải trải qua cũng có thể hàm ý rằng một cuộc khủng hoảng tài chính khác có thể đang rình rập. Có nên đầu tư vàng lúc này? Đúng! Các nhà đầu tư khôn ngoan nên coi đây là một dấu hiệu để sở hữu vàng như một tài sản trú ẩn an toàn để bảo vệ danh mục đầu tư của họ.</p>
+<h2 style="line-height: 2;"><strong>5 Nhược điểm của đầu tư vàng</strong></h2>
+<p style="line-height: 2;">Giống như tất cả các khoản đầu tư, nó không bao giờ thuận buồm xuôi gió. Đầu tư vào vàng cũng có một số rủi ro và bất lợi đáng kể. Những vấn đề phổ biến này thường không khuyến khích mọi người có nhiều vàng trong danh mục đầu tư của họ.</p>
+<h3 style="line-height: 2;"><strong>1. Giảm sau khi tăng đáng kể</strong></h3>
+<p style="line-height: 2;">Giá vàng thường tăng cao khi nền kinh tế toàn cầu rơi vào suy thoái nhẹ hoặc nghiêm trọng. Điều đó có thể thấy được vào năm 2011 khi giá đạt mức trung bình 1.888 USD/ounce. Tuy nhiên, giá đã giảm vào giữa năm 2020. Điều này cho thấy giá hoạt động tốt nhưng vẫn giảm so với mức giá của một thập kỷ trước đó.</p>
+<p style="line-height: 2;">Một xu hướng rõ ràng hơn là vào cuối những năm 70 khi vàng tăng giá do bất ổn kinh tế. Sau khi đạt mức cao mới, giá giao ngay đã trải qua hai thập kỷ tiếp theo để giảm dần. Tùy thuộc vào chiến lược bạn có thể áp dụng, một nhà đầu tư mua và nắm giữ sẽ không khuyến khích chờ đợi một thập kỷ để có mức giá tương tự hoặc thấp hơn mức giá mà họ đã mua. Trong đại dịch năm 2020, các nhà đầu tư không chắc nền kinh tế sẽ hoạt động như thế nào và đổi lại, nhiều người không thể biết được con đường phía trước liên quan đến giao dịch vàng. Trong trường hợp của những năm 70, nhiều nhà đầu tư cũng cần phải quyết định mua vàng ngay lập tức hay đợi giá giảm một chút rồi mới mua. Sự sụt giảm mạnh sau khi tăng liên tục làm nản lòng nhiều nhà đầu tư không thích rủi ro cao.</p>
+<h3 style="line-height: 2;"><strong>2. Tiền vàng không phải là hàng rào hoàn hảo chống lại lạm phát</strong></h3>
+<p style="line-height: 2;">Vì tiền vàng hoặc thỏi vàng không tạo ra cổ tức hoặc bất kỳ khoản lãi suất nào, nên vàng không phải là &#8216;hàng rào hoàn hảo&#8217; cho lạm phát dài hạn. Đầu tư vào vàng cũng là một rủi ro và mọi người thích một số khoản bồi thường cho rủi ro đó. Có thể phân bổ chiến lược cho vàng, nhưng về lâu dài, nhiều người tin rằng vàng không tạo ra mức lợi nhuận có thể biện minh cho việc chỉ tích trữ nó trong kho tiền. Mặt khác, mặc dù nó cung cấp một số bảo hiểm trong thời kỳ lạm phát cao, nhưng các chứng khoán khác, chẳng hạn như TIPS và cổ phiếu tài nguyên thiên nhiên, có thể mang lại hiệu quả phòng ngừa rủi ro tốt hơn.</p>
+<p style="line-height: 2;"><span style="font-size: 11px; color: #000000;"><img loading="lazy" decoding="async" style="height: auto; max-width: 100%; width: 818px; margin-left: auto; margin-right: auto;" src="https://www.atfx.com/hubfs/ATFX-gold-price-decline%20(2).webp" alt="gold price drop" width="818" height="422" /></span></p>
+<h3 style="line-height: 2;"><strong>3. Vàng không sản xuất hoặc sao chép</strong></h3>
+<p style="line-height: 2;">Nếu xem xét từ góc độ phi giá cả, một ounce vàng được sở hữu sẽ vẫn là một ounce vàng theo thời gian. Ngược lại, các nhà đầu tư có thể thích cổ phiếu công ty hơn vì những công ty cơ sở đó sản xuất hàng hóa khác. Ví dụ: một cổ phiếu công nghệ có thể sẽ tiếp tục sản xuất một số thiết bị điện tử tiêu dùng sẽ tạo ra nguồn thu nhập mới cho các nhà đầu tư. Nếu các điều kiện phù hợp, một công ty có thể sẽ có danh mục tài sản ngày càng tăng có thể mang lại cho công ty nhiều tiềm năng kiếm tiền hơn. Mặt khác, một công ty có lợi nhuận có thể sẽ mang lại cho các nhà đầu tư nhiều cổ tức hơn. Nó vẫn có thể tái đầu tư lợi nhuận vào các dự án kinh doanh khác có tiềm năng thu được nhiều dòng doanh thu hơn. Việc các nhà đầu tư thu hồi khoản đầu tư của họ và kiếm được nhiều tiền hơn từ cổ tức so với khoản đầu tư ban đầu là điều bình thường.</p>
+<h3 style="line-height: 2;"><strong>4. Vàng có nhiều cách sử dụng hạn chế</strong></h3>
+<p style="line-height: 2;">Nguồn nhu cầu vàng phổ biến nhất là đồ trang sức. Tuy nhiên, xét về tỷ lệ trong tổng nhu cầu vàng, đồ trang sức đã dần mất đi thị phần, trong khi phần lớn nhu cầu mới là để đầu cơ tài chính. Thật khó để nói liệu những ứng dụng mới sẽ xuất hiện trong tương lai, ngoài việc sử dụng trang trí, công nghiệp và y tế. Với việc vàng vật chất không có nguồn thu nhập, mọi người chủ yếu dựa vào những thay đổi nhu cầu ngắn hạn để xác định các cơ hội giao dịch tiềm năng.</p>
+<h3 style="line-height: 2;"><strong>5. Thiếu tiêu chuẩn định giá vàng</strong></h3>
+<p style="line-height: 2;">Định giá cổ phiếu là một quá trình đơn giản trái ngược với vàng. Các chuyên gia tài chính có thể định giá bất kỳ tài sản nào dựa trên dòng tiền trong tương lai. Có các tỷ số tài chính chính xác và các số liệu khác tìm kiếm như giá trên thu nhập và giá trên giá trị sổ sách có thể giúp các nhà đầu tư biết liệu họ có đang nhận được một thỏa thuận tốt hay không trước khi <a href="/vi/markets/shares-trading" target="_blank" rel="noopener">giao dịch cổ phiếu của công ty</a>. Với vàng, mọi thứ trở nên hơi u ám. Vàng hoàn toàn dựa trên ấn tượng của mọi người về giá trị của nó. Nó thậm chí còn phức tạp hơn khi bạn không thể biết được mức tăng trưởng của thu nhập vì bạn không thể đưa ra dự báo thu nhập cho vàng.</p>
+<p style="line-height: 2;">Các nguyên tắc cơ bản của cổ phiếu công ty cũng có thể cung cấp cho các nhà đầu tư manh mối về mức độ tăng hoặc giảm tiềm năng khi xếp hạng một cổ phiếu. Mặt khác, vàng có giá trị thay đổi do cung và cầu. Tồi tệ nhất, cung và cầu vàng thường bị chi phối bởi sự hoảng loạn thay vì các nguyên tắc cơ bản trực tiếp ảnh hưởng đến nó. Do đó, những thách thức về định giá khiến việc đầu tư vào vàng thỏi hoặc tiền vàng trở thành một vấn đề nan giải đối với người mới bắt đầu.</p>
+<p style="font-weight: normal; line-height: 2;">Bảng tóm tắt</p>
+<table style="border-collapse: collapse; margin-left: auto; margin-right: auto; border: 1px solid #99acc2; width: 99.9362%; height: 403.958px;">
+<tbody>
+<tr style="height: 47.9688px;">
+<td style="height: 48px; width: 99.9997%; border-style: solid; border-width: 1px;" colspan="2">
+<p style="text-align: center; font-size: 20px;"><strong>Đầu Tư Vàng</strong></p>
+</td>
+</tr>
+<tr style="height: 55px;">
+<td style="width: 49.9324%; height: 55px; padding: 4px; text-align: center; border-style: solid; border-width: 1px;">
+<p style="font-weight: normal;"><span style="font-size: 16px;">5 Ưu điểm</span></p>
+</td>
+<td style="width: 50.0673%; height: 55px; padding: 4px; text-align: center; border-style: solid; border-width: 1px;">
+<p style="font-weight: normal;"><span style="font-size: 16px;">5 nhược điểm</span></p>
+</td>
+</tr>
+<tr style="height: 47.9948px;">
+<td style="width: 49.9324%; height: 48px;">Vàng có một lịch sử tăng giá trị lâu dài</td>
+<td style="width: 50.0673%; height: 48px;">Giảm sau khi tăng đáng kể</td>
+</tr>
+<tr style="height: 77.9948px;">
+<td style="width: 49.9324%; height: 78px;">Hàng rào đáng tin cậy trong thời kỳ khủng hoảng</td>
+<td style="width: 50.0673%; height: 78px;">Tiền vàng không phải là một hàng rào hoàn hảo chống lại lạm phát</td>
+</tr>
+<tr style="height: 77.9948px;">
+<td style="width: 49.9324%; height: 78px;">Vàng giúp bạn đa dạng hóa danh mục đầu tư của mình</td>
+<td style="width: 50.0673%; height: 78px;">Vàng không sản xuất hoặc sao chép</td>
+</tr>
+<tr style="height: 47.9948px;">
+<td style="width: 49.9324%; height: 48px;">Nợ chính phủ toàn cầu đang ở mức cao nhất</td>
+<td style="width: 50.0673%; height: 48px;">Thiếu tiêu chuẩn định giá vàng</td>
+</tr>
+<tr style="height: 47.9948px;">
+<td style="width: 49.9324%; height: 48px;">Nhu cầu vàng không ngừng tăng lên</td>
+<td style="width: 50.0673%; height: 48px;">Vàng có nhiều cách sử dụng hạn chế</td>
+</tr>
+</tbody>
+</table>
+<h2 style="line-height: 2;"><strong>4 cách đầu tư vào vàng</strong></h2>
+<p style="line-height: 2;">Bây giờ bạn đã có một cái nhìn chung về những ưu và nhược điểm của vàng, điểm tiếp theo cần cân nhắc là làm thế nào để đầu tư vào vàng. Do đó, việc hiểu các kênh thông thường mà bạn có thể sở hữu hoặc giao dịch bằng vàng là rất quan trọng.</p>
+<h3 style="line-height: 2;"><strong>1. Vàng thỏi</strong></h3>
+<p style="line-height: 2;">Cách lâu đời nhất để đầu tư vào vàng vật chất là thông qua vàng thỏi. Mọi người mua vàng thỏi thông qua các đại lý trực tuyến như JM Bullion hoặc APMEX. Mọi người cũng mua từ những người giới thiệu trực tiếp, đại lý địa phương, người thu gom và cửa hàng cầm đồ. Do cách thức sở hữu vàng thô sơ theo cách này, các nhà đầu tư cần tìm được người bán sẵn sàng và vẫn đảm bảo có đủ số lượng cần thiết và họ có thể có được một thỏa thuận sòng phẳng. Bạn luôn có thể kiểm tra chéo với giá giao ngay để tránh bị gạt. Nó cũng đòi hỏi một cách an toàn để vận chuyển và cất giữ, vì nó ở dạng thỏi vàng, tiền vàng hoặc đồ trang sức.</p>
+<h3 style="line-height: 2;"><strong>2. Xem xét các quỹ ETF sở hữu vàng</strong></h3>
+<p style="line-height: 2;">Để bỏ qua sự phức tạp của việc sở hữu vàng vật chất và chi phí lưu trữ nó một cách an toàn, bạn có thể cân nhắc mua vào các ETF giao dịch vàng. <a href="/vi/etf" target="_blank" rel="noopener">Mua ETF vàng</a> từ các chỉ số hàng đầu trên toàn cầu. Một số ETF vàng phổ biến bao gồm SPDR Gold Trust và iShares Gold Trust. Các quỹ ETF kinh doanh vàng cung cấp cho bạn nhiều tính thanh khoản và thuận tiện hơn vì các nhà đầu tư chỉ được phát hành cổ phiếu bằng vàng thực do quỹ ủy thác nắm giữ. Chúng là một cách tốt để tái tạo hiệu suất của vàng trên thị trường trong khi chỉ tính phí cho các nhà đầu tư một tỷ lệ chi phí nhỏ.</p>
+<p style="line-height: 2;"><span style="font-size: 11px; color: #000000;"><img loading="lazy" decoding="async" style="height: auto; max-width: 100%; width: 816px; margin-left: auto; margin-right: auto;" src="https://www.atfx.com/hubfs/ATFX-gold-ETF%20(1).webp" alt="what is gold etf" width="816" height="421" /></span></p>
+<h3 style="line-height: 2;"><strong>3. Vàng tương lai</strong></h3>
+<p style="line-height: 2;">Hợp đồng tương lai vàng là một cách thuận tiện và nhanh chóng để đầu cơ giá vàng. Các nhà đầu tư có thể chỉ cần suy đoán liệu giá sẽ tăng hay giảm. COMEX Gold Futures (GC) là tiêu chuẩn được công nhận hàng đầu cho hợp đồng tương lai vàng. Khi được xuất bản trực tuyến, mọi người có thể nhận được các mẹo, phân tích và theo dõi các thay đổi hàng ngày. Thương nhân thường xuyên thậm chí đặt hàng trong sự thoải mái tại nhà của họ. Nhấn vào đây để <a href="/vi/markets/commodities" target="_blank" rel="noopener">giao dịch hàng hóa</a>.</p>
+<h3 style="line-height: 2;"><strong>4. Giao dịch vàng như một loại tiền tệ</strong></h3>
+<p style="line-height: 2;">XAUUSD là một trong những cặp mà các nhà môi giới ngoại hối cung cấp hiện nay. Bao gồm các cặp vàng trong <a href="/vi/markets/forex-trading" target="_blank" rel="noopener">giao dịch ngoại hối của bạn</a> nếu bạn đã biết cách thức hoạt động của nó. Như một mẹo miễn phí, giao dịch vàng dưới dạng một cặp tiền tệ sẽ giúp bạn một mũi tên trúng hai đích, vì bạn có thể áp dụng các chiến lược tương tự như với tiền tệ và cổ phiếu. Biểu đồ trực tiếp cũng giúp bạn theo dõi sự thay đổi giá trong thời gian thực. Người mới bắt đầu có thể mở tài khoản demo và thử nghiệm các chiến lược khác nhau để kiếm tiền với biến động giá vàng bằng cách sử dụng hướng dẫn.</p>
+<h2 style="line-height: 2;"><strong>Vì vậy, bạn có nên đầu tư vào vàng?</strong></h2>
+<p style="line-height: 2;">Những lợi ích của việc đầu tư vào vàng vượt xa những bất lợi liên quan. Phương tiện đầu tư được lựa chọn phụ thuộc vào khung thời gian ưa thích (ngắn hạn hoặc dài hạn) và lý do ưa thích để mua vàng. Những chủ sở hữu muốn có một kế hoạch dự phòng trong chiến tranh hoặc khủng hoảng chính trị sẽ thích vàng vật chất hơn vì nó không bị ràng buộc với hệ thống tài chính của đất nước. Nếu bạn thích thực hiện các giao dịch đầu cơ ngắn hạn, quỹ ETF vàng và hợp đồng tương lai vàng sẽ cung cấp cho bạn các giải pháp thanh khoản để tận dụng sự biến động giá. Tìm hiểu <a href="/vi/analysis/trading-strategies/how-to-become-a-trader" target="_blank" rel="noopener">làm thế nào để trở thành một thương nhân</a>.</p>
+<p style="line-height: 2;"><span style="font-size: 11px; color: #000000;"><img loading="lazy" decoding="async" style="height: auto; max-width: 100%; width: 808px; margin-left: auto; margin-right: auto;" src="https://www.atfx.com/hubfs/ATFX-gold-good-investment%20(1).webp" alt="should i buy gold" width="808" height="417" /></span></p>
+<h2 style="line-height: 2;"><strong>Làm thế nào để bắt đầu đầu tư vào vàng?</strong></h2>
+<p style="line-height: 2;">Bạn có thể mở một tài khoản với ATFX và bắt đầu <a href="/vi/markets/commodities/gold-trading" target="_blank" rel="noopener">giao dịch vàng</a>, bạc, <a href="/vi/markets/commodities/oil-trading" target="_blank" rel="noopener">dầu thô</a>, v.v. ngay hôm nay. Hành trình của bạn đến một cơ hội đầu tư mới có thể bắt đầu chỉ với một vài cú nhấp chuột. Với ATFX, bạn có thể tận hưởng mức chênh lệch thấp, khớp lệnh nhanh chóng và hỗ trợ Trực tiếp 24/5 cho mọi nhu cầu giao dịch của bạn. Nếu bạn vẫn là người mới tham gia giao dịch, bạn chỉ cần <a href="/vi/trading-accounts/demo-account" target="_blank" rel="noopener">đăng ký tài khoản demo</a> với ATFX và thực hành mà không cần gửi tiền thật. Kiểm tra tất cả các chiến lược của bạn và làm quen với thị trường với các hướng dẫn đào tạo có giá trị được cung cấp miễn phí. Một tương lai bổ ích đang chờ đợi bạn khi bạn muốn nâng cấp lên tài khoản trực tiếp.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Tại sao chỉ số Dow Jones lại quan trọng trong lĩnh vực chứng khoán? &#8211; Chiến lược Giao dịch cho Nhà giao dịch Trung cấp  </title>
+		<link>https://www.atfx.com/vi/analysis/trading-strategies/why-dow-jones-important-in-world-of-stocks</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Wed, 16 Feb 2022 04:00:00 +0000</pubDate>
+				<category><![CDATA[Chiến lược Giao dịch của bạn]]></category>
+		<category><![CDATA[Chiến lược cho người ít kinh nghiệm]]></category>
+		<guid isPermaLink="false">https://lptemplatedev.wpengine.com/uncategorized/why-dow-jones-important-in-world-of-stocks-2</guid>
+
+					<description><![CDATA[Nhiều nhà đầu tư đã nghe đến thuật ngữ Chỉ số Dow Jones khi họ mở cửa chứng khoán Mỹ. Năm 1884, Charles Henry Dow, người sáng lập Công ty Dow Jones, lần đầu tiên biên soạn Chỉ số Dow Jones. Cho đến nay, chỉ số Dow Jones là chỉ số chứng khoán lâu đời [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p style="text-align: justify;line-height: 1.75">Nhiều nhà đầu tư đã nghe đến thuật ngữ <a href="/vi/live-chart/dow-jones" rel="noopener" target="_blank"><span style="text-decoration: underline">Chỉ số Dow Jones</span></a> khi họ mở cửa chứng khoán Mỹ. Năm 1884, Charles Henry Dow, người sáng lập Công ty Dow Jones, lần đầu tiên biên soạn Chỉ số Dow Jones. Cho đến nay, chỉ số Dow Jones là chỉ số chứng khoán lâu đời nhất trên thế giới.</p>
+<p><span id="more-10647"></span></p>
+<p style="text-align: justify;line-height: 1.75">Chỉ số Dow Jones có tổng cộng bốn nhóm chỉ số. Bốn nhóm chỉ số này được biên soạn theo các quy tắc khác nhau. Chỉ số Dow Jones ở Mỹ thường đề cập đến Chỉ số Bình quân Công nghiệp Dow Jones tiêu biểu hơn. Chỉ số đã chọn thêm 30 chỉ số đại diện. Chỉ số Dow Jones là chỉ số giá chứng khoán do người sáng lập Công ty Dow Jones biên soạn vào năm 1884, và đây cũng là <a href="/en/analysis/trading-strategies/what-you-should-know-about-the-three-major-us-stock-market-indexes" rel="noopener" target="_blank"><span style="text-decoration: underline">chỉ số chứng khoán</span></a>&nbsp; xuất hiện sớm nhất trên thế giới.</p>
+<h3 style="text-align: justify"><span style="font-size: 12px"> <img decoding="async" src="https://www.atfx.com/hubfs/ATFX-dow-jones-trading.jpg?width=1200&amp;name=ATFX-dow-jones-trading.jpg" alt="ATFX-dow-jones-trading" loading="lazy" style="margin-left: auto;margin-right: auto"></span></h3>
+<ol style="text-align: justify">
+<li>
+<h3 style="line-height: 1.75;text-align: justify"><span style="font-size: 18px">Các công ty đang tăng do Chỉ số Dow Jones lựa chọn đều quan trọng ở Mỹ và thậm chí trên thế giới, và các công ty được chọn không tĩnh và sẽ được cập nhật thường xuyên, vì vậy những thay đổi về giá cổ phiếu của họ thường có thể đại diện cho nền kinh tế vĩ mô. Phát triển.</span></h3>
+</li>
+</ol>
+<p style="text-align: justify;line-height: 1.75">&nbsp;</p>
+<ol style="text-align: justify" start="2">
+<li>
+<h3><span style="font-size: 18px">Thông tin liên quan của chỉ số Dow Jones được công bố bởi &#8220;Wall Street Journal&#8221;, tờ báo có vai trò quan trọng trong ngành tài chính thế giới.</span></h3>
+</li>
+</ol>
+<p style="text-align: justify;line-height: 1.75">&nbsp;</p>
+<ol style="text-align: justify" start="3">
+<li>
+<h3 style="line-height: 1.75;text-align: justify"><span style="font-size: 18px">Chỉ số Dow Jones có lịch sử lâu đời và chưa bao giờ dừng lại kể từ khi được tổng hợp nên biên độ tham chiếu của nó rất lớn, giá trị và ý nghĩa nghiên cứu cũng cao hơn các <a href="/vi/markets/indices-trading" rel="noopener" target="_blank"><span style="text-decoration: underline">chỉ số</span></a> khác.</span></h3>
+</li>
+</ol>
+<p style="text-align: justify;line-height: 1.75">Kể từ năm 2020, ATFX đã tối ưu hóa và nâng cấp <a href="/vi/trading-platforms/metatrader-4/mt4-indicators" rel="noopener" target="_blank"><span style="text-decoration: underline">nền tảng giao dịch MT4</span></a>. Dựa trên các thông tin tin tức hiện có, dịch vụ tin tức của Cơ quan Báo chí Dow Jones đã được bổ sung mới và cung cấp nhiều ngôn ngữ để nhà đầu tư linh hoạt lựa chọn.</p>
+<p style="text-align: justify;line-height: 1.75"><img decoding="async" src="https://www.atfx.com/hubfs/ATFX-metatrader4-platform%20(1).jpg?width=1200&amp;name=ATFX-metatrader4-platform%20(1).jpg" alt="ATFX-metatrader4-platform (1)" loading="lazy" style="margin-left: auto;margin-right: auto"></p>
+<p style="text-align: justify;line-height: 1.75">Sự ra mắt của dịch vụ tin tức của Cơ quan Báo chí Dow Jones y đã làm cho <a href="/vi/analysis" rel="noopener" target="_blank"><span style="text-decoration: underline">thông tin đầu tư tài chính</span></a> của sàn giao dịch ATFX trở nên toàn diện và quốc tế hơn. Khách hàng có thể cập nhật tin tức mới nhất từ ​​nhiều khách hàng quốc tế, học hỏi các kỹ năng phân tích và <a href="/vi/analysis/trading-strategies" rel="noopener" target="_blank"><span style="text-decoration: underline">chiến lược đầu tư</span></a> chuyên nghiệp nhất, giúp khách hàng đưa ra những nhận định và quyết định chính xác nhất nhằm nâng cao hơn nữa trình độ giao dịch của khách hàng.</p>
+<p style="text-align: justify;line-height: 1.75">Nội dung thông tin được cung cấp bởi Dow Jones Newswires có thẩm quyền và giá trị tham khảo cao trên thị trường tài chính. ATFX kết hợp các dịch vụ của Dow Jones Newswires vào nền tảng giao dịch MT4, mở rộng hơn nữa các kênh để khách hàng có được thông tin. ATFX có thể nhận được những nhận định độc quyền từ Dow Jones Newswires và cũng có thể hiểu sâu hơn về hoạt động hàng ngày của <a href="/vi/analysis/market-news" rel="noopener" target="_blank"><span style="text-decoration: underline">thị trường tài chính</span></a>. Việc bổ sung nội dung tin tức Dow Jones Newswires cung cấp luồng thông tin và dữ liệu phong phú, đồng thời khách hàng ATFX có thể dễ dàng điều hướng và tùy chỉnh cổng thông tin bằng các ngôn ngữ khác nhau theo sở thích của họ.</p>
+<p style="text-align: justify;line-height: 1.75">Tất cả khách hàng ATFX có thể sử dụng <a href="/vi/education-and-tools/trading-central" rel="noopener" target="_blank"><span style="text-decoration: underline">Trading Central</span></a>, các công cụ giao dịch chuyên nghiệp và tin tức tài chính và thông tin thị trường miễn phí do Dow Jones Newswires cung cấp miễn phí trên nền tảng giao dịch MT4.</p>
+<p style="text-align: justify;line-height: 1.75">Các công cụ chuyên nghiệp trong cổng thông tin, bao gồm tin tức theo thời gian thực, chỉ báo ý kiến ​​của nhà phân tích, phân tích kỹ thuật và cơ bản, nhận dạng mô hình và các công cụ tâm lý dựa trên dữ liệu lớn, sẽ giúp khách hàng phát triển các chiến lược đầu tư chính xác hơn.</p>
+<p style="text-align: justify;line-height: 1.75"><span style="font-size: 12px">&nbsp;</span></p>
+<p style="text-align: justify;line-height: 1.75">Bắt đầu hành trình giao dịch của bạn với <a href="https://login-gm.atfx.com/register?redirect_uri=applyLive&amp;lang=vi&amp;hsCtaTracking=9bae16b5-206b-45e3-ba25-a3120cc4b44e%7Ca429ad8a-5b77-4616-a1f3-ae98967f75d1" rel="noopener" target="_blank"><span style="text-decoration: underline">ATFX</span></a> ngay!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Việc FED tăng lãi suất ảnh hưởng như thế nào đến thị trường chứng khoán và thị trường ngoại hối?</title>
+		<link>https://www.atfx.com/vi/analysis/trading-strategies/how-fed-rate-hikes-affect-stock-forex-market</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Wed, 02 Feb 2022 06:00:00 +0000</pubDate>
+				<category><![CDATA[Chiến lược Giao dịch của bạn]]></category>
+		<category><![CDATA[Chiến lược cho người ít kinh nghiệm]]></category>
+		<guid isPermaLink="false">https://lptemplatedev.wpengine.com/uncategorized/how-fed-rate-hikes-affect-stock-forex-market-2</guid>
+
+					<description><![CDATA[Việc FED tăng lãi suất đồng nghĩa với việc sử dụng đồng đô la Mỹ sẽ hấp dẫn hơn thay vì các đồng tiền khác. Các quỹ và vốn từ một số công ty nước ngoài sẽ chảy vào thị trường Mỹ, đây là một khía cạnh quan trọng của thị trường đầu tư Mỹ. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p style="text-align: justify;line-height: 1.75">Việc <a href="/vi/analysis/market-news/major-central-banks-negotiate-interest-rate-decisions-reducing-debt-purchases" rel="noopener" target="_blank">FED tăng lãi suất</a> đồng nghĩa với việc sử dụng đồng <a href="/vi/analysis/trading-strategies/3-factors-that-affect-us-dollar-rate" rel="noopener" target="_blank">đô la Mỹ</a> sẽ hấp dẫn hơn thay vì các đồng tiền khác. Các quỹ và vốn từ một số công ty nước ngoài sẽ chảy vào thị trường Mỹ, đây là một khía cạnh quan trọng của thị trường đầu tư Mỹ. Đồng thời, lãi suất cao hơn có khả năng gây ra sự tăng giá của đồng đô la Mỹ. Ngoài ra, việc FED tăng lãi suất có xu hướng làm tăng lãi suất huy động của các ngân hàng Mỹ. Nhiều nhà đầu tư thông minh từ Mỹ và nước ngoài sẽ chọn gửi tiền của họ vào các ngân hàng Mỹ. Thị trường chứng khoán Mỹ sẽ biến động khiến giá cổ phiếu giảm, nhưng xét ở góc độ rộng, việc FED tăng lãi suất đối với nền kinh tế Mỹ có nhiều ưu điểm hơn là nhược điểm.</p>
+<p><span id="more-10612"></span></p>
+<p style="text-align: justify;line-height: 1.75">&nbsp;</p>
+<p style="text-align: justify;line-height: 1.75"><img decoding="async" src="https://www.atfx.com/hubfs/ATFX-fed-rate-hikes.jpg?width=1200&amp;name=ATFX-fed-rate-hikes.jpg" alt="ATFX-fed-rate-hikes" loading="lazy" style="margin-left: auto;margin-right: auto;width: 2000px" width="2000"></p>
+<p style="text-align: justify;line-height: 1.75">&nbsp;</p>
+<h2 style="font-size: 20px;text-align: justify;line-height: 1.75">FED tăng lãi suất ảnh hưởng như thế nào đến thị trường chứng khoán</h2>
+<p style="text-align: justify;line-height: 1.75">&nbsp;</p>
+<ol style="text-align: justify">
+<li>Đối với thị trường chứng khoán Mỹ, lãi suất tăng sẽ làm tăng lãi suất tiền gửi ngân hàng. Do đó, các nhà đầu tư sẽ chọn gửi tiền vào ngân hàng, điều này sẽ làm giảm đáng kể số lượng vốn chảy vào thị trường chứng khoán.</li>
+</ol>
+<p style="text-align: justify;line-height: 1.75">&nbsp;</p>
+<ol style="text-align: justify" start="2">
+<li>Đối với <a href="/vi/analysis/market-news/chinese-concept-stocks-skyrocketed-overnight-at-the-end-of-2021-will-they-reverse-the-decline-in-2022" rel="noopener" target="_blank">thị trường chứng khoán Trung Quốc</a>, dòng vốn đổ vào thị trường chứng khoán Mỹ sẽ làm giảm đầu tư vào chứng khoán Trung Quốc, và giá cổ phiếu của họ có thể sẽ giảm, tác động đến thị trường chứng khoán toàn cầu.</li>
+</ol>
+<p style="text-align: justify;line-height: 1.75">&nbsp;</p>
+<ol style="text-align: justify" start="3">
+<li>Khi Cục Dự trữ Liên bang tăng lãi suất, các quỹ của Trung Quốc hoặc vốn nước ngoài sẽ chảy vào thị trường Mỹ. Kết quả là, một khi đồng USD tăng giá, đồng Nhân dân tệ sẽ có khả năng mất giá, và chi phí mua nguyên liệu của các công ty Trung Quốc sẽ tăng lên.</li>
+</ol>
+<p style="text-align: justify;line-height: 1.75">&nbsp;</p>
+<h3 style="font-size: 18px;text-align: justify;line-height: 1.75">FED tăng lãi suất ảnh hưởng như thế nào đến thị trường ngoại hối</h3>
+<p style="text-align: justify;line-height: 1.75">Nếu Cục Dự trữ Liên bang tăng lãi suất, nó sẽ làm cho các tài sản được định giá bằng đô la Mỹ rất được săn đón, vì đô la Mỹ tăng giá đáng kể. Giá trị tiền tệ của mỗi quốc gia có thể sẽ giảm trong bối cảnh các nhà đầu tư ngày càng có xu hướng mua tài sản bằng đô la Mỹ, điều này cũng sẽ tác động đáng kể đến dòng vốn của một quốc gia. Nhưng hầu hết thời gian, sau khi FED thông báo tăng lãi suất trên thị trường ngoại hối, đồng đô la Mỹ đã không tăng cao hơn.</p>
+<p style="text-align: justify;line-height: 1.75">Nguyên nhân chính của những điều trên là do thị trường ngoại hối có những kỳ vọng nhất định đối với đô la Mỹ về việc tăng lãi suất. Các thị trường theo dõi các khía cạnh khác nhau, chẳng hạn như <a href="/vi/analysis/market-news" rel="noopener" target="_blank">tình hình kinh tế</a> ở Mỹ và các bài phát biểu của các thành viên Fed trước khi tăng lãi suất. Tại thời điểm này, thị trường ngoại hối có thể đã kết luận rằng đồng đô la Mỹ sắp chịu lãi suất cao hơn. Do đó, sẽ có nhiều thông tin về xu hướng tăng lãi suất của đô la Mỹ trên thị trường ngoại hối. Khi <a href="/vi/analysis/market-news/us-dollar-retreats-from-highs" rel="noopener" target="_blank">FED của Mỹ</a> tăng lãi suất, thị trường có thể đã định giá trước tác động của đợt tăng lãi suất này đối với thị trường ngoại hối. Vì vậy, khi FED đưa ra thông báo thực tế, nó sẽ không phản ứng đáng kể. Mặt khác, nếu Cục Dự trữ Liên bang không thông báo về việc tăng lãi suất, thị trường có thể có phản ứng tương đối lớn, vì họ đã mong đợi một đợt tăng lãi suất.</p>
+<p style="text-align: justify;line-height: 1.75">&nbsp;</p>
+<h3 style="font-size: 18px;text-align: justify;line-height: 1.75">Việc FED tăng lãi suất sẽ có tác động gì đến thị trường ngoại hối?</h3>
+<p style="text-align: justify;line-height: 1.75"><img decoding="async" src="https://www.atfx.com/hubfs/ATFX-fed-rate-hikes-forex.jpg?width=1200&amp;name=ATFX-fed-rate-hikes-forex.jpg" alt="ATFX-fed-rate-hikes-forex" loading="lazy" style="margin-left: auto;margin-right: auto;width: 2000px" width="2000"></p>
+<p style="text-align: justify;line-height: 1.75">&nbsp;</p>
+<ol style="text-align: justify">
+<li>FED tăng lãi suất đồng nghĩa với việc đồng đô la Mỹ đi vào kênh mạnh, các đồng tiền và <a href="/vi/markets/commodities" rel="noopener" target="_blank">hàng hóa</a> liên kết với đô la Mỹ sẽ mất giá.</li>
+</ol>
+<p style="text-align: justify;line-height: 1.75">&nbsp;</p>
+<ol style="text-align: justify" start="2">
+<li>Lãi suất cao hơn tạo động lực mạnh mẽ cho dòng vốn quốc tế vào Mỹ.</li>
+</ol>
+<p style="text-align: justify;line-height: 1.75">&nbsp;</p>
+<ol style="text-align: justify" start="3">
+<li>Các quốc gia được hỗ trợ vốn bằng đô la Mỹ sẽ đối mặt với rủi ro về bơm vốn và tháo chạy vốn.</li>
+</ol>
+<p style="text-align: justify;line-height: 1.75">&nbsp;</p>
+<ol style="text-align: justify" start="4">
+<li>Nó cho thấy FED lạc quan về sự phát triển kinh tế của Mỹ vì nó cần phải áp dụng các chính sách tiền tệ chặt chẽ hơn để ngăn chặn động lực chung của nền kinh tế.</li>
+</ol>
+<p style="text-align: justify;line-height: 1.75">&nbsp;</p>
+<ol style="text-align: justify" start="5">
+<li>Nhìn chung, việc tăng lãi suất đô la Mỹ có lợi cho đô la Mỹ, làm cho <a href="/vi/markets/indices-trading" rel="noopener" target="_blank">chỉ số đô la Mỹ</a> tăng.</li>
+</ol>
+<p style="text-align: justify;line-height: 1.75">&nbsp;</p>
+<p style="text-align: justify;line-height: 1.75">FED tăng lãi suất đồng nghĩa với việc tăng lãi suất quỹ Liên bang, là tỷ lệ mà các ngân hàng thương mại cho vay tiền lẫn nhau. Lãi suất cao hơn có tác động đáng kể đến lãi suất trả của các ngân hàng thương mại, ảnh hưởng đến lãi suất ngân hàng đưa ra.</p>
+<p style="text-align: justify;line-height: 1.75">Khi FED tăng lãi suất, các ngân hàng cũng sẽ tăng lãi suất tiền gửi của người dùng. Do đó, các nhà đầu tư ngoại hối thích nắm giữ đô la Mỹ hơn các đồng tiền khác. Khi các quỹ quốc tế đổ vào Mỹ để tìm kiếm lợi suất cao hơn, đồng đô la Mỹ sẽ mạnh hơn trên thị trường ngoại hối và tăng giá so với các đồng tiền khác. Do đó, các đồng tiền khác sẽ giảm giá so với đô la Mỹ.</p>
+<p style="text-align: justify;line-height: 1.75">Tìm hiểu thêm các <a href="/vi/analysis/trading-strategies" rel="noopener" target="_blank">chiến lược giao dịch</a> và bắt đầu hành trình giao dịch của bạn ngay bây giờ!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Tại sao đòn bẩy cao trên thị trường Forex? &#8211; Chiến lược Giao dịch cho Nhà giao dịch Trung cấp</title>
+		<link>https://www.atfx.com/vi/analysis/trading-strategies/why-is-leverage-high-in-the-forex-market</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Wed, 15 Dec 2021 09:48:00 +0000</pubDate>
+				<category><![CDATA[Chiến lược Giao dịch của bạn]]></category>
+		<category><![CDATA[Chiến lược cho người ít kinh nghiệm]]></category>
+		<guid isPermaLink="false">https://lptemplatedev.wpengine.com/uncategorized/why-is-leverage-high-in-the-forex-market-2</guid>
+
+					<description><![CDATA[Chủ đề của đầu tư tài chính bao gồm hàng loạt công cụ giao dịch. Đòn bẩy không tồn tại trên thị trường cổ phiếu loại A của Trung Quốc vì giá cổ phiếu của từng cổ phiếu quá thấp. Đối với cổ phiếu 10 nhân dân tệ, ngưỡng giao dịch một lô chỉ là [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Chủ đề của<a href="https://www.atfx.com/vi/markets"><span> đầu tư tài chính</span></a> bao gồm hàng loạt<a href="https://www.atfx.com/vi/education-and-tools"><span> công cụ giao dịch</span></a>. Đòn bẩy không tồn tại trên thị trường cổ phiếu loại A của Trung Quốc vì giá cổ phiếu của từng cổ phiếu quá thấp. Đối với cổ phiếu 10 nhân dân tệ, ngưỡng giao dịch một lô chỉ là 1.000 nhân dân tệ và vẫn còn nhỏ đối với hầu hết nhà giao dịch cá nhân.</p>
+<p><span id="more-10425"></span></p>
+<p>Trên thị trường hợp đồng kỳ hạn của Trung Quốc, đòn bẩy thường được đặt ở mức 20 lần. Ví dụ, một hợp đồng đậu tương có quy mô là 2105 đơn vị, giá hiện tại là 3185 nhân dân tệ/ tấn, quy mô lô 10 tấn, ngưỡng giao dịch tối thiểu là 31.850 nhân dân tệ. Số tiền này đủ để làm hầu hết nhà đầu tư cá nhân phải e dè.</p>
+<p>Để tăng tính thanh khoản cho thị trường và cho phép các nhà đầu tư nhỏ lẻ tham gia, việc đưa ra đòn bẩy gấp 20 lần quả thực là phù hợp. Đối với một hợp đồng tương tự, các nhà giao dịch chỉ được yêu cầu trả số tiền ký quỹ là 1592 nhân dân tệ để giao dịch, xét cho cùng, hầu hết không có ý định giữ hợp đồng cho đến khi đến hạn (giao hàng yêu cầu thanh toán đầy đủ), nhưng tham gia vào chênh lệch giá từ biến động giá của sản phẩm tương lai.</p>
+<p>&nbsp;</p>
+<h2 style="font-size: 33px">Tại sao đòn bẩy trên thị trường ngoại hối lại cao như vậy?</h2>
+<p>Do lý do tương tự, giá trị của một hợp đồng trên <a href="https://www.atfx.com/vi/markets/forex-trading"><span>thị trường forex</span></a> tăng cao tới 100.000 đồng tiền cơ sở, thường là đồng đô la Mỹ. Việc quy đổi 100.000 đô la Mỹ thành nhân dân tệ là 700.000, đây là mức tiền vượt quá khả năng chi trả của hầu hết nhà giao dịch.</p>
+<p>Ngưỡng vốn do Ban Khoa học, Công nghệ và Đổi mới Trung Quốc đưa ra là 500.000 nhân dân tệ. Các mức ngưỡng này đã bị chỉ trích rộng rãi, hơn nữa có một ngưỡng tối thiểu là 700.000 nhân dân tệ để trở thành một phần của thị trường ngoại hối.</p>
+<p><img decoding="async" src="https://www.atfx.com/hubfs/Others%20folders/ATFX%20Blog%20Image%202020/ATFX_forex-market-trading.jpg" alt="forex-market-trading" width="1200" loading="lazy" style="width: 1200px"></p>
+<p>Nhiều người đã đặt câu hỏi về sự cần thiết phải có đồng tiền cơ sở 100.000 và tranh luận về việc liệu một người có thể bắt đầu giao dịch trong phạm vi hàng trăm đến hàng nghìn hay không.</p>
+<p>Nói tóm lại là có. Tuy nhiên, đối với thị trường tiền tệ, biến động tỷ giá hối đoái là tối thiểu trong ngắn hạn, không giống như <a href="https://www.atfx.com/vi/markets/shares-trading"><span>thị trường chứng khoán</span></a> chịu giới hạn 10% hàng ngày.&nbsp;</p>
+<p>Ví dụ như EURUSD, năm 2019 biến động bình quân là 2,22%, năm 2018 biến động 4,45%, năm 2017 biến động 13,98%, năm 2016 biến động 3,14% và năm 2015 biến động 10,17%.</p>
+<p>Biến động cao nhất trong năm chỉ khoảng 10%. Có 365 ngày trong một năm. Người ta có thể tưởng tượng mức độ biến động của một ngày nhỏ như thế nào. Dưới những biến động nhỏ như vậy, số tiền đầu tư hàng trăm nghìn đô la là viển vông, và nó có thể bị giữ lại trong vài năm mà không thu được lợi nhuận đáng kể.</p>
+<p>Lý do tỷ giá hối đoái biến động nhỏ là do tỷ giá hối đoái là nền tảng cho sự ổn định kinh tế của quốc gia. Nếu tỷ giá hối đoái biến động thường xuyên sẽ giáng một đòn mạnh vào ngành xuất nhập khẩu của cả nước.</p>
+<p>Ngoài ra, các công ty trong nước thường ra thị trường quốc tế để thực hiện các khoản vay. Nếu tỷ giá hối đoái biến động mạnh, số tiền vay sẽ thay đổi mạnh cùng với sự biến động của tỷ giá hối đoái, điều này rõ ràng không có lợi cho việc quản lý chi phí tài chính của doanh nghiệp.</p>
+<p>Đòn bẩy của thị trường ngoại hối là từ 30 đến 200, đòn bẩy từ 50 lần trở xuống là phù hợp cho các tổ chức tham gia, và đòn bẩy từ 100 đến 200 là phù hợp cho các nhà giao dịch cá nhân tham gia.</p>
+<p>Do đặc điểm của thị trường ngoại hối, các nhà giao dịch nói chung không sử dụng tỷ lệ phần trăm tăng hoặc giảm để đo lường sự biến động của thị trường, thay vào đó sử dụng &#8216;độ lệch chuẩn&#8217; để đo lường.</p>
+<p>Ví dụ, EURUSD, điểm tiêu chuẩn là dao động tỷ giá hối đoái 0,0001, là một phần mười nghìn. Để giao dịch một lô EURUSD, dưới đòn bẩy 200 lần, bạn chỉ cần trả 500 đô la Mỹ. Đối với mỗi điểm biến động tỷ giá hối đoái tiêu chuẩn, lãi hoặc lỗ của nhà giao dịch là 10 đô la Mỹ. Vào cuối một ngày, sự biến động của EURUSD có thể là từ hàng chục đến hàng trăm điểm, do đó có thể đạt được mức tăng đáng kể trong điều kiện biến động thấp.</p>
+<p>Đòn bẩy đôi khi có thể có lợi nhuận nhưng lại gây thiệt hại. Nó có thể hạ thấp ngưỡng giao dịch và cho phép nhiều nhà giao dịch cá nhân tham gia hơn; nó cũng làm tăng rủi ro giao dịch, đặc biệt là khi tiền gốc bị mất hoặc thậm chí nợ tiền.</p>
+<p>Nhiều nhà giao dịch coi thanh khoản là một vấn đề của đòn bẩy quá cao, điều này không liên quan gì đến mức độ của đòn bẩy. Thay vào đó, việc kiểm soát rủi ro của các nhà giao dịch là rất quan trọng.&nbsp;</p>
+<p>&nbsp;</p>
+<h2 style="font-size: 33px">Hai yếu tố chính của kiểm soát rủi ro: Vị thế &amp; Cắt lỗ</h2>
+<p>Một sai lầm phổ biến của các nhà giao dịch cá nhân là họ không đặt mức cắt lỗ khi giao dịch các vị thế lớn, đây là nguyên nhân cơ bản dẫn đến các khoản lỗ lớn, thanh khoản và bán khống.</p>
+<p><img decoding="async" src="https://www.atfx.com/hubfs/Others%20folders/ATFX%20Blog%20Image%202020/ATFX_trading-risk-control.jpg" alt="ATFX_trading-risk-control" width="1200" loading="lazy" style="width: 1200px"></p>
+<p>Ngay cả khi bạn không sử dụng đòn bẩy để giao dịch, bạn sẽ bị lỗ nhiều hơn dự kiến ​​nếu bạn phạm phải các vị thế lớn và thua lỗ không ngừng. Các nhà giao dịch luôn phạm phải hai vấn đề này bởi vì chúng được thúc đẩy bởi bản chất của con người.</p>
+<p>Ai cũng muốn đầu tư vào thị trường để kiếm tiền nhanh chóng. Họ thiếu kiên nhẫn và thường đặt lệnh với tâm lý &#8220;đánh bạc&#8221; sẽ khiến nhà giao dịch gặp thất bại. Dưới sự dẫn dắt của cảm xúc bốc đồng, ý tưởng &#8220;quyết định thắng thua&#8221; có thế thượng phong, và các loại hành vi phi lý sẽ tự nhiên xuất hiện.</p>
+<p>Các nhà đầu tư sành sỏi biết rằng tự do tài chính không đạt được thông qua một giao dịch đơn lẻ, nó đòi hỏi sự tích lũy của vô số lệnh giao dịch. Nhà giao dịch nên học <a href="https://www.atfx.com/vi/ways-to-trade"><span>cách giao dịch</span></a>, hạ thấp vị thế, coi lệnh cắt lỗ như một thói quen và kìm hãm sự nóng nảy trong giao dịch, là phương pháp để có được lợi nhuận ổn định lâu dài.&nbsp;</p>
+<p>&nbsp;</p>
+<h2 style="font-size: 33px">Tóm tắt</h2>
+<p>Phạm vi của đòn bẩy rất rộng, và việc phát hành trái phiếu của các công ty niêm yết cũng là một loại đòn bẩy, nhưng nó được gọi là đòn bẩy tài chính.</p>
+<p>Việc trả trước 35% cũng là một loại đòn bẩy, và người mua chỉ cần trả trước một phần là có thể nhận nhà ở. Do đó, đòn bẩy không phải là trọng tâm của vấn đề, vì nó mang lại lợi ích cho những người sử dụng nó một cách thận trọng; tuy nhiên, mọi người phải thận trọng trong việc kiểm soát rủi ro khi sử dụng đòn bẩy. Kiểm soát rủi ro là một ranh giới mỏng manh và hẹp, và chỉ thông qua trải nghiệm trực tiếp, người dùng mới có thể hưởng lợi lâu dài.</p>
+<p>&nbsp;</p>
+<p>Tải về <a href="https://www.atfx.com/vi/trading-platforms/metatrader-4/download-mt4"><span>tài khoản Metatrader 4</span></a> hoặc thiết lập <a href="https://www.atfx.com/vi/trading-accounts/demo-account"><span>tài khoản giao dịch Demo</span></a> để bắt đầu giao dịch!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Những gì Bạn Nên biết về 3 Chỉ số Thị trường Chứng khoán Chính của Mỹ</title>
+		<link>https://www.atfx.com/vi/analysis/trading-strategies/what-you-should-know-about-the-three-major-us-stock-market-indexes</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Wed, 15 Dec 2021 03:15:00 +0000</pubDate>
+				<category><![CDATA[Chiến lược Giao dịch của bạn]]></category>
+		<category><![CDATA[Chiến lược cho người ít kinh nghiệm]]></category>
+		<guid isPermaLink="false">https://lptemplatedev.wpengine.com/uncategorized/what-you-should-know-about-the-three-major-us-stock-market-indexes-2</guid>
+
+					<description><![CDATA[Hầu hết nhà đầu tư đều biết rằng có ba chỉ số chứng khoán Mỹ quan trọng, đó là Chỉ số Dow Jones Index, chỉ số Nasdaq và Chỉ số S&#38;P 500. Các nhà đầu tư mới không quen thuộc lắm với ba chỉ số này và các cách để giao dịch. Bài viết này [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p style="text-align: justify">Hầu hết nhà đầu tư đều biết rằng có ba <a href="https://www.atfx.com/vi/markets/indices-trading"><span>chỉ số chứng khoán Mỹ</span></a> quan trọng, đó là Chỉ số Dow Jones Index, chỉ số Nasdaq và Chỉ số S&amp;P 500. Các nhà đầu tư mới không quen thuộc lắm với ba chỉ số này và <a href="https://www.atfx.com/vi/ways-to-trade"><span>các cách để giao dịch</span></a>. Bài viết này sẽ giới thiệu tầm quan trọng của ba chỉ số chứng khoán của Mỹ này và cách các nhà đầu tư nên tham khảo chúng khi đầu tư.</p>
+<p><span id="more-10504"></span></p>
+<p style="text-align: justify"><img decoding="async" src="https://www.atfx.com/hubfs/ATFX-us-stock-market-index.jpg?width=1200&amp;name=ATFX-us-stock-market-index.jpg" alt="ATFX-us-stock-market-index" loading="lazy"></p>
+<h2 style="text-align: justify;font-size: 30px">1. Chỉ số Dow Jones, một chỉ báo về hiệu suất chung của thị trường</h2>
+<p style="text-align: justify">Là một chỉ số chứng khoán có lịch sử lâu đời trên thế giới, Chỉ số Dow Jones có lịch sử trên 100 năm. Các cổ phiếu thành phần của nó chỉ là 30. Nó là công ty được niêm yết lớn nhất trong nhóm US 30 cộng. Tất nhiên, mọi người đều biết rằng có trên 10.000 <a href="https://www.atfx.com/vi/markets/shares-trading"><span>cổ phiếu Mỹ</span></a>. Do đó, Chỉ số Dow Jones, chỉ có 30 cổ phiếu thành phần, cũng đã bị nhiều chuyên gia và học giả nghi ngờ. Họ cho rằng chỉ 30 cổ phiếu thành phần không mang tính đại diện, nhưng mọi người cần lưu ý rằng 30 cổ phiếu thành phần này là đủ tại Mỹ. Công ty mà bạn đang tìm kiếm vẫn có một giá trị tham chiếu lớn, có thể được sử dụng làm chỉ báo về hiệu suất chung của thị trường.</p>
+<p style="text-align: justify"><span style="font-size: 12px">&nbsp;</span></p>
+<h2 style="text-align: justify;font-size: 30px">2. Chỉ số Nasdaq, một chỉ báo quan trọng của các cổ phiếu công nghệ trên thế giới</h2>
+<p style="text-align: justify">Chỉ số Nasdaq được thiết lập vào năm 1971. Các cổ phiếu thành phần của nó bao gồm những cổ phiếu được niêm yết trên sàn Nasdaq tại Mỹ. Nó là chỉ báo quan trọng nhất của các cổ phiếu công nghệ trên thế giới. Chỉ số Nasdaq có trên 5.000 cổ phiếu thành phần, và bao phủ công nghệ Sinh hóa và các ngành khác, chẳng hạn như phần mềm và phần cứng máy tính, chất bán dẫn, truyền thông mạng, v.v., là những tiêu chuẩn tham chiếu quan trọng để đầu tư vào cổ phiếu công nghệ.</p>
+<p style="text-align: justify"><span style="font-size: 12px"> <img decoding="async" src="https://www.atfx.com/hubfs/ATFX-nasdaq-index-market.jpg?width=1200&amp;name=ATFX-nasdaq-index-market.jpg" alt="ATFX-nasdaq-index-market" loading="lazy"></span></p>
+<h3 style="text-align: justify;font-size: 24px"><span style="color: #434343">Tại sao thị trường chỉ số Nasdaq là một giao dịch phi tập trung?</span></h3>
+<p style="text-align: justify">Các nhà đầu tư trên thị trường chỉ số Nasdaq tiến hành các giao dịch qua điện thoại hoặc Internet từ trước và không cần giao dịch trên sàn giao dịch. Hầu hết các giao dịch có liên quan đến công nghệ cao, đặc biệt là máy tính. Nó là <a href="https://www.atfx.com/vi/markets"><span>thị trường giao dịch</span></a> chứng khoán điện tử đầu tiên của thế giới. Chỉ số Chứng khoán này có hệ thống thị trường riêng, và là một giao dịch chứng khoán độc lập thực hiện việc mua và bán một cổ phiếu nhất định cho nhà đầu tư.</p>
+<p style="text-align: justify">Giao dịch phi tập trung chỉ chứng khoán của các công ty không được niêm yết hoặc được niêm yết không còn được giao dịch trên sàn giao dịch mà trên thị trường phi tập trung, nhưng theo cách kín đáo ở mức giá cao hơn hoặc thấp hơn mức giá được nêu rõ trong cuộc họp chính thức. Các giao dịch được hoàn tất ở mức giá với các điều kiện khác được gọi là giao dịch qua quầy.</p>
+<p style="text-align: justify"><span style="font-size: 12px">&nbsp;</span></p>
+<h2 style="text-align: justify;font-size: 30px">3. Chỉ số S&amp;P 500, một chỉ báo về sự gia tăng và sụt giảm của nền kinh tế Mỹ</h2>
+<p style="text-align: justify">Chỉ số S&amp;P 500 là tiêu chuẩn đánh giá tổng thể cho top 500 công ty được niêm yết tại Mỹ. Công ty xếp hạng Standard &amp; Poor’s đã chọn 500 công ty hàng đầu từ tất cả các lĩnh vực của đời sống trên thị trường chứng khoán Mỹ dựa trên vốn hóa thị trường, bao phủ hai thị trường chứng khoán chính của Mỹ. Chỉ số S&amp;P 500 chứa nhiều công ty đang tăng trưởng hơn Chỉ số Dow Jones. Nó có thể phản ánh rõ hơn những thay đổi trên thị trường chứng khoán Mỹ, và các rủi ro cũng đa dạng hơn. Ngoài ra, các phương pháp trọng số được sử dụng bởi các Chỉ số S&amp;P 500 và Dow Jones cũng khác nhau. Chỉ số Dow sử dụng phương pháp tính trọng số giá chứng khoán, trong khi chỉ số S&amp;P 500 sử dụng phương pháp tính trọng số giá trị thị trường, có thể phảnh ánh rõ hơn giá trị thực tế của chứng khoán công ty, thậm chí phản ánh sự gia tăng và sụt giảm của nền kinh tế Mỹ.</p>
+<p style="text-align: justify">Một điều cuối cùng mà mọi người nên chú ý đó là ba chỉ số chứng khoán chính của Mỹ được nhắc đến ở trên chứa các cổ phiếu thành phần khác nhau. Chẳng hạn, nếu nhà đầu tư mua cổ phiếu Google, thì việc giá cổ phiếu của Google tăng và giảm sẽ ảnh hưởng tới Chỉ số Dow Jones. Bởi vì Google không phải là một thành phần của Chỉ số Dow, không chỉ số nào trong số ba chỉ số chứng khoán của Mỹ này có thể bao gồm tất cả sự gia tăng và sụt giảm hàng ngày của thị trường chứng khoán Mỹ. Khi đầu tư, nhà giao dịch không nên chỉ xem xét một chỉ số chứng khoán Mỹ. Nhà đầu tư nên kết hợp cả ba chỉ số chứng khoán để xem xét chúng cùng nhau và thực hiện theo <a href="https://www.atfx.com/vi/analysis/trading-strategies"><span>chiến lược giao dịch</span></a> để có thể dễ dàng đưa ra quyết định đúng đắn.&nbsp;</p>
+<p style="text-align: justify"><span style="font-size: 12px">&nbsp;</span></p>
+<p style="text-align: justify"><a href="https://www.atfx.com/vi/trading-platforms/metatrader-4/download-mt4"><span>Tải về Metatrader 4</span></a> hoặc thiết lập <a href="https://www.atfx.com/vi/trading-accounts/demo-account"><span>tài khoản giao dịch Demo</span></a> để bắt đầu giao dịch ngay!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Lợi tức trái phiếu Mỹ tác động như thế nào đến thị trường ngoại hối, thị trường chứng khoán, giá vàng &#038; giá dầu</title>
+		<link>https://www.atfx.com/vi/analysis/trading-strategies/how-us-bond-yields-impact-forex-market-stock-markets-gold-oil-prices</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Tue, 14 Dec 2021 08:51:00 +0000</pubDate>
+				<category><![CDATA[Chiến lược Giao dịch của bạn]]></category>
+		<category><![CDATA[Chiến lược cho người ít kinh nghiệm]]></category>
+		<guid isPermaLink="false">https://lptemplatedev.wpengine.com/uncategorized/how-us-bond-yields-impact-forex-market-stock-markets-gold-oil-prices-2</guid>
+
+					<description><![CDATA[Kể từ đầu năm nay, lợi tức trái phiếu Mỹ tăng đã là một trong những chủ đề quan trọng của các giao dịch thị trường, gây ra sự hỗn loạn tập thể trên thị trường tài chính. Dưới triển vọng phục hồi mạnh mẽ của nền kinh tế Mỹ, thị trường đang đánh giá [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Kể từ đầu năm nay, lợi tức trái phiếu Mỹ tăng đã là một trong những chủ đề quan trọng của các giao dịch thị trường, gây ra sự hỗn loạn tập thể trên <a href="https://www.atfx.com/vi/markets"><span>thị trường tài chính</span></a>. Dưới triển vọng phục hồi mạnh mẽ của nền kinh tế Mỹ, thị trường đang đánh giá kỳ vọng rằng lợi tức trái phiếu kho bạc Mỹ kỳ hạn 10 năm sẽ tiếp tục tăng. Nhiều tổ chức cho rằng có thể đạt mức hơn 2% trước cuối năm nay. Có thể thấy rằng chủ đề giao dịch như vậy sẽ còn tiếp tục trong một thời gian dài. Về mặt nội bộ, làm thế nào để dự đoán hoặc thực hiện các giao dịch tốt hơn thông qua những thay đổi của lợi tức trái phiếu? Trước hết, chúng ta phải làm rõ mối tương quan xu hướng giữa nó và các tài sản khác nhau.</p>
+<p><span id="more-10371"></span></p>
+<p>&nbsp;</p>
+<h2 style="font-size: 33px">Tác động đến thị trường ngoại hối</h2>
+<p>Lợi tức trái phiếu tăng phản ánh tăng trưởng kinh tế đang được cải thiện và cũng chỉ ra rằng triển vọng lạm phát đang nóng lên và mức độ lạm phát có liên quan đến chính sách tiền tệ của ngân hàng trung ương. Nếu lạm phát tăng quá nhanh, ngân hàng trung ương sẽ phải thắt chặt các chính sách để ứng phó, và quan điểm của thị trường đối với chính sách tiền tệ của ngân hàng trung ương. Kỳ vọng sẽ thúc đẩy xu hướng tỷ giá hối đoái chung, vì vậy tỷ suất lợi tức là rất quan trọng đối với <a href="https://www.atfx.com/vi/markets/forex-trading"><span>thị trường forex</span></a>.</p>
+<p><img decoding="async" src="https://www.atfx.com/hubfs/forex-market-us-bond-yields.jpg" alt="forex-market-us-bond-yields" width="1200" loading="lazy"></p>
+<p>Sự khác biệt giữa lợi tức trái phiếu của một quốc gia và lợi tức trái phiếu của một quốc gia khác sẽ ảnh hưởng đến xu hướng của các cặp tỷ giá tương ứng. Các quốc gia có lãi suất cao hơn sẽ thu hút nhiều nhà đầu tư mua trái phiếu của họ hơn, với hy vọng thu được lợi tức cao hơn. Các dòng vốn sẽ bị thu hút bởi các đồng tiền có lợi tức cao, và chi phí nắm giữ các đồng tiền có lợi tức thấp sẽ tăng lên, do đó nhu cầu mua các trái phiếu này sẽ thu hút dòng vốn, làm cho đồng tiền của quốc gia trở nên mạnh hơn.</p>
+<p style="font-size: 18px">Ví dụ sau có thể hiểu trực quan hơn tác động của nó:</p>
+<p>Kể từ tháng 2 năm nay, lợi tức trái phiếu kho bạc Mỹ kỳ hạn 10 năm bắt đầu tăng đáng kể, vượt qua mốc 1,7% vào ngày 18/3 và chạm mức cao mới kể từ tháng 1 năm ngoái vào ngày 30/3. Trong thời gian này, <a href="https://www.atfx.com/vi/markets/indices-trading"><span>chỉ số đô la Mỹ</span></a> cũng theo đà tăng, mức cao nhất đã vượt qua mốc 93. Tuy nhiên, mặc dù lợi tức trái phiếu dài hạn tăng đáng kể, nhưng lợi tức trái phiếu ngắn hạn vẫn ổn định, và mức chênh lệch của trái phiếu dài hạn và ngắn hạn ngày càng mở rộng, cho thấy triển vọng tăng trưởng kinh tế và lạm phát gia tăng.</p>
+<p>Xu hướng của đồng euro đã yếu hơn so với đồng đô la trong năm nay. Một phần nguyên nhân là do khả năng phục hồi của nền kinh tế Mỹ đã vượt qua khu vực đồng euro và khoảng cách vẫn đang được nới rộng. Với việc các nhà đầu tư trở nên lạc quan hơn về triển vọng của nền kinh tế Mỹ, lợi tức Kho bạc Mỹ cao hơn so với Kho bạc Đức. Lãi suất tăng sẽ đẩy nhanh sự quay trở lại của các quỹ đối với đồng đô la Mỹ và củng cố đồng đô la Mỹ so với đồng euro.</p>
+<p><img decoding="async" src="https://www.atfx.com/hubfs/Others%20folders/ATFX%20Blog%20Image%202020/US-dollar-index.png" alt="US-dollar-index" width="1318" loading="lazy"></p>
+<p>Một ví dụ khác là các biện pháp của chính phủ New Zealand để hạ nhiệt giá nhà ở đang tăng, làm giảm đáng kể kỳ vọng lạm phát, do đó dẫn đến lợi tức trái phiếu New Zealand giảm 10 điểm cơ bản, điều này cũng kéo đồng đô la New Zealand xuống so với Đô la Mỹ trong hai giao dịch. Nó đã giảm mạnh hơn 2,4% trong ngày.</p>
+<p><span style="font-size: 12px">&nbsp;</span></p>
+<h2 style="font-size: 33px">Tác động đến thị trường chứng khoán</h2>
+<p>Ngoài thị trường ngoại hối, lợi tức trái phiếu Mỹ cũng liên quan chặt chẽ đến các thị trường khác. Vì lợi tức trái phiếu bị ảnh hưởng đáng kể bởi chính sách tiền tệ, lãi suất mục tiêu của Fed ảnh hưởng đến trái phiếu kho bạc bằng cách ảnh hưởng đến nhu cầu. Lãi suất thấp hơn sẽ làm tăng nhu cầu đối với trái phiếu Mỹ, và lãi suất cao hơn sẽ làm giảm nhu cầu. Nhu cầu càng thấp thì lãi suất càng cao. Do đó, xu hướng lợi tức được thị trường coi là chỉ báo hàng đầu trong chính sách của Fed. Cũng như thị trường hiện tại ước tính khả năng Fed sẽ tăng lãi suất trước vào năm tới, lợi tức trái phiếu của Mỹ cũng đã tăng lên mức cao trong hơn một năm.</p>
+<p>Đồng thời, lợi tức trái phiếu cũng có thể được coi là một chỉ báo thể hiện niềm tin của nhà đầu tư, bởi vì khi <a href="https://www.atfx.com/vi/markets/shares-trading"><span>thị trường chứng khoán</span></a> ở trong một thị trường tăng giá, giá trái phiếu kho bạc thường giảm do các nhà đầu tư đã gia tăng mức độ sẵn sàng chấp nhận rủi ro để tìm kiếm lợi nhuận cao hơn. Ngược lại, khi lãi suất tăng, trái phiếu hấp dẫn hơn cổ phiếu hoặc các khoản đầu tư khác có rủi ro cao hơn.</p>
+<p><img decoding="async" src="https://www.atfx.com/hubfs/Others%20folders/ATFX%20Blog%20Image%202020/bear-bull-market.jpg" alt="bear-bull-market" width="1200" loading="lazy"></p>
+<p>Lợi tức danh nghĩa tăng là tốt cho thị trường chứng khoán, trong khi lợi tực thực tăng không tốt cho thị trường chứng khoán. Trong môi trường lạm phát cao, lợi tức tăng thường dẫn đến lợi tức cổ phiếu giảm. Tuy nhiên, các lĩnh vực khác nhau phản ứng khác nhau với lợi tức tăng. Ví dụ, các ngành công nghiệp chu kỳ thường hoạt động tốt hơn khi lợi tức tăng, vì nó tương ứng với sự cải thiện về triển vọng kinh tế, trong khi các ngành công nghiệp phòng thủ thì ngược lại.</p>
+<p><span style="font-size: 12px">&nbsp;</span></p>
+<h2 style="font-size: 33px">Tác động đến vàng</h2>
+<p>Mặc dù cả lợi tức và <a href="https://www.atfx.com/vi/markets/commodities/gold-trading"><span>giá vàng</span></a> của Mỹ dường như đang có xu hướng ngược lại với thị trường chứng khoán, nhưng điều đó không có nghĩa là có mối tương quan tích cực giữa hai yếu tố này. Trái phiếu kho bạc và vàng có thuộc tính tự bảo hiểm, có mối tương quan thuận giữa giá vàng và trái phiếu, và có mối tương quan nghịch giữa vàng và lợi tức trái phiếu.&nbsp;</p>
+<p>Khi lợi tức trái phiếu tăng cao hoặc lãi suất tăng thì càng gây bất lợi cho vàng, vì vàng vốn là tài sản không có lãi, và lợi suất nợ tăng cũng sẽ đẩy đồng đô la lên cao hơn, gây áp lực lên vàng. Vì vậy, khi lợi tức kho bạc Mỹ kỳ hạn 10 năm đạt mức cao mới trong hơn một năm vào cuối tháng 3, vàng giao ngay tại thời điểm đó đã giảm xuống dưới mốc 1.700 USD quan trọng.</p>
+<p>Nhưng ở góc độ khác: lợi tức tăng cho thấy kỳ vọng vào một nền kinh tế mạnh. Những kỳ vọng như vậy sẽ thúc đẩy lạm phát và vàng thường được sử dụng để bảo vệ chống lại lạm phát. Do đó, nó không hoàn toàn gây bất lợi cho vàng về lâu dài. Nếu lạm phát trong tương lai tăng cao cho đến khi gây hoảng loạn thị trường, giá vàng sẽ một lần nữa thể hiện sức hấp dẫn của nó.</p>
+<p>&nbsp;</p>
+<h2 style="font-size: 33px">Tác động đến giá dầu</h2>
+<p>Xu hướng giá năng lượng và lợi tức trái phiếu kho bạc có thể được coi là thước đo triển vọng kinh tế. Như đã đề cập ở trên, một nền kinh tế tích cực là điều kiện thuận lợi cho sự gia tăng của lợi tức trái phiếu. Tương tự, khi triển vọng tăng trưởng kinh tế lạc quan và nhu cầu dầu thô lạc quan, nó sẽ thúc đẩy <a href="https://www.atfx.com/vi/markets/commodities/oil-trading"><span>giá dầu thô</span></a> tăng. Do đó, mối quan hệ giá cả giữa hai bên bị ảnh hưởng bởi chu kỳ kinh tế và thể hiện mối tương quan thuận.</p>
+<p>Điều này cũng liên quan đến kỳ vọng lạm phát. Xu hướng giá trong quá khứ cho thấy tốc độ tăng hàng năm của giá dầu có tương quan thuận với tốc độ tăng CPI của Mỹ. Bản thân sự gia tăng của dầu thô sẽ thúc đẩy kỳ vọng lạm phát, do đó làm tăng lợi tức trái phiếu danh nghĩa và ảnh hưởng đến giá trái phiếu. Do đó, từ đầu năm đến nay, hai từ khóa giá dầu và lạm phát thường xuyên xuất hiện thành cặp. Sự phục hồi mạnh mẽ của giá dầu trước tháng 3 cũng đi kèm với sự gia tăng của lợi tức trái phiếu.</p>
+<p><img decoding="async" src="https://www.atfx.com/hubfs/Others%20folders/ATFX%20Blog%20Image%202020/crude-oil-prices.jpg" alt="crude-oil-prices" width="1200" loading="lazy"></p>
+<p>Tất nhiên, ngoài nợ công của Mỹ, chúng ta cũng nên chú ý đến mối quan hệ giữa hiệu suất lợi tức trái phiếu của các nước xuất khẩu dầu thô lớn và giá dầu (như Canađa), và thậm chí cả các nước xuất khẩu hàng hóa khác (chẳng hạn như Australia). Nếu kỳ vọng lạm phát và lợi tức trái phiếu ở các quốc gia khác nhau tiếp tục duy trì ở mức cao hoặc tăng cao hơn nữa, giá dầu cũng sẽ có sự điều phối tăng tích cực. Tuy nhiên, hãy chú ý đến thực tế là tỷ lệ nợ Mỹ tăng sẽ hỗ trợ đồng đô la Mỹ, và đồng đô la Mỹ mạnh lên sẽ ảnh hưởng đến mức tăng chung của <a href="https://www.atfx.com/vi/markets/commodities"><span>giá cả hàng hóa</span></a>.</p>
+<p>&nbsp;</p>
+<p>Mở <a href="https://login-gm.atfx.com/register"><span>tài khoản giao dịch Live</span></a> hoặc thiết lập <a href="https://www.atfx.com/vi/trading-accounts/demo-account"><span>tài khoản giao dịch Demo</span></a> để bắt đầu giao dịch!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

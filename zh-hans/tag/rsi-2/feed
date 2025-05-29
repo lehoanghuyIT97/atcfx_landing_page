@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>RSI Archives - ATFX Global - Official Website</title>
+	<atom:link href="https://www.atfx.com/zh-hans/tag/rsi-2/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Wed, 07 May 2025 04:15:06 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>https://www.atfx.com/wp-content/uploads/2023/06/favicon-150x150.webp</url>
+	<title>RSI Archives - ATFX Global - Official Website</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>交易中的相对强弱指数 (RSI) 是什么？</title>
+		<link>https://www.atfx.com/zh-hans/analysis/trading-strategies/relative-strength-index</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Wed, 23 Apr 2025 03:57:35 +0000</pubDate>
+				<category><![CDATA[交易策略]]></category>
+		<category><![CDATA[RSI]]></category>
+		<category><![CDATA[RSI trading]]></category>
+		<category><![CDATA[中级交易策略]]></category>
+		<guid isPermaLink="false">https://www.atfx.com/?p=48344</guid>
+
+					<description><![CDATA[相对强弱指数 (RSI) 是一种动量震荡指标，用于衡量近期价格变动的速度和幅度，以识别资产的超买或超卖情况。其 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>相对强弱指数 (RSI) 是一种动量震荡指标，用于衡量近期价格变动的速度和幅度，以识别资产的超买或超卖情况。其范围从 0 到 100，通常用于发现潜在的反转点、确认市场趋势强度以及评估市场趋势的总体方向，尤其是与<a href="https://www.atfx.com/zh-hans/trading-platforms/metatrader-4/support-resistance-indicator" target="_blank" rel="noopener">支撑位和阻力</a>位结合使用时。</p>
+<p>RSI 最初由 J. Welles Wilder Jr. 于 1978 年创建，现已成为股票、<a href="https://www.atfx.com/zh-hans/markets/forex-trading" target="_blank" rel="noopener">外汇</a>、加密货币和<a href="https://www.atfx.com/zh-hans/markets/commodities" target="_blank" rel="noopener">大宗商品</a>等各个市场最广泛使用的技术指标之一。通过掌握 RSI 交易信号，交易者可以增强时机把握、改善决策并提高盈利能力。在本文中，我们将探讨 RSI 的工作原理以及如何有效地使用它来加强您的交易策略。</p>
+<h2>RSI公式如何计算？</h2>
+<p>RSI 是一个动量振荡器，用于测量价格变动的速度和变化。它是通过比较特定时期（通常为 14 天）内的平均涨幅和跌幅来计算的。它可以帮助交易者确定资产是否超买或超卖。</p>
+<h3><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f9ee.png" alt="🧮" class="wp-smiley" style="height: 1em; max-height: 1em;" /> RSI 公式：</h3>
+<p>RSI = 100 − [100 / (1 + (平均涨幅 / 平均跌幅))]</p>
+<p>分解：</p>
+<ul>
+<li>平均涨幅：给定期间内价格涨幅的平均值。</li>
+<li>平均跌幅：相同期间内价格平均跌幅。</li>
+</ul>
+<p><img fetchpriority="high" decoding="async" class="aligncenter size-large wp-image-48905" src="https://www.atfx.com/wp-content/uploads/2025/04/How-is-RSI-Formula-Calculated-SC-1024x529.webp" alt="How-is-RSI-Formula-Calculated-SC" width="800" height="413" srcset="https://www.atfx.com/wp-content/uploads/2025/04/How-is-RSI-Formula-Calculated-SC-1024x529.webp 1024w, https://www.atfx.com/wp-content/uploads/2025/04/How-is-RSI-Formula-Calculated-SC-300x155.webp 300w, https://www.atfx.com/wp-content/uploads/2025/04/How-is-RSI-Formula-Calculated-SC-768x397.webp 768w, https://www.atfx.com/wp-content/uploads/2025/04/How-is-RSI-Formula-Calculated-SC.webp 1200w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<p>RSI 计算公式可帮助交易者通过比较价格上涨和价格下跌的幅度来评估资产是上涨趋势还是下跌趋势。</p>
+<h3><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/23f1.png" alt="⏱" class="wp-smiley" style="height: 1em; max-height: 1em;" />根据市场情况调整 RSI 周期</h3>
+<p>14 个周期的默认 RSI 设置被广泛使用，因为它平衡了响应性和平滑度。然而，交易者经常会调整周期以更好地适应他们的交易市场。</p>
+<ul>
+<li>RSI 的较短周期（例如 7-9）对价格变化更加敏感，从而发出更快的信号。这通常用于价格快速波动的动荡市场。缺点是，它可能导致对微小波动做出更多错误信号反应，并且交易者可能会过于频繁地进入和退出交易。</li>
+<li>RSI 的较长周期（例如 21-30）反应性较低，可平滑短期波动。长期交易者或投资者经常使用此设置来关注大宗商品等重要的市场趋势。缺点是 RSI 对价格变化的反应可能较慢，这意味着交易者可能会错过早期的趋势转变或逆转。</li>
+</ul>
+<h2>RSI 在交易中的作用</h2>
+<p>RSI 确定资产是否超买或超卖，预示潜在的逆转。通过测量价格变化的动量，RSI 可以对资产价格走势的强弱给出指导。</p>
+<p>该指标从 0 移动到 100，关键水平为 70（超买）和 30（超卖）。</p>
+<h3><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f680.png" alt="🚀" class="wp-smiley" style="height: 1em; max-height: 1em;" /> RSI 超买状态（高于 70）：</h3>
+<p>当 RSI 超过 70 时，表明资产超买，可能即将出现回调或逆转。这通常与价格达到阻力位同时发生。</p>
+<p><strong><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4cc.png" alt="📌" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 行动：当 RSI 超过 70 时，交易者通常会卖出，因为他们预计市场将在阻力位附近出现回调。</strong></p>
+<p><strong>例子：</strong>如果<a href="https://www.atfx.com/zh-hans/live-chart/eur-usd" target="_blank" rel="noopener">欧元/美元</a>对的 RSI 为 80，则可能表明市场超买，预示着价格接近阻力位时可能下跌。</p>
+<p><img decoding="async" class="aligncenter size-large wp-image-48903" src="https://www.atfx.com/wp-content/uploads/2025/04/EUR-USD-SC-1024x887.webp" alt="EUR-USD-SC" width="800" height="693" srcset="https://www.atfx.com/wp-content/uploads/2025/04/EUR-USD-SC-1024x887.webp 1024w, https://www.atfx.com/wp-content/uploads/2025/04/EUR-USD-SC-300x260.webp 300w, https://www.atfx.com/wp-content/uploads/2025/04/EUR-USD-SC-768x666.webp 768w, https://www.atfx.com/wp-content/uploads/2025/04/EUR-USD-SC.webp 1200w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<h3><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4c9.png" alt="📉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> RSI 超卖状况（低于 30）：</h3>
+<p>当 RSI 跌破 30 时，表明资产超卖，价格可能即将反弹，尤其是在接近支撑位时。</p>
+<p><strong><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4cc.png" alt="📌" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </strong><strong>行动：当 RSI 低于 30 时，交易者通常会寻找买入机会，预期支撑位会出现逆转。</strong></p>
+<p><strong>例子：</strong>如果<a href="https://www.atfx.com/zh-hans/live-chart/gbp-usd" target="_blank" rel="noopener">英镑/美元</a>对的 RSI 为 25，则可能意味着英镑超卖，可能会出现逆转，并可能从关键支撑位反弹。</p>
+<p><img decoding="async" class="aligncenter size-large wp-image-48904" src="https://www.atfx.com/wp-content/uploads/2025/04/GBP-USD-SC-1024x887.webp" alt="GBP-USD-SC" width="800" height="693" srcset="https://www.atfx.com/wp-content/uploads/2025/04/GBP-USD-SC-1024x887.webp 1024w, https://www.atfx.com/wp-content/uploads/2025/04/GBP-USD-SC-300x260.webp 300w, https://www.atfx.com/wp-content/uploads/2025/04/GBP-USD-SC-768x666.webp 768w, https://www.atfx.com/wp-content/uploads/2025/04/GBP-USD-SC.webp 1200w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<h2>RSI 背离：发现趋势逆转</h2>
+<p>当资产价格与 RSI 走势相反时，就会出现 RSI 背离。这是潜在趋势逆转的关键信号：</p>
+<h3><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f504.png" alt="🔄" class="wp-smiley" style="height: 1em; max-height: 1em;" />看涨背离</h3>
+<p>当价格创下更低的低点，但 RSI 形成更高的低点时发生。这表明抛售势头正在减弱，价格可能出现反转上涨。</p>
+<p><strong>例子：</strong>如果美元/加元创下新低，但 RSI 形成更高的低点，则可能出现买入信号。</p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-large wp-image-48907" src="https://www.atfx.com/wp-content/uploads/2025/04/USD-CAD-SC-1024x887.webp" alt="USD-CAD-SC" width="800" height="693" srcset="https://www.atfx.com/wp-content/uploads/2025/04/USD-CAD-SC-1024x887.webp 1024w, https://www.atfx.com/wp-content/uploads/2025/04/USD-CAD-SC-300x260.webp 300w, https://www.atfx.com/wp-content/uploads/2025/04/USD-CAD-SC-768x666.webp 768w, https://www.atfx.com/wp-content/uploads/2025/04/USD-CAD-SC.webp 1200w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<h3><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f504.png" alt="🔄" class="wp-smiley" style="height: 1em; max-height: 1em;" />看跌背离</h3>
+<p>如果价格创下更高高点，但 RSI 未能创下新高，则表明买入势头减弱并可能出现下行逆转。</p>
+<p><strong>例子：</strong>如果美元/瑞郎创下新高，但 RSI 显示出更低的高点，则发出卖出信号。</p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-large wp-image-48908" src="https://www.atfx.com/wp-content/uploads/2025/04/USD-CHF-SC-1024x640.webp" alt="USD-CHF-SC" width="800" height="500" srcset="https://www.atfx.com/wp-content/uploads/2025/04/USD-CHF-SC-1024x640.webp 1024w, https://www.atfx.com/wp-content/uploads/2025/04/USD-CHF-SC-300x188.webp 300w, https://www.atfx.com/wp-content/uploads/2025/04/USD-CHF-SC-768x480.webp 768w, https://www.atfx.com/wp-content/uploads/2025/04/USD-CHF-SC.webp 1200w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<h2>RSI 中心线交叉：识别趋势强度</h2>
+<p><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4cd.png" alt="📍" class="wp-smiley" style="height: 1em; max-height: 1em;" />RSI 中心线（50 水平）对于确认现有趋势的强度至关重要：</p>
+<ul>
+<li>RSI 高于 50：当 RSI 在上升趋势中保持在 50 水平以上时，它预示着强劲的看涨势头，证实价格可能会继续上涨。</li>
+<li>RSI 低于 50：当 RSI 在下行趋势中保持在 50 水平以下时，表明看跌势头强劲，表明下行趋势可能会持续。</li>
+</ul>
+<p><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4cd.png" alt="📍" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 50水平的交叉为趋势的强度提供了额外的确认。例如：</p>
+<ul>
+<li>如果 RSI 从下方突破 50 以上，则可能预示上升趋势的开始。</li>
+<li>相反，如果 RSI 从上方跌破 50，则可能预示着下行趋势的开始。</li>
+</ul>
+<p><img loading="lazy" decoding="async" class="aligncenter size-large wp-image-48906" src="https://www.atfx.com/wp-content/uploads/2025/04/RSI-50-uptrend-SC-1024x640.webp" alt="RSI-50-uptrend-SC" width="800" height="500" srcset="https://www.atfx.com/wp-content/uploads/2025/04/RSI-50-uptrend-SC-1024x640.webp 1024w, https://www.atfx.com/wp-content/uploads/2025/04/RSI-50-uptrend-SC-300x188.webp 300w, https://www.atfx.com/wp-content/uploads/2025/04/RSI-50-uptrend-SC-768x480.webp 768w, https://www.atfx.com/wp-content/uploads/2025/04/RSI-50-uptrend-SC.webp 1200w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<h2>RSI 交易策略以及如何在您的策略中使用它</h2>
+<p>当与其他技术指标、趋势分析或市场条件相结合时，RSI 交易最有效。以下是一些使用 RSI 的策略：</p>
+<h3><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4cc.png" alt="📌" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 识别超买/超卖情况：</h3>
+<p>使用 RSI 来检测资产何时超买或超卖。当 RSI 低于 30（超卖）时买入，当 RSI 高于 70（超买）时卖出。</p>
+<ul>
+<li>RSI 高于 70 = 超买 = 潜在卖出。</li>
+<li>RSI 低于 30 = 超卖 = 潜在买入。</li>
+</ul>
+<h3><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f511.png" alt="🔑" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 发现趋势逆转的背离：</h3>
+<p>寻找价格走势和 RSI 之间的差异，以发现弱化趋势并预测潜在的逆转。</p>
+<ul>
+<li>看涨背离：价格创下更低地点，RSI 创更高低点。<strong>买入</strong></li>
+<li>看跌背离：价格创下更高高点，RSI 创下更低高点。<strong>卖出</strong></li>
+</ul>
+<h3><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/26a1.png" alt="⚡" class="wp-smiley" style="height: 1em; max-height: 1em;" />确认趋势强度：</h3>
+<p>使用 RSI 来确认当前趋势的强度。RSI 读数高于 50 确认看涨势头，而低于 50 的读数确认看跌势头。</p>
+<ul>
+<li>RSI&gt; 50：表示强劲的上升趋势。</li>
+<li>RSI &lt; 50：表示强劲的下降趋势。</li>
+</ul>
+<h3><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4dd.png" alt="📝" class="wp-smiley" style="height: 1em; max-height: 1em;" />中心线交叉：</h3>
+<p>RSI 的 50 水平对于确认趋势的方向和强度至关重要。用它来衡量潜在的买入或卖出信号。</p>
+<ul>
+<li>突破超过 50：潜在的上升趋势。</li>
+<li>跌破低于 50：潜在的下降趋势。</li>
+</ul>
+<h2>不同市场的最佳 RSI 设置</h2>
+<p>RSI 的默认设置为 14 个周期，但可以根据市场条件和交易方式进行调整。</p>
+<table>
+<tbody>
+<tr>
+<td>市场类型</td>
+<td>最佳 RSI 设置</td>
+<td>交易风格</td>
+</tr>
+<tr>
+<td>股票</td>
+<td>14</td>
+<td>波段交易</td>
+</tr>
+<tr>
+<td>外汇</td>
+<td>9或14</td>
+<td>日内和波段交易</td>
+</tr>
+<tr>
+<td>加密货币</td>
+<td>7或14</td>
+<td>高波动性</td>
+</tr>
+<tr>
+<td>大宗商品</td>
+<td>10</td>
+<td>趋势确认</td>
+</tr>
+</tbody>
+</table>
+<p><strong><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4a1.png" alt="💡" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 专业提示：缩短 RSI 设置（例如 7-9 个周期），以便在加密货币等波动的市场中更快地获得信号。</strong></p>
+<h3><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/2699.png" alt="⚙" class="wp-smiley" style="height: 1em; max-height: 1em;" />如何在 MetaTrader 4（MT4）中设置 RSI</h3>
+<p>在 <a href="https://www.atfx.com/zh-hant/trading-platforms/metatrader-4" target="_blank" rel="noopener">MT4</a> 中设置 RSI 简单快捷。请按照以下步骤操作：</p>
+<ol>
+<li>打开 MT4 并选择您想要使用的图表。</li>
+<li>单击插入 → 指标 → 振荡器 → 相对强弱指数。</li>
+<li>根据您的策略调整周期（默认为 14）。</li>
+<li>如果需要，修改关键水平（30 为超卖，70 为超买）。</li>
+<li>单击“确定”将 RSI 指标应用到您的图表。</li>
+</ol>
+<p>现在，您可以使用 RSI 来识别超买或超卖情况，并直接在 MT4 中做出明智的交易决策。</p>
+<p><a href="https://www.atfx.com/zh-hans/trading-platforms/metatrader-4/download-mt4" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="aligncenter wp-image-25082 size-full" src="https://www.atfx.com/wp-content/uploads/2023/10/mt4-download-mandarin.webp" alt="mt4 download mandarin" width="825" height="206" srcset="https://www.atfx.com/wp-content/uploads/2023/10/mt4-download-mandarin.webp 825w, https://www.atfx.com/wp-content/uploads/2023/10/mt4-download-mandarin-300x75.webp 300w, https://www.atfx.com/wp-content/uploads/2023/10/mt4-download-mandarin-768x192.webp 768w" sizes="(max-width: 825px) 100vw, 825px" /></a></p>
+<h2>RSI 交易策略建议</h2>
+<ul>
+<li>将 RSI 与其他指标结合起来：在交易中结合使用 RSI 和其他技术指标（如移动平均线或 MACD）来提高策略的有效性。</li>
+<li>注意极端 RSI 读数：寻找 RSI 超过极端水平（高于 70 或低于 30）的情况，因为这些情况可能表示潜在的反转点。</li>
+<li>使用 RSI 进行趋势分析：如果市场处于强劲趋势，则可以使用 RSI 来识别趋势回调，从而提供更有利的切入点。</li>
+</ul>
+<h2>使用 RSI 时应避免的常见错误</h2>
+<p>即使是专业交易者也会误用 RSI，导致错误信号和不必要的损失。以下是需要避免的情况：</p>
+<p><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/274c.png" alt="❌" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 仅依靠 RSI – 始终使用其他指标确认信号。<br />
+<img src="https://s.w.org/images/core/emoji/15.0.3/72x72/274c.png" alt="❌" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 不检查市场趋势——RSI 在横盘市场中更有效。<br />
+<img src="https://s.w.org/images/core/emoji/15.0.3/72x72/274c.png" alt="❌" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 忽略背离信号——RSI 背离可以提前预测逆转。<br />
+<img src="https://s.w.org/images/core/emoji/15.0.3/72x72/274c.png" alt="❌" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 无需测试即可使用默认 RSI – 根据您的交易风格自定义 RSI 设置。</p>
+<p><strong><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4cc.png" alt="📌" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 专业提示：在进行实时交易之前，务必在模拟账户中回测 RSI 策略。</strong></p>
+<h2>利用 RSI 策略最大化交易潜力</h2>
+<p>为了充分利用 RSI，请使用以下经过验证的交易策略：</p>
+<p><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/2714.png" alt="✔" class="wp-smiley" style="height: 1em; max-height: 1em;" /> RSI 趋势策略 – 跟随 RSI 50 上方/下方的方向。<br />
+<img src="https://s.w.org/images/core/emoji/15.0.3/72x72/2714.png" alt="✔" class="wp-smiley" style="height: 1em; max-height: 1em;" /> RSI 反转策略——基于 RSI 背离进行交易。<br />
+<img src="https://s.w.org/images/core/emoji/15.0.3/72x72/2714.png" alt="✔" class="wp-smiley" style="height: 1em; max-height: 1em;" /> RSI 剥头皮策略——使用 RSI + MACD 进行短期交易。<br />
+<img src="https://s.w.org/images/core/emoji/15.0.3/72x72/2714.png" alt="✔" class="wp-smiley" style="height: 1em; max-height: 1em;" /> RSI 和布林带 – 识别波动性突破。</p>
+<p><strong><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4cc.png" alt="📌" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 最后提示：在进行实时交易之前，先在模拟账户中测试 RSI 策略，以完善您的方法。</strong></p>
+<h2>结论</h2>
+<p>相对强弱指数 (RSI) 是一种强大的工具，可帮助交易者识别超买和超卖情况、发现趋势逆转以及确认现有趋势的强度。掌握 RSI 交易并了解其信号可以增强您的市场分析能力并帮助您做出更明智的交易决策。</p>
+<p>无论您交易的是<a href="https://www.atfx.com/zh-hans/markets/shares-trading" target="_blank" rel="noopener">股票</a>、外汇还是加密货币，将 RSI 整合到您的策略中都可以提供有价值的见解并提高您的交易表现。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

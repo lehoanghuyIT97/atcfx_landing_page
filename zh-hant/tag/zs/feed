@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ZS Archives - ATFX Global - Official Website</title>
+	<atom:link href="https://www.atfx.com/zh-hant/tag/zs/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Fri, 28 Jun 2024 09:32:48 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>https://www.atfx.com/wp-content/uploads/2023/06/favicon-150x150.webp</url>
+	<title>ZS Archives - ATFX Global - Official Website</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>需求預測利多網路安全股</title>
+		<link>https://www.atfx.com/zh-hant/analysis/market-news/demand-projections-positive-cybersecurity-stocks</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Fri, 28 Jun 2024 01:44:52 +0000</pubDate>
+				<category><![CDATA[市場新聞及觀點]]></category>
+		<category><![CDATA[ZS]]></category>
+		<category><![CDATA[最近的新聞]]></category>
+		<guid isPermaLink="false">https://www.atfx.com/?p=36775</guid>
+
+					<description><![CDATA[週四，網路安全類股票走高，此前彭博情報(Bloomberg Intelligence)預測，隨著越來越多的公司 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>週四，網路安全類<a href="https://www.atfx.com/zh-hant/markets/shares-trading" target="_blank" rel="noopener">股票</a>走高，此前彭博情報(Bloomberg Intelligence)預測，隨著越來越多的公司尋求訓練他們的人工智慧模型，對雲端安全的需求增加。</p>
+<p><img fetchpriority="high" decoding="async" class="size-full wp-image-36776 aligncenter" src="https://www.atfx.com/wp-content/uploads/2024/06/ZS-–-Daily-Chart.webp" alt="ZS – Daily Chart" width="844" height="598" srcset="https://www.atfx.com/wp-content/uploads/2024/06/ZS-–-Daily-Chart.webp 844w, https://www.atfx.com/wp-content/uploads/2024/06/ZS-–-Daily-Chart-300x213.webp 300w, https://www.atfx.com/wp-content/uploads/2024/06/ZS-–-Daily-Chart-768x544.webp 768w" sizes="(max-width: 844px) 100vw, 844px" /></p>
+<p style="text-align: center;">ZS-日圖</p>
+<p>Zscaler的阻力位在195美元，這可能會開啟對260美元的重新測試。歷史最高紀錄是在2021年底創下的376.11美元。</p>
+<p><a href="https://www.atfx.com/zh-hant/live-chart/nasdaq100" target="_blank" rel="noopener">那斯達克100指數</a>成分股中，Zscaler漲幅超過5%，領漲，Palo Alto Networks收盤漲幅超過4%。富通和Crowdstrike Holdings分別上漲3%和1%。</p>
+<p>網路安全也是本週的頭條新聞，美國和加拿大的15,000家汽車經銷商因CDK Global遭受網路攻擊而離線。該公司是少數的經銷商管理系統提供者之一，幫助汽車零售商存取客戶記錄、安排約會、預訂維修和完成交易。網路勒索事件發生後，被迫回到紙筆時代。</p>
+<p>黑莓的業績也提振了網路安全類股，該公司的產品有所改善。黑莓的主要成長指標呈現正向趨勢，包括淨留存率和年度經常性收入。這項結果對網路安全解決方案的需求前景是正面的。</p>
+<p>摩根大通對Zscaler的前景持樂觀態度，分析師Brian Essex表示:「我們認為，目前的股價水平是擁有一家領先的零信任供應商的機會，該公司擁有有利的市場敞口，預計在(2025年下半年)實現更好的成長，目前的股價低於高成長同業和歷史估值水準。</p>
+<p>Essex青睞Zscaler在網路安全領域的地位，因為從支出的角度來看，它的位置很好，高層認為這是值得的。他補充說，隨著全球威脅環境的持續加速，公司應該「從內部環境到雲端環境的運算遷移中受益」。</p>
+<p>今年以來，Zscaler的股價下跌了17%，但Crowdstrike的股價卻上漲了50%以上。在估值前景方面，Zscaler的估值為14倍的銷售額，與PANW相似，而FTNT的估值為8.5倍的銷售額。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

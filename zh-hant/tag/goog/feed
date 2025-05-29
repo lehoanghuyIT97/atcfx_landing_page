@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>GOOG Archives - ATFX Global - Official Website</title>
+	<atom:link href="https://www.atfx.com/zh-hant/tag/goog/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Sat, 10 Feb 2024 05:38:03 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>https://www.atfx.com/wp-content/uploads/2023/06/favicon-150x150.webp</url>
+	<title>GOOG Archives - ATFX Global - Official Website</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>谷歌Google推出先進AI工具，為何股價卻意外下挫？</title>
+		<link>https://www.atfx.com/zh-hant/analysis/market-news/google-shares-lower-announcement-ai-premium-tool</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Fri, 09 Feb 2024 05:37:34 +0000</pubDate>
+				<category><![CDATA[市場新聞及觀點]]></category>
+		<category><![CDATA[GOOG]]></category>
+		<category><![CDATA[最近的新聞]]></category>
+		<guid isPermaLink="false">https://www.atfx.com/?p=29939</guid>
+
+					<description><![CDATA[儘管谷歌發布了新的高級人工智慧工具，但其股價仍然較低。 GOOG – 每日圖表 GOOG股價仍維持近期上漲趨勢 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>儘管谷歌發布了新的高級人工智慧工具，但其<a href="https://www.atfx.com/zh-hant/markets/shares-trading" target="_blank" rel="noopener">股價</a>仍然較低。</p>
+<p><img fetchpriority="high" decoding="async" class="size-full wp-image-29923 aligncenter" src="https://www.atfx.com/wp-content/uploads/2024/02/GOOG-–-Daily-Chart.png" alt="GOOG – Daily Chart" width="757" height="561" srcset="https://www.atfx.com/wp-content/uploads/2024/02/GOOG-–-Daily-Chart.png 757w, https://www.atfx.com/wp-content/uploads/2024/02/GOOG-–-Daily-Chart-300x222.png 300w" sizes="(max-width: 757px) 100vw, 757px" /></p>
+<p style="text-align: center;">GOOG – 每日圖表</p>
+<p>GOOG股價仍維持近期上漲趨勢，支撐位為144-145美元。</p>
+<p>谷歌宣布將其 Bard AI 聊天機器人更名為 Gemini，同時推出新的行動應用程式和更強大的人工智慧工具 Gemini Advanced。 從週四開始，Gemini 應用程式將首次在 Android 上推出，聊天機器人將在蘋果 iOS 上的官方 Google 應用程式中使用。</p>
+<p>該公司正在進行人工智慧工具的重大更新中，行動應用程式升級將與名為 Gemini Advanced 的新訂閱服務一起推出，該服務使用更強大的 LLM Ultra 1.0 人工智慧模型。 最近推出的服務是 Google One 內人工智慧高級計劃的一部分，每月費用為 19.99 美元，但前兩個月免費。 谷歌在最近的第四季財報中表示，正在透過 Gemini 向人工智慧領域擴張，以挑戰微軟的 ChatGPT 工具。</p>
+<p>最初的市場反應較弱，但交易員可能期待類似的工具，現在將等待採用。 執行長 Sundar Pichai 最近表示，Google One 套件的用戶數量已超過 1 億。</p>
+<p>所有 Google One 配套都包括增加的儲存空間、額外的照片編輯工具、VPN 保護等。 基本配套起價為每月 1.99 美元，提供 10GB 儲存空間，高級配套最高可提供 200TB 儲存空間。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

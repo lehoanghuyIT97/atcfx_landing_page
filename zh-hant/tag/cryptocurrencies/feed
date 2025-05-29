@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Cryptocurrencies Archives - ATFX Global - Official Website</title>
+	<atom:link href="https://www.atfx.com/zh-hant/tag/cryptocurrencies/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Tue, 29 Nov 2022 07:15:00 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>https://www.atfx.com/wp-content/uploads/2023/06/favicon-150x150.webp</url>
+	<title>Cryptocurrencies Archives - ATFX Global - Official Website</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>卡爾達諾 vs 以太坊：三大相同點及不同點· ADA優於ETH嗎？</title>
+		<link>https://www.atfx.com/zh-hant/analysis/trading-strategies/cardano-vs-ethereum-differences-similarities</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Tue, 29 Nov 2022 07:15:00 +0000</pubDate>
+				<category><![CDATA[交易策略]]></category>
+		<category><![CDATA[Cryptocurrencies]]></category>
+		<guid isPermaLink="false">https://lptemplatedev.wpengine.com/uncategorized/cardano-vs-ethereum-differences-similarities-2</guid>
+
+					<description><![CDATA[當提及卡爾達諾，人們自然會將它拿來和以太坊相比較，因作為智能合約平台，它們的網絡提供的服務相類似。開發者可以使 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>當提及卡爾達諾，人們自然會將它拿來和以太坊相比較，因作為智能合約平台，它們的網絡提供的服務相類似。開發者可以使用以太坊和卡爾達諾區塊鏈來實現熟悉的功能，包括運行自定義編程邏輯(智能合約)和構建程序(去中心化應用程序)。由於自2017年推出以來發展迅速，甚至經常被稱為“以太坊殺手”，最直接的原因在於它的交易速度更快且費用更低。</p>
+<p><span id="more-11126"></span></p>
+<p><span style="background-color: #d9ead3"><img loading="lazy" decoding="async" src="https://www.atfx.com/hubfs/ATFX-cardano-vs-ethereum.webp" alt="ATFX-cardano-vs-ethereum" width="640" height="330" loading="lazy" style="height: auto;max-width: 100%;width: 640px;margin: 10px auto 6px"></span></p>
+<h2>什麼是卡爾達諾？如何運作？</h2>
+<p>卡爾達諾是一個去中心化的第三代權益證明區塊鏈平台，採用基於權益證明的共識機制，它可以通過其原生加密貨幣艾達幣（ADA）進行點對點交易。雖然它與以太坊等其他區塊鏈平台共享特性和應用程序，但卡爾達諾通過致力於同行評審的科學研究作為平台更新的基石，從而將自己與其他平台區分開來。</p>
+<div class="hs-embed-wrapper hs-fullwidth-embed" data-service="s.tradingview" data-responsive="true" style="position: relative;overflow: hidden;width: 100%;height: auto;padding: 0px;min-width: 256px;margin: 20px auto;line-height: 2;text-align: justify">
+<div class="hs-embed-content-wrapper">
+<div id="tradingview_7365e-wrapper" style="position: relative;width: 100%;height: calc(640px - 32px);margin: 0 auto !important;padding: 0 !important;font-family: -apple-system, BlinkMacSystemFont, 'Trebuchet MS', Roboto, Ubuntu, sans-serif" data-mce-style="position: relative; box-sizing: content-box; width: 100%; height: calc(640px - 32px); margin: 0 auto !important; padding: 0 !important; font-family: -apple-system, BlinkMacSystemFont, 'Trebuchet MS', Roboto, Ubuntu, sans-serif;">
+<div style="width: 100%;height: calc(640px - 32px);background: transparent;padding: 0 !important" data-mce-style="width: 100%; height: calc(640px - 32px); background: transparent; padding: 0 !important;"></div>
+</div>
+</div>
+</div>
+<p>與以太坊一樣，卡爾達諾支持智能合約功能(自動執行計算機程序)，或者說它是以太坊的一個分支，但希望通過確保更高的速度和更廣泛的互操作性，將其提升到一個新的水平。具體來說，卡爾達諾旨在解決與加密貨幣平台上的可伸縮性，互操作性和可持續性相關的問題。</p>
+<h2>什麼是以太坊？如何運作？</h2>
+<p>以太坊（Ethereum）是一個開源的有智能合約功能的公共區塊鏈平台，試圖實現一個完全無需信任基礎的智能合約平台，為了除付款外，還可以在區塊鏈中運行其他應用程序和服務。</p>
+<p>通過其專用加密貨幣以太幣（Ether，簡稱：ETH）提供去中心化的以太虛擬機（Ethereum Virtual Machine）來處理點對點合約。支持使用自己的內部加密貨幣以太幣進行點對點交易，並支持創建可替代代幣、不可替代代幣(NFTs)、半可替代代幣和去中心化應用程序等。點擊查看<a href="/zh-hant/analysis/trading-strategies/how-invest-nft-beginner-analysis-six-step-guide" rel="noopener" target="_blank">如何投資NFT</a>。</p>
+<h2>卡爾達諾VS以太坊：主要相似之處</h2>
+<ol>
+<li>
+<h3 style="font-size: 24px">兩者均為區塊鏈平台</h3>
+</li>
+</ol>
+<p>以智能合約為最大特色，卡爾達諾基於以太坊的第二代基礎設施，具有比尚未開發的任何協議更高級的功能。</p>
+<ol start="2">
+<li>
+<h3 style="font-size: 24px">兩者的基本運行機制原理相同</h3>
+</li>
+</ol>
+<p>以提供各類盡可能的模塊和腳本語言以供用戶來構建任何可以精確定義的智能合約或交易類型。</p>
+<ol start="3">
+<li>
+<h2 style="font-size: 24px">采矿过程相同</h2>
+</li>
+</ol>
+<p>ADA和ETH都將使用權益證明方法進行挖掘，允許個人以其資產為賭注來驗證交易。</p>
+<ol start="4">
+<li>
+<h3 style="font-size: 24px">兩者的根本作用一致</h3>
+</li>
+</ol>
+<p>以用來創建去中心化的程序、自治組織和智能合約，預期的應用目標涵蓋金融、物聯網、智能電網、體育賭博等。去中心化自治組織有潛力讓許多原本無法運行或成本過高的營運模型成為可能。</p>
+<table style="border-collapse: collapse;margin: 20px auto;border: 1px solid #99acc2;width: 363px">
+<tbody>
+<tr>
+<td style="text-align: center;border-width: 1px;border-style: solid;padding: 5px" colspan="2">
+<p>兩者相似之處</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;border-width: 1px;border-style: solid;padding: 5px">
+<p>特色</p>
+</td>
+<td style="text-align: center;border-width: 1px;border-style: solid;padding: 5px">
+<p>智能合約平台</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;border-width: 1px;border-style: solid;padding: 5px">
+<p>運行機制</p>
+</td>
+<td style="text-align: center;border-width: 1px;border-style: solid;padding: 5px">
+<p>採用基於權益證明的共識機制</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;border-width: 1px;border-style: solid;padding: 5px">
+<p>采矿过程</p>
+</td>
+<td style="text-align: center;border-width: 1px;border-style: solid;padding: 5px">
+<p>採用權益證明進行挖礦</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h2>卡爾達諾VS以太坊：主要差異</h2>
+<ol>
+<li>
+<h3 style="font-size: 24px">兩者的設計理念有所不同</h3>
+</li>
+</ol>
+<p>卡爾達諾提供了一個類似於以太坊的平台，但它強調研究驅動的設計方法，允許以其本地加密貨幣ADA進行交易，並使開發人員能夠構建由它驅動的安全去中心化應用程序。與其他區塊鏈項目不同，它強調研究驅動的設計方法，旨在實現學術嚴謹，它相信這將推動其技術的採用。</p>
+<p>以太坊則是為任意數量的自定義資產和程序而構建的一種操作系統，創建旨在成為定制資產和新型經濟應用的全球開源平台，在更廣泛的用例中實現產品和服務的去中心化。</p>
+<p>兩則均具有智能合約的功能，允許開發人員創建去中心化的應用程序，這裡最大的區別是，卡爾達諾智能合約計劃比以太坊智能合約更有功能和可訪問性。卡爾達諾創新並首創了PoS共識算法，其PoS系統比以太坊目前使用的PoW機制更節能、更可擴展、更快，節省能源成本並加快交易處理速度。</p>
+<ol start="2">
+<li>
+<h3 style="font-size: 24px">分層架構不同</h3>
+</li>
+</ol>
+<p>卡爾達諾使用雙層系統操作：卡爾達諾結算層(CSL)，處理交易、餘額、智能合約等；以及卡爾達諾計算層(CCL)，它將處理未來應用程序的數據存儲，這兩個層可以簡單理解為兩條完全不同的鏈，這一點使它比以太坊更有優勢。</p>
+<p><span style="background-color: #d9ead3"><img loading="lazy" decoding="async" src="https://www.atfx.com/hubfs/ATFX-cardano-architectures.webp" alt="ATFX-cardano-architectures" width="624" height="322" loading="lazy" style="height: auto;max-width: 100%;width: 624px;margin: 20px auto"></span></p>
+<p>雙層系統的另一個優點是，每一層都可以獨立昇級，而不會減慢另一層上的事務。允許更多人使用網絡，同時能夠處理更多交易。例如比特幣現在的TPS約在7～15、以太坊的TPS約為15～45左右，卡爾達諾的高級平台可以處理250個TPS。</p>
+<p>由於以太坊在同一層處理智能合約，網絡擁塞和高費用經常是問題，不過交易的成本與以太坊的價值息息相關，以太坊不僅是第二大最有價值的加密貨幣，它的交易量也很大，容易導致網絡擁堵。不過這個問題在以太坊升級到2.0之後有所改善。</p>
+<ol start="3">
+<li>
+<h3 style="font-size: 24px">供應代幣限制</h3>
+</li>
+</ol>
+<p>艾達幣的最大總供給量為450億枚，與比特幣的供應上限類似，這種限制創造了一種稀缺感，有助於在未來進一步推高其價值。而以太坊的總量是無限供應，儘管每年的增長率仍將被限制在4.5%。這一努力確保了以太坊網絡能夠不斷崛起，變得更加突出和可行，但這種貨幣仍將保持一定的價值，因為它不會失控運行。</p>
+<table style="border-collapse: collapse;margin: 20px auto;border: 1px solid #99acc2;width: 99.989%">
+<tbody>
+<tr style="height: 47.8125px">
+<td style="width: 100.101%;height: 48px;text-align: center;border-width: 1px;border-style: solid" colspan="3">
+<p>兩者主要差異</p>
+</td>
+</tr>
+<tr style="height: 47.8125px">
+<td style="width: 33.367%;height: 48px;text-align: center;border-width: 1px;border-style: solid" width="295">&nbsp;</td>
+<td style="width: 33.367%;height: 48px;padding: 4px;text-align: center;border-width: 1px;border-style: solid" width="295">
+<p>卡爾達諾</p>
+</td>
+<td style="width: 33.367%;height: 48px;padding: 4px;text-align: center;border-width: 1px;border-style: solid">
+<p>以太坊</p>
+</td>
+</tr>
+<tr style="height: 47.8125px">
+<td style="width: 33.367%;height: 48px;text-align: center;border-width: 1px;border-style: solid" width="79">
+<p>分層架構</p>
+</td>
+<td style="width: 33.367%;height: 48px;text-align: center;border-width: 1px;border-style: solid" width="295">
+<p>雙層系統</p>
+</td>
+<td style="width: 33.367%;height: 48px;text-align: center;border-width: 1px;border-style: solid">
+<p>單層系統</p>
+</td>
+</tr>
+<tr style="height: 47.8125px">
+<td style="width: 33.367%;height: 48px;text-align: center;border-width: 1px;border-style: solid" width="79">
+<p>代幣供應量</p>
+</td>
+<td style="width: 33.367%;height: 48px;text-align: center;border-width: 1px;border-style: solid" width="295">
+<p>450億枚</p>
+</td>
+<td style="width: 33.367%;height: 48px;text-align: center;border-width: 1px;border-style: solid">
+<p>無限</p>
+</td>
+</tr>
+<tr>
+<td style="width: 33.367%;height: 78px;text-align: center;border-width: 1px;border-style: solid" width="79">
+<p>共識機制</p>
+</td>
+<td style="width: 33.367%;height: 78px;text-align: center;border-width: 1px;border-style: solid" width="295">
+<p>名為Ouroboros的PoS（全稱Proof of Stake）算法</p>
+</td>
+<td style="width: 33.367%;height: 78px;text-align: center;border-width: 1px;border-style: solid">
+<p>基於PoW算法（全稱Proof of Work）</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h2>卡爾達諾的主要優勢和劣勢</h2>
+<h3 style="font-size: 24px">優勢：</h3>
+<ol>
+<li>
+<h3 style="font-size: 24px">更加穩定和可擴容</h3>
+</li>
+</ol>
+<p>不同於其他區塊鏈平台和加密貨幣，卡爾達諾每次的更新和分叉不是直接向公眾介紹新版本或迭代、相關產品和新功能，而是要經過一系列測試，開發的每個階段基本上都要經過同行的審查，擴展性更強。</p>
+<ol start="2">
+<li>
+<h3 style="font-size: 24px">更節能的權益證明系統</h3>
+</li>
+</ol>
+<p>卡爾達諾採用了更節能的權益證明系統，實現了共識。基於權益證明算法Ouroboros的安全系統可確保卡爾達諾功能的數學準確性。使用此算法，可以在查找區塊時顯著降低能源成本。這意味著運作快但質量沒有受到影響。</p>
+<ol start="3">
+<li>
+<h3 style="font-size: 24px">廣泛的交易機會</h3>
+</li>
+</ol>
+<p>在卡爾達諾網絡中，不僅可以進行快速交易並使用數字資產-任何用戶都可以創建和執行智能合約，這將保護他的匯款和其他與財務相關的操作。</p>
+<ol start="4">
+<li>
+<h3 style="font-size: 24px">出色的交易速度<span style="background-color: #d9ead3"><img loading="lazy" decoding="async" src="https://lh6.googleusercontent.com/UmPU8r_vxLV8I9_0TBLay8bAJAjSSHWDaR_KAvuaDphwIM-FUBhUiMxQDSEs9xhYrNJQlAvwW6x3HN_2CO0uycv4LL-Nn6HFb5-uvEfauKmLuA3yyVq6XMQJwNwha8B5i74kXI6I7_1FBAubTvLXCkP-Ilf3Ba3LiJTHC8uRa-8BvuAxtRRfP37AEEI_aw" width="373" height="192" loading="lazy" style="width: 373px;height: auto;max-width: 100%;float: right;margin: 10px 6px 10px 10px"></span></h3>
+</li>
+</ol>
+<p>即使進行即時交易，也不收取大筆佣金。</p>
+<h2>劣勢：</h2>
+<ol>
+<li>
+<h3 style="font-size: 24px">不是先行者</h3>
+</li>
+</ol>
+<p>在很多人看来，卡尔达诺最大的缺点之一是它不像比特币那样具有先发优势。而使用ADA作为一种交换媒介和价值存储手段，也没有比特币和以太币那样被广泛接受。</p>
+<ol start="2">
+<li>
+<h3 style="font-size: 24px">發展進程緩慢</h3>
+</li>
+</ol>
+<p>採用了一種緩慢而穩定的開發方法，以確保所有的推出都沒有bug和錯誤，並且具有實際或可行的、有益的用例或應用程序，所以很容易被競爭對手所赶超。</p>
+<ol start="3">
+<li>
+<h3 style="font-size: 24px">基礎設施仍較弱</h3>
+</li>
+</ol>
+<p>卡爾達諾仍然是一個在技術上未經驗證的平台，沒有經過充分測試，不像以太坊和比特幣。</p>
+<h2>以太坊的主要優勢和劣勢</h2>
+<h2>優勢：</h2>
+<ol>
+<li>
+<h3 style="font-size: 24px">定位明確</h3>
+</li>
+</ol>
+<p>以太坊早期定位為世界計算機，而隨著發展，明確了自己的定位是世界去中心化的金融底層賬本，目前所有的開發、發展、應用都圍繞著這個定位。</p>
+<ol start="2">
+<li>
+<h3 style="font-size: 24px">開放的系統</h3>
+</li>
+</ol>
+<p>以太坊擁有更成熟的技術和一個由開發者、貢獻者和支持者組成的成熟社區。同時外部的每個人都可以參加此項目，這也使得開發和改善這個生態系統成為可能。</p>
+<ol start="3">
+<li>
+<h3 style="font-size: 24px">運用廣泛</h3>
+</li>
+</ol>
+<p>以太坊有很多區塊鏈應用，如黃金和股票的數字化應用、金融衍生品應用、DNS 和數字認證等等。</p>
+<p></p>
+<h3><span style="font-size: 20px">4</span>. <span style="font-size: 24px">流動性更強<span style="background-color: #d9ead3"><img loading="lazy" decoding="async" src="https://lh5.googleusercontent.com/STWlGrWTxsd84DyWmabEo91JblmCCn00uby3pxV52URJ6fxUOkZqyqw-8aVuNtXI8TNHIhW8CM2da7fPLYM7b61thy5URrxAHVBTp8FSJlTKX5jROgEIyMqtHuIxqVr--EdH7RYcXSzlXdS2DvlkqWZ3h2IDMRaV2EyP995YMvl6xE7l7f2cFCfOazpgDA" width="359" height="185" loading="lazy" style="width: 359px;height: auto;max-width: 100%;float: left;margin: 10px 25px 5px 0px"></span></span></h3>
+<p>作為全球市值第二大的數字貨幣，流動性無疑也是更強的，便於投資者自由進行交易。</p>
+<h2>&nbsp;</h2>
+<h2>劣勢：</h2>
+<ol>
+<li>
+<h3 style="font-size: 24px">擴展性不足</h3>
+</li>
+</ol>
+<p>以太坊社區的主要開發人員和研究人員始終認為區塊鏈技術要實現大規模採用，可擴展性是區塊鏈應用程序需要解決的唯一最重要的關鍵。以太坊的底層設計，最大的問題是以太坊只有一條鏈，沒有側鏈，是一個很耗資源的程序。</p>
+<ol start="2">
+<li>
+<h2 style="font-size: 24px">智能合約費用過高</h2>
+</li>
+</ol>
+<p>在以太坊上現在還是POW的挖礦模式，交易是有手續費的，用來激勵礦工來處理交易和保護網絡。</p>
+<h2>卡爾達諾VS以太坊：未來發展與機遇</h2>
+<p>和<a href="/zh-hant/markets/cryptocurrencies/bitcoin-trading" rel="noopener" target="_blank">比特幣</a>相比，以太坊更具有強大的潛力空間，甚至在不斷革新中重塑全球金融體系，成為未來所有去中心化應用的平台，如比如航空航天技術和銀行業已經被帶入到數字貨幣領域當中，並且具有高度的安全保證。</p>
+<p>而卡爾達諾是對以太坊的完善和補充，卡爾達諾對未來有雄心勃勃的計劃，打算從結算層轉移到控制層，它將作為複雜系統的“可信計算框架”，比如賭博和遊戲系統的運用中。該公司網站上介紹的其他應用程序包括身份管理、信用系統和Daedalus，這是一個通用的加密貨幣錢包，具有自動加密交易設施和加密到法定的轉換能力，不過具體的實現度如何還有待觀察。</p>
+<h2>卡爾達諾比以太坊更好嗎？卡爾達諾會取代以太坊嗎？</h2>
+<p>卡爾達諾的初衷是為了解決當前加密貨幣交易系統的三個關鍵問題：高昂的費用、缺乏流動性和缺乏用戶友好性。為了解決這些問題，卡爾達諾正在創建一個開源和去中心化的貨幣兌換平台，這些特點使得它對銀行和金融公司等大公司更具吸引力。</p>
+<p>朝著具有可擴展和可持續發展平台的下一代區塊鏈發展的同時，卡爾達諾在競爭中擁有一些技術優勢，但這並不意味著它很快就會超過以太坊。截止當前，只有60多個dApp建立在卡爾達諾的區塊鏈上，而近3000個建立在以太坊上。</p>
+<p><span style="background-color: #d9ead3"><img loading="lazy" decoding="async" src="https://lh5.googleusercontent.com/XaFCvfN3TBcb2LTfvzF_gAm5g9QIhDrZbmeJskeF0tcjYfDt1szKL00tyqa3ySU8fDc94DDYa0DDC-CjuOoV26l7E2Y8VjdDfVFxJYIYglwPS8caY_ZPZHxV8i9aRvEpVcRSxKsmyOKQB7UuFVc0O-58utgdU66SpXAou0lISvM_GF1bzGIBrVgujtQLmw" width="624" height="321" loading="lazy" style="margin: 10px auto"></span></p>
+<p>憑藉其在dApp和DeFi開發領域的主導地位，當一個項目決定構建一個區塊鏈應用程序時，以太坊有約70%的概率仍是首選。目前還沒有任何跡象表明其他平台將取代它，包括卡爾達諾也會在以太坊的大構架下，繼續完善及發展，就像以太坊自身的發展都花了好幾年時間，對卡爾達諾來說要追趕也不例外。</p>
+<h2>應該投資卡爾達諾嗎？</h2>
+<p>截止2022年3月24日，以市值來看，ETH的市值為3660億美元，而卡爾達諾的市值為381億美元，現在各大加密貨幣中排名第七，屬於山寨幣中表現靠前的，當然市值並不能作為其價值的唯一代表，但是和其發展程度息息相關。</p>
+<p>和其他新晉加密貨幣一樣，投資者對於ADA的接受程度參差不一，這也就決定了它的波動性，在一個擁擠的生態系統中，每種加密貨幣都面臨著激烈競爭，可持續性才是後續發展的最大價值體現。</p>
+<h2>結論</h2>
+<p>在比較卡爾達諾和以太坊時，有多方面的因素需要篩選，以上我們所做的對比可以作為參考。對於傾向更成熟、安全性相對更高平台的投資者，<a href="/zh-hant/markets/cryptocurrencies/ethereum-trading" rel="noopener" target="_blank">以太幣投資</a>可能是更好的選擇，因為具有相對更加清晰的長期價值前景；而如果是基於創新性、未來發展和價值增長的潛力，則<a href="/zh-hant/markets/cryptocurrencies/cardano-ada-usd" rel="noopener">卡爾達諾投資</a>可能相對吸引，這就需要它的團隊拿出持續性的成果來支撐其價值。</p>
+<h2>如何開始投資卡爾達諾或以太幣?</h2>
+<p>您可以通過幾個簡單的步驟在幾分鐘內開始您的<a href="/zh-hant/markets/cryptocurrencies" rel="noopener" target="_blank">加密貨幣交易</a>路徑。開一個賬戶，開始在你的電腦或手機上投資卡爾達諾、以太坊或其他加密貨幣。 ATFX在一個非常實用的交易平台上提供所有主要的金融產品。如果你還想在投資之前多了解一點市場，你可以開一個<a href="/zh-hant/trading-accounts/demo-account" rel="noopener" target="_blank">模擬賬戶</a>，練習不同的策略，同時還可以從ATFX提供的指南或免費培訓材料中學習。馬上報名吧!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

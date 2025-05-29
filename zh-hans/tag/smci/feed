@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>SMCI Archives - ATFX Global - Official Website</title>
+	<atom:link href="https://www.atfx.com/zh-hans/tag/smci/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Fri, 01 Nov 2024 09:48:05 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>https://www.atfx.com/wp-content/uploads/2023/06/favicon-150x150.webp</url>
+	<title>SMCI Archives - ATFX Global - Official Website</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>审计机构辞任导致超微股价大跌</title>
+		<link>https://www.atfx.com/zh-hans/analysis/market-news/super-micro-slumps-auditor-resignation</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Thu, 31 Oct 2024 17:04:43 +0000</pubDate>
+				<category><![CDATA[市场新闻及观点]]></category>
+		<category><![CDATA[SMCI]]></category>
+		<category><![CDATA[最近的新闻]]></category>
+		<guid isPermaLink="false">https://www.atfx.com/?p=42300</guid>
+
+					<description><![CDATA[超级微型计算机公司（SMCI）的审计师辞任后，该公司的股票在周三被抛售。 SMCI -日线图 SMCI价格已从 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><a href="https://www.atfx.com/zh-hans/markets/shares-trading" target="_blank" rel="noopener">超级微型计算机公司（SMCI）</a>的审计师辞任后，该公司的股票在周三被抛售。</p>
+<p><img fetchpriority="high" decoding="async" class="aligncenter size-full wp-image-42302" src="https://www.atfx.com/wp-content/uploads/2024/11/SMCI-Daily-Chart.png" alt="SMCI - Daily Chart" width="1087" height="606" srcset="https://www.atfx.com/wp-content/uploads/2024/11/SMCI-Daily-Chart.png 1087w, https://www.atfx.com/wp-content/uploads/2024/11/SMCI-Daily-Chart-300x167.png 300w, https://www.atfx.com/wp-content/uploads/2024/11/SMCI-Daily-Chart-1024x571.png 1024w, https://www.atfx.com/wp-content/uploads/2024/11/SMCI-Daily-Chart-768x428.png 768w" sizes="(max-width: 1087px) 100vw, 1087px" /></p>
+<p style="text-align: center;">SMCI -日线图</p>
+<p>SMCI价格已从50美元附近的阻力位下滑至33美元。早盘市场走势显示，SMCI开盘于31美元，可能测试30美元。较大阻力位在22.85美元。</p>
+<p>在该公司的审计机构安永辞任审计后，该公司股价下跌了近40%。8月下旬，由于需要评估“对财务报告的内部控制”，该公司推迟提交年度报告，出现了问题。此前，兴登堡研究公司发布了一份负面空头报告，披露了一个空头头寸，指责该公司“会计操纵”。</p>
+<p>超微周三表示，安永对其治理、透明度和财务报告提出了担忧。审计员随后任命了一个特别委员会来调查此事。该会计师事务所在收到审查报告的补充信息后辞职。</p>
+<p>安永表示：“我们辞任的原因是，最近一些信息引起了我们的注意，这些信息使我们无法再依赖管理层和审计委员会的陈述，也不愿与管理层编制的财务报表扯上关系。”</p>
+<p>超微表示，它不同意安永的决定，并预计“安永提出的任何问题的解决方案”不会导致2024财年或前几年的季度报告出现问题。</p>
+<p>随着企业加大支出为新应用提供动力，超微是人工智能热潮的大赢家。该公司的市值从2023年初的约44亿美元飙升至3月份的670亿美元峰值，然后在最近几个月出现下跌。</p>
+<p>“就审计报告而言，安永的SMCI辞任信是我所见过的措辞最强硬的，”兴登堡创始人在听到消息后在X上表示。《华尔街日报》9月底报道称，美国司法部也在调查超微公司，因为该公司涉嫌向美国制裁名单上的国家供应芯片。</p>
+<p>超微将于下周发布最新财报，这可能进一步加剧股价波动。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

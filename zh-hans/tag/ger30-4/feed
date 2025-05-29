@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>GER30 Archives - ATFX Global - Official Website</title>
+	<atom:link href="https://www.atfx.com/zh-hans/tag/ger30-4/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Fri, 23 May 2025 06:48:57 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>https://www.atfx.com/wp-content/uploads/2023/06/favicon-150x150.webp</url>
+	<title>GER30 Archives - ATFX Global - Official Website</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>德国股市走高，但MACD指标分化隐现</title>
+		<link>https://www.atfx.com/zh-hans/analysis/market-news/german-stocks-power-higher-macd-divergence-looms</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Thu, 22 May 2025 23:16:10 +0000</pubDate>
+				<category><![CDATA[市场新闻及观点]]></category>
+		<category><![CDATA[GER30]]></category>
+		<guid isPermaLink="false">https://www.atfx.com/?p=50540</guid>
+
+					<description><![CDATA[德国股市 (GER30)继续强劲回升，并创下新高。然而，MACD指标的一些放缓势头伴随着警告。 在4月份暴跌至 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><a href="https://www.atfx.com/zh-hans/markets/indices-trading" target="_blank" rel="noopener">德国股市 (GER30)</a>继续强劲回升，并创下新高。然而，<a href="https://www.atfx.com/zh-hans/trading-platforms/metatrader-4/mt4-indicators" target="_blank" rel="noopener">MACD指标</a>的一些放缓势头伴随着警告。</p>
+<figure id="attachment_50542" aria-describedby="caption-attachment-50542" style="width: 640px" class="wp-caption aligncenter"><img fetchpriority="high" decoding="async" class="wp-image-50542 size-full" src="https://www.atfx.com/wp-content/uploads/2025/05/GER-30-–-Daily-Chart.png" alt="GER 30 – Daily Chart" width="640" height="651" srcset="https://www.atfx.com/wp-content/uploads/2025/05/GER-30-–-Daily-Chart.png 640w, https://www.atfx.com/wp-content/uploads/2025/05/GER-30-–-Daily-Chart-295x300.png 295w" sizes="(max-width: 640px) 100vw, 640px" /><figcaption id="caption-attachment-50542" class="wp-caption-text">GER30指数-日线图</figcaption></figure>
+<p>在4月份暴跌至19000之后，目前GER30指数的价格为24040。屡创新高的同时，MACD指标也在下降，这将引起谨慎。</p>
+<p>尽管德国经济疲软，但股市继续走强。</p>
+<p>德国央行表示，最近的数据显示，德国工资增长明显放缓，经济疲软表明，未来的奖金可能会比过去低得多。</p>
+<p>根据央行的报告，第一季度谈判后的工资仅同比增长0.9%，而2024年底的增幅为5.8%。</p>
+<p>德国政府经济顾问小组周三表示，由于唐纳德·特朗普的关税和贸易威胁，德国经济预计今年将停滞不前。</p>
+<p>德国是欧洲最大的经济体，但已经有五年没有出现明显的经济增长，过去两年的国内生产总值每年都在萎缩。自本月早些时候新总理梅尔茨上任以来，该委员会首次做出预测，预计德国经济将在2026年增长1%之前陷入停滞。去年11月的预测显示，今年的经济增长率为0.4%。</p>
+<p>新的前景与德国前政府一个月前做出的预测相似。梅尔茨于5月6日上任，他宣布了削减官僚主义、推进数字化、为公司提供税收减免和促进更多自由贸易协定的计划。</p>
+<p>“特朗普的关税政策正在增加不确定性，危及全球经济增长，”该小组负责人莫妮卡表示。但她补充称，梅尔茨领导的联合政府提出的一项巨额投资计划“为德国基础设施现代化和回归更高的增长道路提供了机会”。</p>
+<p>交易商仍可在GER30指数中找到一些低盘买盘动能，但应警惕新闻头条可能引发的人气变化。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

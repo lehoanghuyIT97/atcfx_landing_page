@@ -1,0 +1,2694 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>거래전략-초급 Archives - ATFX Global - Official Website</title>
+	<atom:link href="https://www.atfx.com/ko/tag/trading_strategies_for_beginners/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Fri, 16 May 2025 06:47:34 +0000</lastBuildDate>
+	<language>ko-KR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>https://www.atfx.com/wp-content/uploads/2023/06/favicon-150x150.webp</url>
+	<title>거래전략-초급 Archives - ATFX Global - Official Website</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>카피 트레이드의 원리는? 팔로워 &#038; 프로바이더를 위한 완벽한 가이드</title>
+		<link>https://www.atfx.com/ko/analysis/trading-strategies/how-copytrade-works</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Tue, 04 Mar 2025 05:00:35 +0000</pubDate>
+				<category><![CDATA[트레이딩 전략]]></category>
+		<category><![CDATA[Copy Trading]]></category>
+		<category><![CDATA[거래전략-초급]]></category>
+		<guid isPermaLink="false">https://www.atfx.com/?p=46041</guid>
+
+					<description><![CDATA[카피 트레이딩은 트레이딩의 세계에서 일종의 게임 체인저 역할을 할 수 있습니다. 비교적 덜 숙련된 개인 투자자들인 “팔로워”들은 숙련된 전문가인 “프로바이더”들의 거래를 자동으로 카피할 수있고, 이 덕분에 금융시장에 대한 진입장벽이 낮아질 수 있습니다. 전문 트레이더인 “프로바이더”들은 본인의 전략을 공유하고 추가 수입원을 창출할 수 있습니다. 이 같은 시스템은 프로바이더와 팔로워를 연결해주고, 복잡한 전략이나 지속적인 시장 모니터링의 필요성을 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><a href="https://www.atfx.com/ko/analysis/trading-strategies/copy-trading" target="_blank" rel="noopener">카피 트레이딩</a>은 트레이딩의 세계에서 일종의 게임 체인저 역할을 할 수 있습니다. 비교적 덜 숙련된 개인 투자자들인 “팔로워”들은 숙련된 전문가인 “프로바이더”들의 거래를 자동으로 카피할 수있고, 이 덕분에 금융시장에 대한 진입장벽이 낮아질 수 있습니다. 전문 트레이더인 “프로바이더”들은 본인의 전략을 공유하고 추가 수입원을 창출할 수 있습니다. 이 같은 시스템은 프로바이더와 팔로워를 연결해주고, 복잡한 전략이나 지속적인 시장 모니터링의 필요성을 없애 줌으로써 팔로워들이 거래를 손쉽고 자신 있게 할 수 있게 해줍니다.</p>
+<h2>카피 트레이드의 원리는?</h2>
+<h3>‘팔로워’를 위한 단계별 절차:</h3>
+<ul>
+<li><strong>1단계</strong></li>
+</ul>
+<p><strong>프로바이더 선택하기</strong></p>
+<p>‘팔로워’들은 본인의 투자 목표 및 리스크 감내수준에 적합한 전략을 펼치는 ‘프로바이더’를 선택합니다.<a href="https://atcopytrade.com/" target="_blank" rel="noopener"> ATFX 카피 트레이드</a> 플랫폼은 트레이딩 내역, 성공률, 시장 포커스 등을 비롯한 실적 통계를 제공함으로써 팔로워들이 정보에 기반한 결정을 내릴 수 있게 해줍니다.</p>
+<ul>
+<li> <strong>2단계</strong></li>
+</ul>
+<p><strong>자금 할당</strong></p>
+<p>‘프로바이더’를 선택한 ‘팔로워’는 해당 프로바이더의 거래를 카피하기 위해 계좌에 자금을 할당해야 합니다. 투자금의 규모는 ‘팔로워’ 본인의 예산 및 ‘프로바이더’의 전략과 관련하여 원하는 익스포저 수준에 따라 달라집니다.</p>
+<ul>
+<li><strong>3단계</strong></li>
+</ul>
+<p><strong>실시간으로 거래 복제하기</strong></p>
+<p>자금을 할당한 이후로 ‘프로바이더’가 진행하는 거래는 실시간으로 자동 카피됩니다. 이는 포지션 진입에서 엑싯에 이르기까지 ‘팔로워’로 하여금 ‘프로바이더’의 거래를 미러링하게 해주며, 할당한 자금에 비례하는 금액이 거래에 투입됩니다.</p>
+<ul>
+<li><strong>4단계 </strong></li>
+</ul>
+<p><strong>세팅의 유연성</strong></p>
+<p>‘팔로워’는 카피할 포트폴리오 비중, 손절선 등의 설정값을 조정할 수 있고, 원하면 언제든지 카피를 중단할 수도 있습니다. 이 같은 유연성은 팔로워들이 본인의 선호도에 따라 리스크를 관리할 수 있게 해줍니다.</p>
+<p><img fetchpriority="high" decoding="async" class="size-full wp-image-48483 aligncenter" src="https://www.atfx.com/wp-content/uploads/2025/03/카피-트레이드의-원리는-팔로워-프로바이더를-위한-완벽한-가이드.webp" alt="카피 트레이드의 원리는 팔로워 &amp; 프로바이더를 위한 완벽한 가이드" width="768" height="395" srcset="https://www.atfx.com/wp-content/uploads/2025/03/카피-트레이드의-원리는-팔로워-프로바이더를-위한-완벽한-가이드.webp 768w, https://www.atfx.com/wp-content/uploads/2025/03/카피-트레이드의-원리는-팔로워-프로바이더를-위한-완벽한-가이드-300x154.webp 300w" sizes="(max-width: 768px) 100vw, 768px" /></p>
+<h3>‘프로바이더’를 위한 단계별 절차:</h3>
+<ul>
+<li><strong>1단계 </strong></li>
+</ul>
+<p><strong>계좌 설정</strong></p>
+<p>트레이더가 ‘프로바이더’가 되려면 ‘카피트레이드’ 서비스를 제공하는 플랫폼에서 반드시 계좌 설정을 완료하여야 합니다. 여기에는 수익권 거래 실적 제공을 통해 경험과 신뢰도를 입증하는 등의 과정이 동반됩니다.</p>
+<ul>
+<li> <strong>2단계 </strong></li>
+</ul>
+<p><strong>‘프로바이더’ 자격 요건</strong></p>
+<p>‘프로바이더’가 본인의 전략을 ‘팔로워’들에게 제공할 자격이 있다는 점을 입증하기 위해서는 최소한의 트레이딩 내역 및 실적 벤치마크 등을 제공함으로써 구체적인 기준을 충족하여야 합니다.</p>
+<ul>
+<li><strong>3단계 </strong></li>
+</ul>
+<p><strong>‘팔로워’들을 위한 거래 복제</strong></p>
+<p>설정이 완료되면, 특정 ‘프로바이더’를 카피하기로 결정한 ‘팔로워’의 계좌에서 ‘프로바이더’의 거래가 자동으로 복제됩니다. ‘프로바이더’의 수익은 본인 거래의 성공 유무 및 본인을 카피하는 팔로워들의 숫자에 따라 결정됩니다.</p>
+<p><span data-sheets-root="1">		<div data-elementor-type="section" data-elementor-id="47417" class="elementor elementor-47417" data-elementor-post-type="elementor_library">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-fb64e92 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="fb64e92" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-1347a42" data-id="1347a42" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-b19d3e6 elementor-widget elementor-widget-text-editor" data-id="b19d3e6" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.19.0 - 07-02-2024 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>팔로우 하세요. 카피 하세요. 수익을 내세요. 끝! 간단하죠?</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-734d0f0 elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="734d0f0" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="https://atcopytrade.com/register/">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">지금 등록하기</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-640df79" data-id="640df79" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-7dc7a84 elementor-widget-laptop__width-initial elementor-widget elementor-widget-image" data-id="7dc7a84" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.19.0 - 07-02-2024 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>										<img decoding="async" width="300" height="300" src="https://www.atfx.com/wp-content/uploads/2025/03/copy-trading-provider-follower-300x300.webp" class="attachment-medium size-medium wp-image-47410" alt="copy-trading-provider-follower" srcset="https://www.atfx.com/wp-content/uploads/2025/03/copy-trading-provider-follower-300x300.webp 300w, https://www.atfx.com/wp-content/uploads/2025/03/copy-trading-provider-follower-150x150.webp 150w, https://www.atfx.com/wp-content/uploads/2025/03/copy-trading-provider-follower.webp 500w" sizes="(max-width: 300px) 100vw, 300px" />													</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		</span></p>
+<h2>‘팔로워’가 누리는 이점</h2>
+<ul>
+<li><strong>전문가 전략에 대한 간편 액세스: </strong>카피 트레이드를 활용하면 ‘팔로워’들은 숙련된 트레이더들의 전략에 대한 액세스를 누릴 수 있습니다. 이를 통해 시장에 대한 심도 있는 이해를 하는 과정, 수 년간 경험을 쌓는 과정 등을 건너뛸 수 있으며, 신규 진입자들이 숙련된 트레이더들의 성공을 통해 수익을 낼 수 있게 해줍니다.</li>
+<li><strong>편리성: </strong>많은 이들에게 있어서 트레이딩 업계가 지닌 최대 장벽은 바로 시간을 많이 쏟아야 한다는 점입니다. 카피 트레이드는 ‘팔로워’들이 꾸준히 시장을 모니터링할 필요 없이도 시장에 참여할 수 있게 해줍니다. 트레이더들은 본인의 카피 선호도를 설정하기만 하면 이후에는 카피 트레이딩 시스템이 모든 것을 관리해줍니다.</li>
+<li><strong>리스크 관리: </strong>‘팔로워’는 본인이 원하는 리스크 선호도에 적합한 ‘프로바이더’를 선택함으로써 리스크를 관리할 수 있습니다. 또한, 다양한 ‘프로바이더’들을 팔로우함으로써 다각화를 하는 것 또한 리스크를 분산시키고 꾸준한 수익 가능성을 높여줍니다.</li>
+<li><strong>학습 효과: </strong>카피 트레이드는 교육적 이점 또한 제공합니다. ‘팔로워’는 탑급 트레이더들의 거래 결정을 관찰함으로써 그들의 전략을 학습하고, 성공적인 시장 접근법으로부터 통찰력을 기를 수 있습니다.</li>
+</ul>
+<h2>‘프로바이더’가 누리는 이점</h2>
+<ul>
+<li><strong>추가 수익: </strong>수익권 트레이더들에게 있어 ‘카피트레이드’는 추가 수입원을 창출해줄 수 있습니다. ‘프로바이더’들은 본인을 카피하는 ‘팔로워’들이 창출한 수익의 일부 퍼센티지를 커미션으로 가져가게 됩니다.</li>
+<li><strong>평판 구축: </strong>꾸준히 수익을 내는 ‘프로바이더’는 탄탄한 평판을 구축하고 보다 많은 ‘팔로워’들을 끌어들일 수 있게 됩니다. 이는 트레이딩 커뮤니티 내에서의 존재감을 높여주고, 성공적인 트레이더라는 신뢰성을 강화해줍니다.</li>
+<li><strong>발전을 위한 동기부여: </strong>‘프로바이더’는 본인의 거래가 카피 된다는 사실로 인해 동기부여를 받을 수 있습니다. ‘프로바이더’ 본인의 평판 및 수익은 꾸준한 수익 유무에 달려 있다는 사실을 명심하며, 본인의 전략을 정제하고 보다 효과적으로 리스크를 관리해 나갈 수 있습니다.</li>
+</ul>
+<h2>잠재적 리스크에 대한 고려사항</h2>
+<h2>‘팔로워’가 겪는 리스크</h2>
+<p>카피 트레이드는 편리성을 제공하지만, 한편으로는 리스크 또한 동반됩니다. ‘프로바이더’가 펼치는 전략의 성패는 시장 환경에 따라 업다운이 있을 수 있으며, ‘팔로워’들은 ‘프로바이더’와 동일한 리스크에 노출됩니다. 불규칙한 실적, 시장 변동성, 프로바이더 수수료 등은 ‘팔로워’의 수익에 악영향을 줄 수 있습니다.</p>
+<h2>‘프로바이더’가 겪는 리스크</h2>
+<p>‘프로바이더’들 또한 압박에 시달릴 수 있습니다. ‘프로바이더’는 신규 팔로워들을 유치하고 기존 팔로워들을 유지하기 위해서는 꾸준히 높은 수준의 실적을 내야만 합니다. 실적이 형편없을 경우 팔로워가 떨어져 나갈 수 있고, 프로바이더 본인의 평판에도 금이 갈 수 있습니다.</p>
+<h2>결론</h2>
+<p>카피 트레이드는 ‘팔로워’와 ‘프로바이더’ 모두가 트레이딩에 대해 협동적인 접근법을 취함으로써 이점을 가져갈 수 있게 해주는 강력한 툴입니다. ‘팔로워’ 입장에서는 전문성이 없더라도 전문적인 전략을 활용하고 시장에 참여할 수 있는 기회를 열어줍니다. ‘프로바이더’ 입장에서는 본인의 실력을 수익화하고 팔로워들을 구축할 수 있는 기회를 잡을 수 있습니다. 다만 카피 트레이드가 모두에게 이점을 주고 수익을 가져다주게끔 하려면, ‘팔로워’와 ‘프로바이더’ 두 집단 모두 각자의 목표치와 리스크 수준을 신중하게 관리하는 것은 필수입니다.</p>
+<p><span data-sheets-root="1">		<div data-elementor-type="section" data-elementor-id="47427" class="elementor elementor-47427" data-elementor-post-type="elementor_library">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-fb64e92 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="fb64e92" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-1347a42" data-id="1347a42" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-b19d3e6 elementor-widget elementor-widget-text-editor" data-id="b19d3e6" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>보다 많은 거래에서 수익을 내세요. 스트레스도 적게 받으세요. 전문가들을 카피하세요!</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-734d0f0 elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="734d0f0" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="https://atcopytrade.com/register/">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">지금 등록하기</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-640df79" data-id="640df79" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-62e4aed elementor-widget elementor-widget-image" data-id="62e4aed" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img decoding="async" width="300" height="200" src="https://www.atfx.com/wp-content/uploads/2025/03/how-copytrade-works-300x200.webp" class="attachment-medium size-medium wp-image-47412" alt="how-copytrade-works" srcset="https://www.atfx.com/wp-content/uploads/2025/03/how-copytrade-works-300x200.webp 300w, https://www.atfx.com/wp-content/uploads/2025/03/how-copytrade-works.webp 612w" sizes="(max-width: 300px) 100vw, 300px" />													</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		</span></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>카피 트레이딩이란? 입문자들을 위한 완벽한 가이드</title>
+		<link>https://www.atfx.com/ko/analysis/trading-strategies/copy-trading</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Mon, 03 Mar 2025 13:10:45 +0000</pubDate>
+				<category><![CDATA[트레이딩 전략]]></category>
+		<category><![CDATA[Copy Trading]]></category>
+		<category><![CDATA[거래전략-초급]]></category>
+		<guid isPermaLink="false">https://www.atfx.com/?p=47609</guid>
+
+					<description><![CDATA[ATFX 카피트레이드 는 트레이더들이 ATFX 카피트레이딩 리더보드를 통해 수익권 전업 트레이더들을 카피함으로써 FX 및 CFD 시장에 패시브한 투자를 할 수 있게 해주는 자동화 서비스입니다. 이 서비스는 FX/CFD 시장에서 이미 성공을 이루고 있는 트레이더들의 거래를 미러링 할 기회를 제공함으로써 신입 트레이더들의 학습곡선을 단축시켜주는 것을 목표로 합니다. 카피 트레이딩이란 무엇이고, 활용을 고려해볼 이유는? 카피 트레이딩은 2006년도에 FX 개인투자 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p dir="ltr"><a href="https://www.atfx.com/ko/trading-platforms/atfx-copytrade" target="_blank" rel="noopener">ATFX 카피트레이드 </a>는 트레이더들이 ATFX 카피트레이딩 리더보드를 통해 수익권 전업 트레이더들을 카피함으로써 FX 및 CFD 시장에 패시브한 투자를 할 수 있게 해주는 자동화 서비스입니다. 이 서비스는 FX/CFD 시장에서 이미 성공을 이루고 있는 트레이더들의 거래를 미러링 할 기회를 제공함으로써 신입 트레이더들의 학습곡선을 단축시켜주는 것을 목표로 합니다.</p>
+<ol>
+<li dir="ltr">
+<h2 dir="ltr">카피 트레이딩이란 무엇이고, 활용을 고려해볼 이유는?</h2>
+</li>
+</ol>
+<p dir="ltr">카피 트레이딩은 2006년도에 FX 개인투자 시장에 처음 도입되었으나, 오늘날의 기준으로는 다소 부족한 점이 많았습니다. 이후로 카피 트레이딩은 트레이딩 시그널을 수동으로 복제하는 시스템으로부터 진화해 왔습니다. 오늘날에는 ‘프로바이더’의 계좌에서 발생한 거래를 카피 트레이드 엔진이 구독자들의 계좌에서도 자동으로 복제되게끔 하는 방식으로 운영되고 있습니다.</p>
+<p dir="ltr">트레이딩 교육기업 OSCE의 한 선임급 임원은 모 인터뷰에서 ‘신규 트레이더가 성공적인 트레이딩을 해내기 위한 경험을 쌓기까지는 대략 2년 정도가 걸린다’고 말했던 바 있습니다. 그렇다면, 과연 2년이라는 시간을 기꺼이 투자할 수 있는 트레이더들이 과연 얼마나 될까요?</p>
+<p dir="ltr">외환시장에 진입하는 입문자들 대다수는 투자법 학습에 2년을 쏟아붓기가 사실상 어렵습니다. 이유인즉 본인들의 본업과 일과로 인해 삶이 너무도 바쁘기 때문입니다. 이 분들에게 카피 트레이딩은 극한의 이점을 제공해줍니다. 학습곡선에 투입되는 기간을 단축시켜주고, 상당한 시간이 소요되는 트레이딩 분석을 진행하는 것 또한 생략할 수 있기 때문입니다.</p>
+<p dir="ltr">“카피 트레이딩”의 의미는 그 글자 그대로인데, 타인의 거래를 카피한다는 의미입니다. 트레이딩에는 다양한 구성 요소가 존재합니다.</p>
+<ul>
+<li dir="ltr">
+<p dir="ltr">분석적 측면: 트레이더는 다양한 요인들을 살펴보고 거래의 방향성을 결정합니다.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">거래 주문: 트레이더는 다양한 지정가 기반 혹은 시장가 기반 주문 선택지 중에서 선택을 하며, 이는 자산가격의 방향성이 어떻게 될지에 대한 트레이더의 판단을 반영합니다.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">진입/엑싯 주문: 수동 청산, 보호 손절선, 손절 주문, 익절 주문 등이 있습니다.</p>
+</li>
+</ul>
+<p dir="ltr">모든 주문에는 거래되는 자산의 종목명, 주문 규모, 주문 유형, 조건(취소 시까지 유효, 진입 시까지 유효) 등이 동반됩니다.</p>
+<p dir="ltr">카피 트레이딩 플랫폼에서는 두 유형의 트레이더가 존재합니다:</p>
+<ul>
+<li dir="ltr">
+<p dir="ltr">거래를 진행하는 ‘프로바이더’</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">해당 거래를 카피하는 ‘팔로워’</p>
+</li>
+</ul>
+<p dir="ltr">‘팔로워’가 ‘프로바이더’를 구독함으로써 해당 프로바이더의 거래를 팔로우 할 경우, ‘팔로워’의 계정은 ‘프로바이더’의 거래를 자동으로 카피합니다.</p>
+<p dir="ltr">진입/엑싯 포인트를 정확히 카피하는 것 이외로도, 카피 트레이드 엔진은 ‘팔로워’의 계좌에 설정된 리스크 설정값을 기반으로 카피하게 될 거래 규모를 자동으로 설정합니다. ‘프로바이더’와 ‘팔로워’가 동일한 계좌 금액을 들고 있다는 보장이 없기에, ‘프로바이더’가 거래하는 것과 완전히 똑같은 금액을 ‘팔로워’의 계좌에서 굴리는 것은 불가능에 가깝습니다.</p>
+<p dir="ltr">‘팔로워’와 ‘프로바이더’가 들고 있는 자본의 비율을 계산하고, 카피 된 시그널에서는 이 비율에 따른 거래액이 정해지게 됩니다.</p>
+<ol start="2">
+<li dir="ltr">
+<h2 dir="ltr">카피 트레이딩 시작하는 방법</h2>
+</li>
+</ol>
+<p dir="ltr">카피 트레이딩을 시작 하기 위해서는 정해진 절차를 따르는 것이 필수이자 베스트입니다.</p>
+<ol>
+<li dir="ltr">
+<h3 dir="ltr">카피 트레이딩을 제공하는 증권사 선택하기</h3>
+</li>
+</ol>
+<p dir="ltr">카피 트레이딩을 제공하는 증권사를 선택하는 과정은 일반적인 FX 트레이딩용 증권사를 선택하는 것과는 소폭 차이점이 있습니다. 이는 ‘프로바이더’와 ‘팔로워’ 모두에게 원활하고 이로운 경험을 제공하기 위해 증권사가 반드시 갖추어야 하는 여러 가지 기능들이 있기 때문입니다.</p>
+<p dir="ltr">카피 트레이딩을 제공하는 증권사를 선택하기 위해 고려해야 하는 사항을 알아보도록 하겠습니다.</p>
+<p dir="ltr">가장 먼저, 규제필 증권사를 선택하셔야 합니다. 규제를 준수한다는 것은 고객 보호라는 개념과도 직결됩니다. ‘팔로워’와 ‘프로바이더’ 모두가 본인의 자금이 안전하고 보안성 있게 관리된다는 것을 보장받는 것은 중요합니다.</p>
+<p dir="ltr">카피 트레이드 플랫폼에는 탑 트레이더들이 본인의 트레이딩 현황을 보여줄 수 있는 리더보드를 걸어두곤 합니다. 다만 카피 트레이딩 엔진을 제공하는 증권사는 ‘프로바이더’의 트레이딩 활동에 대한 중요 요소를 보여주는 구체적인 분석을 녹여내기 위하여 한 걸음 더 나아가야 합니다. 이는 잠재적 ‘팔로워’들이 어떤 거래를 카피할지에 대해 정보에 기반한 선택을 내리는 데 도움이 됩니다.</p>
+<p dir="ltr">카피 트레이딩 제공에 적합한 증권사가 되려면 다양한 결제 채널을 제공함으로써 고객들이 소재국 및 거주지와 무관하게 서비스를 이용할 수 있게끔 해주어야 합니다.</p>
+<h3 dir="ltr">ATFX 카피트레이드 플랫폼의 기능</h3>
+<p dir="ltr">계정 가입 신청서 승인 이후에 로그인 정보를 통해 로그인을 완료하셨다면, 대시보드를 확인하실 수 있습니다.</p>
+<p dir="ltr"><a href="https://atcopytrade.com/" target="_blank" rel="noopener">ATFX 카피트레이드</a> 대시보드의 네 가지 탭은 다음과 같습니다:</p>
+<ol>
+<li dir="ltr">
+<p dir="ltr">내 포트폴리오</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">내 계좌</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">트랜젝션 히스토리(거래 내역)</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">랭킹(순위)</p>
+</li>
+</ol>
+<p>&nbsp;</p>
+<ol start="2">
+<li dir="ltr">
+<h3 dir="ltr">트레이딩 계좌 개설하기</h3>
+</li>
+</ol>
+<p dir="ltr">ATFX 카피트레이드 플랫폼에 액세스하기 위해서는 ATFX 카피트레이드 계좌를 개설하셔야 합니다. ATFX에서 트레이딩 계좌를 개설하는 단계별 방법을 알아보도록 하겠습니다.</p>
+<p dir="ltr"><img loading="lazy" decoding="async" class="size-large wp-image-46223 aligncenter" src="https://www.atfx.com/wp-content/uploads/2025/02/ATFX-Register-1024x452.jpg" alt="ATFX-Register" width="800" height="353" srcset="https://www.atfx.com/wp-content/uploads/2025/02/ATFX-Register-1024x452.jpg 1024w, https://www.atfx.com/wp-content/uploads/2025/02/ATFX-Register-300x132.jpg 300w, https://www.atfx.com/wp-content/uploads/2025/02/ATFX-Register-768x339.jpg 768w, https://www.atfx.com/wp-content/uploads/2025/02/ATFX-Register.jpg 1293w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<ol>
+<li dir="ltr">
+<p dir="ltr">ATFX 웹사이트에 접속하면 자동으로 메인 홈페이지 화면이 뜨고, 그곳에서 계좌 개설 양식을 작성하실 수 있습니다. 첫 번째 단계는 본인의 성함, 전화번호, 이메일, 캡챠(CAPTCHA) 등을 비롯한 바이오 데이터를 작성하는 것입니다. ‘만18세 이상입니다’라는 칸에 체크를 하신 뒤, ATFX 표준 거래약관에 동의하시면 됩니다(약관을 반드시 읽어 보시기 바랍니다).</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">다음 페이지에서 신원, 주소, 연락처 정보를 인증하시면 됩니다. 첨부해야 할 증빙서류는 여권/운전면허증/국가 신분증, 그리고 공과금 고지서(전기·가스·수도 요금)/은행 내역서 등이 있습니다.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">계정 생성이 승인된 이후에는 로그인 정보가 제공됩니다.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">로그인이 완료되면<a href="https://atcopytrade.com/" target="_blank" rel="noopener">https://atcopytrade.com</a>로 넘어간 다음에 기존 ATFX 고객으로서 카피 트레이딩 서비스 등록을 하시면 됩니다.</p>
+</li>
+</ol>
+<p dir="ltr"><img loading="lazy" decoding="async" class="size-full wp-image-46224 aligncenter" src="https://www.atfx.com/wp-content/uploads/2025/02/ATCopy-register.png" alt="ATCopy-register" width="803" height="617" srcset="https://www.atfx.com/wp-content/uploads/2025/02/ATCopy-register.png 803w, https://www.atfx.com/wp-content/uploads/2025/02/ATCopy-register-300x231.png 300w, https://www.atfx.com/wp-content/uploads/2025/02/ATCopy-register-768x590.png 768w" sizes="(max-width: 803px) 100vw, 803px" /></p>
+<ol start="3">
+<li dir="ltr">
+<h3 dir="ltr">팔로우 할 전략 및 트레이더 선택하기</h3>
+</li>
+</ol>
+<p dir="ltr">팔로우 할 ‘프로바이더’의 거래를 선택하기에 앞서, 어떤 ‘프로바이더’의 전략이 본인에게 맞을지를 판단하기 위해서는 프로바이더의 트레이딩 방식을 구성하는 요소가 무엇인지를 숙지하는 것이 필수입니다.</p>
+<ul>
+<li dir="ltr">
+<p dir="ltr">해당 트레이더의 전략이 얼마나 공격적이거나 보수적인지</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">해당 프로바이더가 얼마나 오래 트레이딩을 해 왔는지</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">해당 프로바이더의 수익률은 얼마인지</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">해당 프로바이더의 거래 주기가 어떻게 되는지 (즉, 해당 프로바이더가 스캘퍼, 스윙 트레이더, 포지션 트레이더 중에서 어떤 유형인지)</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">수익성 차트가 어떻게 되는지: 점진적으로 꾸준한 우상향을 하는 차트를 추구하는 것이 좋으며, 불규칙적이고 큰 폭의 하락을 반복하는 지그재그형 차트는 피하는 것이 좋습니다.</p>
+</li>
+</ul>
+<p dir="ltr">프로바이더를 선택할 때에는 본인의 상황, 리스크 선호도, 가용 자금, 수익 목표 등을 고려하셔야 합니다. 일부 트레이더들은 빠른 수익을 낼 수 있는 공격적인 트레이딩 스타일을 선호하지만, 다른 트레이더들은 덜 공격적이면서 비교적 적은 수익을 목표로 하는 보수적인 접근법을 선호할 수 있습니다. 모두에게 100% 맞아떨어지는 전략은 존재하지 않으며, 이번 글에서는 투자 방식에 대한 추천을 드리지는 않도록 하겠습니다. 본인의 목표와 리스크 선호도에 맞아떨어지는 프로바이더를 선택하시기 바랍니다.</p>
+<h3 dir="ltr">트레이더의 실적을 살펴보고 분석하는 법</h3>
+<ol start="4">
+<li dir="ltr">
+<h3 dir="ltr">카피 트레이딩 세팅하기</h3>
+</li>
+</ol>
+<p dir="ltr">ATFX에서 카피 트레이딩 계좌를 설정하는 것은 간단합니다. ATFX는 온보딩 절차를 통해 여러분이 ATFX에서 일반 트레이딩 계좌를 보유하고 있다면 마우스 클릭 몇 번만으로도 ATFX 카피트레이드 서비스를 이용하실 수 있게끔 해 두었습니다.</p>
+<p dir="ltr">가입이 완료된 뒤 ‘프로바이더’를 구독하고 싶으시다면, ‘신규 구독(New Subscriptions)’을 클릭하시기 바랍니다. 열린 대화 상자에서 하단으로 스크롤하신 뒤, ‘프로바이더 탭’에서 팔로우할 ‘프로바이더’를 선택하시기 바랍니다. ‘프로바이더’ 목록에서 선택을 하신 뒤, ‘생성(Create)’을 클릭하시기 바랍니다. 일반적으로는 ‘프로바이더’의 상태 및 구독료가 안내되어 있습니다. 여러분이 ‘생성’ 버튼을 클릭하시면 시스템상으로 해당 ‘프로바이더’에 대한 팔로우가 시작됩니다.</p>
+<p dir="ltr">여러분은 ‘랭킹(Rankings)’을 클릭한 뒤 본인이 선호하는 ‘프로바이더’의 프로필을 클릭하실 수도 있습니다. 프로필 창이 열리면 화면 우측 상단의 ‘투자(Invest)’를 클릭하시기 바랍니다.</p>
+<ol start="5">
+<li dir="ltr">
+<h3 dir="ltr">카피 트레이딩 활동 모니터링 &amp; 조정하기</h3>
+</li>
+</ol>
+<p dir="ltr">외환시장은 매우 역동적입니다. 즉, 여러분이 선택한 ‘프로바이더’의 전략이 어떤 실적을 내고 있는지를 검토하고, 해당 ‘프로바이더’가 외환시장의 변동에 무사히 발맞추어 투자를 하고 있는지를 꾸준히 살펴보면서 여러분의 선택을 꾸준히 조정하셔야 합니다. 이는 여러분이 카피 트레이딩 활동 모니터링을 간과할 수 없는 이유이기도 합니다.</p>
+<p dir="ltr">또한, 여러분이 현재 카피 중인 프로바이더보다 수익이 뛰어난 프로바이더가 존재할 수 있습니다. 그리고 트레이더의 투자 실적 또한 시간이 흐름에 따라 저조해질 수 있습니다. 이 같은 요인들은 한 가지 사실을 가리키고 있습니다. 시기에 따라 본인이 팔로우 할 트레이더를 변경할 준비가 되어 있어야 한다는 점입니다.</p>
+<p dir="ltr">팔로우 할 ‘프로바이더’를 변경할 때에는 카피 트레이딩 포트폴리오를 어떻게 조정할 수 있을까요?</p>
+<ol>
+<li dir="ltr">
+<p dir="ltr">꾸준히 리더보드를 확인함으로써 어떤 트레이더들이 상위권을 기록 중이고, 그들의 전략이 어떻게 먹히고 있고, 그들의 트레이딩 스타일이 여러분의 목표 및 리스크 선호도와 일치하는지를 확인하시기 바랍니다.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">시간이 흐름에 따른 수익 실적을 확인해 보시기 바랍니다. 수익성이 감소하고 있나요, 아니면 수많은 손실이 발생하고 있나요? 만약 그렇다면 프로바이더를 변경할 때가 되었을 수 있습니다.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">본인이 카피하는 거래의 성과가 좋지 않을 때가 있다는 점을 파악하셨나요? 그런 때마저도 여전히 좋은 성과를 내고 있는 다른 ‘프로바이더’가 존재하는지 확인하셨나요? 만약 그렇다면 변화를 선택할 때가 된 것입니다.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">MT4/MT5 클라이언트에서 가상 사설 서버를 통해 거래 주문의 지연성을 감소시키시기 바랍니다. 변동성과 가격 스윙이 심할 때에는 VPS를 활용하는 것이 도움이 됩니다.</p>
+</li>
+</ol>
+<h3 dir="ltr">필요시 투자 전략/트레이더 조정하는 팁</h3>
+<p dir="ltr">카피 트레이딩 절차에 발을 담그게 되면, 본인이 카피하는 ‘프로바이더’를 바꾸면서 꾸준히 포트폴리오를 조정할 필요가 있다는 점을 깨닫게 되실 것입니다. 어떤 때에는 동일한 ‘프로바이더’에 대한 카피를 유지하더라도, 거래에 투입되는 단위(로트 규모)를 본인의 리스크 관리 기준에 맞추기 위해 조정하는 것이 필요할 수 있습니다. 변경하려는 사안에 대해 여러분이 어떤 선택을 내리는지에 따라 추후 방향성이 결정됩니다.</p>
+<p dir="ltr">본인이 이미 선택한 프로바이더보다 실적이 뛰어난 새로운 프로바이더를 물색하는 한 가지 방법은 실적 차트를 살펴보는 것입니다. 상단의 스냅샷을 살펴보면, 차트가 일정 기간 상승세를 보인 후 고점을 달성한 경우가 두 건 이상 있는 것을 확인하실 수 있습니다. 손실세로 시작했지만 회복을 한 뒤 상승을 하고 있는 건이 있습니다(우측 차트). 한편, 지그재그로 움직이며 불안정한 모습을 보이는 건도 있습니다. 후자는 프로바이더의 성과에 의문이 제기될 수 있겠습니다.</p>
+<p dir="ltr"><span data-sheets-root="1">		<div data-elementor-type="section" data-elementor-id="47417" class="elementor elementor-47417" data-elementor-post-type="elementor_library">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-fb64e92 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="fb64e92" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-1347a42" data-id="1347a42" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-b19d3e6 elementor-widget elementor-widget-text-editor" data-id="b19d3e6" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>팔로우 하세요. 카피 하세요. 수익을 내세요. 끝! 간단하죠?</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-734d0f0 elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="734d0f0" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="https://atcopytrade.com/register/">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">지금 등록하기</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-640df79" data-id="640df79" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-7dc7a84 elementor-widget-laptop__width-initial elementor-widget elementor-widget-image" data-id="7dc7a84" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img decoding="async" width="300" height="300" src="https://www.atfx.com/wp-content/uploads/2025/03/copy-trading-provider-follower-300x300.webp" class="attachment-medium size-medium wp-image-47410" alt="copy-trading-provider-follower" srcset="https://www.atfx.com/wp-content/uploads/2025/03/copy-trading-provider-follower-300x300.webp 300w, https://www.atfx.com/wp-content/uploads/2025/03/copy-trading-provider-follower-150x150.webp 150w, https://www.atfx.com/wp-content/uploads/2025/03/copy-trading-provider-follower.webp 500w" sizes="(max-width: 300px) 100vw, 300px" />													</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		</span></p>
+<ol start="3">
+<li dir="ltr">
+<h2 dir="ltr">ATFX 카피 트레이딩의 이점</h2>
+</li>
+</ol>
+<p dir="ltr">카피 트레이딩은 수요가 없었다면 결코 흥행하지 못했을 것이며, 이 세상 누구에게나 반드시 이롭게 작용하는 시스템이라고는 할 수 없습니다. 다만 카피 트레이딩에는 분명한 이점이 존재하며, ATFX 카피트레이드 플랫폼을 활용한다면 그 이점을 더욱 제대로 활용하실 수 있습니다.</p>
+<ol>
+<li dir="ltr">
+<h3 dir="ltr">전문성에 대한 액세스</h3>
+</li>
+</ol>
+<p dir="ltr">ATFX 카피트레이드 플랫폼 사용자들이 즉각적으로 누릴 수 있는 이점은, 보다 숙련된 트레이더들의 전문성에 액세스 할 수 있다는 점입니다. 즉, 학습곡선에 소요되는 시간을 단축하고 곧바로 실전에 투입될 수 있다는 것입니다.</p>
+<p dir="ltr">트레이딩을 제대로 하기 위해서는 수 개월에서 2~3년 정도까지도 시간이 소요될 수 있지만 이건 어디까지나 학습, 리서치, 백테스트, 멘토들의 조언 등에 엄청난 공을 들여야만 가능한 성취입니다. ATFX 카피트레이드 플랫폼을 통해 노련한 수익권 프로바이더의 거래를 카피할 경우, 초기의 다양한 장애물들을 손쉽게 건너뛸 수 있습니다.</p>
+<p dir="ltr"><img loading="lazy" decoding="async" class="size-full wp-image-46326 aligncenter" src="https://www.atfx.com/wp-content/uploads/2025/03/Typical-returns-chart-for-a-Provider-on-ATFX-CopyTrade.jpg" alt="Typical returns chart for a Provider on ATFX CopyTrade" width="874" height="569" srcset="https://www.atfx.com/wp-content/uploads/2025/03/Typical-returns-chart-for-a-Provider-on-ATFX-CopyTrade.jpg 874w, https://www.atfx.com/wp-content/uploads/2025/03/Typical-returns-chart-for-a-Provider-on-ATFX-CopyTrade-300x195.jpg 300w, https://www.atfx.com/wp-content/uploads/2025/03/Typical-returns-chart-for-a-Provider-on-ATFX-CopyTrade-768x500.jpg 768w" sizes="(max-width: 874px) 100vw, 874px" /></p>
+<p dir="ltr" style="text-align: center;"><strong>ATFX 카피트레이드 프로바이더의 일반적인 수익률 차트</strong></p>
+<p dir="ltr">‘우승팀은 그 어떤 코치도 막을 수 없다’는 말을 들어보셨나요? 외환 트레이딩의 세계에서는 만약 누군가가 이미 바퀴를 새로 발명하여 이를 통해 수익성을 이어 나가고 있다면, 이를 모방하기면 하면 되지 굳이 바퀴를 새로 발명할 필요가 없습니다. 또한, 여러분은 본인 스스로 해내는 것보다 뛰어난 리스크 관리 기술을 적용하는 이들을 참고하여 이를 따라할 수도 있습니다.</p>
+<p dir="ltr">꾸준한 연습은 장인을 만듭니다. 모든 거래 이후에는 항상 해당 거래를 되돌아가 검토한 뒤, 각 포지션의 분석과 주문집행에 대해 어떠한 사고 과정이 투입되었는지를 숙지하는 과정을 거칠 수 있습니다. 이 방법대로라면, 여러분 스스로 체감하지 못하는 사이에 점점 트레이딩 실력이 개선되기 시작할 것입니다.</p>
+<ol start="2">
+<li dir="ltr">
+<h3 dir="ltr">시간 절약</h3>
+</li>
+</ol>
+<p dir="ltr">ATFX 카피트레이드를 통한 카피 트레이딩은 여러분의 귀한 시간을 상당히 절약해 줍니다. 카피트레이딩은 차트 분석에 소요되는 시간, 시장 전체적으로 핍을 좇는 데 소요되는 시간, 다양한 뉴스 소스를 살펴보는 데 소요되는 시간을 단축하는 데 도움이 됩니다. 여러분이 시간을 소요하는 유일한 때는 여러분에게 적합한 ‘프로바이더’를 선택하기 위해 비교분석을 할 때뿐입니다. 카피 트레이드 엔진을 활용해 ‘프로바이더’의 시그널에 연결되는 순간, 모든 과정은 자동화됩니다.</p>
+<p dir="ltr">이는 회사, 학교, 기타 활동으로 인해 바쁜 일정을 소화하고 있는 분들에게 상당한 이점으로 작용합니다. 대학생이 강의실에서 강의를 듣고 있는 상황에서 잠재적 투자 기회를 잡기 위해 차트를 분석하는 것이 과연 현실적으로 가능할까요? 만약 여러분이 은행 업무를 보고 있다면, 쇼핑몰에서 장을 보고 있다면, 사무실에서 일을 하고 있다면, 가사도우미로서 아기를 돌보고 있다면 트레이딩을 모니터링하는 것이 과연 가능할까요? 이런 상황에서는 트레이딩을 통해 수익을 내는 것이 현실적으로 불가능할 수 있습니다. 하지만 여러분이 ATFX 카피 트레이드 플랫폼을 통해 수익권 프로바이더를 구독한다면, 굳이 노력을 쏟지 않고도 거래가 자동으로 개설되고 청산된다는 점에서 엄청나게 시간을 절약하실 수 있습니다.</p>
+<ol start="3">
+<li dir="ltr">
+<h3 dir="ltr">다각화</h3>
+</li>
+</ol>
+<p dir="ltr">카피 트레이딩은 그저 초보들만을 위한 개념이 아닙니다. 이미 숙련도가 있고 어느 정도 성공한 트레이더들 또한 포트폴리오 다각화를 위해 카피 트레이딩 계좌를 개설할 수 있습니다. 여러분은 본인의 ATFX 본계좌를 통해 능동적인 트레이딩을 하는 와중에, 카피 트레이딩 계좌를 활용해 다른 ‘프로바이더’의 거래를 수동적으로 팔로우 하는 것이 가능합니다. 성공적인 트레이더들 또한 다른 트레이더들의 거래를 카피해 수익을 낼 생각이 있다면, 카피 트레이드 플랫폼을 통해 2차적인 수입원을 뚫곤 합니다. 이 같이 수익을 다각화하면 절대 손해볼 일은 없을 것입니다.</p>
+<p dir="ltr">ATFX 카피트레이드를 통해 타인의 거래를 카피할 때에는 여러 명의 ‘프로바이더’에 대한 다중 카피 또한 가능합니다.</p>
+<p dir="ltr">서로 100% 일치하는 종목만을 거래하는 프로바이더는 세상에 존재하지 않습니다. 여러분은 △ 금 트레이딩을 하는 프로바이더 한 명, △ EUR/USD 통화쌍 트레이딩을 하는 프로바이더 한 명, △ 브렌트유 트레이더 한 명을 팔로우 하는 와중에 △ 미국 주식 인덱스를 거래하는 트레이더마저 카피함으로써 매우 다각화된 올라운더 포트폴리오를 구축하여 다양한 자산군에 대한 익스포저를 누리실 수 있습니다. 일부 시장의 수익률은 다른 시장의 수익률을 빈번히 뛰어넘는 경우가 있기에, A 프로바이더로부터 발생한 손실을 B 프로바이더로부터 발생한 수익을 통해 상쇄하는 방식을 활용할 수 있습니다.</p>
+<ol start="4">
+<li dir="ltr">
+<h3 dir="ltr">낮은 비용</h3>
+</li>
+</ol>
+<p dir="ltr">카피 트레이딩은 시장 참여에 대한 비용 효과성이 뛰어나며, FX 트레이딩 로봇과 사실상 동일 수준의 서비스를 제공받으실 수 있습니다. FX 트레이딩 로봇은 사용 비용이 비쌀 수 있으며, 수익성을 판단하기 위해 거래 내역을 확인하는 것조차 불가능한 경우가 다수입니다. 백테스트 기능이라도 제공된다면 그나마 양반이지만, 이 또한 미래의 수익성을 판단하기에는 한계가 있습니다. 더욱이, FX 트레이딩 로봇을 구매하면 환불을 받을 가능성 또한 낮습니다. 본인이 구매한 FX 트레이딩 로봇이 쓰레기 제품으로 판명 나더라도, 그저 운이 나빴다 하고 넘어가야 할 수밖에 없습니다.</p>
+<p dir="ltr">하지만 카피 트레이딩 서비스는 상황이 다릅니다. 인디케이터나 로봇을 구매하는 데 소요되는 비용을 아낄 수 있으며, 모든 자산군에 대한 백테스트를 시간을 들여서 수행해야 하는 고충 또한 해결됩니다. ATFX 카피 트레이드 서비스에 대한 구독료는 소액에 불과하며, 카피 트레이딩을 통해 창출된 단 하루의 수익만으로도 구독료 비용이 커버될 정도입니다.</p>
+<ol start="5">
+<li dir="ltr">
+<h3 dir="ltr">손쉬운 입문</h3>
+</li>
+</ol>
+<p dir="ltr">카피 트레이드 서비스는 경험이 없어도 무관하다는 점에서 입문이 손쉽습니다. ATFX 카피 트레이드 플랫폼에서는 모든 것이 간편화 되어 있습니다. 본인 컴퓨터에서 마우스 버튼 몇 번만 딸깍하면 끝입니다. ATFX에서 트레이딩 계좌를 개설하는 것을 통해 모든 것이 시작됩니다. 이는 간편 3단계를 통해 손쉽게 달성하실 수 있습니다. 로그인 정보를 수신한 이후, ATFX 카피 트레이드 계좌를 원큐에 등록하실 수 있습니다.</p>
+<p dir="ltr">로그인 액세스를 얻은 다음에는 팔로우하고 싶은 ‘프로바이더’를 선택할 시간입니다. ‘리더보드’를 활용하면 모든 ‘프로바이더’의 목록뿐 아니라 실적 현황도 살펴보실 수 있습니다. 여러분은 각 ‘프로바이더’의 프로필을 선택하신 뒤 리스크 관리, 특정 기간 동안의 수익성, 일/주/월/분기 동안 수익을 낸 핍의 정도를 비롯한 트레이딩 성과에 대한 심도 있는 분석을 진행하실 수도 있습니다.</p>
+<ol start="4">
+<li dir="ltr">
+<h2 dir="ltr">카피 트레이딩의 리스크 &amp; 한계점</h2>
+</li>
+</ol>
+<p dir="ltr">카피 트레이딩 그 자체만으로는 시장에 존재하는 다양한 리스크를 없애 주지 못합니다. 패시브 투자를 위해 카피 트레이딩 서비스를 이용하는 분들은 카피 트레이딩이 본인의 계좌에 미칠 수 있는 리스크를 숙지해 두시는 것이 중요합니다.</p>
+<ol>
+<li dir="ltr">
+<h3 dir="ltr">통제권 부족</h3>
+</li>
+</ol>
+<p dir="ltr">카피 트레이딩의 ‘팔로워’가 겪게 되는 리스크 중 하나는, 서비스를 등록하는 시점부터는 본인의 거래에 대한 완전한 통제권을 지니지 못한다는 점입니다. 팔로워 본인이 카피하고 있는 프로바이더의 선택에 따라 팔로워의 운명이 휘둘릴 수 있습니다. 만약 ‘프로바이더’의 거래가 10번 연속 손실로 이어질 경우, ‘팔로워’의 계좌에서도 똑같은 손실이 발생하게 됩니다.</p>
+<p dir="ltr">이는 ‘프로바이더’가 수행한 거래의 모든 요소들(리스크 익스포저 크기, 진입가/청산가)이 카피되기 때문입니다. 만약 ‘프로바이더’가 거래당 리스크 권장 비율인 5%를 초과하는 비중을 실어 거래를 할 경우, ‘팔로워’의 계좌에도 동일한 리스크가 따르게 됩니다. 만약 ‘프로바이더’가 사회적으로 통용되는 리스크 관리 기준을 준수하지 않을 정도의 리스크 보상비율(RRR)을 선택해 버릴 경우, ‘팔로워’의 계좌에도 동일한 비율이 적용됩니다.</p>
+<p dir="ltr">카피 트레이딩에서는 ‘팔로워’가 손절선 혹은 익절선을 직접 설정할 수 없다는 점에서, ‘프로바이더’가 잘못된 판단 혹은 잘못된 트레이딩 결정을 내릴 경우 ‘팔로워’는 무방비 상태로 손실을 볼 수 있습니다. 이 같은 사태를 방지하기 위해서는 ‘프로바이더’의 거래를 구독 취소하는 것 밖에는 방법이 없습니다. 구독은 일반적으로 환불이 어렵다는 점에서, ‘프로바이더’를 신중하게 선택하는 것이 필수입니다.</p>
+<ol start="2">
+<li dir="ltr">
+<h3 dir="ltr">시그널 프로바이더에 대한 과의존</h3>
+</li>
+</ol>
+<p dir="ltr">카피 트레이딩은 ‘팔로워’가 ‘프로바이더’에게 의존하게끔 만듭니다. ATFX 카피트레이드 플랫폼은 그저 기회를 제공할 뿐입니다. 팔로우 할 ‘프로바이더’를 선택하는 것은 트레이더 본인의 몫입니다. 만약 잘못된 선택을 하면 후폭풍 또한 본인의 책임이 됩니다. 만약 여러분이 ‘프로바이더’의 트레이딩 지표와 통계를 활용하여 누구의 트레이딩을 카피해야 할지에 대해 정보에 기반한 선택을 할 수 없다면, 결국 어려운 상황에 빠지는 것을 피할 수 없을 것입니다.</p>
+<p dir="ltr">시그널/거래 프로바이더에 대한 과의존을 할 경우에는 장점과 단점이 둘 다 존재합니다. 만약 여러분이 팔로우하는 프로바이더에게 100% 의존한다고 가정해봅시다. 그렇다면 해당 프로바이더의 전략이나 시장 환경에 변화가 생겨 수익성에 리스크가 발생한다는 사실을 눈치채지 못할 수 있고, 그에 따른 문제점이 발생할 수 있습니다. 여기서의 교훈은 시그널 프로바이더에게 과도한 의존은 지양해야 한다는 점입니다. 실적이 흔들리고 있는 ‘프로바이더’의 거래 카피를 언제 비활성화해야 할지, 완전히 다른 ‘프로바이더’를 언제쯤 선택해야 할지를 판단할 수 있는 지식이 있으면 반드시 도움이 됩니다.</p>
+<ol start="3">
+<li dir="ltr">
+<h3 dir="ltr">사기/스캠 리스크</h3>
+</li>
+</ol>
+<p dir="ltr">높은 금융 수익률을 보이는 업계/섹터가 있다면 자연스레 사기꾼들이 꼬이기 마련입니다. 외환시장 또한 스캠 청정지역이 아닌 만큼, 카피 트레이딩 업계에서도 긴장의 끈을 늦추지 마시기 바랍니다. 카피 트레이딩 업계에서 흔히 발생하는 스캠 사기에 걸려들지 않게끔 스스로를 보호하는 방법을 반드시 알아 두셔야 합니다.</p>
+<p dir="ltr">카피 트레이딩 업계에서는 어떤 스캠 사태가 발생할 수 있을까요?</p>
+<ul>
+<li dir="ltr">
+<p dir="ltr">비양심적 시그널 프로바이더에 의한 허위 거래결과 표기: 일부 시그널 프로바이더들은 나쁜 결과 정보를 삭제함으로써 관련 정보가 거래 내역에 뜨지 않게끔 하는 방식을 활용하기도 합니다.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">시장 비효율성 조작</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">중대한 리스크를 숨긴 채 비정상적으로 높은 수익률 홍보: 이는 단편적인 장점만을 부각하고, 해당 시장에 도사리고 있는 지나치게 높은 리스크를 숨기는 방식입니다. 일부 프로바이더들은 본인의 거래 내역들 중에서 운이 좋았던 결과만을 활용하여 홍보를 하곤 합니다.</p>
+</li>
+</ul>
+<p dir="ltr">트레이더 분들은 이렇다할 다른 지표를 제시하지 않는 와중에 비정상적으로 높은 수익률을 자랑하는 프로바이더를 주의하셔야 하겠습니다. 자칫하면 리스크 관리를 전혀 하지 않는 프로바이더의 서비스를 구독하게 될 수 있으며, 결과적으로 순식간에 돈을 잃게 될 수 있습니다.</p>
+<ol start="4">
+<li dir="ltr">
+<h3 dir="ltr">시장 리스크</h3>
+</li>
+</ol>
+<p dir="ltr">시장 리스크란 무엇일까요? 외환시장에서의 시장 리스크는 갑작스럽고 예기치 못한 자본 손실을 초래할 수 있는 리스크입니다. 이 같은 리스크성 이벤트로는 뉴스 매매, 슬리피지, 각종 천재지변(자연재해, 전쟁 발발, 글로벌 팬데믹, 글로벌 여파로 이어지는 테러리스트 공격)을 예시로 들 수 있습니다.</p>
+<p dir="ltr">이 같은 리스크성 이벤트는 실제로 지난 20년 동안 여러 번 발생한 바 있습니다. 카피 트레이딩은 트레이더들을 이 같은 시장 리스크로부터 보호해 주거나 예방해 주지 못합니다.</p>
+<ol>
+<li dir="ltr">
+<p dir="ltr">2001년 9월 11일 미국에서 발생한 9.11 테러 당시에도 여러 금융시장이 강타당하는 심각한 시장 대혼란 사태가 발생했습니다.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">2015년 1월 15일에는 스위스 국립은행이 스위스 프랑과 유로화의 고정환율제를 폐지하겠다고 발표했습니다.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">2011년 뉴질랜드 크라이스트처치 지진 사태는 대대적인 안전자산 수요를 불러와 일본 엔화 강세로 이어졌고, 일본은행의 개입을 사실상 강제했습니다.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">2008년 1월 22일 개장을 앞두고 미 연방준비제도에서 깜짝 금리인하를 단행했습니다.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">2011년, 갑작스러운 리비아 내전이 발발했습니다.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">2020년 3월에 코로나-19 팬데믹이 발발했습니다. 이는 전세계 각국 중앙은행이 원래 계획에 없던 예상 밖의 금리인하를 여러 차례 단행하게 만들었고, 이는 통화시장에 대대적인 충격을 가져다 주었습니다.</p>
+</li>
+</ol>
+<p dir="ltr">만약 카피 트레이딩 포털을 통해 이 같은 시기에 활성 거래가 이루어졌다면, 여러분은 시장 익스포저로 인해 엄청난 손실을 입게 되었을 수 있습니다. 이 같은 시장 리스크 이벤트는 예기치 못한 상황에서 발생하곤 하며, 심각한 시장 충격을 초래합니다. 일반적으로 시장 리스크 이벤트는 슬리피지를 유발하며, 슬리피지는 사전에 설정해둔 손절선을 증권사 혹은 거래 상대방이 이행할 수 있는 능력에 차질을 초래합니다.</p>
+<p dir="ltr">이 같은 이벤트가 발생할 수 있다는 것을 염두하고, 이 같은 시기에 대비해 최대한 스스로를 보호할 수 있도록 하면 도움이 될 것입니다.</p>
+<ol start="5">
+<li dir="ltr">
+<h3 dir="ltr">맞춤형 설정의 부재</h3>
+</li>
+</ol>
+<p dir="ltr">카피 트레이딩은 마치 주종 관계처럼 느껴질 수 있습니다. 비록 엄밀히 따져보면 그런 관계는 아니지만 말이죠. ‘프로바이더’가 내린 트레이딩 결정은 ‘팔로워’의 별다른 행동이 없더라도 ‘팔로워’의 계좌에 반영이 됩니다. ‘프로바이더’가 취한 트레이딩 절차나 결과에 대해 ‘팔로워’는 이의를 제기할 수 없고, 그 말인 즉슨 ‘팔로워’는 그 어떠한 맞춤형 설정도 할 수 없다는 점입니다.</p>
+<p dir="ltr"><img loading="lazy" decoding="async" class="size-full wp-image-46232 aligncenter" src="https://www.atfx.com/wp-content/uploads/2025/02/ATCopy-tradestats.jpg" alt="ATCopy-tradestats" width="907" height="607" srcset="https://www.atfx.com/wp-content/uploads/2025/02/ATCopy-tradestats.jpg 907w, https://www.atfx.com/wp-content/uploads/2025/02/ATCopy-tradestats-300x201.jpg 300w, https://www.atfx.com/wp-content/uploads/2025/02/ATCopy-tradestats-768x514.jpg 768w" sizes="(max-width: 907px) 100vw, 907px" /></p>
+<p dir="ltr" style="text-align: center;"><strong>‘프로바이더’의 거래 통계</strong></p>
+<p dir="ltr">‘팔로워’는 본인의 리스크 선호도가 있다고 해서 본인이 이미 선택한 ‘프로바이더’의 트레이딩 스타일을 바꿀 수는 없습니다. 팔로워 본인의 선호도가 있다고 해서 ‘프로바이더’가 어떤 자산군을 거래할지, ‘프로바이더’가 어떤 스타일로 트레이딩을 할지를 결정할 수는 없습니다. 때문에, ‘프로바이더’의 트레이딩 행동에 대한 모든 요소들을 조건 없이 받아들일 수밖에 없습니다.</p>
+<p dir="ltr">만약 어떤 거래일에 ‘프로바이더’가 지나치게 감정적으로 돌변해 트레이딩 실수를 하기 시작한다면, ‘팔로워’가 취할 수 있는 최선의 조치는 해당 ‘프로바이더’에 대한 팔로우를 완전히 취소하는 것뿐입니다. 이 같은 상황이 발생했다고 해서 손실에 대한 환불을 받을 수는 없기 때문입니다. 이는 여러분이 개개인의 니즈를 고려하여 본인의 리스크 관리, 트레이딩 스타일, 전반적인 실적 선호도에 맞아떨어지는 ‘프로바이더’를 반드시 잘 선택해야만 하는 이유이기도 합니다.</p>
+<p dir="ltr"><span data-sheets-root="1">		<div data-elementor-type="section" data-elementor-id="47427" class="elementor elementor-47427" data-elementor-post-type="elementor_library">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-fb64e92 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="fb64e92" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-1347a42" data-id="1347a42" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-b19d3e6 elementor-widget elementor-widget-text-editor" data-id="b19d3e6" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>보다 많은 거래에서 수익을 내세요. 스트레스도 적게 받으세요. 전문가들을 카피하세요!</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-734d0f0 elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="734d0f0" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="https://atcopytrade.com/register/">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">지금 등록하기</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-640df79" data-id="640df79" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-62e4aed elementor-widget elementor-widget-image" data-id="62e4aed" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img decoding="async" width="300" height="200" src="https://www.atfx.com/wp-content/uploads/2025/03/how-copytrade-works-300x200.webp" class="attachment-medium size-medium wp-image-47412" alt="how-copytrade-works" srcset="https://www.atfx.com/wp-content/uploads/2025/03/how-copytrade-works-300x200.webp 300w, https://www.atfx.com/wp-content/uploads/2025/03/how-copytrade-works.webp 612w" sizes="(max-width: 300px) 100vw, 300px" />													</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		</span></p>
+<ol start="5">
+<li dir="ltr">
+<h2 dir="ltr">널리 사용되는 트레이딩 용어</h2>
+</li>
+</ol>
+<h3 dir="ltr">시그널 프로바이더</h3>
+<p dir="ltr">‘시그널 프로바이더’는 소셜 트레이딩 플랫폼 상에서 본인의 구독자 혹은 팔로워들에게 매수/매도 시그널을 제공하는 이들입니다. ‘시그널 프로바이더’들은 매수/매도 및 엑싯 포인트를 알려주기만 한다는 점에서 ‘카피 트레이드 프로바이더’와는 차이점이 있습니다. 시그널 프로바이더의 시그널은 팔로워들의 계좌에 자동으로 적용되는 것이 아닙니다.</p>
+<h3 dir="ltr">소셜 트레이딩</h3>
+<p dir="ltr">‘소셜 트레이딩’은 여러 트레이더들이 커뮤니티에 모여 시장 트레이딩을 하는 관행으로, 개인 트레이더들이 혼자서 트레이딩을 하는 것과는 대비됩니다. 카피 트레이딩은 소셜 트레이딩의 전문화된 형식이라고 할 수 있는데, 리더 격인 ‘프로바이더’의 거래가 구독자 커뮤니티의 거래에도 적용되기 때문입니다.</p>
+<h3 dir="ltr">미러 트레이딩</h3>
+<p dir="ltr">‘미러 트레이딩’은 외환시장의 투자자/트레이더들이 본인보다 비교적 숙련된 수익권 트레이더들의 거래를 카피하는 방식으로 진행됩니다. ‘카피 트레이딩’은 ‘미러 트레이딩’의 절차를 자동화해주는 방식이라고 이해하시면 됩니다.</p>
+<h3 dir="ltr">카피 트레이딩 플랫폼</h3>
+<p dir="ltr">‘카피 트레이딩 플랫폼’은 자동화된 트레이딩 엔진으로, 숙련된 트레이더들의 거래를 자동으로 카피함으로써 본 서비스에 구독한 경험이 부족한 트레이더들의 계좌에 동일한 거래를 적용시키는 방식으로 운영됩니다.</p>
+<h3 dir="ltr">카피 트레이더/팔로워</h3>
+<p dir="ltr">카피 트레이더/팔로워는 ATFX 카피 트레이드 플랫폼에 등록하고 숙련된 트레이더를 구독함으로써 숙련자의 트레이딩 계좌에서 발생하는 거래를 팔로워 본인의 계좌에 자동으로 카피하게 됩니다. ‘팔로워’가 되기 위해서는 ATFX에 계좌 등록을 하여야 하며, 카피 트레이딩 서비스에 등록한 뒤 숙련된 트레이더의 거래를 구독하시면 됩니다.</p>
+<h3 dir="ltr">프로바이더</h3>
+<p dir="ltr">숙련된 트레이더들로 구성된 ‘프로바이더’는 ATFX 카피 트레이드 플랫폼에 등록함으로써 본인의 거래를 경험이 부족한 트레이더들이 구독하고 카피할 수 있게끔 합니다. ‘프로바이더’가 되기 위해서는 상당한 규모의 거래내역을 보유하여야 하며, 잠재적 ‘팔로워’들이 누구의 거래를 카피할지 결정하기 위해 트레이딩 지표를 판단할 때 이를 참고 자료로 활용할 수 있습니다.</p>
+<h3 dir="ltr">핍</h3>
+<p dir="ltr">‘포인트로 환산한 퍼센티지(PIP)’의 약어인 ‘<a href="https://www.atfx.com/ko/analysis/trading-strategies/what-is-pip-in-forex" target="_blank" rel="noopener">핍</a>’은 통화쌍의 가장 작은 환율 변화 단위이며, 수치로는 0.0001 포인트(1만 분의 1 포인트)를 의미합니다. 즉, 만약 특정 통화쌍의 환율이 1.1103에서 1.1178로 오를 경우 환율은 75핍(0.0075 포인트) 변동한 것이 됩니다.</p>
+<h3 dir="ltr">리스크 관리</h3>
+<p dir="ltr">‘리스크 관리’는 FX/CFD 시장에서 거래 포지션을 설정하는 데 있어 일종의 안전 등불 역할을 하는 원칙 및 수칙을 뜻하며, 시장이 본인의 베팅과 반대 방향으로 불리하게 흘러갈 경우 계좌를 방어해낼 수 있게끔 합니다.</p>
+<h3 dir="ltr">손절선</h3>
+<p dir="ltr">보호 손절이라고도 불리는 ‘손절선’은 트레이더의 포지션이 불리한 방향으로 특정 핍 만큼 흘러갈 경우 손실분이 더 이상 커지지 않도록 자동으로 거래를 청산해주는 기능입니다. 손절선(SL)은 과도한 손실로부터 트레이더를 보호해주는 역할을 합니다.</p>
+<h3 dir="ltr">수익 실현</h3>
+<p dir="ltr">수익 실현선(TP)은 만약 트레이더의 포지션이 트레이더가 설정해둔 방향으로 특정 핍 만큼 흘러갈 경우, 해당 시점에서 수익을 실현하고 거래를 자동으로 청산하게끔 하는 증권사의 장치입니다. 수익 실현선은 거래에서 미실현된 평가수익을 실현하는 데 활용됩니다.</p>
+<h3 dir="ltr">슬리피지</h3>
+<p dir="ltr">슬리피지 는 트레이더가 설정해둔 주문값과 실제로 주문이 집행되는 실제 가격 간의 차이가 발생할 경우 해당 차액으로부터 초래되는 시장 리스크 이벤트입니다. 슬리피지는 시장 변동성이 극심한 시기에 발생하며, 구체적으로는 트레이더가 주문해둔 가격을 충족하는 반대편 매매자를 찾는 것이 불가능한 상황을 예시로 들 수 있습니다.</p>
+<h3 dir="ltr">드로우다운(낙폭·drawdown)</h3>
+<p dir="ltr">외환시장에서의 ‘드로우다운’은 트레이딩, 주식, 혹은 마진이 고점에서 하락하는 낙폭을 의미합니다. 이후로는 다시 고점 회복을 위해 고군분투하게 됩니다. 드로우다운 현상은 ‘프로바이더’의 리스크 관리가 부족한 경우 주로 발생하곤 합니다. 즉, 부적절한 시점에 진입을 하거나, 극도로 변동성이 높은 시장 환경에서 트레이딩을 할 때 발생합니다.</p>
+<ol start="6">
+<li dir="ltr">
+<h2 dir="ltr">ATFX를 통해 카피 트레이딩 하기: 개요 및 핵심 기능</h2>
+</li>
+</ol>
+<h3 dir="ltr">개요</h3>
+<p dir="ltr">ATFX는 FX/CFD 증권사로, 카피 트레이딩 서비스 또한 제공하고 있습니다. 일반적으로 카피 트레이딩 플랫폼은 증권사가 아닌 업체들이 투자자들을 대상으로 영업을 하곤 합니다. ATFX는 자체적인 카피 트레이딩 플랫폼을 제공함으로써 회원 여러분들께 카피 트레이딩에 필요한 모든 절차를 직접 연계하여 이용하실 수 있게 해드립니다. ‘프로바이더’들의 거래 결과는 ATFX 플랫폼의 ‘트레이딩 내역’을 통해 확인할 수 있으며, 조작 불가능한 분석 데이터를 잠재적 ‘팔로워’들에게 제공함으로써 팔로워들이 본인이 팔로우하고 싶은 숙련된 트레이더들을 정보에 기반한 결정을 통해 선택할 수 있게끔 합니다.</p>
+<p dir="ltr">ATFX 카피 트레이드 엔진은 수익권 트레이더들이 본인의 꾸준한 트레이딩 활동 이외로도 추가 수입원을 창출할 수 있게 해줍니다. 즉, 잠재적 팔로워들이 수익권 트레이더들의 거래를 소액의 수수료를 지불하고 카피할 수 있게 허용해주는 것입니다.</p>
+<h3 dir="ltr">시그널 프로바이더</h3>
+<p dir="ltr">카피 트레이딩 서비스에는 ‘프로바이더’, 카피 트레이딩 증권사(ATFX), ‘팔로워(거래를 카피하는 수동적 투자자)’ 이렇게 총 세 집단의 이해당사자가 있습니다. 기나긴 수익권 트레이딩 내역과 탄탄한 리스크 관리 능력을 입증한다면 그 누구든 ‘시그널 프로바이더’가 될 수 있습니다.</p>
+<p dir="ltr"><img loading="lazy" decoding="async" class="size-full wp-image-46230 aligncenter" src="https://www.atfx.com/wp-content/uploads/2025/02/ATCopy-assets.jpg" alt="ATCopy-assets" width="885" height="484" srcset="https://www.atfx.com/wp-content/uploads/2025/02/ATCopy-assets.jpg 885w, https://www.atfx.com/wp-content/uploads/2025/02/ATCopy-assets-300x164.jpg 300w, https://www.atfx.com/wp-content/uploads/2025/02/ATCopy-assets-768x420.jpg 768w" sizes="(max-width: 885px) 100vw, 885px" /></p>
+<p dir="ltr" style="text-align: center;"><strong>‘프로바이더’의 프로필: 거래되는 자산군 및 자산별 거래 횟수 예시</strong></p>
+<p dir="ltr">ATFX 카피트레이드는 여러분이 ‘시그널 프로바이더’로서 본인의 실력 및 트레이딩 내역을 전세계에 선보일 기회를 제공합니다. 여러분은 ‘팔로워’들을 구독시키기 위해 다른 프로바이더들과 경쟁을 하게 됩니다. ‘프로바이더’ 여러분은 잠재적 ‘팔로워’들이 여러분의 거래를 믿고 팔로우 하며 수익성 있는 투자 결과를 복제할 수 있게끔 하는 것이 중요합니다. 또한, 팔로워들이 다양한 수치를 기반으로 선택을 할 수 있는 ‘리더보드’가 표기됩니다.</p>
+<p dir="ltr">‘팔로워’에게는 잠재적으로 팔로우 할 수 있는 ‘프로바이더’ 명단이 제공됩니다. 여러분은 수익성, 과거 실적, 낙폭 %, 트레이딩 스타일, 리스크 선호도 등 다양한 트레이딩 요소를 바탕으로 정보에 기반한 선택을 내리실 수 있습니다. 프로바이더의 수익은 곧 여러분의 수익이 되는 만큼, 좋은 ‘프로바이더’를 선택하는 것은 최우선 순위입니다.</p>
+<p dir="ltr"><a href="https://www.atfx.com/ko/analysis/trading-strategies/how-copytrade-works" target="_blank" rel="noopener">팔로워와 프로바이더에게 카피트레이딩이 어떻게 작동하는지 </a>, 절차가 어떻게 되는지, 장단점은 어떻게 되는지에 대해 알아보세요.</p>
+<h3 dir="ltr">맞춤형 세팅</h3>
+<p dir="ltr">ATFX와 같은 카피 트레이딩 플랫폼에서 팔로워들은 본인의 계좌에 대한 최적의 리스크 관리를 위해 특정 세팅값을 맞춤형으로 설정할 수 있습니다. 이는 개인별로 계좌별로 굴리는 금액이 상이하기 때문입니다. 계좌에 1천 달러가 있는 트레이더가 계좌에 10만 달러가 있는 프로바이더를 팔로우 한다고 가정해봅시다. 해당 트레이더는 프로바이더가 굴리는 것과 동일한 단위의 규모를 똑같이 굴리는 것이 불가능할 뿐더러, 이는 리스크 관리 차원에서도 바람직하지 않습니다. 이는 카피 트레이딩 플랫폼이 ‘팔로워’들로 하여금 각 플랫폼 고유의 리스크 세팅, 익절/손절 세팅 등 여러 설정값들을 조정할 수 있게끔 하는 이유이기도 합니다.</p>
+<p dir="ltr">ATFX 카피 트레이드 인터페이스를 살펴보면 ‘팔로워’들이 조정할 수 있는 수치들이 존재합니다. 예를 들어, 거래 규모는 어떻게 조정이 되는 것일까요?</p>
+<p dir="ltr">우선은 ‘거래 스케일 설정(Volume Scaling)’ 툴이 있습니다. 이 툴은 ‘프로바이더’의 거래량과 ‘프로바이더’로부터 카피되는 거래량의 비율을 설정하는 데 사용됩니다. 여기에는 ‘오토스케일’, ‘배율’, ‘고정’ 세 가지 설정값이 있습니다. 거래량 배율 설정은 ‘프로바이더’의 거래 규모 대비 ‘팔로워’의 거래 규모 분수값을 지정할 수 있습니다. 만약 ‘팔로워’가 본인이 팔로우하는 ‘프로바이더’ 로트 규모의 1/10만큼을 카피하고 싶다면, 거래 스케일 ‘배율’을 선택한 뒤 ‘거래 규모 배율’을 0.1로 설정하면 됩니다.</p>
+<p dir="ltr"><img loading="lazy" decoding="async" class="size-full wp-image-46231 aligncenter" src="https://www.atfx.com/wp-content/uploads/2025/02/Multiplier-volume.jpg" alt="Multiplier-volume" width="519" height="451" srcset="https://www.atfx.com/wp-content/uploads/2025/02/Multiplier-volume.jpg 519w, https://www.atfx.com/wp-content/uploads/2025/02/Multiplier-volume-300x261.jpg 300w" sizes="(max-width: 519px) 100vw, 519px" /></p>
+<h3 dir="ltr">실시간 실적 모니터링</h3>
+<p dir="ltr">프로바이더에 대한 팔로우가 시작되면, 해당 프로바이더의 거래에 기반해 여러분의 수익 실적을 확인하실 수 있습니다. 여러분은 ‘팔로워’의 이름을 클릭함으로써 최근 트레이딩 통계를 확인하실 수 있습니다. ATFX와 같은 카피 트레이딩 플랫폼은 모든 ‘프로바이더’들의 실시간 실적을 업데이트하여 제공하며, ‘팔로워’들은 이 같은 정보를 통해 ‘프로바이더’들의 실적이 시장 흐름을 적절히 따라가고 있는지를 재평가할 수 있습니다.</p>
+<p dir="ltr"><img loading="lazy" decoding="async" class="size-full wp-image-46232 aligncenter" src="https://www.atfx.com/wp-content/uploads/2025/02/ATCopy-tradestats.jpg" alt="ATCopy-tradestats" width="907" height="607" srcset="https://www.atfx.com/wp-content/uploads/2025/02/ATCopy-tradestats.jpg 907w, https://www.atfx.com/wp-content/uploads/2025/02/ATCopy-tradestats-300x201.jpg 300w, https://www.atfx.com/wp-content/uploads/2025/02/ATCopy-tradestats-768x514.jpg 768w" sizes="(max-width: 907px) 100vw, 907px" /></p>
+<p dir="ltr">어떤 ‘프로바이더’의 실적이 ‘팔로워’의 기대치를 따라가지 못하고 있다고 가정해봅시다. 이 경우 ‘팔로워’는 해당 ‘프로바이더’의 거래를 카피하는 것을 ‘일시중단’하거나, 구독을 완전히 취소하는 선택을 내릴 수 있습니다. 이 두 가지 선택지는 동일한 화면에서 마우스 버튼 클릭만으로 해결할 수 있습니다.</p>
+<h3 dir="ltr">오토카피 트레이딩</h3>
+<p dir="ltr">ATFX와 같은 카피 트레이딩 플랫폼들이 어떻게 오토카피 트레이딩 기능을 제공할까요? 카피 트레이딩 엔진은 ‘프로바이더’의 거래를 구독하여 카피하기로 결정한 ‘팔로워’들과 그 대상이 된 ‘프로바이더’들 사이의 중개자 역할을 합니다. 카피 트레이딩 엔진은 ‘프로바이더’의 거래가 사전에 정의된 매개변수 값에 의거하여 ‘팔로워’의 계좌에 실시간으로 복제될 수 있게끔 합니다.</p>
+<p dir="ltr">이 절차의 자동화적 특징은 해당 거래와 관련하여 트레이더들이 어떠한 행동을 직접 수동으로 취할 필요가 전혀 없다는 것입니다. 팔로우 할 수익권 ‘프로바이더’를 선택한 이후, ‘팔로워’인 트레이더는 포트폴리오가 어떤 성적을 내고 있는지를 확인하기 위해 ‘프로바이더’의 트레이딩 결과를 정기적으로 검토하여야 합니다. 앞서 언급한 것처럼 ‘팔로워’들은 포트폴리오 다각화를 위해 ‘프로바이더’의 숫자를 얼마든지 여러 명으로 설정할 수 있으며, 이는 리스크를 낮추고 다양한 시장에 대한 적절한 익스포저를 취할 수 있게 해줍니다.</p>
+<h3 dir="ltr">리스크 관리 툴</h3>
+<p dir="ltr">카피 트레이딩 도중 팔로워가 직면할 수 있는 시장 리스크는 무엇이 있나요?</p>
+<ol>
+<li dir="ltr">
+<p dir="ltr">뉴스 트레이딩 리스크</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">팔로우 대상인 ‘프로바이더’의 리스크성 행동</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">기존에 수익권이던 ‘프로바이더’의 실적 하락</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">부적절한 거래 규모 스케일 설정</p>
+</li>
+</ol>
+<p dir="ltr">‘거래 규모 스케일 툴’은 ‘프로바이더’의 거래가 ‘팔로워’의 계좌에 동일한 비율의 익스포저만을 겪게끔 하기 위해 동일한 비율의 거래가 복제되게끔 하는 데 사용됩니다. 만약 ‘프로바이더’의 계좌에 10만 달러가 있지만 ‘팔로워’인 여러분의 계좌에는 1천 달러만 들어있다고 했을 때, ‘프로바이더’가 2.0 로트(단위)를 거래한다고 해서 여러분이 똑같은 규모의 거래를 따라서 하고 싶지는 않을 수 있습니다. 여기서 ‘팔로워’의 계좌 규모는 ‘프로바이더’의 계좌 규모 대비 1/100밖에 되지 않기 때문에, 적절한 리스크 관리를 위해서는 거래되는 로트 규모 또한 이에 비례해 감소되어야 할 것입니다. 이 툴은 이 같은 목적을 위해 사용되며, ‘팔로워’의 대시보드를 통해 접근할 수 있습니다.</p>
+<p dir="ltr">‘조정 툴’은 각 포지션별로 개설될 수 있는 최대 거래량을 규정해줍니다. 이는 신규 포지션에만 적용되며, 기존에 활성화된 포지션에는 적용되지 않습니다. 즉, 이 툴은 포지션 개설시 걸 수 있는 로트 규모 한도 설정에 사용됩니다.</p>
+<p dir="ltr"><img loading="lazy" decoding="async" class="size-full wp-image-46233 aligncenter" src="https://www.atfx.com/wp-content/uploads/2025/02/Max-open-volume.jpg" alt="" width="899" height="481" srcset="https://www.atfx.com/wp-content/uploads/2025/02/Max-open-volume.jpg 899w, https://www.atfx.com/wp-content/uploads/2025/02/Max-open-volume-300x161.jpg 300w, https://www.atfx.com/wp-content/uploads/2025/02/Max-open-volume-768x411.jpg 768w" sizes="(max-width: 899px) 100vw, 899px" /></p>
+<p dir="ltr">‘리스크 관리 툴’은 ‘팔로워’가 받아들일 준비가 되었고 준수하고 싶어하는 리스크 기준을 규정하는 데 활용됩니다. 그 기준점은 다음과 같이 분류됩니다:</p>
+<ul>
+<li dir="ltr">
+<p dir="ltr">매개변수 (총 손실, 총 수익, 평가손실)</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">임계값 (선택한 각 매개변수에 대한 금전적 한계치)</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">구독 행동 (매개변수 및 임계값 위반사례 발생시 ‘프로바이더’에 대한 구독 일시중지 혹은 구독취소)</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">트레이딩 행동 (모든 거래 청산, 모든 거래 유지, 혹은 손실권 포지션 전부 청산)</p>
+</li>
+</ul>
+<ol start="7">
+<li dir="ltr">
+<h2 dir="ltr">지금 바로 카피트레이딩 여정 시작하기</h2>
+</li>
+</ol>
+<p dir="ltr">금융시장에서 카피 트레이딩이라는 개념은 트레이딩에 쏟을 시간이 없고 지식도 없는 투자자가 투자의 세계에 발을 담글 수 있는 가장 손쉬운 방법이라 할 수 있습니다. 카피 트레이딩은 학습곡선을 단축시켜주고, ATFX 카피 트레이드 플랫폼을 통해 숙련된 수익권 트레이더들의 투자 결과를 복제할 수 있게 해줍니다. 여러분의 금융거래 경험이 어느 정도이든지 상관없이, 곧바로 실전에 뛰어들 수 있게끔 해주는 것입니다.</p>
+<p dir="ltr">여러분이 금융시장에서 수익을 내기 시작하기에 앞서, ATFX 카피 트레이드 플랫폼을 통해 카피 트레이딩의 첫 발을 내딛어 보시기를 강력히 추천 드립니다. ATFX는 등록 절차, 수익권 트레이더 선택, 카피 과정을 간편화 해 두었습니다. ATFX 계좌를 개설하고 지금 바로 등록하세요.</p>
+<ol start="8">
+<li dir="ltr">
+<h2 dir="ltr">FAQ (자주하는 질문)</h2>
+</li>
+</ol>
+<h3 dir="ltr">ATFX에서 카피 트레이딩에 대한 제 자금의 안전성과 보안성을 어떻게 장담해주나요?</h3>
+<p dir="ltr">그 어떤 ‘프로바이더’도 여러분의 자금에 대한 액세스를 얻을 수 없습니다. ATFX는 다양한 국가에서 규제를 준수하며 라이선스를 득한 증권사로, 고객님들의 자금은 별도 분리를 하여 관리합니다. 이는 여러분의 자금이 늘 안전하게 보관되도록 하는 추가적인 안전장치 역할을 합니다.</p>
+<h3 dir="ltr">카피 트레이딩을 시작하려면 자금이 얼마나 필요한가요?</h3>
+<p dir="ltr">ATFX에서는 단돈 100달러만 있어도 카피 트레이딩을 시작할 수 있습니다. 일반적으로는 여러분이 팔로우하는 ‘프로바이더’의 트레이딩 스타일과 일치하는 충분한 자금이 있는지를 반드시 확인하셔야 합니다. 예를 들어 만약 어떤 ‘프로바이더’의 거래가 빈번히 20% 낙폭을 보인다면, 여러분은 이를 고려하여 본인의 계좌에 자금을 넣으셔야 합니다.</p>
+<h3 dir="ltr">카피 트레이딩을 하기 가장 적합한 시장은 무엇인가요?</h3>
+<p dir="ltr">카피 트레이딩은 그 어떤<a href="https://www.atfx.com/ko/markets" target="_blank" rel="noopener">금융시장</a>에 대해서도 진행이 가능합니다만, 카피 트레이딩에서 가장 인기 있는 시장은 외환시장입니다.</p>
+<h3 dir="ltr">카피할 트레이더를 직접 선택할 수 있나요?</h3>
+<p dir="ltr">카피 트레이딩의 본질은 여러분이 카피하고 싶은 트레이더를 직접 선택할 수 있다는 융통성입니다. 여러분은 2명 이상의 프로바이더를 동시에 카피할 수도 있으며, 언제든지 팔로우 대상인 프로바이더를 변경할 수도 있습니다.</p>
+<h3 dir="ltr">카피 트레이딩을 하면서도 직접 트레이딩을 할 수 있나요?</h3>
+<p dir="ltr">일반적인 ATFX 트레이딩 계좌와 ATFX 카피 트레이드 계좌는 별도의 계좌인 만큼, 카피 트레이딩을 활용하면서도 본인의 본계좌를 통해 트레이딩을 하실 수 있습니다.</p>
+<h3 dir="ltr">모든 금융상품에 대해 카피 트레이딩이 가능한가요?</h3>
+<p dir="ltr">본인이 원하는 종목을 거래하는 프로바이더가 존재하기만 한다면, 모든 금융상품에 대한 카피 트레이딩이 가능합니다. 만약 여러분이 2명 이상의 ‘프로바이더’를 카피할 경우, 각 ‘프로바이더’가 서로 다른 시장 종목을 거래하고 있다면 여러분은 카피 트레이딩 활동을 통해 금융상품의 투자폭을 넓힐 수 있습니다.</p>
+<h3 dir="ltr">카피 트레이딩을 할 때 나만의 리스크 관리 매개변수 값을 설정할 수 있나요?</h3>
+<p dir="ltr">ATFX에서는 여러분이 ‘프로바이더’로부터 카피를 하고 있는 와중에도 여러분 본인만의 리스크 관리를 적용하실 수 있게끔 다양한 리스크 관리 툴을 제공합니다. 그 툴의 예시는 이 글 본문을 확인하시기 바랍니다.</p>
+<h3 dir="ltr">나만의 리스크 선호도를 고려해 카피 트레이딩 전략을 맞춤설정 할 수 있나요?</h3>
+<p dir="ltr">카피 트레이딩에서 카피를 적용하는 전략은 ‘프로바이더’가 결정한다는 점에서, 본인의 리스크 선호도가 다르다고 해서 카피 트레이딩 전략을 맞춤설정 할 수는 없습니다. 여기서 할 수 있는 최선의 선택은 본인과 최대한 비슷한 리스크 선호도를 바탕으로 리스크 관리 전략을 펼치는 프로바이더를 선택하는 것뿐입니다.</p>
+<h3 dir="ltr">카피 중인 트레이더가 손실을 보면 어떻게 되나요?</h3>
+<p dir="ltr">카피 트레이딩을 통해 발생한 손실은 되돌릴 수 없기에, 실적이 저조한 프로바이더에 대한 구독을 취소하는 것만이 해결책입니다.</p>
+<h3 dir="ltr">트레이더에 대한 카피는 언제든 중단할 수 있나요?</h3>
+<p dir="ltr">트레이더에 대한 카피는 언제든 중단할 수 있습니다. 카피 중단은 2가지 방법을 통해 가능합니다. 여러분은 대시보드에서 ‘활동(Actions)’ 버튼을 클릭 후 드랍다운 메뉴의 ‘구독 취소(Unsubscribe)’를 클릭하시거나, 수치 위반을 유도하여 구독이 자동으로 취소되게 하게끔 매개변수를 설정하려면 ‘리스크 관리 툴’을 활용해 (‘리스크 관리’ -&gt; ‘구독 활동’ -&gt; ‘일시중지/구독 취소’)를 단계적으로 선택하실 수 있습니다.</p>
+<h3 dir="ltr">ATFX 카피 트레이딩을 통해 어느 정도로 수익을 기대할 수 있나요?</h3>
+<p dir="ltr">외환 트레이딩의 세계에서 수익은 장담되지 않습니다. 과거의 결과가 미래의 결과를 보장해주지도 않습니다. 여러분의 수익은 여러분이 ATFX 카피 트레이드 플랫폼을 통해 팔로우하는 ‘프로바이더’의 수익성에 따라 달라집니다.</p>
+<h3 dir="ltr">카피 트레이딩을 통한 수익은 어떻게 인출하나요?</h3>
+<p dir="ltr">여러분은 ATFX 웹사이트에 안내된 지불 채널을 통해 여러분의 수익을 인출하실 수 있습니다(수익금에서 구독 수수료 공제 후 인출).</p>
+<h3 dir="ltr">카피 트레이딩을 위한 특별한 지식이나 실력이 필요한가요?</h3>
+<p dir="ltr">카피 트레이딩의 취지는 특별한 실력이나 지식이 없는 분들도 외환시장을 통해 수익을 낼 수 있게 하는 것입니다. 때문에, 다른 숙련된 트레이더들의 거래를 카피하는 것이 목적이라면 그 어떠한 특별한 지식이나 실력이 없어도 무관합니다. 여러분은 시장에서 수익을 내려고 하는 타인들의 실력과 지식에 올라탈 수 있습니다.</p>
+<h3 dir="ltr">휴대용 전자기기를 통해서도 카피 트레이딩이 가능한가요?</h3>
+<p dir="ltr">ATFX 카피 트레이드 포털은 모든 스마트폰 기종과 호환됩니다. 때문에 여러분의 휴대용 전자기기를 통해서도 카피 트레이딩이 가능합니다.</p>
+<h3 dir="ltr">실전 투자를 하기에 앞서 데모 계좌(모의투자 계좌)를 통해서도 카피 트레이딩이 가능한가요?</h3>
+<p dir="ltr">현재로서는 카피 트레이딩으로는 실전 투자만이 가능합니다. 때문에 만약 간단 맛보기가 목적이시라면 라이브 계좌(실전투자 계좌)를 통해 소액의 금액만을 우선 투입해보시는 것을 권장 드립니다.</p>
+<h3 dir="ltr">카피 트레이딩은 합법인가요?</h3>
+<p dir="ltr">카피 트레이딩은 합법입니다.</p>
+<h3 dir="ltr">카피 트레이딩과 소셜 트레이딩의 차이점은 무엇인가요?</h3>
+<p dir="ltr">카피 트레이딩은 그 어떠한 직접적 노력 없이도 다른 숙련된 트레이더들의 거래를 자동으로 카피하는 방식으로 진행됩니다. 반면, 소셜 트레이딩은 커뮤니티 기반의 트레이딩 시스템입니다. 즉, 숙련된 트레이더들이 시그널을 제공하면 팔로워들이 이를 본인의 의지에 따라 수동으로 적용하여 거래를 진행하는 것입니다.</p>
+<h3 dir="ltr">여러 트레이더들에 대해 동시다발적인 카피 트레이딩이 가능한가요?</h3>
+<p dir="ltr">한 번에 여러 트레이더에 대한 카피 트레이딩이 가능합니다. 다만 서로 다른 트레이더들이 다수의 거래를 진행할 때 여러분의 계좌가 이를 모두 소화하느라 발생할 수 있는 잠재적 요인들을 고려하셔야 합니다. 즉, 여러 거래들을 소화할 수 있을 만큼 여러분의 계좌에 충분한 자금이 들어 있어야 함을 의미합니다.</p>
+<h3 dir="ltr">카피 트레이딩 사용에 따른 추가 수수료가 부과되나요?</h3>
+<p dir="ltr">프로바이더의 거래를 카피하기 위해서는 구독 수수료를 지불하셔야 합니다. 팔로우 하는 프로바이더가 늘어나면 늘어날수록 추가 수수료가 발생하게 됩니다.</p>
+<h3 dir="ltr">카피중인 트레이더들에게 연락을 취해 조언이나 리딩을 요청할 수 있나요?</h3>
+<p dir="ltr">카피 트레이딩 포털은 자동화 기반이며, ‘프로바이더’와 ‘팔로워’ 사이에 연락을 취하는 양식은 제공되지 않습니다. 즉, ‘프로바이더’에게 조언이나 리딩을 요청할 수 있는 방법은 없습니다. 일부 프로바이더들은 팔로워가 수천 명에 이르기 때문에, 팔로워 한 명 한 명에게 일일이 조언을 제공하기란 불가능에 가깝습니다.</p>
+<h3 dir="ltr">카피 트레이딩에는 최소 거래 규모가 있나요?</h3>
+<p dir="ltr">본인의 계좌에 적용될 최소 거래 단위를 결정하실 수 있습니다. 또한, 일부 자산군에는 최소 거래 단위가 정해져 있습니다. 일반적으로 통화쌍을 거래할 때에는 1 마이크로 로트(0.01 로트)가 최소 거래 단위가 되는 편입니다.</p>
+<h3 dir="ltr">다른 나라 출신 프로바이더를 팔로우 할 수도 있나요?</h3>
+<p dir="ltr">프로바이더 인력풀은 전세계 다양한 국가 출신의 숙련된 트레이더들로 구성됩니다. 프로바이더 선발은 국적이 기준이 아닌 만큼, ATFX 카피트레이드 플랫폼에서는 다양한 국적의 프로바이더들을 팔로우 하실 수 있습니다.</p>
+<p dir="ltr"><span data-sheets-root="1">		<div data-elementor-type="section" data-elementor-id="47417" class="elementor elementor-47417" data-elementor-post-type="elementor_library">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-fb64e92 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="fb64e92" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-1347a42" data-id="1347a42" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-b19d3e6 elementor-widget elementor-widget-text-editor" data-id="b19d3e6" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>팔로우 하세요. 카피 하세요. 수익을 내세요. 끝! 간단하죠?</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-734d0f0 elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="734d0f0" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="https://atcopytrade.com/register/">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">지금 등록하기</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-640df79" data-id="640df79" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-7dc7a84 elementor-widget-laptop__width-initial elementor-widget elementor-widget-image" data-id="7dc7a84" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img decoding="async" width="300" height="300" src="https://www.atfx.com/wp-content/uploads/2025/03/copy-trading-provider-follower-300x300.webp" class="attachment-medium size-medium wp-image-47410" alt="copy-trading-provider-follower" srcset="https://www.atfx.com/wp-content/uploads/2025/03/copy-trading-provider-follower-300x300.webp 300w, https://www.atfx.com/wp-content/uploads/2025/03/copy-trading-provider-follower-150x150.webp 150w, https://www.atfx.com/wp-content/uploads/2025/03/copy-trading-provider-follower.webp 500w" sizes="(max-width: 300px) 100vw, 300px" />													</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		</span></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>파생상품 트레이딩이란? 파생상품 거래하는 법 완벽히 알아보기</title>
+		<link>https://www.atfx.com/ko/analysis/trading-strategies/derivatives-trading</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Mon, 10 Feb 2025 08:10:52 +0000</pubDate>
+				<category><![CDATA[트레이딩 전략]]></category>
+		<category><![CDATA[거래전략-초급]]></category>
+		<guid isPermaLink="false">https://www.atfx.com/?p=45547</guid>
+
+					<description><![CDATA[목차 파생상품이란? 파생상품의 유형 파생상품 트레이딩이란? 파생상품 거래의 원리 파생상품 트레이딩의 장점과 단점 파생상품 트레이딩 전략 결론 ATFX에서 파생상품 시장 거래하는 법 &#160; 파생상품이란? 파생상품은 일종의 금융 계약상품으로, 파생상품의 기반이 되는 기초자산이 파생상품의 가치를 결정합니다. 파생상품은주식, 채권, 원자재, 통화, 기준금리, 인덱스 등 가치가 변화하는 그 어떠한 유형도 기초자산이 될 수 있습니다. 파생상품은 금융 리스크 관리 혹은 완화, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>목차</p>
+<ol>
+<li><a href="#what-are-derivatives">파생상품이란?</a></li>
+<li><a href="#types-of-derivatives">파생상품의 유형</a></li>
+<li><a href="#what-is-derivatives-trading">파생상품 트레이딩이란?</a></li>
+<li><a href="#how-derivatives-trading-works">파생상품 거래의 원리</a></li>
+<li><a href="#pros-and-cons-of-derivatives-trading">파생상품 트레이딩의 장점과 단점</a></li>
+<li><a href="#derivatives-trading-strategies">파생상품 트레이딩 전략</a></li>
+<li><a href="#conclusion">결론</a></li>
+<li><a href="#how-to-trade-in-the-derivatives-market-with-atfx">ATFX에서 파생상품 시장 거래하는 법</a></li>
+</ol>
+<p>&nbsp;</p>
+<ol class="no-markers">
+<li>
+<h2 id="what-are-derivatives">파생상품이란?</h2>
+</li>
+</ol>
+<p dir="ltr">파생상품은 일종의 금융 계약상품으로, 파생상품의 기반이 되는 기초자산이 파생상품의 가치를 결정합니다. 파생상품은<a href="https://www.atfx.com/ko/markets/shares-trading" target="_blank" rel="noopener">주식</a>, 채권, <a href="https://www.atfx.com/ko/markets/commodities" target="_blank" rel="noopener">원자재</a>, <a href="https://www.atfx.com/ko/markets/forex-trading" target="_blank" rel="noopener">통화</a>, 기준금리, <a href="https://www.atfx.com/ko/markets/indices-trading" target="_blank" rel="noopener">인덱스</a> 등 가치가 변화하는 그 어떠한 유형도 기초자산이 될 수 있습니다. 파생상품은 금융 리스크 관리 혹은 완화, 미래의 자산가격 변화 예측, 레버리지 증가 등의 목적으로 빈번히 활용됩니다.</p>
+<p dir="ltr">기관 투자자 및 개인 투자자 모두 파생상품을 정기적으로 활용합니다. 예를 들어, 기업에서는 원자재의 비용 변동성에 대비해 선물을 통한 헤징을 할 수 있습니다. 제트기 연료 비용에 높은 의존성을 보이는 항공사를 예시로 들어 보겠습니다. 연료 가격이 상승하면 항공사의 수익은 감소하게 됩니다. 항공사는 이 같은 리스크를 피하기 위해 특정 액수의 연료 가격을 보장하는 연료 파생상품 계약을 체결함으로써 안정적인 운영 비용을 유지할 수 있습니다.</p>
+<ol class="no-markers" start="2">
+<li>
+<h2 id="types-of-derivatives">파생상품의 유형</h2>
+</li>
+</ol>
+<p dir="ltr">파생상품 시장은 폭넓은 범위의 계약 유형을 제공하며, 각 유형은 다양한 용도에 맞는 고유의 기능을 갖추고 있습니다. 파생상품의 메인 카테고리를 분석하자면 다음과 같습니다:</p>
+<p dir="ltr">선물: 선물(先物)은 미래의 정해진 날짜에 특정 자산을 특정 가격으로 매수 혹은 매도하기로 하는 계약을 칭합니다. 선물 계약은 시카고상품거래소(CME)와 같이 엄격히 규제되는 시장에서 거래됩니다. 예를 들어, 밀 농부는 다가오는 수확을 앞두고 미래의 밀 가격 하락으로부터 자산 방어를 위해 선물 계약을 활용하여 본인에게 유리한 판매가를 확보해둘 수 있습니다.</p>
+<p dir="ltr">옵션: 옵션 거래는 기초자산을 사전에 결정된 가격(행사 가격)으로 사전에 결정된 옵션 만기일 전에 매수(콜옵션) 혹은 매도(풋옵션)하는 상품으로, ‘권리’를 구매하되 ‘의무’를 지지는 않는 것이 특징입니다. 옵션 거래는 손실 방지 및 투기적 목적으로 활용됩니다. 만약 투자자가 가격 상승을 예견한다면 콜옵션 매수를 통해 실제 자산을 구매하지 않고도 수익을 낼 수 있습니다.</p>
+<p dir="ltr">스왑: 스왑은 금융자산이나 부채의 교환을 가능케 해주는 일종의 계약입니다. 가장 흔한 유형으로는 ‘금리 스왑’이 있는데, 각 당사자가 고정금리와 변동금리를 맞교환하는 방식입니다. 예를 들어, 변동금리 대출이 있는 기업이 고정금리 스왑을 체결함으로써 금리 상승에 대한 리스크 노출을 경감할 수 있습니다.</p>
+<p dir="ltr">포워드: 포워드(선도) 계약은 선물처럼 미래의 특정 날짜에 특정 상품을 매수 혹은 매도하기로 하는 상품입니다. 다만 계약 성격이 선물에 비해 유연하며, 장외거래(OTC)를 통해 진행됩니다. 계약을 맞춤형으로 만들 수 있는 이 같은 유연성을 통해 각 당사자는 조건을 조정할 수 있습니다. 다만 표준화된 거래소를 통해 거래되지 않는다는 점에서 카운터파티 리스크가 존재합니다.</p>
+<h4 dir="ltr">차액결제거래(CFD)</h4>
+<p dir="ltr">차액결제거래(CFD)는 트레이더가 기초자산을 소유하지 않고도 외환, 주식, 원자재(석유, 금 등), 인덱스 등과 같은 자산의 가격 변동을 예측하고 투자할 수 있는 파생상품입니다. 트레이더들은 롱/숏 포지션을 통해 시장의 상승과 하락 모두에서 수익을 낼 수 있습니다.</p>
+<ul>
+<li dir="ltr">레버리지: CFD는 레버리지를 동반하곤 하며, 트레이더들은 비교적 적은 투자금만으로도 보다 큰 금액의 포지션을 굴릴 수 있습니다. 레버리지는 수익을 극대화해줄 수 있지만, 막대한 손실을 입을 가능성 또한 증폭됩니다.</li>
+<li dir="ltr">유연성: CFD는 다양한 시장 범주에 대한 접근성을 제공하고, 장외거래가 가능하다는 점에서 보다 높은 거래 유연성을 선보입니다.</li>
+</ul>
+<p dir="ltr">CFD는 단기적인 수익 기회를 찾는 트레이더 및 기존 포트폴리오에서 헤징을 하려는 이들에게 인기가 있습니다.</p>
+<p dir="ltr">각 파생상품 유형은 금융 리스크 관리를 위한 고유의 전략을 제공해주며, 트레이더로 하여금 가격 스윙을 통해 수익을 내고 새로운 투자 기회를 발견할 수 있도록 돕습니다.</p>
+<p dir="ltr"><a href="https://www.atfx.com/ko/analysis/trading-strategies/how-to-do-trading-in-crude-oil-futures-and-options" target="_blank" rel="noopener">크루드오일 선물&amp;옵션 트레이딩하는 법 </a>에 대해 알아보세요.</p>
+<p dir="ltr"><img loading="lazy" decoding="async" class="aligncenter size-large wp-image-45549" src="https://www.atfx.com/wp-content/uploads/2025/02/types-of-derivatives2-1024x529.webp" alt="types-of-derivatives2" width="800" height="413" srcset="https://www.atfx.com/wp-content/uploads/2025/02/types-of-derivatives2-1024x529.webp 1024w, https://www.atfx.com/wp-content/uploads/2025/02/types-of-derivatives2-300x155.webp 300w, https://www.atfx.com/wp-content/uploads/2025/02/types-of-derivatives2-768x397.webp 768w, https://www.atfx.com/wp-content/uploads/2025/02/types-of-derivatives2.webp 1200w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<ol class="no-markers" start="3">
+<li>
+<h2 id="what-is-derivatives-trading">파생상품 트레이딩이란?</h2>
+</li>
+</ol>
+<p dir="ltr">파생상품 트레이딩은 리스크 헤징 용도 혹은 기초자산의 예상되는 가격 변동으로부터 수익을 내기 위해 파생상품 계약을 매수·매도하는 행위입니다. 주식 및 채권 등의 자산에 직접 투자하는 것과 달리, 파생상품은 트레이더로 하여금 기초자산을 소유하지 않고도 가격 변동으로부터 수익을 낼 수 있게 해줍니다.</p>
+<p dir="ltr">예를 들어,<a href="https://www.atfx.com/ko/live-chart/crude-oil" target="_blank" rel="noopener">크루드오일 가격</a>에 베팅하는 파생상품 트레이더는 유가 상승이 예상된다면 석유 선물을 매수할 수 있겠습니다. 만약 유가가 상승한다면 해당 트레이더는 선물 계약을 매도해 수익을 낼 수 있습니다. 기업에서는 비용/수익 관리 용도, 그리고 실적에 타격을 줄 수 있을 시장 등락으로부터의 헤징 목적으로 선물을 활용합니다.</p>
+<ol class="no-markers" start="4">
+<li>
+<h2 id="how-derivatives-trading-works">파생상품 거래의 원리</h2>
+</li>
+</ol>
+<p dir="ltr">파생상품 거래는 파생상품 유형 및 트레이더의 목표에 따라 달라질 수 있다는 점에서 복잡성을 지닙니다. 파생상품 트레이딩이 어떻게 기능하는지에 대한 개요는 다음과 같습니다:</p>
+<p dir="ltr">계약 생성: 첫 번째 단계는 파생상품 계약을 생성하거나 취득하는 것입니다. 선물 및 옵션과 같은 장내거래 파생상품의 경우, 트레이딩 계좌를 지닌 이들이라면 누구나 확인 가능한 표준 계약 조건이 포함되어 있습니다. 스왑 및 포워드와 같은 장외거래(OTC) 파생상품은 비공개 시장에서 거래되며, 고유의 계약 조건을 지닙니다.</p>
+<p dir="ltr">레버리지 및 마진: 트레이더들은 일반적으로 파생상품에 대해 마진(증거금) 거래를 합니다. 즉, 거래를 시작하기 위해 총 계약 규모의 일정 비율에 해당하는 금액을 증거금으로 묶어두어야 합니다. 이 같은 레버리지를 활용하면 비교적 소액의 초기 투자금만으로도 큰 규모의 익스포저를 누릴 수 있으며, 이는 수익 및 손실의 규모를 극대화시킵니다.</p>
+<p dir="ltr"><img loading="lazy" decoding="async" class="aligncenter size-large wp-image-45550" src="https://www.atfx.com/wp-content/uploads/2025/02/leverage-and-margin-1024x529.webp" alt="leverage-and-margin" width="800" height="413" srcset="https://www.atfx.com/wp-content/uploads/2025/02/leverage-and-margin-1024x529.webp 1024w, https://www.atfx.com/wp-content/uploads/2025/02/leverage-and-margin-300x155.webp 300w, https://www.atfx.com/wp-content/uploads/2025/02/leverage-and-margin-768x397.webp 768w, https://www.atfx.com/wp-content/uploads/2025/02/leverage-and-margin.webp 1200w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<p dir="ltr">가격 등락: 파생상품 계약의 가격은 기초자산 가격의 변화에 맞추어 변화합니다. 예를 들어, 주식 CFD 가격은 기초자산 주가 변동에 비례해 움직입니다.</p>
+<p dir="ltr">결제 특히나 선물 계약을 필두로 하는 수많은 파생상품들은 만기일 전에 결제(거래 중단)가 가능합니다. 특정 계약의 경우 만기일에 기초자산의 실물 인도가 필요할 수 있지만, 또다른 계약에서는 현재 시장가를 기준으로 현금 결제가 필요할 수 있습니다.</p>
+<p dir="ltr">수익 극대화 및 적응성이라는 특징은 파생상품의 장점으로 손꼽히지만, 만약 시장이 트레이더의 예측과 반대로 흘러갈 경우에는 상당한 리스크가 수반됩니다.</p>
+<ol class="no-markers" start="5">
+<li>
+<h2 id="pros-and-cons-of-derivatives-trading">파생상품 트레이딩의 장점과 단점</h2>
+</li>
+</ol>
+<h3 dir="ltr">장점</h3>
+<h3 dir="ltr">리스크 관리 &amp; 헤징 옵션</h3>
+<p dir="ltr">기초자산의 가격이 본인에게 불리하게 흘러갈 경우, 투자자들은 파생상품을 통해 헤징을 함으로써 효과적인 리스크 관리를 할 수 있습니다. 예를 들어, 외환 리스크를 겪는 기업은 통화 선물을 활용해 본인에게 유리한 환율을 고정시킴으로써 미래의 환율 등락으로부터 받는 재정적 영향을 경감할 수 있습니다.</p>
+<h3 dir="ltr">레버리지를 통한 수익 극대화</h3>
+<p dir="ltr">트레이더 분들은 파생상품 레버리지를 통해 소액의 투자금만으로도 상당한 규모의 자금을 굴릴 수 있습니다. 이를 통해 기업들은 보다 낮은 초기 투자금으로도 보다 큰 수익을 창출할 수 있으며, 상당한 규모의 초기 현금 투입 없이도 시장의 흐름을 활용할 수 있습니다.</p>
+<h3 dir="ltr">시장 접근성 및 다각화</h3>
+<p dir="ltr">파생상품은 원자재, 통화, 금리, 주식 인덱스를 비롯한 다양한 시장에 대한 접근성을 제공해주며, 이를 통해 전통적인 주식 및 채권을 뛰어넘는 다각화를 가능케 해줍니다. 이 같은 다각화는 경제상황에 각각 다르게 반응하는 다양한 범주의 자산군에 대한 익스포저를 누릴 수 있다는 점에서 투자 리스크 저감에 도움이 됩니다.</p>
+<h3 dir="ltr">시장 효율성 상승</h3>
+<p dir="ltr">파생상품 시장은 기초자산의 예상되는 미래 가치에 대한 시그널을 보여준다는 점에서 중요한 의미를 지닙니다. 예를 들어, 주식 옵션은 주가의 예상 변동성에 대한 시장의 관점을 보여줌으로써 투자자들이 보다 정보에 기반한 결정을 내리는 데에 도움을 줄 수 있습니다.</p>
+<h3 dir="ltr">옵션 프리미엄을 통한 수익 창출</h3>
+<p dir="ltr">투자자들은 옵션 매도(예: 커버드 콜)를 통해 프리미엄에 따른 수익을 낼 수 있으며, 이는 수익률을 보완하여 전반적인 포트폴리오 실적을 향상시킬 수 있습니다. 이를 통한 수익 창출은 상대적으로 안정적인 시장 환경에서 적합한데, 옵션이 행사될 가능성이 낮아 꾸준한 현금흐름을 제공할 수 있기 때문입니다.</p>
+<p><a href="https://www.atfx.com/ko/trading-accounts/demo-account" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="aligncenter wp-image-25093 size-full" src="https://www.atfx.com/wp-content/uploads/2023/10/demo-account-korea.webp" alt="demo account korea" width="825" height="206" srcset="https://www.atfx.com/wp-content/uploads/2023/10/demo-account-korea.webp 825w, https://www.atfx.com/wp-content/uploads/2023/10/demo-account-korea-300x75.webp 300w, https://www.atfx.com/wp-content/uploads/2023/10/demo-account-korea-768x192.webp 768w" sizes="(max-width: 825px) 100vw, 825px" /></a></p>
+<h3 dir="ltr">단점</h3>
+<h3 dir="ltr">레버리지로 인한 높은 리스크</h3>
+<p dir="ltr">비록 레버리지는 수익을 극대화해줄 수 있지만 손실 가능성 또한 극대화합니다. 이는 전문성이 부족한 사람들에게는 파생상품이 주는 리스크가 크다는 점을 의미합니다. 레버리지 포지션에서는 소폭의 불리한 가격 변동만으로도 상당한 재정적 손실이 초래될 수 있으며, 손실이 초기 투자금을 초과하는 것도 가능합니다.</p>
+<h3 dir="ltr">복잡성 &amp; 지식 필요</h3>
+<p dir="ltr">파생상품은 복잡한 금융상품이라는 점에서 기초자산, 계약 요건, 시장 환경 등에 대한 세부적인 숙지가 필요합니다. 또한, 옵션 상품에서 “그릭스”(옵션 가격결정 함수의 변수 중 하나를 가리키는 문자)와 같은 복잡한 개념은 경험이 부족한 트레이더가 이해를 하기에는 까다로울 수 있습니다.</p>
+<h3 dir="ltr">OTC 파생상품의 카운터파티 리스크</h3>
+<p dir="ltr">장외거래(OTC) 파생상품은 비공개 시장에서 체결되므로, 상대방(카운터파티)이 계약상의 의무를 이행하지 못할 경우에는 트레이더 본인이 리스크에 노출됩니다. 거래소에서 중개업체(증권사 등)를 통해 공개적으로 거래되어 리스크가 절감되는 유형의 파생상품들과는 달리, 장외거래 파생상품은 각 참가자의 신용에 의존한다는 점에서 또다른 리스크 요소가 추가됩니다.</p>
+<h3 dir="ltr">시장 변동성에 대한 민감성</h3>
+<p dir="ltr">기초자산 가격의 변화에 따라 파생상품의 가치는 재빨리 변동할 수 있기에 시장 스윙으로부터 매우 취약합니다. 이 같은 시장 민감도로 인해, 특히나 원자재·통화 등의 변동성 자산에 대한 파생상품을 투기적 목적으로 트레이딩 할 경우에는 짧은 시간만에 큰 규모의 수익 혹은 손실이 발생할 수 있습니다.</p>
+<ol class="no-markers" start="6">
+<li>
+<h2 id="derivatives-trading-strategies">파생상품 트레이딩 전략</h2>
+</li>
+</ol>
+<p dir="ltr">파생상품 트레이더들은 수익 상승 혹은 리스크 익스포저 감소를 위해 다양한 방법을 활용합니다. 인기있는 전략의 종류로는 다음이 있습니다:</p>
+<p dir="ltr">헤징: 헤징은 1차적 투자에 대한 잠재적 손실을 완화하기 위해 파생상품을 활용하는 것 등이 동반됩니다.</p>
+<p dir="ltr">예를 들어, 대규모 보석 제조업체에서 금값의 계절적 급등이 예상될 경우 금 CFD에 대한 롱 포지션에 미리 진입할 수 있습니다. 만약 시장이 실제로 급등할 경우, CFD 거래로 인한 수익이 금 현물 구매에 대한 추가 비용을 상쇄해줄 수 있습니다.</p>
+<p dir="ltr">투기: 투기적 전술은 자산 가치의 변동을 적절하게 예측하여 파생상품을 거래하는 것을 목표로 합니다.</p>
+<p dir="ltr">예를 들어, 모 헤지펀드가 경제적 불확실성의 징후를 관측함으로써 투자자들이 자금을 안전자산인 금으로 이동시킬 것이라고 예견했다고 칩시다. 이 같은 전망을 활용하기 위해, 이 헤지펀드 업체는 시장심리가 금값을 끌어올리게 될 경우 이로부터 수익을 내는 것을 목표로 금에 대한 여러 CFD 롱 포지션을 개설합니다.</p>
+<p dir="ltr">아비트리지: 아비트리지는 한 시장에서 파생상품을 구매한 뒤 다른 시장에서 이를 판매함으로써, 관련 자산 혹은 시장 간의 차익을 통해 수익을 내는 접근법입니다.</p>
+<p dir="ltr">예를 들어, 트레이더는 A 국가의 시장에서 투자상품을 매수한 뒤 B 국가에서 더 높은 가격에 매도함으로써 수익을 낼 수 있습니다.</p>
+<p dir="ltr">페어 트레이딩: 페어 트레이더들은 긴밀히 연관된 두 자산군에서 반대 포지션을 유지함으로써 두 자산군의 가격 차이로부터 수익을 낼 수 있습니다.</p>
+<p dir="ltr">예를 들어, 국제유가가 항공 산업과 정유 산업에 서로 다른 영향을 미칠 것이라 판단한 트레이더는 항공주 숏 포지션과 정유주 롱 포지션을 취할 수 있습니다.</p>
+<p dir="ltr">각 접근법은 고유의 리스크 관리 방법론이 필요하며, 파생상품 시장을 성공적으로 헤쳐 나가기 위해서는 이 같은 전략들을 알아두는 것이 필수적입니다.</p>
+<p><a href="https://www.atfx.com/ko/trading-accounts/live-account" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="aligncenter wp-image-25089 size-full" src="https://www.atfx.com/wp-content/uploads/2023/10/live-account-korea.webp" alt="live account korea" width="825" height="206" srcset="https://www.atfx.com/wp-content/uploads/2023/10/live-account-korea.webp 825w, https://www.atfx.com/wp-content/uploads/2023/10/live-account-korea-300x75.webp 300w, https://www.atfx.com/wp-content/uploads/2023/10/live-account-korea-768x192.webp 768w" sizes="(max-width: 825px) 100vw, 825px" /></a></p>
+<ol class="no-markers" start="7">
+<li>
+<h2 id="conclusion">결론</h2>
+</li>
+</ol>
+<p dir="ltr">파생상품 트레이딩은 효과적인 리스크 관리, 시장 익스포져 촉진, 수익률 향상에 도움이 됩니다. 파생상품은 기업 및 기관에서 활발히 활용되는데, 전문화된 전략을 사용하려는 개인 트레이더들에게도 매력적으로 작용합니다. 다만 파생상품 투자는 손실이 엄청나게 극대화될 수 있는 등 상당한 리스크가 동반됩니다. 파생상품 트레이딩을 처음 접하는 개인 투자자 분들이 성공적인 투자와 안전한 투자를 모두 달성하기 위해서는, 우선은 정보를 수집한 뒤 신중히 투자 방법론을 확립하셔야 하겠습니다.</p>
+<ol class="no-markers" start="8">
+<li>
+<h2 id="how-to-trade-in-the-derivatives-market-with-atfx">ATFX에서 파생상품 시장 거래하는 법</h2>
+</li>
+</ol>
+<p dir="ltr"><a href="https://www.atfx.com/ko/about-us" target="_blank" rel="noopener">ATFX</a>는 다양한 자산군에 대한<a href="https://www.atfx.com/ko/ways-to-trade/cfd-trading" target="_blank" rel="noopener">차액결제거래(CFD)</a>를 비롯하여 폭넓은 파생상품 트레이딩 선택지를 제공하는 글로벌 트레이딩 플랫폼입니다. ATFX를 통해 파생상품을 거래하는 단계별 절차를 알아보도록 하겠습니다.</p>
+<p dir="ltr">계좌 생성하기: 우선 ATFX 계좌를 개설하세요. 이 단계는 본인의 개인정보 및 금융정보를 제공하는 간단한 절차입니다.</p>
+<p dir="ltr">계좌에 예수금 입금: 다양한 결제 방식들 중에서 한 가지를 선택하고 본인의 트레이딩 계좌에<a href="https://www.atfx.com/ko/trading-accounts/deposits-and-withdrawals" target="_blank" rel="noopener">예수금</a>을 입금하세요. ATFX는 최소 예수금 요건이 낮은 편으로, 초기 투자금이 많든 적든 트레이더 분들에게 낮은 진입장벽을 제공합니다.</p>
+<p dir="ltr">파생상품 선택하기: ATFX는 주식, 원자재, 인덱스, 외환 등 다양한 자산군에 대한 CFD를 제공합니다. ATFX 플랫폼은 광범위한 시장 정보 및<a href="https://www.atfx.com/ko/education-and-tools" target="_blank" rel="noopener">분석 툴</a>을 통해 사용자들이 적절한 파생상품을 선택하는 데 도움을 줍니다.</p>
+<p dir="ltr">시장 분석하기: ATFX는 리서치 툴 및 기술적 지표를 제공함으로써 트레이더 분들이 본인 자산의 현황을 분석하는 데 도움을 줍니다. 이 같은 도구를 활용하여 모든 시장 환경에 대해 트레이딩 결정을 내리는 데 도움을 받으시기 바랍니다.</p>
+<p dir="ltr">트레이딩 주문 넣기:<a href="https://www.atfx.com/ko/analysis" target="_blank" rel="noopener">분석</a>을 마치셨다면, 거래하고 싶은 포지션 규모를 구체화한 뒤 본인의 리스크 익스포저 관리를 위해 손절선과 익절선을 설정하시기 바랍니다.</p>
+<p dir="ltr">모니터링 &amp; 조정하기: ATFX의 직관적인 플랫폼에서 본인의 포지션을 꾸준히 진단하고, 시장 환경 변화에 맞춰 필요한 만큼 포지션을 조정하세요.</p>
+<p dir="ltr">포지션 청산: 수익을 실현하거나 손실을 끊어내기 위해 언제든 포지션을 청산할 수 있습니다. ATFX는 현금 결제를 비롯해 정확하고 효율적인 거래 결제 선택지를 제공해줍니다.</p>
+<p dir="ltr">ATFX는 고급화된 기능을 통해 접근성을 개선함으로써, 전문적인 툴 및 반응형 플랫폼의 지원을 등에 업고 파생상품 시장에 진입하려는 트레이더들에게 최고의 선택지 역할을 해줍니다.</p>
+<p dir="ltr"><a href="https://www.atfx.com/ko/trader-magazine" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="aligncenter wp-image-45553 size-large" src="https://www.atfx.com/wp-content/uploads/2025/02/Trader-Magazine-High-1024x256.jpg" alt="Trader Magazine-High" width="800" height="200" srcset="https://www.atfx.com/wp-content/uploads/2025/02/Trader-Magazine-High-1024x256.jpg 1024w, https://www.atfx.com/wp-content/uploads/2025/02/Trader-Magazine-High-300x75.jpg 300w, https://www.atfx.com/wp-content/uploads/2025/02/Trader-Magazine-High-768x192.jpg 768w, https://www.atfx.com/wp-content/uploads/2025/02/Trader-Magazine-High.jpg 1200w" sizes="(max-width: 800px) 100vw, 800px" /></a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>EUR/USD란? &#8211; 유로·달러 환율의 역사와 영향</title>
+		<link>https://www.atfx.com/ko/analysis/trading-strategies/what-is-eurusd</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Fri, 20 Sep 2024 03:45:25 +0000</pubDate>
+				<category><![CDATA[트레이딩 전략]]></category>
+		<category><![CDATA[EURUSD]]></category>
+		<category><![CDATA[Forex]]></category>
+		<category><![CDATA[거래전략-초급]]></category>
+		<guid isPermaLink="false">https://www.atfx.com/?p=40830</guid>
+
+					<description><![CDATA[EUR/USD가 무엇인가요? EUR/USD는 유로-달러 환율을 의미합니다. EUR/USD는 1유로(EUR)를 구매할 때 몇 달러(USD)가 필요한지를 나타냅니다. 예를 들어, 만약 EUR/USD 환율이 1.50이라면 1유로로 1.50달러를 구매할 수 있음을 의미합니다. EUR/USD 통화쌍은 전세계에서 가장 많이 거래되는 통화쌍으로, 외환시장에서 상당히 큰 비중을 차지합니다. EUR/USD 통화쌍은 GBP/USD나 USD/JPY 등에 비해 유동성이 높고, 스프레드가 타이트하고, 시장 보급률이 훨씬 높습니다. EUR/USD 환율의 예시 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h2><strong>EUR/USD가 무엇인가요?</strong></h2>
+<p>EUR/USD는 유로-달러 환율을 의미합니다. EUR/USD는 1유로(EUR)를 구매할 때 몇 달러(USD)가 필요한지를 나타냅니다. 예를 들어, 만약 EUR/USD 환율이 1.50이라면 1유로로 1.50달러를 구매할 수 있음을 의미합니다.</p>
+<p>EUR/USD 통화쌍은 전세계에서 가장 많이 거래되는 통화쌍으로, 외환시장에서 상당히 큰 비중을 차지합니다. EUR/USD 통화쌍은 GBP/USD나 USD/JPY 등에 비해 유동성이 높고, 스프레드가 타이트하고, 시장 보급률이 훨씬 높습니다.</p>
+<h2><strong>EUR/USD 환율의 예시</strong></h2>
+<p>예를 들어, 만약 유럽 기업이 미국 기업에게 1만 유로(€10,000) 어치의 물품을 판매한다고 가정해봅시다. 만약 EUR/USD 환율이 1.20라면 미국 기업은 물품 대금으로 $1.2만 달러(1만*1.20)를 지불해야 합니다.</p>
+<p>반면, 만약 환율이 1.10으로 하락한다면 미국 기업은 $1.1만 달러를 지불하게 됩니다. 이는 환율이 국제무역에 직접적으로 미치는 영향을 보여줍니다.</p>
+<h2><strong>EUR/USD 환율은 왜 유로화가 기준통화로 설정되나요?</strong></h2>
+<p>EUR/USD 환율은 유로화를 기준통화로, 미국달러를 상대통화로 설정합니다. 일반적으로는 미국달러가 기준통화 역할을 한다는 점에서, EUR/USD 통화쌍의 구조는 다소 독특합니다. EUR/USD 환율은 세계경제에 있어 유로화가 지닌 중요성을 보여주며, 유로존의 경제력을 강조해줍니다.</p>
+<h2><strong>EUR/USD와 USD/EUR의 차이점</strong></h2>
+<p>EUR/USD 환율은 1 유로를 사기 위해 필요한 달러가 얼마인지, USD/EUR 환율은 1 달러를 사기 위해 필요한 유로가 얼마인지를 나타냅니다. 예를 들어, 만약 EUR/USD 환율이 1.20이라면 USD/EUR 환율은 0.8333이 됩니다(1/1.20). 이 같은 역의 상관관계는 트레이더들의 전략 및 경제 해석에 영향을 미치며, 어떤 통화가 기준통화이고 상대통화인지를 이해하는 것의 중요성을 강조해줍니다.</p>
+<table>
+<tbody>
+<tr>
+<td><strong>특징</strong></td>
+<td><strong>EUR/USD</strong></td>
+<td><strong>USD/EUR</strong></td>
+</tr>
+<tr>
+<td><strong>기준통화</strong></td>
+<td>유로(EUR)</td>
+<td>미국 달러(USD)</td>
+</tr>
+<tr>
+<td><strong>상대통화</strong></td>
+<td>미국 달러(USD)</td>
+<td>유로(EUR)</td>
+</tr>
+<tr>
+<td><strong>해석</strong></td>
+<td>1유로 구매에 필요한 달러</td>
+<td>1달러 구매에 필요한 유로</td>
+</tr>
+<tr>
+<td><strong>일반적인 표기법</strong></td>
+<td>$1.09 (€1유로 = $1.09 달러)*</td>
+<td>€0.92 ($1달러 = € 0.92유로)*</td>
+</tr>
+<tr>
+<td><strong>외환시장 활용도</strong></td>
+<td>보다 흔하고 폭넓게 활용</td>
+<td>덜 흔하며, 종종 비교를 위해 활용</td>
+</tr>
+<tr>
+<td><strong>트레이더에게 미치는 영향</strong></td>
+<td>유로vs달러 환율에 직접적 영향</td>
+<td>달러vs유로 환율에 반비례 영향</td>
+</tr>
+<tr>
+<td><strong>경제력 반영</strong></td>
+<td>유로존의 경제력 반영</td>
+<td>미국의 경제력 반영</td>
+</tr>
+</tbody>
+</table>
+<p>*예시용 환율입니다. 트레이딩 플랫폼에서 EUR/USD 환율을 확인하기 위해서는 클라이언트 포털에 로그인 해주시기 바랍니다.</p>
+<h2><strong>유로-달러 환율에 영향을 주는 주요 요소들</strong></h2>
+<ul>
+<li>유럽중앙은행(ECB)과 미 연준의 기준금리 격차는 유로 및 달러의 수요에 영향을 줄 수 있습니다.</li>
+<li>유로존과 미국의 GDP 성장률, 고용률, 인플레이션율을 비롯한 경제 지표들은 환율에 상당한 영향을 미칠 수 있습니다.</li>
+<li>정치적 안정성, 무역 협정, 글로벌 분쟁과 같은 지정학적 이벤트들은 시장 인식 및 통화 가치에 변화를 줄 수 있습니다.</li>
+<li>통화정책, 재정 자극책, 경제 위기 등의 경제 이벤트들은 EUR/USD 환율에 상당한 영향을 줄 수 있습니다.</li>
+</ul>
+<h3><strong>유럽-미국간 국제무역의 역할</strong></h3>
+<p>유로존의 무역수지 흑자는 유로화에 대한 수요 상승을 의미하며, 이는 잠재적으로 EUR/USD 환율 강세를 초래합니다. 반면, 유로존의 무역수지 적자는 EUR/USD 환율 약세를 초래할 수 있습니다.</p>
+<h2><strong>유로-달러 통화쌍의 역사</strong></h2>
+<p>유로화가 도입된 1999년 1월 1일 이후로 EUR/USD 환율은 상당히 변화를 해왔습니다. 처음에는 1유로의 가치가 1달러보다 낮았지만, 이후에는 강세를 얻어 2008년에는 1유로당 1.60달러라는 고점을 기록하기도 했습니다.</p>
+<p>이 같은 환율 변화는 유로존 및 미국의 경제상황 및 통화정책을 반영합니다. 역사적 분석을 살펴보면 EUR/USD 환율은 거시경제적 추세에 의한 패턴을 따라갑니다. 이를테면 경제성장률 변화, 유럽중앙은행(ECB)과 미 연준의 통화정책 차이 등을 예시로 들 수 있겠습니다.</p>
+<p>유로-달러 환율의 상관관계는 다양한 경제 사이클 동안 변천을 거듭했습니다. 이를테면 2008년 글로벌 금융위기, 2010년대 초반 유럽 국가채무위기, 2020년 코로나-19 팬데믹발 불확실성 등을 예시로 들 수 있겠습니다. 각 이벤트는<a href="https://www.atfx.com/ko/live-chart/eur-usd" target="_blank" rel="noopener"> 라이브 차트를 통해 확인하실 수 있듯이 EUR/USD 환율</a>에 뚜렷한 변동을 주었습니다.</p>
+<h3><strong>이정표:</strong></h3>
+<ul>
+<li><strong>1999년:</strong> 유로화가 첫 도입되었습니다. 처음에는 미국달러보다 단위당 가치가 낮았습니다.</li>
+<li><strong>2008년:</strong> 유로화 환율이 1.60달러 정점을 달성했습니다.</li>
+<li><strong>2008년:</strong> 글로벌 금융위기가 EUR/USD 환율에 영향을 미쳤습니다.</li>
+<li><strong>2010년~2012년:</strong> 유럽 국가채무위기가 환율에 영향을 미쳤습니다.</li>
+<li><strong>2020년:</strong> 코로나-19 팬데믹이 경제적 불확실성을 초래해 EUR/USD 환율에 영향을 미쳤습니다.</li>
+<li><strong>2022년~2024년:</strong> 지속적인 인플레이션 우려, 기준금리 격차 변화, 경제 상황 흐름 등으로 인해 EUR/USD 환율은 등락을 거듭했습니다.</li>
+</ul>
+<p><img loading="lazy" decoding="async" class="size-full wp-image-41218 aligncenter" src="https://www.atfx.com/wp-content/uploads/2024/09/eurusd-history-chart-in-korean.webp" alt="eurusd-history-chart-in-korean" width="1200" height="620" srcset="https://www.atfx.com/wp-content/uploads/2024/09/eurusd-history-chart-in-korean.webp 1200w, https://www.atfx.com/wp-content/uploads/2024/09/eurusd-history-chart-in-korean-300x155.webp 300w, https://www.atfx.com/wp-content/uploads/2024/09/eurusd-history-chart-in-korean-1024x529.webp 1024w, https://www.atfx.com/wp-content/uploads/2024/09/eurusd-history-chart-in-korean-768x397.webp 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>
+<h2><strong>왜 EUR/USD는 가장 많이 거래되는 통화쌍으로 간주되나요?</strong></h2>
+<p>EUR/USD는 유로존의 경제 규모로 인해 전세계에서 가장 많이 거래되는 통화쌍입니다. EUR/USD 환율의 높은 유동성은 트레이더들로 하여금 최소한의 슬리피지만으로도 포지션에 진입/엑싯을 할 수 있도록 해 주며, 이는 외환 트레이더들에게 EUR/USD 통화쌍의 매력도를 높여줍니다.</p>
+<p>EUR/USD 환율의 높은 유동성은 스팟 트레이딩, 차액결제거래(CFD), 스프레드 베팅을 비롯한 다양한 트레이딩 전략을 펼칠 수 있게 해줍니다.</p>
+<h2><strong>EUR/USD 거래 시간</strong></h2>
+<p>EUR/USD 통화쌍은 시드니, 도쿄, 런던, 뉴욕 외환거래 세션을 활용해 주 5일 24시간 거래가 가능합니다.<a href="https://www.atfx.com/ko/analysis/trading-strategies/best-time-to-trade-eurusd" target="_blank" rel="noopener"> EUR/USD를 거래하기 최고의 시간대</a>는 런던 외환시장과 뉴욕 외환시장의 거래 시간대가 겹치는 때(GMT 기준 낮 12시~오후 4시)이며, 높은 유동성과 높은 변동성으로 인한 유의미한 환율변동 및 그로부터 창출되는 기회로 인해 단타 트레이더들에게 이상적인 환경이 조성됩니다.</p>
+<p><a href="https://www.atfx.com/ko/trading-accounts/live-account"><img loading="lazy" decoding="async" class="alignnone wp-image-25089 size-full" src="https://www.atfx.com/wp-content/uploads/2023/10/live-account-korea.webp" alt="live account korea" width="825" height="206" srcset="https://www.atfx.com/wp-content/uploads/2023/10/live-account-korea.webp 825w, https://www.atfx.com/wp-content/uploads/2023/10/live-account-korea-300x75.webp 300w, https://www.atfx.com/wp-content/uploads/2023/10/live-account-korea-768x192.webp 768w" sizes="(max-width: 825px) 100vw, 825px" /></a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>CPI란 무엇이며, 외환에 어떻게 영향을 주며, CPI가 중요한 이유는?</title>
+		<link>https://www.atfx.com/ko/analysis/trading-strategies/what-is-cpi-how-affect-forex-why-matter</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Fri, 13 Sep 2024 02:40:35 +0000</pubDate>
+				<category><![CDATA[트레이딩 전략]]></category>
+		<category><![CDATA[거래전략-초급]]></category>
+		<guid isPermaLink="false">https://www.atfx.com/?p=25610</guid>
+
+					<description><![CDATA[목차: 1. CPI란? 2. CPI와 근원 CPI의 차이점은? 3. CPI vs 인플레이션 4. 외환 트레이딩에서 CPI의 레퍼런스 활용 방식은? 5. CPI가 외환 통화쌍에 영향을 주는 방식은? 6. CPI가 대부분의 통화에 영향을 주는 방식 7. 외환 트레이딩에서 CPI가 중요한 이유 외환 데모 계좌를 통해 CPI에 대해 더 알아보세요 &#160; CPI란? CPI(소비자물가지수)는 금융시장 매수, 매도, 헤징에 대한 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p dir="ltr"><strong>목차:</strong></p>
+<p dir="ltr"><a href="#cpi" rel="noopener">1. CPI란?</a></p>
+<p dir="ltr"><a href="#difference-between-cpi-and-core-cpi" rel="noopener">2. CPI와 근원 CPI의 차이점은?</a></p>
+<p dir="ltr"><a href="#cpi-vs-inflation" rel="noopener">3. CPI vs 인플레이션</a></p>
+<p dir="ltr"><a href="#cpi-as-a-reference-in-forex-market" rel="noopener">4. 외환 트레이딩에서 CPI의 레퍼런스 활용 방식은?</a></p>
+<p dir="ltr"><a href="#impact-of-cpi-on-currency-pairs" rel="noopener">5. CPI가 외환 통화쌍에 영향을 주는 방식은?</a></p>
+<p dir="ltr"><a href="#cpi-and-most-currencies" rel="noopener">6. CPI가 대부분의 통화에 영향을 주는 방식</a></p>
+<p dir="ltr"><a href="#importance-of-cpi-in-forex-market" rel="noopener">7. 외환 트레이딩에서 CPI가 중요한 이유</a></p>
+<p dir="ltr"><a href="#learn-more-about-cpi-with-a-forex-demo-account" rel="noopener">외환 데모 계좌를 통해 CPI에 대해 더 알아보세요</a></p>
+<p>&nbsp;</p>
+<ol>
+<li dir="ltr">
+<h2 id="cpi" dir="ltr">CPI란?</h2>
+</li>
+</ol>
+<p dir="ltr">CPI(소비자물가지수)는 금융시장 매수, 매도, 헤징에 대한 잠재적 기회를 알려준다는 점에서 외환 트레이더들이 면밀히 모니터링하는 지수입니다. CPI는 한 국가의 전반적인 인플레이션율과 물가 압박 상황을 보여주는 중요한 시장흐름 지표입니다.</p>
+<p dir="ltr">CPI는 식료품·에너지를 비롯한 재화와 서비스에 대한 평균 가격 변화를 측정하지만, 근원 인플레이션율 수치는 식료품·에너지 항목을 제외합니다.</p>
+<p dir="ltr">에너지·식료품 가격은 변동성이 크며 정치적 상황으로부터 막대한 영향을 받기 때문에, 시장을 분석하는 데 있어서 경제 전문가들은 보다 안정적인 소비자물가 측정 방식을 선호합니다.</p>
+<p dir="ltr"><img loading="lazy" decoding="async" class="" style="height: 474px; max-width: 100%; width: 917px; margin-left: auto; margin-right: auto;" src="https://www.atfx.com/hubfs/What-is-CPI-ATFX.webp" alt="What-is-CPI-ATFX" width="1200" height="620" /></p>
+<p>&nbsp;</p>
+<ol start="2">
+<li dir="ltr">
+<h2 id="difference-between-cpi-and-core-cpi" dir="ltr">CPI와 근원 CPI의 차이점은?</h2>
+</li>
+</ol>
+<p dir="ltr">‘CPI’와 ‘근원 CPI’의 계산법에는 차이가 있는데, 후자는 식료품 및 연료 품목을 제외합니다. 이는 식료품과 연료 가격은 매우 변동성이 높기 때문입니다. 이 두 항목을 산출에서 제외하게 되면 실질적인 CPI의 변화를 보다 명료하게 파악할 수 있습니다.</p>
+<div dir="ltr" align="left">
+<div class="responsive-table-container" style="max-width: 100%;">
+<table style="width: 820px; height: auto;">
+<colgroup>
+<col width="64" />
+<col width="213" />
+<col width="309" /></colgroup>
+<tbody>
+<tr>
+<td>
+<p dir="ltr"><strong>분류</strong></p>
+</td>
+<td>
+<p dir="ltr"><strong>CPI(소비자물가지수)</strong></p>
+</td>
+<td>
+<p dir="ltr"><strong>근원 CPI</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p dir="ltr"><strong>정의</strong></p>
+</td>
+<td>
+<p dir="ltr">재화와 서비스에 대한 소비자 가격 변화를 측정</p>
+</td>
+<td>
+<p dir="ltr">CPI에서 식료품·에너지 가격 항목을 제외</p>
+</td>
+</tr>
+<tr>
+<td>
+<p dir="ltr"><strong>목적</strong></p>
+</td>
+<td>
+<p dir="ltr">한 국가 경제의 전반적인 인플레이션율을 반영</p>
+</td>
+<td>
+<p dir="ltr">단기적인 가격 변동성을 제외함으로써 인플레이션율을 보다 안정적으로 측정</p>
+</td>
+</tr>
+<tr>
+<td>
+<p dir="ltr"><strong>자료 유관성</strong></p>
+</td>
+<td>
+<p dir="ltr">경제 정책, 통화 정책 결정과 큰 유관성</p>
+</td>
+<td>
+<p dir="ltr">장기 인플레이션 추세 파악 및 정책 결정을 위한 정보제공 차원에서 보다 신뢰도가 높음</p>
+</td>
+</tr>
+<tr>
+<td>
+<p dir="ltr"><strong>변동성</strong></p>
+</td>
+<td>
+<p dir="ltr">식료품·에너지 가격 반영으로 인해 비교적 높은 변동성</p>
+</td>
+<td>
+<p dir="ltr">변동성 품목을 제외함으로써 비교적 낮은 변동성</p>
+</td>
+</tr>
+<tr>
+<td>
+<p dir="ltr"><strong>시장 영향성</strong></p>
+</td>
+<td>
+<p dir="ltr">외환을 포함한 금융시장에 중대한 영향을 미침</p>
+</td>
+<td>
+<p dir="ltr">시장참여자들은 긴밀히 관찰하지만, CPI에 비해서는 즉각적인 영향이 적을 수 있음</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p dir="ltr">다만 일부 금융 전문가 및 평론가들은 CPI 산출 과정에서 식료품·연료 항목을 제외해버리면 전반적인 재화와 서비스 현황 파악이 어려워진다는 점에서 근원 CPI를 활용하는 접근법에 동의하지 않기도 합니다.</p>
+<p dir="ltr">이같은 한계점에도 불구하고, 미 연준은 정책 결정 과정에서 여전히 근원 인플레이션율 활용을 선호합니다.</p>
+<p>&nbsp;</p>
+<ol start="3">
+<li dir="ltr">
+<h2 id="cpi-vs-inflation" dir="ltr">CPI vs 인플레이션</h2>
+</li>
+</ol>
+<p dir="ltr">CPI와 인플레이션율은 둘 다 시간의 흐름에 따라 변하는 재화와 서비스 가격 수준을 반영해줍니다. 다만 이 두 가지 사이에는 차이점이 존재합니다:</p>
+<div dir="ltr" align="left">
+<table>
+<colgroup>
+<col width="64" />
+<col width="255" />
+<col width="267" /></colgroup>
+<tbody>
+<tr>
+<td></td>
+<td>
+<p dir="ltr"><strong>소비자물가지수(CPI)</strong></p>
+</td>
+<td>
+<p dir="ltr"><strong>인플레이션</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p dir="ltr"><strong>정의</strong></p>
+</td>
+<td>
+<p dir="ltr">시간의 흐름에 따른 재화와 서비스 가격 변화를 파악하는 척도입니다.</p>
+</td>
+<td>
+<p dir="ltr">시간의 흐름에 따라 재화와 서비스의 전반적인 물가가 상승하는 현상을 나타냅니다.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p dir="ltr"><strong>목적</strong></p>
+</td>
+<td>
+<p dir="ltr">생활비를 산출함으로써 소비자들의 구매력 측정에 도움이 됩니다.</p>
+</td>
+<td>
+<p dir="ltr">시간의 흐름에 따른 돈의 구매력 감소를 반영해줍니다.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p dir="ltr"><strong>측정법</strong></p>
+</td>
+<td>
+<p dir="ltr">다양한 품목의 가격 변동에 대한 가중 평균치를 사용해 계산됩니다.</p>
+</td>
+<td>
+<p dir="ltr">백분율(%)로 표기되곤 합니다.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p dir="ltr"><strong>관련성</strong></p>
+</td>
+<td>
+<p dir="ltr">재화와 서비스의 대표적인 항목에 대한 가격 변동성을 나타내므로, 인플레이션율 측정을 위한 도구로 활용됩니다.</p>
+</td>
+<td>
+<p dir="ltr">전반적인 물가 상승을 관통하는 광의의 개념으로, CPI는 그 중 한 가지 구성요소입니다.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p dir="ltr"><strong>구성 항목</strong></p>
+</td>
+<td>
+<p dir="ltr">식품, 주택, 운송, 헬스케어 등 다양한 재화와 서비스를 포함합니다.</p>
+</td>
+<td>
+<p dir="ltr">CPI에 포함된 항목 이외에도 국가경제를 구성하는 모든 재화와 서비스를 포함합니다.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p dir="ltr"><strong>경제에 미치는 영향</strong></p>
+</td>
+<td>
+<p dir="ltr">생계 비용을 기반으로 한 금리정책, 사회보장연금 등의 경제 정책에 영향을 미칩니다.</p>
+</td>
+<td>
+<p dir="ltr">금리, 통화공급 등의 통화정책에 영향을 미침으로써 물가 안정성을 관리합니다.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p dir="ltr"><strong>지수 유형</strong></p>
+</td>
+<td>
+<p dir="ltr">CPI-U(도시 소비자 물가지수), CPI-W(도시 임금 근로자 및 사무직 근로자 물가지수) 등 다양한 CPI 유형이 존재합니다.</p>
+</td>
+<td>
+<p dir="ltr">식료품·에너지와 같은 변동성 항목을 제외한 근원 인플레이션율을 비롯한 다양한 인플레이션율 측정 방식이 존재합니다.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p dir="ltr"><strong>기간 비교</strong></p>
+</td>
+<td>
+<p dir="ltr">특정 기간(예: 월별 혹은 연도별) 동안의 재화와 서비스 물가를 비교합니다.</p>
+</td>
+<td>
+<p dir="ltr">서로 다른 여러 기간 동안에 대한 재화와 서비스의 전반적인 물가를 비교합니다.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p dir="ltr"><strong>기준 연도</strong></p>
+</td>
+<td>
+<p dir="ltr">기준 연도를 설정하고 해당 연도의 CPI를 100으로 설정하여 지수를 계산합니다.</p>
+</td>
+<td>
+<p dir="ltr">특정 기준 연도를 설정하지는 않지만, 인플레이션율 계산 과정에서 종종 비교를 위해 특정 기간을 레퍼런스로 설정하기도 합니다.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p>&nbsp;</p>
+<ol start="4">
+<li dir="ltr">
+<h2 id="cpi-as-a-reference-in-forex-market" dir="ltr">외환 트레이딩에서 CPI의 레퍼런스 활용 방식은?</h2>
+</li>
+</ol>
+<p dir="ltr">소비자물가지수(CPI)는 미국에서 가장 널리 주목하는 인플레이션율 측정 지표이며, 당연하게도 미국달러(USD)에 영향을 미칩니다. 소비자물가지수(CPI)는 도시 인력에 대한 인터뷰 및 설문조사를 통해 산출되는데, 미국 노동통계청(BLS)이 매 분기마다 약 2.4만 명의 도시 소비자들의 소비 습관을 조사하여 발표됩니다. 여기서 산출된 데이터는 노동통계청이 직전 기간과 비교하여 물가 변화를 파악하는 데 도움이 됩니다.</p>
+<p dir="ltr"><img loading="lazy" decoding="async" style="height: auto; max-width: 100%; width: 1200px;" src="https://www.atfx.com/hubfs/How-does-CPI-serve-as-a-reference-in-Forex-trading.webp" alt="How-does-CPI-serve-as-a-reference-in-Forex-trading" width="1200" height="620" /></p>
+<p dir="ltr">CPI 산출 절차는 각 국가별로 상이하지만, 대부분의 주요 국가들은 자국 CPI 수치를 국민들에게 공개합니다. CPI 수치의 등락은 세계적 기업들의 글로벌 실적에 영향을 미칠 수 있으며, 특정 통화의 강세 혹은 약세를 초래할 수 있습니다.</p>
+<p dir="ltr"><img loading="lazy" decoding="async" style="height: auto; max-width: 100%; width: 1200px;" src="https://www.atfx.com/hubfs/How-does-the-CPI-affect-forex-pairs-chart-ATFX-tradingview.webp" alt="How-does-the-CPI-affect-forex-pairs-chart-ATFX-tradingview" width="1200" height="620" /></p>
+<p>&nbsp;</p>
+<ol start="5">
+<li dir="ltr">
+<h2 id="impact-of-cpi-on-currency-pairs" dir="ltr">CPI가 외환 통화쌍에 영향을 주는 방식은?</h2>
+</li>
+</ol>
+<p dir="ltr">한 국가의 CPI 혹은 근원 CPI 발표는 해당 국가의 통화가 타 국가의 통화와 비교해서 지니는 상대적 가치에 큰 영향을 미칠 수 있습니다. CPI 혹은 근원 CPI가 시장 전망치보다 높게 나타난다면 해당국 통화 가치는 상승하는 경향이 있습니다. 반면, CPI 혹은 근원 CPI가 예상보다 낮게 나타난다면 해당국 통화 가치는 하락하는 경향이 있습니다.</p>
+<p dir="ltr">근원 CPI 데이터는 변동성이 높은 항목인 식료품·에너지를 제외함으로써 보다 정확한 인플레이션 추세를 나타낸다는 점에서 통화시장에서 큰 관심을 받곤 합니다. 가장 최근에 발표되는 수치 이외에도, 기존 데이터의 수정으로 인해 외환시장은 변동성을 맞이할 수 있습니다.</p>
+<p dir="ltr">CPI 상승으로 점철되는 인플레이션율 상승은 물품 구매에 더욱 많은 단위의 통화가 필요하게 만들기에, 결국 통화의 단위당 가치 하락을 초래합니다. 더욱이, CPI 변동은 중앙은행 통화정책에도 영향을 미칠 수 있습니다. CPI가 높게 나타나면 중앙은행에서 인플레이션 억제를 위해 금리를 인상하게끔 만들며, 이는 해당 통화에 대한 수요 상승으로 이어져 통화 강세를 초래하곤 합니다.</p>
+<p dir="ltr">한편, 인플레이션율이 낮게 나타나면 금리 인하 및 통화수요 약세가 나타나며, 이는 소비자 지출 장려, 화폐 순환 증가, 둔화되었던 경제 활성화 등으로 이어지곤 합니다.</p>
+<p dir="ltr"><img loading="lazy" decoding="async" style="height: auto; max-width: 100%; width: 1200px;" src="https://www.atfx.com/hubfs/How-does-the-CPI-affect-forex-pairs-ATFX.webp" alt="How-does-the-CPI-affect-forex-pairs-ATFX" width="1200" height="620" /></p>
+<p dir="ltr">이같은 배경지식을 고려했을 때, 통화시장의 변화는 CPI 통계 발표의 결과물이라고 봐도 무관합니다. 이같은 시장 움직임의 변동성이 매우 심할 때에는, 상당한 수익 잠재성과 그에 상응하는 위험이 동시에 공존하게 됩니다.</p>
+<p>&nbsp;</p>
+<ol start="6">
+<li dir="ltr">
+<h2 id="cpi-and-most-currencies" dir="ltr">CPI가 대부분의 통화에 영향을 주는 방식</h2>
+</li>
+</ol>
+<p dir="ltr">CPI 월간 발표는 미국 노동통계청에서 매달 15일 전에 진행됩니다. CPI 발표 수치가 시장의 예측치보다 높게 나타나면, 이는 고인플레이션을 암시하므로 미국달러(USD) 가치 상승이 발생할 수 있습니다. 반면 CPI가 예측치보다 낮게 나타나면 타 통화 대비 USD의 가치는 하락할 수 있습니다.</p>
+<p dir="ltr">이를테면 2019년 4월 미국의 CPI는 기존 전망치인 1.9%보다 0.1%p 높은 2.0%로 나타났습니다. 결과적으로 AUD/USD 통화쌍에는 신규 하방추세가 시작되어 차주에 환율이 $0.7045선에서 심리적 지지선인 $0.6900선까지 떨어지는 모습을 보였습니다. 비록 CPI 인플레이션율은 가격 변동성에 상당한 영향을 미칠 수 있지만, 물가 변화의 유일한 요소로 여겨서는 안 됩니다. 오히려 보다 포괄적이고 근본적인 요소들과 함께 고려하시는 것이 필요합니다.</p>
+<p dir="ltr"><img loading="lazy" decoding="async" src="https://lh7-us.googleusercontent.com/ATnT_Wn80AP_Ra-HqAorRDiJDsdR8tHaCOW_tN8EU-HnNj4uby73RAu3KXsNVo5J6U3yzH3aHfPBeYYktgQafGNEEmpd3Xfc2odVSqf5GsukSvZp3y4UzMLWl4UP5FEhQ9vCcQrO7QIQ8Olj1q04CFxqdTO5umdyN5ty_daMDeTbMtENIDbQ-x3EIH69yA" width="602" height="311" /></p>
+<p dir="ltr">CPI는 그 자체만으로는 투자 전략 수단으로 활용되기 어렵습니다. 이외에도 극단적인 기후변화, 정치적 사건, 글로벌 사태 및 여타 금융시장적 요소들이 다양한 요인으로 작용합니다. 각국 중앙은행은 저인플레이션을 유지하고자 하며, 대부분의 국가들은 연간 인플레이션 목표치를 설정하고 있습니다. 미 연준, 영국은행, 호주 연방준비은행 등은 일반적으로 연간 인플레이션율 목표치를 2%~3% 사이로 두고 있습니다.</p>
+<p dir="ltr">소비자물가지수(CPI)는 일반적으로 월 단위로 발표되며, 일부 국가에서는 분기 단위로 발표하기도 합니다. 독일의 경우는 월 단위 발표뿐만 아니라 연간 전망치도 별도로 발표합니다.</p>
+<p>&nbsp;</p>
+<ol start="7">
+<li dir="ltr">
+<h2 id="importance-of-cpi-in-forex-market" dir="ltr">외환 트레이딩에서 CPI가 중요한 이유</h2>
+</li>
+</ol>
+<p dir="ltr">결국 소비자물가지수(CPI)는 미국 재화와 서비스의 물가상승율 상태에 대한 수치적 관점을 외환 트레이더들에게 제공해줍니다. 국가의 현 인플레이션 압력 상황에 대한 감을 잡을 수 있도록 이 CPI 데이터는 생산자물가지수(PPI)와 함께 자주 활용되곤 합니다.</p>
+<p dir="ltr">연방기금금리나 우대금리와 같은 기준금리 수준을 조정할지의 여부를 결정할 때, 미 연준 및 연방공개시장위원회(FOMC) 의결권자를 비롯한 통화정책 입안자들은 CPI 및 관련 추세의 수치를 검토하곤 합니다.</p>
+<p dir="ltr"><img loading="lazy" decoding="async" style="height: auto; max-width: 100%; width: 1200px;" src="https://www.atfx.com/hubfs/Why-CPI-matters-in-Forex-trading-ATFX.webp" alt="Why-CPI-matters-in-Forex-trading-ATFX" width="1200" height="620" /></p>
+<p dir="ltr">미국 경제가 작동하기 위한 필수 요소인 기준금리가 변화할 경우, 이는 대출금리 및 예금금리를 비롯한 상업은행 시중금리에도 변화를 초래함으로써 미국경제에 전반적으로 영향을 미치게 됩니다. 만약 이같은 금리가 하락하게 되면 경제활동은 활성화가 됩니다. 한편, 금리가 상승하게 되면 경제활동은 억제가 됩니다.</p>
+<p>&nbsp;</p>
+<h2 id="learn-more-about-cpi-with-a-forex-demo-account" dir="ltr">외환 데모 계좌를 통해 CPI에 대해 더 알아보세요</h2>
+<p dir="ltr">힘들게 번 돈을 실제로 투자하기에 앞서 CPI 및<a href="https://www.atfx.com/ko/markets/forex-trading" target="_blank" rel="noopener">외환 트레이딩</a>에 대한 지식을 더 쌓고 싶으시다면, <a href="https://www.atfx.com/ko/trading-accounts/demo-account" target="_blank" rel="noopener">데모 계좌</a> 개설을 추천드립니다. ATFX는 탄탄한<a href="https://www.atfx.com/ko/" target="_blank" rel="noopener">트레이딩 플랫폼</a>을 기반으로 모든 종류의<a href="https://www.atfx.com/ko/markets" target="_blank" rel="noopener">주요 금융상품</a>을 제공하며, 자사에서 제공하는 가이드 혹은 무료 트레이닝 자료를 활용하여 다양한 투자전략을 실천할 수 있게 해드립니다. 지금 바로 무료로 데모 트레이딩 계좌를 개설하세요!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>EUR/USD 거래의 황금 시간대 &#8211; 최적의 거래 시간대 설명</title>
+		<link>https://www.atfx.com/ko/analysis/trading-strategies/best-time-to-trade-eurusd</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Wed, 28 Aug 2024 09:57:13 +0000</pubDate>
+				<category><![CDATA[트레이딩 전략]]></category>
+		<category><![CDATA[EURUSD]]></category>
+		<category><![CDATA[Forex]]></category>
+		<category><![CDATA[거래전략-초급]]></category>
+		<guid isPermaLink="false">https://www.atfx.com/?p=40030</guid>
+
+					<description><![CDATA[EUR/USD 거래하기 최고의 시간대 EUR/USD 통화쌍을 거래하기 최고인 시간대는 런던 및 뉴욕 트레이딩 세션이 겹치는 GMT 기준 낮 12시~오후 4시 사이입니다. 이 시간대에는 변동성과 유동성이 높아지는 만큼 트레이더들에게 수익의 기회가 열립니다. 실시간 시장 흐름을 꾸준히 파악하고 싶은 분들에게는 이 시간대에 EUR/USD 라이브 차트를 활용하는 것이 도움이 될 수 있습니다. EUR/USD 통화쌍의 핵심 거래 시간대는? 세션 시간(GMT 기준) [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h2><strong>EUR/USD 거래하기 최고의 시간대</strong></h2>
+<p><a href="https://www.atfx.com/ko/analysis/trading-strategies/what-is-eurusd" target="_blank" rel="noopener"><strong>EUR/USD</strong></a><strong> 통화쌍을 거래하기 최고인 시간대</strong>는 런던 및 뉴욕 트레이딩 세션이 겹치는 GMT 기준 낮 12시~오후 4시 사이입니다. 이 시간대에는 변동성과 유동성이 높아지는 만큼 트레이더들에게 수익의 기회가 열립니다. 실시간 시장 흐름을 꾸준히 파악하고 싶은 분들에게는 이 시간대에 <a href="https://www.atfx.com/ko/live-chart/eur-usd" target="_blank" rel="noopener">EUR/USD 라이브 차트</a>를 활용하는 것이 도움이 될 수 있습니다.</p>
+<h3><strong>EUR/USD 통화쌍의 핵심 거래 시간대는?</strong></h3>
+<table style="width: 42.6378%;">
+<tbody>
+<tr>
+<td style="width: 52.1452%;"><strong>세션</strong></td>
+<td style="width: 270.297%;"><strong>시간(GMT 기준)</strong></td>
+</tr>
+<tr>
+<td style="width: 52.1452%;">런던 세션</td>
+<td style="width: 270.297%;">오전 7시~오후 4시</td>
+</tr>
+<tr>
+<td style="width: 52.1452%;">뉴욕 세션</td>
+<td style="width: 270.297%;">낮 12시~저녁 8시</td>
+</tr>
+<tr>
+<td style="width: 52.1452%;">최적의 오버랩 시간대</td>
+<td style="width: 270.297%;">낮 12시~오후 4시</td>
+</tr>
+</tbody>
+</table>
+<p>이 4시간(GMT 기준 낮 12시~오후 4시)은 두 메이저 시장의 높은 거래량이 중첩되는 시간대로, 타이트한 스프레드와 큰 폭의 가격 변화가 발생합니다. 이 시간 동안에는 외환 트레이더, 시장조성자, 기관 투자자 등이 활발히 시장에 참여하며, 이에 따라 EUR/USD 통화쌍의 유동성과 변동성이 높아집니다.</p>
+<h2><strong>추가적인 고려사항은?</strong></h2>
+<h3><strong>런던 개장시간 전</strong></h3>
+<p>GMT 기준 오전 7시~낮 12시 동안에는 시장이 런던 세션을 준비하고 있는 만큼, 이 때에도 효과적인 트레이딩이 가능합니다. 밤 사이 발표된 뉴스와 지표 발표에 트레이더들이 반응을 한다는 점에서, 이른 아침에 트레이딩을 하면 상당한 환율 변동을 확인할 수 있습니다.</p>
+<h3><strong>경제 이벤트가 트레이딩에 주는 영향은?</strong></h3>
+<p>유로존 및 미국에서 발표되는 경제 이벤트 리포트는 이 시간대의 트레이딩 환경이 지닌 변동성에 영향을 미칠 수 있습니다. GDP 성장률, 고용 데이터, 금리결정 등의 경제 지표들은 하룻밤 사이에 EUR/USD 환율을 가파르게 변동시킬 수 있습니다.</p>
+<h2><strong>일반적인 외환거래 시간대는?</strong></h2>
+<p>외환시장은 GMT 기준 일요일 오후 9시(동부시간 기준 오후 5시)에서 금요일 오후 9시(동부시간 기준 오후 5시) 사이<a href="https://www.atfx.com/ko/analysis/trading-strategies/why-forex-markets-open-24-hours-a-day" target="_blank" rel="noopener"> 24시간 동안 개장</a>합니다.</p>
+<h3><strong>EUR/USD 통화쌍의 구체적인 거래 시간대는?</strong></h3>
+<p>EUR/USD 통화쌍의 표준 거래 시간대는 GMT 기준 오후 1시~오후 9시이며, 피크 시간대는 GMT 기준 낮 12시~오후 4시입니다.</p>
+<table style="width: 42.9427%;">
+<tbody>
+<tr>
+<td style="width: 46.0938%;"><strong>세션</strong></td>
+<td style="width: 340.42%;"><strong>시간(GMT)</strong></td>
+</tr>
+<tr>
+<td style="width: 46.0938%;">표준 개장 시간대</td>
+<td style="width: 340.42%;">오후 1시~오후 9시</td>
+</tr>
+<tr>
+<td style="width: 46.0938%;">피크 시간대</td>
+<td style="width: 340.42%;">낮 12시~오후 4시</td>
+</tr>
+</tbody>
+</table>
+<h2><strong>주요 거래 시간대는?</strong></h2>
+<p>EUR/USD 통화쌍의 주요 거래 시간대는 런던, 뉴욕, 도쿄, 시드니 개장시간 때입니다.</p>
+<h2><strong>개장 및 폐장 시간대는?</strong></h2>
+<p>외환시장은 GMT 기준 일요일 오후 9시에 개장하며, 금요일 오후 10시에 폐장됩니다. 그 중 가장 먼저 개장되는 시간대는 시드니 세션이며, 마지막으로 폐장되는 시간대는 뉴욕 세션입니다.</p>
+<table style="width: 43.4546%;">
+<tbody>
+<tr>
+<td style="width: 46.1538%;"><strong>세션</strong></td>
+<td style="width: 53.1469%;"><strong>시간(GMT)</strong></td>
+</tr>
+<tr>
+<td style="width: 46.1538%;">런던 세션</td>
+<td style="width: 53.1469%;">오전 7시~오후 4시</td>
+</tr>
+<tr>
+<td style="width: 46.1538%;">뉴욕 세션</td>
+<td style="width: 53.1469%;">낮 12시~저녁 8시</td>
+</tr>
+<tr>
+<td style="width: 46.1538%;">도쿄 세션</td>
+<td style="width: 53.1469%;">오후 11시~오전 8시</td>
+</tr>
+<tr>
+<td style="width: 46.1538%;">시드니 세션</td>
+<td style="width: 53.1469%;">오후 9시~오전 6시</td>
+</tr>
+</tbody>
+</table>
+<p><a href="https://www.atfx.com/ko/trading-accounts/product-specifications" target="_blank" rel="noopener">상품군별 거래 시간대</a>에 대해서 더 알아보세요.</p>
+<h3><strong>EUR/USD 환율 변동성이 가장 높은 시간대는?</strong></h3>
+<table style="width: 52.7506%;">
+<tbody>
+<tr>
+<td style="width: 45.6985%;"><strong>요인</strong></td>
+<td style="width: 98.551%;"><strong>시간(GMT)</strong></td>
+</tr>
+<tr>
+<td style="width: 45.6985%;">시장 세션</td>
+<td style="width: 98.551%;">GMT 기준 오후 1시~오후 4시</td>
+</tr>
+<tr>
+<td style="width: 45.6985%;">가장 변동성 높은 날</td>
+<td style="width: 98.551%;">금요일</td>
+</tr>
+<tr>
+<td style="width: 45.6985%;">가장 변동성 낮은 날</td>
+<td style="width: 98.551%;">월요일</td>
+</tr>
+<tr>
+<td style="width: 45.6985%;">경제 리포트 및 이벤트</td>
+<td style="width: 98.551%;">핵심 경제 지표, 중앙은행 회의, 정치적 이벤트 등은 상당한 가격 등락을 초래할 수 있습니다.</td>
+</tr>
+</tbody>
+</table>
+<p>변동성은 시장 뉴스, 지정학적 이벤트, 중앙은행 발표, 그리고 유로존 및 미국의 경제 지표 발표 등으로부터 영향을 받습니다.</p>
+<h2><strong>거래 시간대 및 변동성 패턴은?</strong></h2>
+<p>EUR/USD 환율의 일 평균 변동치는 10주간 57핍 내외입니다. 가장 활발한 거래 시간대는 GMT 기준 오후 1시~오후 4시입니다. 미국 비농업고용지수(NFP) 데이터를 비롯한 중대한 경제 지표 발표는 급격한 환율 변동을 초래할 수 있습니다.</p>
+<p>변동성 패턴 요약표:</p>
+<table style="width: 52.311%;">
+<tbody>
+<tr>
+<td style="width: 44.697%;"><strong>변동성 요인</strong></td>
+<td style="width: 260.101%;"><strong>밸류</strong></td>
+</tr>
+<tr>
+<td style="width: 44.697%;">가장 변동성 높은 날</td>
+<td style="width: 260.101%;">금요일 (평균 70핍)</td>
+</tr>
+<tr>
+<td style="width: 44.697%;">가장 변동성 낮은 날</td>
+<td style="width: 260.101%;">월요일 (평균 44핍)</td>
+</tr>
+<tr>
+<td style="width: 44.697%;">가장 변동성 높은 시간대</td>
+<td style="width: 260.101%;">GMT 기준 오후 1시~오후 4시</td>
+</tr>
+</tbody>
+</table>
+<p><a href="https://www.atfx.com/ko/trading-accounts/live-account"><img loading="lazy" decoding="async" class="alignnone wp-image-25089 size-full" src="https://www.atfx.com/wp-content/uploads/2023/10/live-account-korea.webp" alt="live account korea" width="825" height="206" srcset="https://www.atfx.com/wp-content/uploads/2023/10/live-account-korea.webp 825w, https://www.atfx.com/wp-content/uploads/2023/10/live-account-korea-300x75.webp 300w, https://www.atfx.com/wp-content/uploads/2023/10/live-account-korea-768x192.webp 768w" sizes="(max-width: 825px) 100vw, 825px" /></a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>외환시장에서 ‘로트 규모’의 의미와 중요성은? ‘로트 규모’에 대한 자세한 설명서</title>
+		<link>https://www.atfx.com/ko/analysis/trading-strategies/what-is-lot-size-in-forex</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Thu, 30 Nov 2023 02:09:48 +0000</pubDate>
+				<category><![CDATA[트레이딩 전략]]></category>
+		<category><![CDATA[거래전략-초급]]></category>
+		<guid isPermaLink="false">https://www.atfx.com/?p=26570</guid>
+
+					<description><![CDATA[외환거래소(FX)의 줄임말인 FX는 다양한 통화를 거래하는 글로벌 시장입니다. 외환거래의 중심부에는 ‘로트(lot)’라는 단위가 존재하는데, 이는 표준화된 외환거래의 규모를 측정하는 단위입니다. 이번 글에서는 외환 시장에서의 ‘로트 규모’에 대해 설명하고, 여러분의 트레이딩 여정에서 ‘로트 규모’가 중요한 이유를 알려드리도록 하겠습니다. &#160; 목차: 1. 외환거래에서 ‘로트’란? 2. 외환시장의 ‘로트 규모’ 4가지 유형에 대해 이해하기 3. 로트 규모가 중요한 이유: 4. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p dir="ltr">외환거래소(FX)의 줄임말인 FX는 다양한 통화를 거래하는 글로벌 시장입니다. 외환거래의 중심부에는 ‘로트(lot)’라는 단위가 존재하는데, 이는 표준화된 외환거래의 규모를 측정하는 단위입니다. 이번 글에서는 외환 시장에서의 ‘로트 규모’에 대해 설명하고, 여러분의 트레이딩 여정에서 ‘로트 규모’가 중요한 이유를 알려드리도록 하겠습니다.</p>
+<p>&nbsp;</p>
+<p dir="ltr"><strong>목차:</strong></p>
+<p><a href="#what-is-a-lot-in-forex-trading">1. 외환거래에서 ‘로트’란?</a><br />
+<a href="#understanding-the-4-types-of-lot-sizes-in-forex">2. 외환시장의 ‘로트 규모’ 4가지 유형에 대해 이해하기</a><br />
+<a href="#why-lot-size-matters">3. 로트 규모가 중요한 이유:</a><br />
+<a href="#how-to-calculate-profit-and-loss-in-forex-using-lot-size-and-pip">4. 로트 규모 및 핍을 통해 FX 수익·손실을 계산하는 방법은?</a><br />
+<a href="#determining-the-right-lot-size">5. 적절한 로트 규모 결정하는 방법</a><br />
+<a href="#setting-lot-sizes-on-the-forex-trading-platform">6. 외환거래 플랫폼에서 로트 규모 설정하기</a><br />
+<a href="#getting-started-in-forex-trading">7. 외환거래를 시작하는 방법은?</a></p>
+<ol>
+<li dir="ltr">
+<h2 id="what-is-a-lot-in-forex-trading" dir="ltr">외환거래에서 ‘로트’란?</h2>
+</li>
+</ol>
+<p dir="ltr">외환거래에서 ‘로트’는 여러분이 거래하는 통화쌍의 표준화된 거래 단위를 지칭합니다. ‘로트’라는 개념은 외환거래의 거래 규모를 나타내어 준다는 점에서 외환거래의 기본적인 구성 요소입니다.</p>
+<p dir="ltr">가장 기본적인 상황을 빗대자면, 여러분이 통화쌍을 거래할 때 “나는 유로화를 살 거야”라거나 “나는 영국 파운드화를 팔거야”라고만 말하면 거래가 성립될 수가 없습니다. 여러분이 선택한 통화쌍의 구체적인 ‘로트’ 규모를 명시해야지만 정확한 거래 액수를 측정할 수 있습니다. ‘로트’라는 단어는 전통적인 거래소 용어를 차용한 것으로, 증권거래의 표준 단위를 지칭합니다.</p>
+<p dir="ltr">외환거래는 유동성이 매우 높은 시장이며, 매일매일 방대한 규모의 외환이 거래되고 있습니다. 대규모의 통화쌍을 관리하기 위해서는 정리가 가능한 규모 단위로 통화를 묶는 것이 필요하며, 바로 여기서 ‘로트’라는 개념이 활용됩니다.</p>
+<h3 dir="ltr">외환시장의 ‘로트’ 개념을 피자에 빗대 이해하기</h3>
+<p dir="ltr">여러분이 피자 가게를 운영하고 있다고 가정해봅시다. 이 피자 가게에서는 4인용 스몰 사이즈 피자, 8인용 라지 사이즈 피자를 판매하고 있습니다. 고객들은 피자 1조각만 따로 구매를 할 수는 없고 무조건 한 판을 통째로 구매해야 합니다.</p>
+<p dir="ltr">외환거래에서도 마찬가지로, 환율 ‘한 조각’만을 거래하는 것은 불가능합니다. 그 대신 ‘로트’ 규모로 거래를 해야 합니다. 예를 들어, 어떤 기준통화의 경우 표준 로트가 10만 단위가 될 수 있으며, 이는 피자가게에서 단체행사 주문을 받고 라지 사이즈 피자를 여러 판 굽는 것과 비슷한 느낌입니다. 한편, 만약 해당 기준통화에 대해 마이크로 로트 1천 단위를 거래한다면 이는 가족 저녁식사를 위해 스몰 사이즈 피자를 주문하는 것과 비슷한 느낌입니다.</p>
+<p dir="ltr">피자 가게의 피자가 정해진 사이즈로 판매되는 것처럼 외환거래 또한 마찬가지입니다. 피자 사이즈가 피자 가게의 매출에 영향을 미치는 것처럼, 로트 규모는 외환거래에서 잠재적인 수익·손실에 영향을 미칩니다.</p>
+<p dir="ltr"><img loading="lazy" decoding="async" class="" style="height: 258px; max-width: 100%; width: 499px;" src="https://www.atfx.com/hubfs/lots%20in%20forex%20with%20the%20pizza%20analogy.webp" alt="lots in forex with the pizza analogy" width="1200" height="620" /></p>
+<p>&nbsp;</p>
+<ol start="2">
+<li dir="ltr">
+<h2 id="understanding-the-4-types-of-lot-sizes-in-forex" dir="ltr">외환시장의 ‘로트 규모’ 4가지 유형에 대해 이해하기</h2>
+</li>
+</ol>
+<p dir="ltr">일반적으로 외환시장에서는 로트 규모가 ‘표준 로트’, ‘미니 로트’, ‘마이크로 로트’, ‘나노 로트’ 총 4가지 유형으로 분류됩니다.</p>
+<ol type="I">
+<li dir="ltr">
+<h3 dir="ltr">외환거래에서 ‘표준 로트’란 무엇인가요?</h3>
+</li>
+</ol>
+<p dir="ltr">‘표준 로트’는 외환거래에서 가장 큰 단위의 로트 규모로, 기준통화의 10만 단위를 의미합니다. 대규모 계좌를 보유한 트레이더들이 표준 로트를 가장 많이 활용합니다.</p>
+<p dir="ltr"><strong>예시:</strong><br />
+어떤 트레이더가 USD/JPY 통화쌍을 거래한다고 가정해봅시다. 이 트레이더가 ‘표준 로트’를 매입한다면 미화 $10만 달러를 구매한다는 것을 의미합니다. 만약 현재 환율이 [1:110]이라면, 이 트레이더는 ¥1,100만 엔을 판매해 미국 달러를 사들이는 것이 됩니다.</p>
+<ol start="2" type="I">
+<li dir="ltr">
+<h3 dir="ltr">외환거래에서 ‘미니 로트’란 무엇인가요?</h3>
+</li>
+</ol>
+<p dir="ltr">‘미니 로트’는 ‘표준 로트’의 1/10 규모입니다. 즉, 기준통화의 1만 단위를 의미합니다.</p>
+<p dir="ltr"><strong>예시:</strong></p>
+<p dir="ltr">어떤 트레이더가 GBP/USD 통화쌍을 거래한다고 가정해봅시다. 이 트레이더가 ‘미니 로트’를 매입한다면 £1만 파운드를 구매한다는 것을 의미합니다. 만약 현재 환율이 [1:1.35]라면, 이 트레이더는 미화 $13,500 달러를 판매해 영국 파운드화를 사들이는 것이 됩니다.</p>
+<ol start="3" type="I">
+<li dir="ltr">
+<h3 dir="ltr">외환거래에서 ‘마이크로 로트’란 무엇인가요?</h3>
+</li>
+</ol>
+<p dir="ltr">‘마이크로 로트’는 위의 두 로트보다 작은 규모의 로트이며, 기준통화의 1천 단위를 의미합니다.</p>
+<p dir="ltr"><strong>예시:</strong><br />
+어떤 트레이더가 EUR/USD 통화쌍을 거래한다고 가정해봅시다. 이 트레이더가 ‘마이크로 로트’를 매입한다면 €1천 유로를 구매한다는 것을 의미합니다. 만약 현재 환율이 [1:1.18]이라면, 이 트레이더는 미화 $1,180 달러를 판매해 유로화를 사들이는 것이 됩니다.</p>
+<ol start="4" type="I">
+<li dir="ltr">
+<h3 dir="ltr">외환거래에서 ‘나노 로트’란 무엇인가요?</h3>
+</li>
+</ol>
+<p dir="ltr">‘나노 로트’는 외환거래에서 가장 작은 규모의 로트이며, 이 규모의 로트 거래를 제공하지 않는 외환거래 업체도 존재합니다. ‘나노 로트’는 기준통화의 1백 단위를 의미합니다.</p>
+<p dir="ltr"><strong>예시:</strong><br />
+어떤 트레이더가 AUD/USD 통화쌍을 거래한다고 가정해봅시다. 이 트레이더가 ‘나노 로트’를 매입한다면 A$100 호주달러를 구매한다는 것을 의미합니다. 만약 현재 환율이 [1:0.75]라면, 이 트레이더는 US$75 미국 달러를 판매해 호주 달러를 사들이는 것이 됩니다.</p>
+<p dir="ltr"><img loading="lazy" decoding="async" class="" style="height: 424px; max-width: 100%; width: 821px;" src="https://www.atfx.com/hubfs/4%20types%20of%20lot%20sizes%20in%20forex.webp" alt="4 types of lot sizes in forex" width="1200" height="620" /></p>
+<h3 dir="ltr">요약표: 표준 vs 미니 vs 마이크로 vs 나노 로트</h3>
+<div dir="ltr" align="left">
+<div class="responsive-table-container" style="max-width: 100%;">
+<table style="width: 820px; height: auto;">
+<colgroup>
+<col width="99" />
+<col width="109" />
+<col width="90" />
+<col width="96" />
+<col width="207" /></colgroup>
+<tbody>
+<tr>
+<td>
+<p dir="ltr"><strong>로트 규모</strong></p>
+</td>
+<td>
+<p dir="ltr"><strong>기준통화 단위</strong></p>
+</td>
+<td>
+<p dir="ltr"><strong>리스크 수준</strong></p>
+</td>
+<td>
+<p dir="ltr"><strong>수익/손실 잠재력</strong></p>
+</td>
+<td>
+<p dir="ltr"><strong>적합성</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p dir="ltr"><strong>표준 로트</strong></p>
+</td>
+<td>
+<p dir="ltr">100,000</p>
+</td>
+<td>
+<p dir="ltr">높음</p>
+</td>
+<td>
+<p dir="ltr">높음</p>
+</td>
+<td>
+<p dir="ltr">보유 계좌 규모가 크고 숙련된 트레이더</p>
+</td>
+</tr>
+<tr>
+<td>
+<p dir="ltr"><strong>미니 로트</strong></p>
+</td>
+<td>
+<p dir="ltr">10,000</p>
+</td>
+<td>
+<p dir="ltr">중간</p>
+</td>
+<td>
+<p dir="ltr">중간</p>
+</td>
+<td>
+<p dir="ltr">중도적인 리스크를 부담할 의사가 있거나, 비교적 계좌 규모가 작은 트레이더</p>
+</td>
+</tr>
+<tr>
+<td>
+<p dir="ltr"><strong>마이크로 로트</strong></p>
+</td>
+<td>
+<p dir="ltr">1,000</p>
+</td>
+<td>
+<p dir="ltr">낮음</p>
+</td>
+<td>
+<p dir="ltr">낮음</p>
+</td>
+<td>
+<p dir="ltr">입문 트레이더, 혹은 낮은 리스크로 새로운 전략을 테스트하고 싶은 트레이더</p>
+</td>
+</tr>
+<tr>
+<td>
+<p dir="ltr"><strong>나노 로트</strong></p>
+</td>
+<td>
+<p dir="ltr">100</p>
+</td>
+<td>
+<p dir="ltr">매우 낮음</p>
+</td>
+<td>
+<p dir="ltr">매우 낮음</p>
+</td>
+<td>
+<p dir="ltr">초보 트레이더, 혹은 최소한의 리스크만으로 트레이딩 전략을 연습하고 싶은 트레이더</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p dir="ltr"><a href="https://www.atfx.com/ko/trading-accounts/demo-account" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="alignnone wp-image-25093" src="https://www.atfx.com/wp-content/uploads/2023/10/demo-account-korea.webp" alt="demo account korea" width="821" height="205" srcset="https://www.atfx.com/wp-content/uploads/2023/10/demo-account-korea.webp 825w, https://www.atfx.com/wp-content/uploads/2023/10/demo-account-korea-300x75.webp 300w, https://www.atfx.com/wp-content/uploads/2023/10/demo-account-korea-768x192.webp 768w" sizes="(max-width: 821px) 100vw, 821px" /></a></p>
+<p>&nbsp;</p>
+</div>
+<div dir="ltr" align="left">
+<ol start="3">
+<li dir="ltr">
+<h2 id="why-lot-size-matters" dir="ltr">로트 규모가 중요한 이유:</h2>
+</li>
+</ol>
+<p dir="ltr">여러분이 직접 거래하는 로트 규모는 여러분의 리스크 정도를 결정합니다. 예를 들면, 표준 로트는 마이크로 로트보다 훨씬 높은 리스크를 동반합니다. 이는 각 핍(통화쌍에서 발생하는 가격 이동 측정단위)의 가치는 로트 규모에 따라 변동하기 때문입니다. 즉, 어떤 로트 규모를 선택하는지는 외환거래에서 리스크 관리를 구성하는 핵심 요소입니다.</p>
+<p dir="ltr"><strong>예시:</strong></p>
+<p dir="ltr">여러분이 트레이딩 계좌에 $1,000를 보유하고 있고, EUR/USD 통화쌍을 거래하고 싶다고 가정해봅시다.</p>
+<p dir="ltr">레버리지를 활용하지 않을 경우, $1,000는 €1,000의 마이크로 로트에 대해서만 직접적인 영향을 미치게 됩니다. 하지만 레버리지를 활용할 경우 훨씬 더 큰 규모의 통화쌍을 굴릴 수 있습니다.</p>
+<p dir="ltr">여러분이 100:1 레버리지를 활용한다고 가정해봅시다. 이 경우 실 투자금 $1,000만으로 표준 로트에 해당하는 $100,000 포지션을 굴린다는 것을 의미합니다.</p>
+<p dir="ltr">여기서 EUR/USD 환율이 1% 상승했다고 가정해봅시다. 만약 레버리지 없이 마이크로 로트를 거래했다면, 수익은 $1,000의 1%인 $10가 됩니다. 하지만 만약 100:1 레버리지를 통해 표준 로트를 거래했다면 수익은 $100,000의 1%인 $1,000가 됩니다. 이는 레버리지가 잠재 수익에 얼마나 큰 영향력을 미치는지를 보여줍니다.</p>
+<p dir="ltr">다만 레버리지는 손실 또한 해당 배수만큼 증폭되기에, 만약 반대로 EUR/USD 환율이 1% 하락할 경우에는 $1,000만큼의 손실을 볼 수 있다는 점을 명심하시기 바랍니다.</p>
+<p dir="ltr">즉, 레버리지와 로트 규모는 통화쌍의 미세한 움직임만으로도 수익을 극대화해주지만, 리스크 익스포저 관리를 위해서는 현명한 활용이 필수입니다.</p>
+<p dir="ltr"><a href="https://www.atfx.com/ko/analysis/trading-strategies/why-is-leverage-high-in-the-forex-market" target="_blank" rel="noopener">외환시장의 레버리지가 높은 이유는? </a>에 대해서도 알아보세요.</p>
+<p>&nbsp;</p>
+<ol start="4">
+<li dir="ltr">
+<h2 id="how-to-calculate-profit-and-loss-in-forex-using-lot-size-and-pip" dir="ltr">로트 규모 및 핍을 통해 FX 수익·손실을 계산하는 방법은?</h2>
+</li>
+</ol>
+<p dir="ltr"><strong>손익 = (청산가 &#8211; 진입가) * 로트 규모 * 핍 밸류</strong></p>
+<p dir="ltr">다음과 같이 정리를 해보도록 하겠습니다:</p>
+<p dir="ltr"><strong>청산가:</strong> 포지션을 청산(매도)한 시점의 가격</p>
+<p dir="ltr"><strong>진입가:</strong> 포지션에 진입(매수)한 시점의 가격</p>
+<p dir="ltr"><strong>로트 규모:</strong> 본인이 거래한 규모(예: 표준, 미니, 마이크로, 나노 로트)</p>
+<p dir="ltr"><strong>핍 밸류:</strong> 거래한 통화쌍이 1핍 움직였을 때의 밸류</p>
+<div dir="ltr" align="left">
+<table>
+<colgroup>
+<col width="140" />
+<col width="201" />
+<col width="114" />
+<col width="129" /></colgroup>
+<tbody>
+<tr>
+<td>
+<p dir="ltr"><strong>로트 규모</strong></p>
+</td>
+<td>
+<p dir="ltr"><strong>기준통화 단위</strong></p>
+</td>
+<td>
+<p dir="ltr"><strong>거래액</strong></p>
+</td>
+<td>
+<p dir="ltr"><strong>핍 밸류($):</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p dir="ltr">표준 로트</p>
+</td>
+<td>
+<p dir="ltr">100,000</p>
+</td>
+<td>
+<p dir="ltr">높음</p>
+</td>
+<td>
+<p dir="ltr">높음</p>
+</td>
+</tr>
+<tr>
+<td>
+<p dir="ltr">미니 로트</p>
+</td>
+<td>
+<p dir="ltr">10,000</p>
+</td>
+<td>
+<p dir="ltr">중간</p>
+</td>
+<td>
+<p dir="ltr">중간</p>
+</td>
+</tr>
+<tr>
+<td>
+<p dir="ltr">마이크로 로트</p>
+</td>
+<td>
+<p dir="ltr">1,000</p>
+</td>
+<td>
+<p dir="ltr">낮음</p>
+</td>
+<td>
+<p dir="ltr">낮음</p>
+</td>
+</tr>
+<tr>
+<td>
+<p dir="ltr">나노 로트</p>
+</td>
+<td>
+<p dir="ltr">100</p>
+</td>
+<td>
+<p dir="ltr">매우 낮음</p>
+</td>
+<td>
+<p dir="ltr">매우 낮음</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p dir="ltr">어떤 트레이더가 EUR/USD를 1 표준 로트(100,000 단위)만큼 환율 1.1700에 진입했고, 환율 1.1750에 엑싯을 했다고 가정해봅시다.</p>
+<p dir="ltr">트레이더가 수익을 계산하는 방법은 다음과 같습니다:</p>
+<p dir="ltr">진입가와 청산가 사이의 차이를 계산합니다: 1.1750 &#8211; 1.1700 = 0.0050 (50핍)</p>
+<p dir="ltr">표준 로트에 대한 핍 밸류가 $10일 때, 밸류의 총 변화액은 다음과 같이 계산됩니다: 50핍 * $10/핍 = $500</p>
+<p dir="ltr">이 거래는 트레이더에게 유리하게 흘러갔기에, $500의 수익을 보게 됩니다.</p>
+<p dir="ltr">다만 만약 이 거래가 반대 방향으로 흘러갔다면 그 금액만큼의 손실을 봤을 것이라는 점을 명심하시기 바랍니다. 즉, 만약 엑싯 시점의 환율이 1.1750이 아닌 1.1650였다면 표준 로트에 대해 50핍 손실을 보고 $500를 잃었을 것임을 의미합니다.</p>
+<p dir="ltr">핍 밸류는 여러분이 거래하는 통화쌍과 트레이딩 계좌 통화에 따라 달라진다는 점을 기억하시기 바랍니다. 대부분의 통화쌍에서 핍은 소수점 넷째 자리(0.0001)를 의미합니다. 다만 일본 엔화의 경우 핍은 소수점 둘째 자리(0.01)를 의미합니다.</p>
+<p dir="ltr"><a href="https://www.atfx.com/ko/analysis/trading-strategies/how-to-calculate-the-margin-and-profit-and-loss-amount-for-foreign-exchange-transactions" target="_blank" rel="noopener">외환시장에서 마진, 수익, 손실 계산하는 방법 </a>에 대해 알아보세요.</p>
+<p dir="ltr"><a href="https://www.atfx.com/ko/trading-accounts/live-account" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="alignnone wp-image-25089" src="https://www.atfx.com/wp-content/uploads/2023/10/live-account-korea.webp" alt="live account korea" width="821" height="205" srcset="https://www.atfx.com/wp-content/uploads/2023/10/live-account-korea.webp 825w, https://www.atfx.com/wp-content/uploads/2023/10/live-account-korea-300x75.webp 300w, https://www.atfx.com/wp-content/uploads/2023/10/live-account-korea-768x192.webp 768w" sizes="(max-width: 821px) 100vw, 821px" /></a></p>
+<p>&nbsp;</p>
+<ol start="5">
+<li dir="ltr">
+<h2 id="determining-the-right-lot-size" dir="ltr">적절한 로트 규모 결정하는 방법</h2>
+</li>
+</ol>
+<p dir="ltr">본인에게 적절한 로트 규모는 계좌 규모, 리스크 감내수준, 트레이딩 전략 등을 고려해서 결정해야 합니다. 가장 일반적인 전략은 ‘1%의 법칙’인데, 한 건의 거래당 본인 계좌의 1%를 초과하지 않는 금액만을 투자하는 전략입니다. 즉, 만약 여러분의 트레이딩 계좌에 $10,000가 있다면 한 건의 거래에 대한 최대 손실액이 절대 $100를 넘지 않도록 해야 한다는 것입니다.</p>
+<ol type="I">
+<li dir="ltr">
+<h3 dir="ltr">로트 규모를 결정해주는 소프트웨어 툴</h3>
+</li>
+</ol>
+<p dir="ltr">트레이더 본인의 계좌 규모, 리스크 감내수준, 손절 가격선에 따라 각자가 선택하면 좋을 최적의 로트 규모를 계산해주는 다양한 온라인 툴이 존재합니다. 이같은 툴은 수치적 결과를 제공함으로써, 여러분이 정보에 기반한 투자 결정을 내릴 수 있게 도와줍니다. 이같은 툴의 예시로는<a href="http://atfx.com/ko" target="_blank" rel="noopener">ATFX 트레이딩 플랫폼</a>의 ‘<a href="https://www.atfx.com/ko/trading-platforms/metatrader-4/position-size-calculator">포지션 규모 계산기</a>’를 손꼽을 수 있습니다.</p>
+<p dir="ltr"><img loading="lazy" decoding="async" class="" style="height: 424px; max-width: 100%; width: 821px;" src="https://www.atfx.com/hubfs/lot%20size%20position%20calculator.webp" alt="lot size position calculator" width="1200" height="620" /></p>
+<ol start="2" type="I">
+<li dir="ltr">
+<h3 dir="ltr">로트 규모 관리를 위한 실용적인 팁</h3>
+</li>
+</ol>
+<p dir="ltr">로트 규모를 효율적으로 관리하는 것은 성공적인 외환거래를 위한 필수 요소입니다. 실용적인 팁을 몇 가지 들자면 다음과 같습니다:</p>
+<p dir="ltr">● 로트 규모는 늘 본인의 계좌 규모와 리스크 감내수준과 연동하여 결정하시기 바랍니다.</p>
+<p dir="ltr">● 로트 규모를 결정하기에 앞서 통화쌍의 변동성 정도를 고려하시기 바랍니다.</p>
+<p dir="ltr">● 시간이 흘러 본인의 트레이딩 경험과 전략에 대한 자신감이 쌓이면 쌓일수록 로트 규모를 서서히 키워나갈 수도 있습니다. 본인이 감당할 수 없는 수준의 리스크에 대한 금액은 절대로 투자하지 마시기 바랍니다.</p>
+<p dir="ltr"><a href="https://www.atfx.com/en/analysis/trading-strategies/how-trade-forex" target="_blank" rel="noopener">입문자를 위한 외환거래 설명 </a>에 대한 글도 살펴보세요.</p>
+<p>&nbsp;</p>
+<ol start="6">
+<li dir="ltr">
+<h2 id="setting-lot-sizes-on-the-forex-trading-platform" dir="ltr">외환거래 플랫폼에서 로트 규모 설정하기</h2>
+</li>
+</ol>
+<p dir="ltr">ATFX와 같은 대부분의 트레이딩 플랫폼들은 선호하는 로트 규모를 설정할 수 있게 해줍니다. 예를 들면,<a href="http://atfx.com/ko/trading-platforms/metatrader-4" target="_blank" rel="noopener">메타트레이더4 플랫폼</a>에서는 주문을 집행하기에 앞서 ‘신규 주문’창을 통해 로트 규모를 설정할 수 있습니다.</p>
+<p dir="ltr"><img loading="lazy" decoding="async" class="" style="height: 424px; max-width: 100%; width: 821px;" src="https://www.atfx.com/hubfs/setting%20lot%20sizes%20on%20forex%20trading%20platform.webp" alt="setting lot sizes on forex trading platform" width="1200" height="620" /></p>
+<p dir="ltr">관련 글 읽어보기: <a href="https://www.atfx.com/ko/analysis/trading-strategies/5-major-benefits-of-the-mt4-platform" target="_blank" rel="noopener">대부분의 외환 트레이더들이 MT4를 사용하는 이유는? MT4 플랫폼이 제공하는 5가지 주요 이점</a></p>
+<p dir="ltr"><a href="https://www.atfx.com/ko/trading-platforms/metatrader-4/mt4-demo-account" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="alignnone wp-image-25081" src="https://www.atfx.com/wp-content/uploads/2023/10/mt4-download-korea.webp" alt="mt4 download korea" width="821" height="205" srcset="https://www.atfx.com/wp-content/uploads/2023/10/mt4-download-korea.webp 825w, https://www.atfx.com/wp-content/uploads/2023/10/mt4-download-korea-300x75.webp 300w, https://www.atfx.com/wp-content/uploads/2023/10/mt4-download-korea-768x192.webp 768w" sizes="(max-width: 821px) 100vw, 821px" /></a></p>
+<p>&nbsp;</p>
+<ol start="7">
+<li dir="ltr">
+<h2 id="getting-started-in-forex-trading" dir="ltr">외환거래를 시작하는 방법은?</h2>
+</li>
+</ol>
+<p dir="ltr">ATFX를 통해 온라인 외환거래 여정을 시작해보세요. 우리의 종합적인 <a href="https://www.atfx.com/ko/analysis/trading-strategies/complete-forex-trading-guide-trading-strategies-for-beginner" target="_blank" rel="noopener">외환거래 가이드 </a>글을 살펴보시고, 통화쌍 거래에 대해 배워보시기 바랍니다. 외환 로트의 원리를 비롯한 기초적인 개념을 이해하셨다면,<a href="https://www.atfx.com/ko/trading-accounts/live-account" target="_blank" rel="noopener">라이브 트레이딩 계좌</a>로 실전 투자를 하시거나 무료<a href="https://www.atfx.com/ko/trading-accounts/demo-account" target="_blank" rel="noopener">데모 계좌</a>를 통해 연습을 하며 실력을 연마하실 수 있습니다.</p>
+<p dir="ltr">지금 바로 ATFX와 함께<a href="http://atfx.com/ko/markets/forex-trading" target="_blank" rel="noopener">외환거래</a>에 대해 더 알아보세요!</p>
+<p dir="ltr"><a href="https://www.atfx.com/ko/trading-accounts/demo-account" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="alignnone wp-image-25093" src="https://www.atfx.com/wp-content/uploads/2023/10/demo-account-korea.webp" alt="demo account korea" width="821" height="205" srcset="https://www.atfx.com/wp-content/uploads/2023/10/demo-account-korea.webp 825w, https://www.atfx.com/wp-content/uploads/2023/10/demo-account-korea-300x75.webp 300w, https://www.atfx.com/wp-content/uploads/2023/10/demo-account-korea-768x192.webp 768w" sizes="(max-width: 821px) 100vw, 821px" /></a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>채권 수익률이란? 공식, 계산법 &#038; 채권 수익률이 중요한 이유</title>
+		<link>https://www.atfx.com/ko/analysis/trading-strategies/what-is-bond-yield-formula-calculation-why-it-matters</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Thu, 23 Nov 2023 06:02:57 +0000</pubDate>
+				<category><![CDATA[트레이딩 전략]]></category>
+		<category><![CDATA[거래전략-초급]]></category>
+		<guid isPermaLink="false">https://www.atfx.com/?p=26350</guid>
+
+					<description><![CDATA[목차: 채권 수익률이란? 여러분이 알아둬야 할 기타 기본 용어들 채권 가격과 수익률 사이의 상관관계는 어떻게 되나요? 채권 수익률 계산하는 법 공식&#38;계산법과 함께 알아보는 주요 채권 수익률 4종류 채권 수익률에 영향을 주는 7가지 요인 채권 수익률이 중요한 이유는? 데모 계좌를 통해 트레이딩 배워보기 &#160; 채권 수익률이란? 채권 채권은 기업이나 정부가 자본을 조달하기 위해 발행하는 고정수입 증권의 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p dir="ltr"><strong>목차:</strong></p>
+<ol>
+<li><a href="#what-is-bond-yield">채권 수익률이란?</a></li>
+<li><a href="#basic-terminology">여러분이 알아둬야 할 기타 기본 용어들</a></li>
+<li><a href="#relationship-between-bond-prices-and-yields">채권 가격과 수익률 사이의 상관관계는 어떻게 되나요?</a></li>
+<li><a href="#calculate-bond-yield">채권 수익률 계산하는 법</a></li>
+<li><a href="#types-of-bond-yield">공식&amp;계산법과 함께 알아보는 주요 채권 수익률 4종류</a></li>
+<li><a href="#factors-affecting-bond-yields">채권 수익률에 영향을 주는 7가지 요인</a></li>
+<li><a href="#importance-of-bond-yields">채권 수익률이 중요한 이유는?</a></li>
+<li><a href="#learn-trading-demo-account">데모 계좌를 통해 트레이딩 배워보기</a></li>
+</ol>
+<p>&nbsp;</p>
+<ol>
+<li dir="ltr">
+<h2 id="what-is-bond-yield" dir="ltr">채권 수익률이란?</h2>
+</li>
+</ol>
+<ol type="I">
+<li dir="ltr">
+<h3 dir="ltr">채권</h3>
+</li>
+</ol>
+<p dir="ltr">채권은 기업이나 정부가 자본을 조달하기 위해 발행하는 고정수입 증권의 일종입니다. 투자자들은 이자를 지급하는 채권을 구입함으로써 투자 수익을 창출할 수 있습니다.</p>
+<ol start="2" type="I">
+<li dir="ltr">
+<h3 dir="ltr">수익률</h3>
+</li>
+</ol>
+<p dir="ltr">여기서 ‘수익률’이라 함은 이자 상품에 대한 투자를 통해 얻는 금리 수익률을 일컫습니다.</p>
+<ol start="3" type="I">
+<li dir="ltr">
+<h3 dir="ltr">채권 수익률</h3>
+</li>
+</ol>
+<p dir="ltr">채권 수익률은 투자자들이 채권에 투자함으로써 얻을 수 있는 수익률을 일컫습니다.</p>
+<p>&nbsp;</p>
+<ol start="2">
+<li dir="ltr">
+<h2 id="basic-terminology" dir="ltr">여러분이 알아둬야 할 기타 기본 용어들</h2>
+</li>
+</ol>
+<ol type="I">
+<li dir="ltr">
+<h3 dir="ltr">발행자(발행인):</h3>
+</li>
+</ol>
+<p dir="ltr">자본 조달을 위해 채권을 발행하는 기관 혹은 조직을 일컫습니다. 여기서 발행자는 정부, 기업, 혹은 자본 조달이 필요한 여타 기관을 일컫습니다.</p>
+<ol start="2" type="I">
+<li dir="ltr">
+<h3 dir="ltr">채권 소유자:</h3>
+</li>
+</ol>
+<p dir="ltr">채권을 구매한 투자자는 본인의 투자금을 발행자에게 빌려주는 셈입니다.</p>
+<ol start="3" type="I">
+<li dir="ltr">
+<h3 dir="ltr">액면가:</h3>
+</li>
+</ol>
+<p dir="ltr">발행자가 채권 소유자에게 빌린 금액으로, 채권 만기시 채권 소유자에게 상환하기로 약속하는 금액입니다. 이는 ‘원금’이라고도 표현할 수 있습니다.</p>
+<ol start="4" type="I">
+<li dir="ltr">
+<h3 dir="ltr">표면금리(쿠폰금리):</h3>
+</li>
+</ol>
+<p dir="ltr">채권에 대해 지급되는 이자율로, 일반적으로는 채권 액면가의 백분율로 표시됩니다. 이자율은 발행 시점에 고정되며, 채권이 만기될 때까지 정기적으로 지급됩니다.</p>
+<ol start="5" type="I">
+<li dir="ltr">
+<h3 dir="ltr">만기일:</h3>
+</li>
+</ol>
+<p dir="ltr">채권 소유자에게 발행자가 채권의 액면가를 상환하기로 약속한 날짜입니다. 그 기간은 단기(1년 이하)가 될 수도 있고, 장기(30년+)가 될 수도 있습니다.</p>
+<p dir="ltr"><a href="https://www.atfx.com/ko/trading-accounts/demo-account" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="alignnone wp-image-25093 size-full" src="https://www.atfx.com/wp-content/uploads/2023/10/demo-account-korea.webp" alt="demo account korea" width="825" height="206" srcset="https://www.atfx.com/wp-content/uploads/2023/10/demo-account-korea.webp 825w, https://www.atfx.com/wp-content/uploads/2023/10/demo-account-korea-300x75.webp 300w, https://www.atfx.com/wp-content/uploads/2023/10/demo-account-korea-768x192.webp 768w" sizes="(max-width: 825px) 100vw, 825px" /></a></p>
+<p>&nbsp;</p>
+<ol start="3">
+<li dir="ltr">
+<h2 id="relationship-between-bond-prices-and-yields" dir="ltr">채권 가격과 수익률 사이의 상관관계는 어떻게 되나요?</h2>
+</li>
+</ol>
+<p dir="ltr">채권 가격과 채권 수익률 사이에는 뚜렷한 반비례 관계가 형성됩니다. 채권 가격이 액면가보다 낮으면 표면금리보다 채권 수익률이 높아지고, 채권 가격이 액면가보다 높으면 표면금리보다 채권 수익률이 낮아집니다.</p>
+<p dir="ltr"><img loading="lazy" decoding="async" class="" style="height: 423px; max-width: 100%; width: 819px; margin: 10px auto;" src="https://www.atfx.com/hubfs/ATFX-bond-prices-vs-yields.webp" alt="ATFX-bond-prices-vs-yields" width="1200" height="620" /></p>
+<p dir="ltr">디자이어님 전달사항: 본 이미지와 유사한 시각 자료를 만들어주시기 바랍니다. 이미지명: 채권 가격 vs 채권 금리</p>
+<p dir="ltr">즉, 채권 수익률은 채권 가격과 표면금리에 따라 결정됩니다. 채권 가격 하락은 채권 수익률 상승으로 이어지고, 채권 가격 상승은 채권 수익률 하락으로 이어집니다.</p>
+<p>&nbsp;</p>
+<ol start="4">
+<li dir="ltr">
+<h2 id="calculate-bond-yield" dir="ltr">채권 수익률 계산하는 법</h2>
+</li>
+</ol>
+<p dir="ltr">채권은 투자자가 투자금을 약속된 기간 동안 채권 발행자에게 맡겨둔 뒤, 채권 보유기간 동안 이자를 받고 채권 만기시 채권 액면가를 상환받을 수 있는 투자법입니다. 채권은 프리미엄이 붙거나 할인이 되어 거래될 수도 있으며, 이로 인해 투자자가 얻는 수익률에 변동이 생길 수 있습니다.</p>
+<p dir="ltr">채권 수익률을 계산하기 위해서는 ‘연간 표면금리’와 ‘채권 가격’ 두 가지 수치가 필요합니다. 표면금리(쿠폰금리)는 채권 구매 당시 설정된 연간 이자율이며, 연간 표면금리는 연간 이자를 누적 합산하여 계산됩니다. 여기서 국채 가격은 현재가가 됩니다. 채권 수익률을 계산하는 간단한 방법은 표면금리(분자)를 액면가(분모)로 나누는 것입니다.</p>
+<p dir="ltr"><img loading="lazy" decoding="async" class="" style="height: 423px; max-width: 100%; width: 819px; margin: 10px auto;" src="https://www.atfx.com/hubfs/ATFX-bond-yield-formula.webp" alt="ATFX-bond-yield-formula" width="1200" height="620" /></p>
+<p dir="ltr">디자이어님 전달사항: 본 이미지와 유사한 시각 자료를 만들어주시기 바랍니다. 이미지명: 채권 수익률 공식</p>
+<p dir="ltr">다만 이같은 공식은 화폐의 시간적 가치, 만기적 가치, 금리 지불 빈도 등의 요소를 고려하지 못하므로 정확한 채권 수익률을 산출해주지는 못합니다. 그래도 이를 대략적인 참고자료로는 활용할 수 있습니다.</p>
+<p dir="ltr">채권은 리스크가 가장 낮은 “AAA” 등급, 디폴트를 의미하는 “D” 등급, 가장 리스크가 높은 “정크(junk)” 등급 등 다양한 등급으로 나뉩니다. 채권 가격이 변화하면 수익률 또한 변하게 됩니다. 예를 들어, 여러분이 액면가가 $1,000이고 표면금리가 10%인 채권을 구매했는데 이 채권이 시장에서 $800에 판매되고 있다고 가정해봅시다.</p>
+<p dir="ltr">이 경우에는 채권 가격이 할인되어 액면가 아래 가격으로 판매되는 셈입니다. 만약 이 채권을 $800에 거래하게 되면 채권 수익률은 12.5%($100/$800)가 됩니다. 만약 이 채권이 $1,200에 거래되면 채권 수익률은 8.33%($100/$1,200)가 됩니다. 채권의 시장가가 얼마가 되든 상관없이 표면금리는 그대로 유지됩니다. 선술한 예시에서 채권 소유자는 채권의 시장가와 무관하게 연 $100의 금리를 받게 됩니다.</p>
+<p dir="ltr"><a href="https://www.atfx.com/ko/trading-accounts/live-account" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="alignnone wp-image-25089 size-full" src="https://www.atfx.com/wp-content/uploads/2023/10/live-account-korea.webp" alt="live account korea" width="825" height="206" srcset="https://www.atfx.com/wp-content/uploads/2023/10/live-account-korea.webp 825w, https://www.atfx.com/wp-content/uploads/2023/10/live-account-korea-300x75.webp 300w, https://www.atfx.com/wp-content/uploads/2023/10/live-account-korea-768x192.webp 768w" sizes="(max-width: 825px) 100vw, 825px" /></a></p>
+<p>&nbsp;</p>
+<ol start="5">
+<li dir="ltr">
+<h2 id="types-of-bond-yield" dir="ltr">공식&amp;계산법과 함께 알아보는 주요 채권 수익률 4종류</h2>
+</li>
+</ol>
+<p dir="ltr">‘표면금리’와 ‘현행수익률’은 특정 채권이 창출하는 수익치를 추정하는 데 유용하게 활용될 수 있지만, 분명 한계점이 존재합니다. 이유인즉 재투자에 따른 수익을 반영하지 못하기 때문입니다. 만약 본인이 소유한 채권이 조기에 상환되거나, 최소 수익률을 측정하고 싶을 경우에는 위 두 요소로는 적절한 결괏값을 내기가 어렵습니다.</p>
+<p dir="ltr">이같은 상황에서 채권 수익률을 보다 정확하게 판단하려면 심화된 계산 방법이 필요합니다. 아래에서는 다양한 수익률 계산 방식을 살펴보도록 하겠습니다.</p>
+<ol type="I">
+<li dir="ltr">
+<h3 dir="ltr">현행수익률</h3>
+</li>
+</ol>
+<p dir="ltr">‘현행수익률’은 ‘표면금리’라고도 부르며, 채권 발행 시점에 수치가 고정되어 채권 유효 기간 동안 일정하게 유지되는 연간 금리를 일컫습니다. 현행수익률은 표면금리(분자)를 현재 시장가(분모)로 나누어 계산합니다. 채권의 현재 시장가는 변동하는 만큼, 현행수익률 또한 이에 따라 등락을 거듭합니다.</p>
+<ol start="2" type="I">
+<li dir="ltr">
+<h3 dir="ltr">만기수익률(YTM)</h3>
+</li>
+</ol>
+<p dir="ltr">‘만기수익률’은 채권을 만기 때까지 보유하면 얻을 수 있는 총 금리를 판단하는 데 도움이 되므로, 채권 투자자들에게 중요한 지표라 할 수 있습니다. 만기수익률은 채권의 표면금리와 만기 가치를 반영해 채권의 미래 현금흐름이 지닌 가치를 현재 시장가로 환산하는 계산법입니다. 이는 재무용 계산기를 통해 시행착오를 겪으며 산출해낼 수 있습니다. 참고를 위해 공식을 첨부하자면 다음과 같습니다:</p>
+<p dir="ltr"><img loading="lazy" decoding="async" class="" style="height: 424px; max-width: 100%; width: 821px; margin: 10px auto;" src="https://www.atfx.com/hubfs/ATFX-yield-to-maturity-formula.webp" alt="ATFX-yield-to-maturity-formula" width="1200" height="620" /></p>
+<p dir="ltr">디자이어님 전달사항: 본 이미지와 유사한 시각 자료를 만들어주시기 바랍니다. 이미지명: 만기수익률 공식</p>
+<p dir="ltr">예를 들어, 액면가가 $10,000인 채권을 ‘90’에 구매한다면 액면가의 90%인 $9,000를 지불하게 됩니다. 이 채권이 5년물이라고 가정해봅시다.</p>
+<p dir="ltr">이 경우 채권의 현행수익률은 6.7%가 됩니다(연 금리 $600 / $9,000 * 100).</p>
+<p dir="ltr">여기서 연 금리 $600를 재투자하면 복리 이자에 따른 수익이 창출될 수 있기에 만기수익률은 더욱 높아집니다. 채권이 만기되면 $10,000를 돌려받게 되는데, 이는 애초 구매할 때 지불했던 할인가인 $9,000보다 $1,000 더 많은 액수입니다.</p>
+<p dir="ltr">만기수익률은 채권의 표면금리와는 차이가 있을 수 있으며, 표면금리와 원금 상환이 제때 지급된다고 가정한 계산법이라는 점을 명심하시면 좋겠습니다. 다만, 채권 구매와 관련된 세금 혹은 중개수수료는 계산에 포함되지 않습니다. 또한 만기수익률은 배당금이 재투자된다고 가정해서 계산되곤 합니다.</p>
+<p dir="ltr">이같은 한계점에도 불구하고, 만기수익률은 다양한 채권 및 잠재 수익률을 비교하는 데 도움이 되므로 채권 투자자들에게 여전히 유용한 지표로 활용됩니다.</p>
+<ol start="3" type="I">
+<li dir="ltr">
+<h3 dir="ltr">콜만기수익률(YTC)</h3>
+</li>
+</ol>
+<p dir="ltr">콜옵션부채권(callable bond)에 투자할 때 콜만기수익률(YTC)은 중요한 고려 요소입니다. ‘콜옵션부채권’은 발행자가 채권을 조기에 상환할 수 있는 상품이며, 이는 채권 수익률에 영향을 미칠 수 있습니다.</p>
+<p dir="ltr"><img loading="lazy" decoding="async" class="" style="height: 424px; max-width: 100%; width: 821px; margin-left: auto; margin-right: auto;" src="https://www.atfx.com/hubfs/ATFX-yield-to-call-formula.webp" alt="ATFX-yield-to-call-formula" width="1200" height="620" /></p>
+<p dir="ltr">디자이어님 전달사항: 본 이미지와 유사한 시각 자료를 만들어주시기 바랍니다. 이미지명: 콜만기수익률 공식</p>
+<p dir="ltr">YTC는 YTM와 동일한 방식으로 산출되지만, 만기수익률이 아닌 중도상환일(call date)과 콜 가격(call price)을 반영합니다. 즉, YTC는 발행자가 중도상환을 할 여지가 있는 가장 이른 날짜를 활용해서 계산을 해야 합니다.</p>
+<p dir="ltr">채권에는 여러 중도상환일이 존재하며, 발행자는 만기 전까지 지정된 날짜에 이자를 계속 지불하거나 연 단위 이자 지불을 선택할 수 있습니다. 만약 채권 가격이 액면가보다 높아져 프리미엄이 붙어 거래될 경우에는 조기 콜상환 가능성이 높아질 수 있습니다. 발행자는 보다 낮은 금리로 신규 채권을 발행할 수도 있겠지만, 기존 채권 조건으로 인해 조기 콜 비용에 프리미엄이 붙을 수도 있습니다.</p>
+<p dir="ltr">콜옵션부채권의 잠재 수익률을 계산하려면, 투자자분들은 YTC 및 YTM의 다양한 수익률을 계산할 줄 아셔야 하겠습니다. 어떤 수익률이 현실성이 있는지를 파악하기 위해서는 가용 수익률 범위를 고려하는 것 또한 중요합니다.</p>
+<p dir="ltr">예를 들어, 부동산 개발 법인 리지웨이(Ridgeways Ltd)에서 2025년 12월 31일에 만기되는 고정금리 채권을 발행했다고 가정해봅시다. 현재 해당 채권은 $2.50 프리미엄이 붙어 거래되고 있다고 칩시다. 이 경우 만기수익률(YTM)은 연 6.82%입니다. 다만 이 경우에는 하단의 표에 나타난 바와 같이 두 번의 콜 중도상환 날짜가 존재합니다.</p>
+<p>&nbsp;</p>
+<p dir="ltr"><strong>리지웨이 고정금리 채권가격이 $102.5일 때</strong></p>
+<div dir="ltr" align="left">
+<div class="responsive-table-container" style="max-width: 100%;">
+<table style="width: 820px; height: auto;">
+<colgroup>
+<col width="101" />
+<col width="95" />
+<col width="107" />
+<col width="266" /></colgroup>
+<tbody>
+<tr>
+<td>
+<p dir="ltr">날짜</p>
+</td>
+<td>
+<p dir="ltr">수익률(연)</p>
+</td>
+<td>
+<p dir="ltr">비고</p>
+</td>
+<td>
+<p dir="ltr">투자자에게 지급되는 상환액</p>
+</td>
+</tr>
+<tr>
+<td>
+<p dir="ltr">2023/12/31</p>
+</td>
+<td>
+<p dir="ltr">7.60%</p>
+</td>
+<td>
+<p dir="ltr">1차 콜</p>
+</td>
+<td>
+<p dir="ltr">$103.00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p dir="ltr">2024/12/31</p>
+</td>
+<td>
+<p dir="ltr">7.07%</p>
+</td>
+<td>
+<p dir="ltr">2차 콜</p>
+</td>
+<td>
+<p dir="ltr">$101.50</p>
+</td>
+</tr>
+<tr>
+<td>
+<p dir="ltr">2025/12/31</p>
+</td>
+<td>
+<p dir="ltr">6.82%</p>
+</td>
+<td>
+<p dir="ltr">만기</p>
+</td>
+<td>
+<p dir="ltr">$100</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p dir="ltr">이 경우, 최저수익률(YTW)과 만기수익률은 모두 연 6.82%입니다. 다만 채권 가격이 변화하면 채권 수익률도 변할 수 있다는 점은 참고하시기 바랍니다. 예를 들어, 만약 채권 가격이 $102.5에서 $106로 상승할 경우 수익률은 변화할 수 있습니다. 이 경우 최저수익률(YTW)은 만기수익률(YTM)이 아닌 1차 콜에 대한 수익률이 될 것입니다.</p>
+<p>&nbsp;</p>
+<p dir="ltr"><strong>리지웨이 고정금리 채권가격이 $106일 때</strong></p>
+<div dir="ltr" align="left">
+<table>
+<colgroup>
+<col width="101" />
+<col width="99" />
+<col width="104" />
+<col width="268" /></colgroup>
+<tbody>
+<tr>
+<td>
+<p dir="ltr">날짜</p>
+</td>
+<td>
+<p dir="ltr">수익률(연)</p>
+</td>
+<td>
+<p dir="ltr">비고</p>
+</td>
+<td>
+<p dir="ltr">투자자에게 지급되는 상환액</p>
+</td>
+</tr>
+<tr>
+<td>
+<p dir="ltr">2023/12/31</p>
+</td>
+<td>
+<p dir="ltr">5.76%</p>
+</td>
+<td>
+<p dir="ltr">1차 콜</p>
+</td>
+<td>
+<p dir="ltr">$103.00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p dir="ltr">2024/12/31</p>
+</td>
+<td>
+<p dir="ltr">5.80%</p>
+</td>
+<td>
+<p dir="ltr">2차 콜</p>
+</td>
+<td>
+<p dir="ltr">$101.50</p>
+</td>
+</tr>
+<tr>
+<td>
+<p dir="ltr">2025/12/31</p>
+</td>
+<td>
+<p dir="ltr">5.84%</p>
+</td>
+<td>
+<p dir="ltr">만기</p>
+</td>
+<td>
+<p dir="ltr">$100</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>&nbsp;</p>
+<ol start="4" type="I">
+<li dir="ltr">
+<h3 dir="ltr">최저수익률(YTW)</h3>
+</li>
+</ol>
+<p dir="ltr">최저수익률(YTW)은 만기수익률(YTM)과 콜만기수익률(YTC)을 모두 고려해서 그 중에서 가장 낮은 최저 잠재수익률을 산출한 수치입니다. 이는 채권을 통해 얻을 수 있는 잠재 수익률을 최대한 보수적으로 산출하는 수치이기 때문에, 콜옵션이 붙은 유가증권에 투자하려면 알아둬야 할 중요한 사안이기도 합니다.</p>
+<p dir="ltr">다만 YTM 및 YTC는 추산치일 뿐이기에 채권의 총 수익률을 온전히 반영해주지는 못할 수 있으며, 매도 혹은 만기 시점이 되어서야 보다 정확한 수치를 계산할 수 있습니다.</p>
+<p dir="ltr"><img loading="lazy" decoding="async" class="" style="height: 424px; max-width: 100%; width: 821px; margin-left: auto; margin-right: auto;" src="https://www.atfx.com/hubfs/ATFX-yield-to-worst-formula.webp" alt="ATFX-yield-to-worst-formula" width="1200" height="620" /></p>
+<p dir="ltr">디자이어님 전달사항: 본 이미지와 유사한 시각 자료를 만들어주시기 바랍니다. 이미지명: 최저수익률 공식</p>
+<p dir="ltr">최저수익률(YTC)은 투자자에게 가장 불리한 시점에 채권이 중도 상환되거나, 혹은 만기가 될 때까지 끝끝내 중도 상환되지 않을 경우의 수를 모두 고려해서 수익률을 산출해주기에 잠재 투자 수익률을 보수적으로 계산할 때 유용합니다. 이는 채권이 투자자들에게 하방을 보호해주도록 설계된 상품이라는 점에서 특히나 유용한 수치입니다. 최저수익률(YTW)은 발행자가 부도(디폴트)를 겪지 않았을 경우 얻게 될 잠재 수익률 범위에서 가장 낮은 수치를 산정한 수익률입니다.</p>
+<p dir="ltr">만약 1차 콜 날짜가 투자자에게 가장 불리한 시점이라면 최저수익률(YTW)은 콜만기수익률(YTC)과 동일한 수치가 되며, 만약 만기일까지 중도상환이 되지 않는 상황이 투자자에게 가장 불리한 상황이라면 최저수익률(YTW)은 만기수익률(YTM)과 동일한 수치가 됩니다. 만약 발행자가 2차 콜 날짜 혹은 이후의 콜 날짜에 중도상환을 하게 된다면, 콜만기수익률(YTC) 및 만기수익률(YTM)보다 최저수익률(YTW)이 낮아져버려 투자자의 상황이 악화될 수 있습니다.</p>
+<p dir="ltr">어떤 투자자가 ‘USD 멀티섹터 고정금리 채권’을 $106.25에 구매했다고 가정해봅시다. 만약 발행자가 1차 콜 날짜에 채권을 중도상환한다면, 투자자는 연간 최저수익률(YTW)인 3.6%를 수익으로 얻게 됩니다. 반면, 만약 발행자가 1차 콜 날짜에 채권을 중도상환하지 않는다면 해당 채권 투자자는 보다 높은 수익률을 얻을 수 있게 됩니다. 만약 해당 채권이 만기까지 도달하게 된다면 투자자는 잠재 수익률 최대치인 연 6.33%의 수익률을 얻게 됩니다. 다만 실제로는 발행자가 채권을 조기에 상환하고 보다 낮은 금리로 리파이낸싱을 할 가능성이 높습니다.</p>
+<p>&nbsp;</p>
+<p dir="ltr"><strong>멀티섹터 USD 고정금리 채권</strong></p>
+<div dir="ltr" align="left">
+<table>
+<colgroup>
+<col width="101" />
+<col width="95" />
+<col width="104" />
+<col width="265" /></colgroup>
+<tbody>
+<tr>
+<td>
+<p dir="ltr">날짜</p>
+</td>
+<td>
+<p dir="ltr">수익률(연)</p>
+</td>
+<td>
+<p dir="ltr">비고</p>
+</td>
+<td>
+<p dir="ltr">투자자에게 지급되는 상환액</p>
+</td>
+</tr>
+<tr>
+<td>
+<p dir="ltr">2023/06/30</p>
+</td>
+<td>
+<p dir="ltr">3.60%</p>
+</td>
+<td>
+<p dir="ltr">1차 콜</p>
+</td>
+<td>
+<p dir="ltr">$104.19</p>
+</td>
+</tr>
+<tr>
+<td>
+<p dir="ltr">2024/06/30</p>
+</td>
+<td>
+<p dir="ltr">5.25%</p>
+</td>
+<td>
+<p dir="ltr">2차 콜</p>
+</td>
+<td>
+<p dir="ltr">$102.9</p>
+</td>
+</tr>
+<tr>
+<td>
+<p dir="ltr">2025/06/30</p>
+</td>
+<td>
+<p dir="ltr">5.61%</p>
+</td>
+<td>
+<p dir="ltr">3차 콜</p>
+</td>
+<td>
+<p dir="ltr">$100</p>
+</td>
+</tr>
+<tr>
+<td>
+<p dir="ltr">2026/06/30</p>
+</td>
+<td>
+<p dir="ltr">6.33%</p>
+</td>
+<td>
+<p dir="ltr">만기</p>
+</td>
+<td>
+<p dir="ltr">$100</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p dir="ltr">만약 채권이 그 어떠한 콜 중도상환이나 신용 부도도 없이 무사히 만기에 도래한다면야 채권은 순탄한 투자 상품이 될 수 있겠습니다. 하지만 채권을 매수·매도할 때에는 콜옵션부채권(callable bond) 및 콜만기수익률(YTC)과 관련된 공시 수익률을 파악하고 있는 것이 중요합니다.</p>
+<p dir="ltr"><a href="https://www.atfx.com/ko/trading-accounts/live-account" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="alignnone wp-image-25089 size-full" src="https://www.atfx.com/wp-content/uploads/2023/10/live-account-korea.webp" alt="live account korea" width="825" height="206" srcset="https://www.atfx.com/wp-content/uploads/2023/10/live-account-korea.webp 825w, https://www.atfx.com/wp-content/uploads/2023/10/live-account-korea-300x75.webp 300w, https://www.atfx.com/wp-content/uploads/2023/10/live-account-korea-768x192.webp 768w" sizes="(max-width: 825px) 100vw, 825px" /></a></p>
+<p>&nbsp;</p>
+<ol start="6">
+<li dir="ltr">
+<h2 id="factors-affecting-bond-yields" dir="ltr">채권 수익률에 영향을 주는 7가지 요인</h2>
+</li>
+</ol>
+<ol type="I">
+<li dir="ltr">
+<h3 dir="ltr">금리:</h3>
+</li>
+</ol>
+<p dir="ltr">중앙은행이 기준금리를 인하하면 채권 수익률 또한 하락하는 경향을 보입니다. 사람들은 은행 예금 금리가 낮아질 경우에는 국채를 비롯한 대체 투자처를 찾는 경향을 보입니다.</p>
+<ol start="2" type="I">
+<li dir="ltr">
+<h3 dir="ltr">신용등급:</h3>
+</li>
+</ol>
+<p dir="ltr">무디스, 스탠다드앤푸어, 피치 등의 신용평가사는 채권 발행자 및 채권 상품들에 대한 신용 리스크를 파악 및 분류하고, 이에 따른 신용등급을 부여함으로써 해당 발행자의 이자 지급능력과 원금 상환능력에 대한 정보를 제공합니다.</p>
+<p dir="ltr"><img loading="lazy" decoding="async" class="alignnone" style="height: 424px; max-width: 100%; width: 821px; margin-left: auto; margin-right: auto;" src="https://www.atfx.com/hubfs/ATFX-bond-rating.webp" alt="ATFX-bond-rating" width="1200" height="620" /></p>
+<p dir="ltr">디자이어님 전달사항: 본 이미지와 유사한 시각 자료를 만들어주시기 바랍니다. 이미지명: 채권 등급</p>
+<p dir="ltr">일반적으로는 신용등급이 높을수록 지급 의무를 문제 없이 이행할 가능성이 높으며, 신용등급이 변경되면 이는 채권 가격에 영향을 미칠 수 있습니다. 신용등급이 상향되면 채권 가격은 올라가며, 신용등급이 하향되면 채권 가격은 내려갑니다.</p>
+<p dir="ltr">회사채에 투자하는 기관 투자자들은 이자보상배율(interest-coverage ratios)이나 자본환원률(capitalization ratio)과 같은 전통적인 지표를 활용한 자체 신용분석을 별도로 진행함으로써 선술한 신용평가사들의 신용등급을 보완하곤 합니다. 신용 리스크가 높은 발행자들의 경우에는 높은 금리의 회사채를 제공함으로써 리스크에 대한 위험부담을 상쇄해줍니다.</p>
+<ol start="3" type="I">
+<li dir="ltr">
+<h3 dir="ltr">인플레이션:</h3>
+</li>
+</ol>
+<p dir="ltr">인플레이션율이 상승하면 채권 가격은 하락하고, 인플레이션율이 하락하면 채권 가격은 상승하는 경향을 보입니다. 이는 인플레이션이 투자에 대한 구매력을 약화시키기 때문입니다. 채권이 만기에 도달해 수익을 보더라도, 그간의 인플레이션으로 인한 통화가치 하락 때문에 실질 수익은 하락하게 됩니다.</p>
+<p dir="ltr"><img loading="lazy" decoding="async" class="" style="height: 260px; max-width: 100%; width: 503px; margin-left: auto; margin-right: auto;" src="https://www.atfx.com/hubfs/ATFX-inflation-vs-bond-yield.webp" alt="ATFX-inflation-vs-bond-yield" width="1200" height="620" /></p>
+<p dir="ltr">디자이어님 전달사항: 본 이미지와 유사한 시각 자료를 만들어주시기 바랍니다. 이미지명: 인플레이션 vs 채권 수익률</p>
+<ol start="4" type="I">
+<li dir="ltr">
+<h3 dir="ltr">만기까지의 기간:</h3>
+</li>
+</ol>
+<p dir="ltr">장기 채권은 단기 채권에 비해 만기일이 길다 보니 금리 변동에 민감합니다. 만약 금리가 인상되면 장기 채권은 단기 채권에 비해 재빠르게 가격이 하락할 가능성이 높습니다. 이같은 현상을 채권 듀레이션 요인(bond duration factor)이고 부릅니다.</p>
+<ol start="5" type="I">
+<li dir="ltr">
+<h3 dir="ltr">수요와 공급:</h3>
+</li>
+</ol>
+<p dir="ltr">채권 수익률과 채권 가격 사이에는 역의 상관관계가 존재합니다. 채권 수요가 증가하면 가격이 상승하고, 채권 수익률은 하락합니다. 반면, 채권에 대한 수요가 감소하고 채권 가격이 하락하면 금리와 채권 수익률이 상승합니다.</p>
+<ol start="6" type="I">
+<li dir="ltr">
+<h3 dir="ltr">경제 상황:</h3>
+</li>
+</ol>
+<p dir="ltr">경제성장률이 높을 때에는 주식 및 민간자본 등의 투자 형태가 채권보다 매력적이므로 채권에 대한 수요가 감소하게 됩니다. 이 경우에는 채권 발행자가 투자자들을 유치하기 위해 보다 높은 금리를 제공하게 되면서 채권 수익률이 상승하게 됩니다.</p>
+<ol start="7" type="I">
+<li dir="ltr">
+<h3 dir="ltr">지정학적 이슈:</h3>
+</li>
+</ol>
+<p dir="ltr">전쟁, 정치적 불안정, 자연재해와 같은 지정학적 사태는 불확실성과 리스크를 증가시키며, 이는 채권 수익률을 높일 수 있습니다.</p>
+<p>&nbsp;</p>
+<ol start="7">
+<li dir="ltr">
+<h2 id="importance-of-bond-yields" dir="ltr">채권 수익률이 중요한 이유는?</h2>
+</li>
+</ol>
+<p dir="ltr">그렇다면, 채권 수익률이 중요한 이유는 무엇일까요? 채권 수익률은 주식시장의 강세 정도와 미국달러의 금리 수준을 파악할 수 있는 중요한 지표입니다. 채권 수익률이 하락하면 이는 채권 가격이 상승했다는 말이며, 이를 풀이하자면 채권에 대한 수요가 급등했음을 의미합니다. 주식 투자자가 주식 투자의 안정성에 대해 우려를 보이며 보다 안전한 투자상품을 물색하게 되면 채권에 대한 수요가 증가하곤 합니다.</p>
+<p dir="ltr"><img loading="lazy" decoding="async" class="" style="height: 259px; max-width: 100%; width: 501px;" src="https://www.atfx.com/hubfs/ATFX-why-is-bond-yield-important.webp" alt="ATFX-why-is-bond-yield-important" width="1200" height="620" /></p>
+<p dir="ltr">디자이어님 전달사항: 본 이미지와 유사한 시각 자료를 만들어주시기 바랍니다. 이미지명: 채권 수익률이 중요한 이유</p>
+<p dir="ltr">반면, 만약 채권 수익률이 상승하게 되면 채권 가격은 하락하는데, 이는 채권 수요가 감소했음을 의미합니다. 투자자들 입장에서 채권에 투자하는 것보다 주식에 투자하는 것이 수익률이 높을 것이라고 판단되면 채권에 대한 수요가 감소하며, 이는 달러 약세를 초래할 수 있습니다.</p>
+<p>&nbsp;</p>
+<ol start="8">
+<li dir="ltr">
+<h2 id="learn-trading-demo-account" dir="ltr">데모 계좌를 통해 트레이딩 배워보기</h2>
+</li>
+</ol>
+<p dir="ltr"><a href="https://www.atfx.com/ko/markets" target="_blank" rel="noopener">금융시장</a>에 투자하는 법을 배우고 싶으시다면,<a href="https://www.atfx.com/ko/trading-accounts/demo-account" target="_blank" rel="noopener">데모 계좌 개설</a>을 추천드립니다. ATFX는 탄탄한<a href="https://www.atfx.com/ko/" target="_blank" rel="noopener">트레이딩 플랫폼</a>을 기반으로 모든 종류의 주요 금융상품을 제공하며, 자사에서 제공하는 가이드 혹은 무료 트레이닝 자료를 활용하여 다양한 투자전략을 연습할 수 있게 해드립니다. 지금 바로 데모 트레이딩 계좌를 무료로 개설하세요!</p>
+<p dir="ltr"><a href="https://www.atfx.com/ko/trading-accounts/demo-account" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="alignnone wp-image-25093 size-full" src="https://www.atfx.com/wp-content/uploads/2023/10/demo-account-korea.webp" alt="demo account korea" width="825" height="206" srcset="https://www.atfx.com/wp-content/uploads/2023/10/demo-account-korea.webp 825w, https://www.atfx.com/wp-content/uploads/2023/10/demo-account-korea-300x75.webp 300w, https://www.atfx.com/wp-content/uploads/2023/10/demo-account-korea-768x192.webp 768w" sizes="(max-width: 825px) 100vw, 825px" /></a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>USD/JPY 트레이딩 간편 9단계: 여러분을 위한 궁극의 USD/JPY 트레이딩 가이드</title>
+		<link>https://www.atfx.com/ko/analysis/trading-strategies/how-to-trade-usdjpy</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Tue, 21 Nov 2023 08:38:26 +0000</pubDate>
+				<category><![CDATA[트레이딩 전략]]></category>
+		<category><![CDATA[USDJPY]]></category>
+		<category><![CDATA[거래전략-초급]]></category>
+		<guid isPermaLink="false">https://www.atfx.com/?p=26294</guid>
+
+					<description><![CDATA[USD/JPY 트레이딩에 대해 알아보고 싶으신가요? 그렇다면 잘 찾아오셨습니다! 이번 안내글을 통해서는 기초적인 단계에서부터 똘똘한 전략에 이르기까지 모든 내용을 다루어 보도록 하겠습니다. 손쉬운 예시와 명료한 넘버링을 통해 중요 통화쌍인 USD/JPY에 대한 이해를 도와드리도록 하겠습니다. 우리 함께 USD/JPY 트레이딩 여정을 시작해보도록 하겠습니다. &#160; 목차: 1. USD/JPY 트레이딩이란? 2. USD/JPY 트레이딩을 해야 하는 이유 이해하기 3. USD/JPY 환율에 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p dir="ltr">USD/JPY 트레이딩에 대해 알아보고 싶으신가요? 그렇다면 잘 찾아오셨습니다! 이번 안내글을 통해서는 기초적인 단계에서부터 똘똘한 전략에 이르기까지 모든 내용을 다루어 보도록 하겠습니다. 손쉬운 예시와 명료한 넘버링을 통해 중요 통화쌍인 USD/JPY에 대한 이해를 도와드리도록 하겠습니다. 우리 함께 USD/JPY 트레이딩 여정을 시작해보도록 하겠습니다.</p>
+<p>&nbsp;</p>
+<p dir="ltr"><strong>목차:</strong></p>
+<p dir="ltr"><a href="#what-is-usd-jpy-trading">1. USD/JPY 트레이딩이란?</a></p>
+<p dir="ltr"><a href="#understand-why-trade-usd-jpy">2. USD/JPY 트레이딩을 해야 하는 이유 이해하기</a></p>
+<p dir="ltr"><a href="#factors-influencing-usd-jpy">3. USD/JPY 환율에 영향을 미치는 요인 이해하기</a></p>
+<p dir="ltr"><a href="#choosing-trading-platform-usd-jpy">4. USD/JPY 환거래를 위한 트레이딩 플랫폼 선택하기</a></p>
+<p dir="ltr"><a href="#create-demo-account-usd-jpy">5. USD/JPY 데모 트레이딩 계좌 생성하기</a></p>
+<p dir="ltr"><a href="#develop-trading-strategies-usd-jpy">6. USD/JPY 환거래를 위한 트레이딩 전략 개발하기</a></p>
+<p dir="ltr"><a href="#transition-live-trading-usd-jpy">7. 라이브 트레이딩 계좌로 전환 후 첫 주문 넣기</a></p>
+<p dir="ltr"><a href="#monitor-trades-update-strategy">8. 본인의 트레이딩 전략을 항상 모니터링하고 업데이트하기</a></p>
+<p dir="ltr"><a href="#avoid-common-trading-mistakes-usd-jpy">9. USD/JPY 트레이딩과 관련된 흔한 실수를 이해하고 예방하기</a></p>
+<p dir="ltr"><a href="#practice-usd-jpy-trading-demo">10. 진짜 돈을 넣지 않고도 USD/JPY 트레이딩을 연습하고 싶으신가요?</a></p>
+<p>&nbsp;</p>
+<h2 id="what-is-usd-jpy-trading" dir="ltr">1. USD/JPY 트레이딩이란?</h2>
+<p dir="ltr">USD/JPY 트레이딩은 외환시장에서 미국달러를 통해 일본 엔화를 사고 파는 행위를 일컫습니다. 트레이더들은 수익을 내기 위해 USD/JPY 통화쌍을 거래합니다. USD/JPY 환율은 매 1달러당 얼마나 많은 엔화를 사거나 팔 수 있는지를 나타냅니다. 트레이더들은 USD/JPY 환율이 오를지 내릴지를 전망하고, 본인의 분석 및 예측에 따라 환거래를 진행합니다.<a href="https://www.atfx.com/ko/analysis/trading-strategies/what-is-forex-trading-how-does-it-work" target="_blank" rel="noopener">외환 트레이딩이 무엇이며, 어떤 원리로 돌아가는지</a>에 대해 알아보세요.</p>
+<p dir="ltr"><img loading="lazy" decoding="async" class="" style="height: 260px;max-width: 100%;width: 503px;margin: 20px 0px" src="https://www.atfx.com/hubfs/what-is-usdjpy-trading.webp" alt="what-is-usdjpy-trading" width="1200" height="620" /></p>
+<p>&nbsp;</p>
+<h2 id="understand-why-trade-usd-jpy" dir="ltr">2. USD/JPY 트레이딩을 해야 하는 이유 이해하기</h2>
+<p dir="ltr">USD/JPY는 외환시장의 ‘메이저’ 통화쌍들 중 하나이며, 트레이더들은 다양한 이유로 USD/JPY 통화쌍을 선호합니다. 관련 글 읽어보기: <a href="https://www.atfx.com/ko/analysis/trading-strategies/is-forex-trading-profitable" target="_blank" rel="noopener">외환 트레이딩은 수익에 도움이 되나요?</a></p>
+<ol type="I">
+<li dir="ltr">
+<h3 dir="ltr">높은 유동성:</h3>
+</li>
+</ol>
+<p dir="ltr">USD/JPY 통화쌍은 거래량이 높은 ‘메이저’ 통화쌍입니다. 이말인즉슨 본인의 거래가 시장가에 영향을 미치지 않는 선에서 손쉽게 매수 혹은 매도가 가능하다는 의미입니다.<a href="https://www.atfx.com/ko/analysis/trading-strategies/ten-most-traded-currencies" target="_blank" rel="noopener">외환시장에서 가장 많이 거래되는 통화쌍 10선</a>에 대해 알아보세요.</p>
+<ol start="2" type="I">
+<li dir="ltr">
+<h3 dir="ltr">낮은 스프레드:</h3>
+</li>
+</ol>
+<p dir="ltr">높은 유동성은 낮은 스프레드(매수가와 매도가 사이의 격차)를 의미합니다. 이는 거래 비용을 낮춰줍니다.</p>
+<ol start="3" type="I">
+<li dir="ltr">
+<h3 dir="ltr">경제적, 지정학적 이슈:</h3>
+</li>
+</ol>
+<p dir="ltr">미국과 일본에서 일어나는 큰 이슈들은 USD/JPY 환율에 큰 영향을 미칠 수 있습니다. 트레이더들이 이같은 환율 흐름을 정확히 예측한다면 수익을 얻을 수 있습니다.</p>
+<ol start="4" type="I">
+<li dir="ltr">
+<h3 dir="ltr">개장시간:</h3>
+</li>
+</ol>
+<p dir="ltr">외환시장은 주 5일 24시간 개장되지만, 특히나 아시아 개장시간(도쿄)에는 높은 활동성으로 인해 USD/JPY 통화쌍 거래에 관한 고유의 기회를 창출해줍니다.<a href="https://www.atfx.com/ko/analysis/trading-strategies/why-forex-markets-open-24-hours-a-day" target="_blank" rel="noopener">외환시장이 매일 24시간 개장되는 이유</a>에 대해 알아보세요.</p>
+<ol start="5" type="I">
+<li dir="ltr">
+<h3 dir="ltr">기술적 분석:</h3>
+</li>
+</ol>
+<p dir="ltr">USD/JPY 통화쌍은 기술적 지표를 통해 폭넓게 분석되곤 합니다. 기술적 지표는 미래의 환율 흐름을 예측하는 데 도움을 줍니다.</p>
+<ol start="6" type="I">
+<li dir="ltr">
+<h3 dir="ltr">높은 변동성:</h3>
+</li>
+</ol>
+<p dir="ltr">USD/JPY 환율은 급속도로 변화할 수 있습니다. 이는 트레이더들로 하여금 상당한 수익을 낼 수 있는 기회를 제공해줍니다.</p>
+<p dir="ltr"><img loading="lazy" decoding="async" class="" style="height: 424px;max-width: 100%;width: 821px;margin: 20px 0px" src="https://www.atfx.com/hubfs/USDJPY-Chart-Forex.webp" alt="USDJPY-Chart-Forex" width="1200" height="620" /></p>
+<p dir="ltr">상기 이미지는 USD/JPY 주봉차트가 지닌 변동성을 보여줍니다.</p>
+<p>&nbsp;</p>
+<h2 id="factors-influencing-usd-jpy" dir="ltr">3. USD/JPY 환율에 영향을 미치는 요인 이해하기</h2>
+<p dir="ltr">시간의 흐름에 따라 변동하는 USD/JPY 환율에는 여러 가지 요소들이 영향을 미칩니다.</p>
+<ol type="I">
+<li dir="ltr">
+<h3 dir="ltr">금리:</h3>
+</li>
+</ol>
+<p dir="ltr">일본은행(BoJ) 및 미 연준(Fed)의 기준금리는 USD/JPY 환율에 영향을 미치는 주요 요소입니다. 예를 들어, 만약 일본은행이 금리를 동결하고 미 연준이 금리를 인상하면 엔화 대비 달러가 강세를 얻게 되어 USD/JPY 환율은 상승하게 됩니다.<a href="https://www.atfx.com/ko/analysis/trading-strategies/how-fed-rate-hikes-affect-stock-forex-market" target="_blank" rel="noopener">미 연준 금리인상이 외환시장에 미치는 영향</a>에 대해 더 알아보세요.</p>
+<ol start="2" type="I">
+<li dir="ltr">
+<h3 dir="ltr">경제 지표:</h3>
+</li>
+</ol>
+<p dir="ltr">국내총생산(GDP), 실업률, 인플레이션을 비롯한 경제 지표들은 USD/JPY 환율에 영향을 미치곤 합니다. 미국의 경제 지표가 탄탄하게 나타나면 달러가 엔화 대비 강세를 타고, 약하게 나타나면 약세를 타곤 합니다.</p>
+<ol start="3" type="I">
+<li dir="ltr">
+<h3 dir="ltr">정치적 안정성:</h3>
+</li>
+</ol>
+<p dir="ltr">정치적 안정성은 한 국가의 통화 가치에 있어 상당히 중요한 역할을 합니다. 미국 혹은 일본에서의 정치적 불안정성 혹은 불확실성은 각국의 통화 가치 하락을 초래할 수 있습니다.</p>
+<ol start="4" type="I">
+<li dir="ltr">
+<h3 dir="ltr">투자자 전망:</h3>
+</li>
+</ol>
+<p dir="ltr">투자자들의 집합적인 전망을 반영하는 시장 분위기나 투자심리 또한 USD/JPY 환율에 영향을 미칠 수 있습니다. 시장 혼란기나 불안기에 투자자들은 미국달러에 비해 일본 엔화가 안전하다는 인식으로 인해 엔화를 매입하는 것을 선호하며, 이는 USD/JPY 환율 하락으로 이어지곤 합니다.</p>
+<ol start="5" type="I">
+<li dir="ltr">
+<h3 dir="ltr">지정학적 이슈:</h3>
+</li>
+</ol>
+<p dir="ltr">무역분쟁, 국제관계 변화 등의 세계적 이슈는 통화쌍에 상당한 영향을 미칠 수 있습니다. 예를 들어, 2018년 미중 무역전쟁 당시에는 엔화가 ‘안전통화’라는 명성 덕분에 달러 대비 강세를 보였습니다.</p>
+<p dir="ltr"><img loading="lazy" decoding="async" class="" style="height: 259px;max-width: 100%;width: 501px;margin: 20px 0px" src="https://www.atfx.com/hubfs/factors-influnce-usdjpy.webp" alt="factors-influnce-usdjpy" width="1200" height="620" /></p>
+<p dir="ltr"><a href="https://www.atfx.com/ko/analysis/trading-strategies/exchange-rate-factors-in-forex-market" target="_blank" rel="noopener">외환시장에서 환율에 영향을 주는 요인들 </a>및<a href="https://www.atfx.com/ko/analysis/trading-strategies/10-major-participants-in-forex-market" target="_blank" rel="noopener">외환시장의 10대 시장참여자</a>에 대해 더 알아보세요.</p>
+<p>&nbsp;</p>
+<h2 id="choosing-trading-platform-usd-jpy" dir="ltr">4. USD/JPY 환거래를 위한 트레이딩 플랫폼 선택하기</h2>
+<p dir="ltr">어떤 트레이딩 플랫폼을 선택하느냐에 따라서 USD/JPY 트레이딩 경험에 상당한 영향을 미칠 수 있습니다.</p>
+<ol type="I">
+<li dir="ltr">
+<h3 dir="ltr">기술적 분석 툴:</h3>
+</li>
+</ol>
+<p dir="ltr">시장 동향을 이해하는 것 이외에도 기술적 분석 툴은 본인의 트레이딩 전략을 형성하고, 백테스트하고, 구현하는 데에 도움을 줄 수 있습니다. ATFX와 같은 플랫폼은 고도화된<a href="https://www.atfx.com/en/trading-platforms/metatrader-4/mt4-indicators" target="_blank" rel="noopener">MT4 기술적 분석 툴</a>을 종합적으로 제공하고, 여러분들만의 트레이딩 전략을 고안하는 데에도 도움을 줍니다.<a href="https://www.atfx.com/en/analysis/trading-strategies/technical-analysis-important-trade-forex" target="_blank" rel="noopener">외환 트레이딩에서 기술적 분석이 중요한 이유</a>에 대해 알아보세요.</p>
+<ol start="2" type="I">
+<li dir="ltr">
+<h3 dir="ltr">고객 서비스:</h3>
+</li>
+</ol>
+<p dir="ltr">효율적으로 운영되는 고객서비스팀은 여러분이 어떤 문제에 직면했을 때 이를 재빨리 해결해줄 수 있고, 이는 트레이딩 활동에 발생하는 차질을 최소화해줍니다. 이를테면 ATFX는 라이브 챗, 전화, 이메일 등 다양한 소통창구를 통해 수준급의 고객서비스를 제공합니다.</p>
+<p dir="ltr"><a href="https://www.atfx.com/en/about-us/our-reviews" target="_blank" rel="noopener">ATFX 이용후기</a>를 확인해보세요.</p>
+<ol start="3" type="I">
+<li dir="ltr">
+<h3 dir="ltr">교육 리소스:</h3>
+</li>
+</ol>
+<p dir="ltr">교육 리소스는 여러분의 외환시장에 대한 이해를 도와주고, USD/JPY 통화쌍에 대한 유익한 인사이트와 효과적인 트레이딩 팁을 제공해줍니다. ATFX는 외환 트레이딩 안내, 웨비나, 정기 <a href="https://www.atfx.com/ko/analysis/market-news" target="_blank" rel="noopener">시장 소식 </a>업데이트 등을 통해 종합적인 학습 센터 역할을 해줍니다.</p>
+<ol start="4" type="I">
+<li dir="ltr">
+<h3 dir="ltr">규제 준수:</h3>
+</li>
+</ol>
+<p dir="ltr">규제를 필한 플랫폼은 규제당국의 엄격한 기준을 준수하여야 하며, 이는 플랫폼의 신뢰도를 추가적으로 높여줄 뿐만 아니라 투자자들의 자금을 안전하게 보호해줍니다. ATFX는 전세계에서 가장 선도적인 규제당국들 중 하나인 영국 금융행위감독청(FCA)의 규제를 준수합니다.</p>
+<p dir="ltr"><img loading="lazy" decoding="async" class="" style="height: 259px;max-width: 100%;width: 501px;margin: 20px 0px" src="https://www.atfx.com/hubfs/usdjpy-regulation-FCA-UK.webp" alt="usdjpy-regulation-FCA-UK" width="1200" height="620" /></p>
+<p dir="ltr">여러분의 트레이딩을 안전하게 해주는<a href="https://www.atfx.com/en/about-us" target="_blank" rel="noopener">ATFX 규제 컴플라이언스</a>에 대해 더 알아보세요.</p>
+<p>&nbsp;</p>
+<h2 id="create-demo-account-usd-jpy" dir="ltr">5. USD/JPY 데모 트레이딩 계좌 생성하기</h2>
+<p dir="ltr">ATFX 웹사이트에서 데모 계좌 개설을 통해 첫 발걸음을 떼 보세요. 데모 계좌는 여러분의 돈을 안전하게 지키면서도 USD/JPY 트레이딩을 연습할 수 있게 해줍니다.</p>
+<p dir="ltr"><img loading="lazy" decoding="async" class="" style="height: 260px;max-width: 100%;width: 503px;margin: 20px 0px" src="https://www.atfx.com/hubfs/usdjpy-demo-account.webp" alt="usdjpy-demo-account" width="1200" height="620" /></p>
+<p dir="ltr">회원 등록을 완료하셨다면, 이제는 계좌 확인 절차가 필요합니다. ATFX에서 요청하는 신분증 서류를 제출함으로써 이 절차를 마무리할 수 있습니다. 여러분이 스스로 준비가 되었다고 느끼기 전까지는 실제 돈을 투입할 필요가 없다는 점을 명심하시기 바랍니다. <a href="https://www.atfx.com/en/analysis/trading-strategies/how-trade-forex" target="_blank" rel="noopener">입문자를 위한 외환거래 설명 </a>글을 확인해보세요.</p>
+<p dir="ltr">데모 계좌는 여러분이 ATFX의 툴 및 특징에 대해 충분히 시간을 갖고 배워나갈 수 있도록 해줍니다. 여러분은 이를 통해 이 바닥이 돌아가는 상황에 대해 익숙해지는 시간을 가질 수 있습니다. 실제 돈을 투입할 때에는 본인이 준비가 되었다는 마음가짐과 자신감을 가지는 것이 전부라고 해도 과언이 아닙니다. 데모 계좌를 통해 투자 연습을 하고, 실제 돈을 투입해 USD/JPY 트레이딩을 시작하기 전까지 자신감을 쌓아 나가시기 바랍니다.</p>
+<p>&nbsp;</p>
+<h2 id="develop-trading-strategies-usd-jpy" dir="ltr">6. USD/JPY 환거래를 위한 트레이딩 전략 개발하기</h2>
+<p dir="ltr">본인의 리스크 감내수준, 트레이딩 스타일, 시장 환경 등을 기반으로 서로 다른 유형의 USD/JPY 트레이딩 전략을 활용할 수 있습니다.</p>
+<ol type="I">
+<li dir="ltr">
+<h3 dir="ltr">추세 추종:</h3>
+</li>
+</ol>
+<p dir="ltr">추세 추종은 USD/JPY의 현재 추세를 파악하고 이를 추종하는 기법을 일컫습니다. 이를테면, 만약 추세가 상승세라면 트레이더는 USD/JPY 환율이 추가 상승할 것을 예측하고 USD로 JPY를 매입할 수 있겠습니다.</p>
+<p dir="ltr"><img loading="lazy" decoding="async" class="" style="height: 425px;max-width: 100%;width: 823px;margin: 20px 0px" src="https://www.atfx.com/hubfs/usdjpy-daily-chart-trend-trading-strategy.webp" alt="usdjpy-daily-chart-trend-trading-strategy" width="1200" height="620" /></p>
+<p dir="ltr">상기 차트에서는 USD/JPY 환율이 상방추세를 보이고 있으며, 추세선에 대한 수많은 시험이 이같은 추세를 방증해주고 있습니다.<a href="https://www.atfx.com/ko/analysis/trading-strategies/how-forex-traders-use-candlestick-charts-to-analyze-forex-trends" target="_blank" rel="noopener">FX 트레이더들이 캔들스틱 차트를 추세분석에 활용하는 방법</a>에 대해 알아보세요.</p>
+<ol start="2" type="I">
+<li dir="ltr">
+<h3 dir="ltr">브레이크아웃 전략:</h3>
+</li>
+</ol>
+<p dir="ltr">브레이크아웃 전략은 USD/JPY 환율이 거래량 상승으로 인해 기존 지지선 혹은 저항선 바깥으로 돌파하는 경우에 활용됩니다. 트레이더는 환율이 만약 저항선을 돌파할 경우에는 통화쌍을 매수하고, 지지선을 깨고 내려갈 경우에는 통화쌍을 매도하는 방식을 활용할 수 있습니다.</p>
+<p dir="ltr"><img loading="lazy" decoding="async" class="" style="height: 424px;max-width: 100%;width: 821px;margin: 20px 0px" src="https://www.atfx.com/hubfs/usdjpy-chart-breakout-trading-strategy.webp" alt="usdjpy-chart-breakout-trading-strategy" width="1200" height="620" /></p>
+<p dir="ltr">상기 차트는 USD/JPY 환율이 최근 지지선을 하방돌파한 모습을 보여줍니다. 보시는 바와 같이 지지선은 최소 3차례 시험에 들었고, 핵심 추세가 하방으로 전환되었다는 것을 방증해줍니다.</p>
+<ol start="3" type="I">
+<li dir="ltr">
+<h3 dir="ltr">스윙 트레이딩:</h3>
+</li>
+</ol>
+<p dir="ltr">이 전략은 시장에서의 가격 스윙을 활용하는 매매 기법입니다. 스윙 트레이더는 USD/JPY 환율 사이클의 환율이 저점일 때 매수를 하고 사이클의 환율이 고점일 때 매도를 하거나, 숏투자를 할 때는 반대 방법을 적용합니다.</p>
+<p>&nbsp;</p>
+<p dir="ltr"><img loading="lazy" decoding="async" class="" style="height: 423px;max-width: 100%;width: 819px;margin: 20px 0px" src="https://www.atfx.com/hubfs/usdjpy-swing-trading.webp" alt="usdjpy-swing-trading" width="1200" height="620" /></p>
+<p dir="ltr">상기 차트는 USD/JPY 환율이 기존 저항선을 향해 상방 스윙을 했지만 돌파를 하지는 못한 상황을 보여주며, 이는 곧 하방으로 추세 변화가 이어질 것이라는 점을 방증해줍니다.</p>
+<ol start="4" type="I">
+<li dir="ltr">
+<h3 dir="ltr">캐리 트레이드:</h3>
+</li>
+</ol>
+<p dir="ltr">캐리 트레이드를 하는 트레이더는 저금리 통화(예: JPY)를 빌려 고금리 통화(예: USD)를 매수하는 데에 활용합니다. 캐리 트레이드는 금리 격차를 활용해 수익을 보는 것을 목표로 합니다.</p>
+<ol start="5" type="I">
+<li dir="ltr">
+<h3 dir="ltr">뉴스 매매법:</h3>
+</li>
+</ol>
+<p dir="ltr">이 방법은 USD/JPY 환율에 영향을 줄만한 경제 관련 뉴스 혹은 지수 발표에 맞춰 트레이딩을 하는 기법입니다. 뉴스 매매법을 하는 트레이더는 미국 경제지표가 긍정적으로 발표되기에 앞서 미국달러의 강세를 예측하고 USD/JPY 통화쌍을 매수하는 등의 방법을 활용합니다.</p>
+<ol start="6" type="I">
+<li dir="ltr">
+<h3 dir="ltr">스캘핑:</h3>
+</li>
+</ol>
+<p dir="ltr">스캘핑은 하루 동안에도 무수한 트레이딩을 진행함으로써 USD/JPY의 작은 환율 변동만으로도 수익을 보는 것을 목표로 합니다. 시장을 긴밀히 살펴보며 지속적으로 시간을 투자할 수 있는 트레이더들이 이 전략을 활용하곤 합니다.</p>
+<p dir="ltr"><a href="https://www.atfx.com/ko/analysis/trading-strategies/complete-forex-trading-guide-trading-strategies-for-beginner" target="_blank" rel="noopener">외환 트레이딩 전략 </a>에 대해 더 알아보세요.</p>
+<p>&nbsp;</p>
+<h2 id="transition-live-trading-usd-jpy" dir="ltr">7. 라이브 트레이딩 계좌로 전환 후 첫 주문 넣기</h2>
+<p dir="ltr">본인의 트레이딩 전략에 대해 자신감이 쌓이셨다면, 이제 ATFX 라이브 트레이딩 계좌를 개설할 때가 되었습니다.</p>
+<p dir="ltr"><img loading="lazy" decoding="async" class="" style="height: 425px;max-width: 100%;width: 823px;margin: 20px 0px" src="https://www.atfx.com/hubfs/usdjpy-live-trading-account.webp" alt="usdjpy-live-trading-account" width="1200" height="620" /></p>
+<p dir="ltr">우선은 계좌에 일부 금액을 예치하세요. 이것이 바로 투자의 첫 시작입니다. 실전 트레이딩을 시작하셨다면, 본인이 연습해온 트레이딩 전략과 단계를 적용해 리스크를 관리하시기 바랍니다. 처음에는 소액으로 트레이딩을 시작하기를 권장 드립니다. 이는 재빠르게 변화하는 실전 투자의 세계에서도 낮은 리스크를 통해 계속해서 학습을 해 나갈 수 있도록 해줍니다.</p>
+<p>&nbsp;</p>
+<h2 id="monitor-trades-update-strategy" dir="ltr">8. 본인의 트레이딩 전략을 항상 모니터링하고 업데이트하기</h2>
+<p dir="ltr">ATFX의 학습용 툴을 통해 USD/JPY 환율 시장에서 일어나는 변동사항에 대한 업데이트를 받아 보시기 바랍니다. ATFX<a href="https://www.atfx.com/ko/analysis/trading-strategies" target="_blank" rel="noopener">블로그 포스팅</a>을 꾸준히 확인하며 최신 시장 소식을 받아보세요. 또한, 유익한 트레이딩 팁과 지식을 얻기 위해 ATFX 유튜브 채널도 확인해 보시기 바랍니다.</p>
+<p dir="ltr"><img loading="lazy" decoding="async" class="" style="height: 425px;max-width: 100%;width: 823px;margin: 20px 0px" src="https://www.atfx.com/hubfs/usdjpy-market-news.webp" alt="usdjpy-market-news" width="1200" height="620" /></p>
+<p dir="ltr">여러분의 트레이딩이 어떻게 흘러가고 있는지를 확인하는 것은 매우 중요합니다. 늘 본인의 트레이딩의 현황을 모니터링하고, 시장이 어떻게 흘러가고 있는지를 관찰하시기 바랍니다. 트레이더로서 성장하기 위해서는 시장 환경에 따라 트레이딩 계획을 조정하는 것도 필요할 수 있습니다. 트레이더로서 장기적인 수익을 내기 위해서는 꾸준히 배우고자 하는 마음가짐과 시장의 변화에 맞춰 나가는 역량이 필요합니다.</p>
+<p>&nbsp;</p>
+<h2 id="avoid-common-trading-mistakes-usd-jpy" dir="ltr">9. USD/JPY 트레이딩과 관련된 흔한 실수를 이해하고 예방하기</h2>
+<ol type="I">
+<li dir="ltr">
+<h3 dir="ltr">오버트레이딩:</h3>
+</li>
+</ol>
+<p dir="ltr">트레이더들은 종종 감정에 휘둘린 채로 너무 빈번한 거래를 해서 손실을 겪곤 합니다. ‘감정에 지배당하지 말기’라는 트레이딩 원칙을 고수하시기 바랍니다.</p>
+<ol start="2" type="I">
+<li dir="ltr">
+<h3 dir="ltr">시장 소식 간과하기:</h3>
+</li>
+</ol>
+<p dir="ltr">경제 소식은 USD/JPY 환율에 지대한 영향을 미칠 수 있습니다. 중요한 뉴스를 꾸준히 파악함으로써 불필요한 손실을 방지하시기 바랍니다.</p>
+<ol start="3" type="I">
+<li dir="ltr">
+<h3 dir="ltr">과도한 레버리지:</h3>
+</li>
+</ol>
+<p dir="ltr">레버리지는 소액의 자금으로도 큰 규모의 투자금을 굴릴 수 있게 해주지만, 잘못 사용될 경우 큰 손실을 초래할 수 있습니다. 레버리지가 지닌 리스크를 숙지하고, 이를 현명하게 활용하시기 바랍니다.<a href="https://www.atfx.com/ko/analysis/trading-strategies/why-is-leverage-high-in-the-forex-market" target="_blank" rel="noopener">외환시장의 레버리지가 높은 이유</a>에 대해 알아보세요.</p>
+<ol start="4" type="I">
+<li dir="ltr">
+<h3 dir="ltr">무계획 트레이딩:</h3>
+</li>
+</ol>
+<p dir="ltr">충동적이거나 계획 없는 트레이딩은 엄청난 리스크를 초래할 수 있습니다. 늘 꼼꼼히 계획한 전략을 기반으로 트레이딩을 하시기 바랍니다.</p>
+<ol start="5" type="I">
+<li dir="ltr">
+<h3 dir="ltr">교육 부족:</h3>
+</li>
+</ol>
+<p dir="ltr">외환 트레이딩과 USD/JPY 환율의 기본을 숙지해 둔다면, 값비싼 인생 수업료를 지불하는 것만은 방지할 수 있습니다. 시간을 들여 외환 트레이딩과 USD/JPY 통화쌍에 대해 학습하시기 바랍니다.</p>
+<ol start="6" type="I">
+<li dir="ltr">
+<h3 dir="ltr">손절선 미설정:</h3>
+</li>
+</ol>
+<p dir="ltr">손절선을 설정해두면, 시장이 본인에게 불리하게 흘러가더라도 본인의 손실액에 제한을 걸어줍니다. 리스크 관리를 위해 늘 손절선을 활용하시기 바랍니다.</p>
+<p dir="ltr"><img loading="lazy" decoding="async" class="" style="height: 424px;max-width: 100%;width: 821px;margin: 20px 0px" src="https://www.atfx.com/hubfs/trade-usdjpy-stop-loss-orders.webp" alt="trade-usdjpy-stop-loss-orders" width="1200" height="620" /></p>
+<p>&nbsp;</p>
+<h2 id="practice-usd-jpy-trading-demo" dir="ltr">진짜 돈을 넣지 않고도 USD/JPY 트레이딩을 연습하고 싶으신가요?</h2>
+<p dir="ltr"><a href="http://atfx.com/ko/markets/forex-trading" target="_blank" rel="noopener">USD/JPY 외환 트레이딩</a>의 세계에 뛰어들 준비가 되셨나요? ATFX에서 무료로 데모 계좌를 개설한 뒤 본인의 실력을 연마하실 수 있습니다. ATFX는 트레이딩 플랫폼을 통해 USD/JPY 뿐만 아니라 다양한 <a href="https://www.atfx.com/ko/markets" target="_blank" rel="noopener">금융상품</a> 선택지를 제공합니다. ATFX의<a href="https://www.atfx.com/ko" target="_blank" rel="noopener">탄탄한 트레이딩 플랫폼</a>은 여러분이 다양한 전략을 실험할 수 있게 해주고, ATFX의 안내글과 교육 리소스를 통해 지식 또한 탑재할 수 있게 해드립니다. 이 기회를 놓치지 마세요 &#8211; 지금 바로 무료로<a href="http://atfx.com/ko/trading-accounts/demo-account" target="_blank" rel="noopener">데모 트레이딩 계좌</a>를 개설하세요!</p>
+<p dir="ltr"><a href="https://www.atfx.com/ko/trading-accounts/demo-account" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="alignnone wp-image-25093 size-full" src="https://www.atfx.com/wp-content/uploads/2023/10/demo-account-korea.webp" alt="demo account korea" width="825" height="206" srcset="https://www.atfx.com/wp-content/uploads/2023/10/demo-account-korea.webp 825w, https://www.atfx.com/wp-content/uploads/2023/10/demo-account-korea-300x75.webp 300w, https://www.atfx.com/wp-content/uploads/2023/10/demo-account-korea-768x192.webp 768w" sizes="(max-width: 825px) 100vw, 825px" /></a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>일반주 vs 우선주: 9가지 차이점 &#038; 어떤 유형에 투자해야 할까요?</title>
+		<link>https://www.atfx.com/ko/analysis/trading-strategies/ordinary-shares-vs-preference-shares</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Mon, 20 Nov 2023 04:08:04 +0000</pubDate>
+				<category><![CDATA[트레이딩 전략]]></category>
+		<category><![CDATA[거래전략-초급]]></category>
+		<guid isPermaLink="false">https://www.atfx.com/?p=26235</guid>
+
+					<description><![CDATA[투자는 마치 큰 퍼즐 조각을 맞추는 것처럼 느껴질 수 있습니다. 그 중 가장 중요한 퍼즐 조각을 꼽자면, 여러분이 구매할 수 있는 기업 주식의 서로 다른 유형들을 이해하는 것이라고 할 수 있습니다. 이번 글을 통해서는 주식의 대표적인 2가지 유형인 일반주와 우선주에 대해 자세히 살펴보도록 하겠습니다. &#160; 목차: 1. 일반주란 무엇인가요? 2. 우선주란 무엇인가요? 3. 일반주 vs [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p dir="ltr">투자는 마치 큰 퍼즐 조각을 맞추는 것처럼 느껴질 수 있습니다. 그 중 가장 중요한 퍼즐 조각을 꼽자면, 여러분이 구매할 수 있는 기업 주식의 서로 다른 유형들을 이해하는 것이라고 할 수 있습니다. 이번 글을 통해서는 주식의 대표적인 2가지 유형인 일반주와 우선주에 대해 자세히 살펴보도록 하겠습니다.</p>
+<p>&nbsp;</p>
+<p dir="ltr"><strong>목차:</strong></p>
+<p dir="ltr"><a href="#what-is-common-stocks">1. 일반주란 무엇인가요?</a></p>
+<p dir="ltr"><a href="#what-is-preferred-stocks">2. 우선주란 무엇인가요?</a></p>
+<p dir="ltr"><a href="#common-stocks-vs-preferred-stocks-9-differences">3. 일반주 vs 우선주, 여러분이 알아둬야 할 9가지 차이점</a></p>
+<p dir="ltr"><a href="#advantages-of-common-stocks">4. 일반주의 장점</a></p>
+<p dir="ltr"><a href="#disadvantages-of-common-stocks">5. 일반주의 단점</a></p>
+<p dir="ltr"><a href="#advantages-of-preferred-stocks">6. 우선주의 장점</a></p>
+<p dir="ltr"><a href="#disadvantages-of-preferred-stocks">7. 우선주의 단점</a></p>
+<p dir="ltr"><a href="#common-stocks-vs-preferred-stocks-which-to-invest">8. 일반주 vs 우선주, 어떤 유형에 투자해야 할까요?</a></p>
+<p dir="ltr"><a href="#start-trading-stocks-with-us">9. ATFX와 함께 주식 트레이딩 시작하기</a></p>
+<p>&nbsp;</p>
+<h2 id="what-are-common-stocks" dir="ltr">1. 일반주란 무엇인가요?</h2>
+<p dir="ltr">‘보통주’로도 불리는 ‘일반주’는 기업들이 발행하는 가장 일반적인 유형의 주식입니다. 일반주 주주들은 기업 의결권을 지니며, 상황에 따라 배당금을 받게 될 수도 있습니다. 다만 배당금은 반드시 지급되는 것은 아니고, 기업의 수익성에 따라 상황은 달라질 수 있습니다.</p>
+<p>&nbsp;</p>
+<h2 id="what-are-preferred-stocks" dir="ltr">2. 우선주란 무엇인가요?</h2>
+<p dir="ltr">우선주는 일반주 주주들보다 우선적으로 배당금을 받을 수 있는 장점을 지닌 주식 유형입니다. 또한, 기업 청산 상황이 발생하게 되면 우선주 주주들은 일반주 주주들보다 자산 청구권이 높습니다. 다만 우선주에는 일반적으로 주주 의결권이 부여되지 않습니다.</p>
+<p dir="ltr">“<a href="https://www.atfx.com/ko/analysis/trading-strategies/preference-shares" target="_blank" rel="noopener">우선주란 무엇인가요?</a>”에 대해 자세히 읽어보세요.</p>
+<p>&nbsp;</p>
+<h2 id="common-stocks-vs-preferred-stocks-9-differences" dir="ltr">3. 일반주 vs 우선주, 여러분이 알아둬야 할 9가지 차이점</h2>
+<div dir="ltr" align="left">
+<div class="responsive-table-container" style="max-width: 100%;">
+<table style="width: 820px; height: auto;">
+<colgroup>
+<col width="85" />
+<col width="259" />
+<col width="259" /></colgroup>
+<tbody>
+<tr>
+<td>
+<p dir="ltr"><strong>분류</strong></p>
+</td>
+<td>
+<p dir="ltr"><strong>일반주</strong></p>
+</td>
+<td>
+<p dir="ltr"><strong>우선주</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p dir="ltr"><strong>리스크 수준</strong></p>
+</td>
+<td>
+<p dir="ltr">주가 변동성으로 인한 높은 리스크, 기업 파산시 청구권 후순위</p>
+</td>
+<td>
+<p dir="ltr">고정 배당금으로 인한 위험 감소, 지급 불능 시 청구권 높음</p>
+</td>
+</tr>
+<tr>
+<td>
+<p dir="ltr"><strong>배당금</strong></p>
+</td>
+<td>
+<p dir="ltr">변동적, 배당금 보장 x, 기업에서 결정</p>
+</td>
+<td>
+<p dir="ltr">고정금, 일반주보다 우선적으로 지급</p>
+</td>
+</tr>
+<tr>
+<td>
+<p dir="ltr"><strong>성장 잠재력</strong></p>
+</td>
+<td>
+<p dir="ltr">높은 잠재력(기업 실적에 따라 배당금 및 주가 상승 가능)</p>
+</td>
+<td>
+<p dir="ltr">제한적(고정 배당금은 시간이 흘러도 잘 오르지 않음)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p dir="ltr"><strong>의결권</strong></p>
+</td>
+<td>
+<p dir="ltr">일반적으로 의결권 있음</p>
+</td>
+<td>
+<p dir="ltr">일반적으로 의결권 없음</p>
+</td>
+</tr>
+<tr>
+<td>
+<p dir="ltr"><strong>시장 환경에 대한 의존성</strong></p>
+</td>
+<td>
+<p dir="ltr">시장 환경에 보다 민감</p>
+</td>
+<td>
+<p dir="ltr">고정 배당금으로 인해 덜 민감. 하지만 저금리 환경에서는 상황이 변할 수 있음</p>
+</td>
+</tr>
+<tr>
+<td>
+<p dir="ltr"><strong>시계열</strong></p>
+</td>
+<td>
+<p dir="ltr">시장 변동성으로 인해 장기 투자에 적합</p>
+</td>
+<td>
+<p dir="ltr">안정적인 수익성으로 인해 단기 투자도 가능</p>
+</td>
+</tr>
+<tr>
+<td>
+<p dir="ltr"><strong>기업결정으로부터 받는 영향</strong></p>
+</td>
+<td>
+<p dir="ltr">인수합병 및 기타 기업결정으로부터 상당한 영향을 받을 수 있음</p>
+</td>
+<td>
+<p dir="ltr">기업결정으로 인한 주가변동 영향을 덜 받지만, 배당금 액수가 위험요인으로 작용할 수 있음</p>
+</td>
+</tr>
+<tr>
+<td>
+<p dir="ltr"><strong>파산</strong></p>
+</td>
+<td>
+<p dir="ltr">기업 파산시에는 부채와 우선주가 먼저 상환되며, 일반주 주주들은 가장 마지막으로 남은 자산을 통해서만 후순위로 보상을 받게 됩니다</p>
+</td>
+<td>
+<p dir="ltr">기업 파산시 우선주 주주들은 일반주 주주들보다 선순위로 보상을 받게 됩니다. 다만 우선주 주주들 또한 부채 상환보다는 후순위입니다</p>
+</td>
+</tr>
+<tr>
+<td>
+<p dir="ltr"><strong>적절성</strong></p>
+</td>
+<td>
+<p dir="ltr">성장을 원하고 보다 큰 리스크에 부담이 없는 투자자들에게 적합</p>
+</td>
+<td>
+<p dir="ltr">적은 리스크로 꾸준한 수익을 내기를 원하는 보수적인 투자자들에게 적합</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p>&nbsp;</p>
+<h2 id="advantages-of-common-stocks" dir="ltr">4. 일반주의 장점</h2>
+<ol type="I">
+<li dir="ltr">
+<h3 dir="ltr">의결권</h3>
+</li>
+</ol>
+<p dir="ltr">일반주 주주들은 연례총회에서 의결권을 지니며, 이사회 선출을 비롯한 기업의 핵심 결정 과정에 영향력을 미칠 수 있습니다.</p>
+<ol start="2" type="I">
+<li dir="ltr">
+<h3 dir="ltr">배당 잠재력</h3>
+</li>
+</ol>
+<p dir="ltr">일반주 주주들에게는 배당금이 보장되지 않지만, 2010년대에 애플은 일반주 주주들에게 상당한 배당금을 지급했던 바 있듯이 일반주 또한 높은 수익 잠재력이 존재합니다.</p>
+<ol start="3" type="I">
+<li dir="ltr">
+<h3 dir="ltr">자본 평가절상</h3>
+</li>
+</ol>
+<p dir="ltr">일반주 주가는 기업의 실적에 따라 상승할 수 있으며, 이는 자본 평가절상으로 이어집니다. 일례로 아마존은 1997년 상장(IPO) 이후로 2020년까지 꾸준히 주가 상승을 이루어냈습니다.</p>
+<p dir="ltr"><img loading="lazy" decoding="async" class="" style="height: 424px; max-width: 100%; width: 821px;" src="https://www.atfx.com/hubfs/ordinary%20shareholders%20rights.webp" alt="ordinary shareholders rights" width="1200" height="620" /></p>
+<p dir="ltr">관련 글 읽어보기: <a href="https://www.atfx.com/ko/analysis/trading-strategies/how-to-pick-a-stock" target="_blank" rel="noopener">주식 선택하는 법</a></p>
+<p>&nbsp;</p>
+<h2 id="disadvantages-of-common-stocks" dir="ltr">5. 일반주의 단점</h2>
+<ol type="I">
+<li dir="ltr">
+<h3 dir="ltr">높은 리스크</h3>
+</li>
+</ol>
+<p dir="ltr">2008년 리먼브라더스 사태 당시 주주들이 겪게 된 손실 사례를 통해 알 수 있듯이, 기업이 청산 과정에 들어가게 되면 기업의 잔여 자산 정리 과정에서 일반주 주주들이 가장 후순위이기 때문에 리스크가 높습니다.</p>
+<ol start="2" type="I">
+<li dir="ltr">
+<h3 dir="ltr">보장되는 배당금 없음</h3>
+</li>
+</ol>
+<p dir="ltr">일반주에는 배당금이 보장되지 않습니다. 또한 2007~2008년 글로벌 금융위기 사태 당시 수많은 기업들이 자본금을 지키기 위해 배당금을 삭감했던 것처럼, 경제적으로 어려운 시기에는 배당컷이 발생할 수 있습니다.</p>
+<p>&nbsp;</p>
+<h2 id="advantages-of-preferred-stocks" dir="ltr">6. 우선주의 장점</h2>
+<ol type="I">
+<li dir="ltr">
+<h3 dir="ltr">고정 배당금</h3>
+</li>
+</ol>
+<p dir="ltr">우선주는 고정 배당금 덕분에 투자자들에게 꾸준한 현금 흐름을 제공합니다. 만약 액면가 $100달러짜리 우선주의 배당률이 5%라면, 이 주식을 보유하면 $5달러의 주당 배당금을 받게 됩니다.</p>
+<ol start="2" type="I">
+<li dir="ltr">
+<h3 dir="ltr">파산 상황 때의 우선권</h3>
+</li>
+</ol>
+<p dir="ltr">기업 파산시 우선주 주주들은 일반주 주주들에 비해 기업 자산에 대한 청구권 우선순위를 지니기 때문에 자금 보호력이 보다 높습니다.</p>
+<ol start="3" type="I">
+<li dir="ltr">
+<h3 dir="ltr">태환력 및 기타 특징</h3>
+</li>
+</ol>
+<p dir="ltr">일부 우선주는 태환력을 지닙니다. 즉, 주주들은 정해진 수량의 우선주 일부를 일반주로 전환할 수 있으며, 이를 통해 고정 배당금 및 잠재적 자본 평가절상 사이의 균형을 조절할 수 있습니다.</p>
+<p dir="ltr"><a href="https://www.atfx.com/ko/trading-accounts/demo-account" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="alignnone wp-image-25093 size-full" src="https://www.atfx.com/wp-content/uploads/2023/10/demo-account-korea.webp" alt="demo account korea" width="825" height="206" srcset="https://www.atfx.com/wp-content/uploads/2023/10/demo-account-korea.webp 825w, https://www.atfx.com/wp-content/uploads/2023/10/demo-account-korea-300x75.webp 300w, https://www.atfx.com/wp-content/uploads/2023/10/demo-account-korea-768x192.webp 768w" sizes="(max-width: 825px) 100vw, 825px" /></a></p>
+<p>&nbsp;</p>
+<h2 id="disadvantages-of-preferred-stocks" dir="ltr">7. 우선주의 단점</h2>
+<ol type="I">
+<li dir="ltr">
+<h3 dir="ltr">제한적인 성장</h3>
+</li>
+</ol>
+<p dir="ltr">우선주는 고정 배당금을 제공하기 때문에 역설적으로 상승 잠재력이 제한적입니다. 기업의 실적이 상당히 증가하더라도, 배당률에는 변화가 없을 수 있습니다.</p>
+<ol start="2" type="I">
+<li dir="ltr">
+<h3 dir="ltr">의결권 없음</h3>
+</li>
+</ol>
+<p dir="ltr">우선주 주주들은 의결권이 없기에, 기업의 성장과 투자에 직접적으로 영향력을 미치는 경영 결정과정에 대한 참여가 제한됩니다.</p>
+<p>&nbsp;</p>
+<h2 id="common-stocks-vs-preferred-stocks-which-to-invest" dir="ltr">8. 일반주 vs 우선주, 어떤 유형에 투자해야 할까요?</h2>
+<ol type="I">
+<li dir="ltr">
+<h3 dir="ltr">일반주는 보통 누가 투자하고, 그 이유는 무엇인가요?</h3>
+</li>
+</ol>
+<p dir="ltr">자본 성장을 원하고 보다 높은 리스크를 감내할 의사가 있는 투자자들이 일반주에 투자를 하곤 합니다. 보통은 부의 축적 단계를 거치고 있는 젊은 투자자들이거나, 높은 리스크 감내수준을 지닌 투자자들이 일반주에 투자합니다.</p>
+<ol start="2" type="I">
+<li dir="ltr">
+<h3 dir="ltr">우선주는 보통 누가 투자하고, 그 이유는 무엇인가요?</h3>
+</li>
+</ol>
+<p dir="ltr">우선주는 꾸준한 수입과 낮은 리스크를 원하는 보수적인 투자자들에게 매력으로 작용합니다. 보통은 안정적인 노후 소득을 원하는 은퇴한 노인들이거나, 낮은 리스크 감내수준을 지닌 투자자들이 우선주에 투자합니다.</p>
+<p dir="ltr"><img loading="lazy" decoding="async" class="" style="height: 425px; max-width: 100%; width: 823px;" src="https://www.atfx.com/hubfs/Investors-risk-tolerance-ordinary-preference-shares.webp" alt="Investors-risk-tolerance-ordinary-preference-shares" width="1200" height="620" /></p>
+<p dir="ltr"><a href="https://www.atfx.com/ko/analysis/trading-strategies/stock-market-investment-beginners-5-insider-tips" target="_blank" rel="noopener">초보자들을 위한 주식시장 투자법 </a>에 대해 알아보세요.</p>
+<p>&nbsp;</p>
+<h2 id="start-trading-stocks-with-us" dir="ltr">9. ATFX와 함께 주식 트레이딩 시작하기</h2>
+<p dir="ltr">우리 ATFX의 <a href="https://www.atfx.com/ko/markets/shares-trading" target="_blank" rel="noopener">주식 트레이딩 </a>플랫폼에 가입하고<a href="https://www.atfx.com/ko/ways-to-trade/cfd-trading" target="_blank" rel="noopener">차액결제거래(CFD)</a>를 이용하세요. CFD는 실제 주식을 보유하지 않고도 시장의 상방 혹은 하방 움직임을 예측해서 수익을 낼 수 있습니다. 여러분은 ATFX의<a href="https://www.atfx.com/ko/trading-accounts/demo-account" target="_blank" rel="noopener">데모 계좌</a>를 통해 현금 투입 리스크 없이도 본인의 전략을 테스트 할 수 있고, 실전 투자를 할 준비가 되셨다면<a href="https://www.atfx.com/ko/trading-accounts/live-account" target="_blank" rel="noopener">라이브 계좌</a>를 통해서도 투자가 가능합니다.</p>
+<p dir="ltr"><a href="https://www.atfx.com/ko/trading-accounts/live-account" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="alignnone wp-image-25089 size-full" src="https://www.atfx.com/wp-content/uploads/2023/10/live-account-korea.webp" alt="live account korea" width="825" height="206" srcset="https://www.atfx.com/wp-content/uploads/2023/10/live-account-korea.webp 825w, https://www.atfx.com/wp-content/uploads/2023/10/live-account-korea-300x75.webp 300w, https://www.atfx.com/wp-content/uploads/2023/10/live-account-korea-768x192.webp 768w" sizes="(max-width: 825px) 100vw, 825px" /></a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

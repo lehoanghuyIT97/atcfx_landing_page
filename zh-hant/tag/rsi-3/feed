@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>RSI Archives - ATFX Global - Official Website</title>
+	<atom:link href="https://www.atfx.com/zh-hant/tag/rsi-3/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Wed, 07 May 2025 04:15:29 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>https://www.atfx.com/wp-content/uploads/2023/06/favicon-150x150.webp</url>
+	<title>RSI Archives - ATFX Global - Official Website</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>交易中的相對強弱指數 (RSI) 是什麼？</title>
+		<link>https://www.atfx.com/zh-hant/analysis/trading-strategies/relative-strength-index</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Wed, 23 Apr 2025 04:39:09 +0000</pubDate>
+				<category><![CDATA[交易策略]]></category>
+		<category><![CDATA[RSI]]></category>
+		<category><![CDATA[RSI trading]]></category>
+		<category><![CDATA[中級交易策略]]></category>
+		<guid isPermaLink="false">https://www.atfx.com/?p=48346</guid>
+
+					<description><![CDATA[相對強弱指數 (RSI) 是一種動量震盪指標，用於衡量近期價格變動的速度和幅度，以識別資產的超買或超賣情況。其 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>相對強弱指數 (RSI) 是一種動量震盪指標，用於衡量近期價格變動的速度和幅度，以識別資產的超買或超賣情況。其範圍從 0 到 100，通常用於發現潛在的反轉點、確認市場趨勢強度以及評估市場趨勢的總體方向，尤其是與<a href="https://www.atfx.com/zh-hant/trading-platforms/metatrader-4/support-resistance-indicator" target="_blank" rel="noopener">支撐位和阻力位</a>結合使用時。</p>
+<p>RSI 最初由 J. Welles Wilder Jr. 於 1978 年創建，現已成為股票、<a href="https://www.atfx.com/zh-hant/markets/forex-trading" target="_blank" rel="noopener">外匯</a>、加密貨幣和<a href="https://www.atfx.com/zh-hant/markets/commodities" target="_blank" rel="noopener">大宗商品</a>等各個市場最廣泛使用的技術指標之一。透過掌握 RSI 交易訊號，交易者可以增強時機把握、改善決策並提高獲利能力。在本文中，我們將探討 RSI 的工作原理以及如何有效地使用它來加強您的交易策略。</p>
+<h2>RSI公式如何計算？</h2>
+<p>RSI 是一個動量振盪器，用於測量價格變動的速度和變化。它是透過比較特定時期（通常為 14 天）內的平均漲幅和跌幅來計算的。它可以幫助交易者確定資產是否超買或超賣。</p>
+<h3><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f9ee.png" alt="🧮" class="wp-smiley" style="height: 1em; max-height: 1em;" /> RSI 公式：</h3>
+<p>RSI = 100 − [100 / (1 + (平均漲幅 / 平均跌幅))]</p>
+<p>分解：</p>
+<ul>
+<li>平均漲幅：在給定期間內價格漲幅的平均值。</li>
+<li>平均跌幅：相同期間內價格平均跌幅。</li>
+</ul>
+<p>RSI 計算公式可協助交易者透過比較價格上漲和價格下跌的幅度來評估資產是上漲趨勢還是下跌趨勢。</p>
+<p><img fetchpriority="high" decoding="async" class="aligncenter size-large wp-image-48912" src="https://www.atfx.com/wp-content/uploads/2025/04/How-is-RSI-Formula-Calculated-TC-1024x529.webp" alt="How-is-RSI-Formula-Calculated-TC" width="800" height="413" srcset="https://www.atfx.com/wp-content/uploads/2025/04/How-is-RSI-Formula-Calculated-TC-1024x529.webp 1024w, https://www.atfx.com/wp-content/uploads/2025/04/How-is-RSI-Formula-Calculated-TC-300x155.webp 300w, https://www.atfx.com/wp-content/uploads/2025/04/How-is-RSI-Formula-Calculated-TC-768x397.webp 768w, https://www.atfx.com/wp-content/uploads/2025/04/How-is-RSI-Formula-Calculated-TC.webp 1200w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<h3><strong><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/23f1.png" alt="⏱" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </strong>根據市場狀況調整 RSI 週期</h3>
+<p>14 個週期的預設 RSI 設定被廣泛使用，因為它平衡了響應性和平滑度。然而，交易者經常會調整週期以更好地適應他們的交易市場。</p>
+<ul>
+<li>RSI 的較短週期（例如 7-9）對價格變化更加敏感，從而發出更快的信號。這通常用於價格快速波動的動盪市場。缺點是，它可能導致對微小波動做出更多錯誤訊號反應，並且交易者可能會過於頻繁地進入和退出交易。</li>
+<li>RSI 的較長週期（例如 21-30）反應性較低，可平滑短期波動。長期交易者或投資者經常使用此設定來關注大宗商品等重要的市場趨勢。缺點是 RSI 對價格變化的反應可能較慢，這意味著交易者可能會錯過早期的趨勢轉變或逆轉。</li>
+</ul>
+<h2>RSI 在交易中的作用</h2>
+<p>RSI 確定資產是否超買或超賣，預示潛在的逆轉。透過測量價格變動的動量，RSI 可以對資產價格走勢的強弱給予指引。</p>
+<p>該指標從 0 移動到 100，關鍵水準為 70（超買）和 30（超賣）。</p>
+<h3><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f680.png" alt="🚀" class="wp-smiley" style="height: 1em; max-height: 1em;" /> RSI 超買狀態（高於 70）：</h3>
+<p>當 RSI 超過 70 時，表示資產超買，可能即將出現回檔或逆轉。這通常與價格達到阻力位同時發生。</p>
+<p><strong><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4cc.png" alt="📌" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 行動：當 RSI 超過 70 時，交易者通常會賣出，因為他們預計市場將在阻力位附近出現回調。</strong></p>
+<p><strong>例子：</strong>如果<a href="https://www.atfx.com/zh-hant/live-chart/eur-usd" target="_blank" rel="noopener">歐元/美元</a>對的 RSI 為 80，則可能表示市場超買，預示價格接近阻力位時可能下跌。</p>
+<p><img decoding="async" class="aligncenter size-large wp-image-48910" src="https://www.atfx.com/wp-content/uploads/2025/04/EUR-USD-TC-1024x887.webp" alt="EUR-USD-TC" width="800" height="693" srcset="https://www.atfx.com/wp-content/uploads/2025/04/EUR-USD-TC-1024x887.webp 1024w, https://www.atfx.com/wp-content/uploads/2025/04/EUR-USD-TC-300x260.webp 300w, https://www.atfx.com/wp-content/uploads/2025/04/EUR-USD-TC-768x666.webp 768w, https://www.atfx.com/wp-content/uploads/2025/04/EUR-USD-TC.webp 1200w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<h3><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4c9.png" alt="📉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> RSI 超賣狀況（低於 30）：</h3>
+<p>當 RSI 跌破 30 時，表示資產超賣，價格可能即將反彈，尤其是在接近支撐位時。</p>
+<p><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4cc.png" alt="📌" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>行動：當 RSI 低於 30 時，交易者通常會尋找買入機會，預期支撐位會出現逆轉。</strong></p>
+<p><strong>例如：</strong>如果<a href="https://www.atfx.com/zh-hant/live-chart/gbp-usd" target="_blank" rel="noopener">英鎊/美元</a>對的 RSI 為 25，則可能意味著英鎊超賣，可能會出現逆轉，並可能從關鍵支撐位反彈。</p>
+<p><img decoding="async" class="aligncenter size-large wp-image-48911" src="https://www.atfx.com/wp-content/uploads/2025/04/GBP-USD-TC-1024x887.webp" alt="GBP-USD-TC" width="800" height="693" srcset="https://www.atfx.com/wp-content/uploads/2025/04/GBP-USD-TC-1024x887.webp 1024w, https://www.atfx.com/wp-content/uploads/2025/04/GBP-USD-TC-300x260.webp 300w, https://www.atfx.com/wp-content/uploads/2025/04/GBP-USD-TC-768x666.webp 768w, https://www.atfx.com/wp-content/uploads/2025/04/GBP-USD-TC.webp 1200w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<h2>RSI 背離：發現趨勢逆轉</h2>
+<p>當資產價格與 RSI 走勢相反時，就會出現 RSI 背離。這是潛在趨勢逆轉的關鍵訊號：</p>
+<h3><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f504.png" alt="🔄" class="wp-smiley" style="height: 1em; max-height: 1em;" />看漲背離</h3>
+<p>當價格創下更低的低點，但 RSI 形成更高的低點時發生。這表明拋售勢頭正在減弱，價格可能出現反轉上漲。</p>
+<p><strong>範例：</strong>如果美元/加幣創下新低，但 RSI 形成更高的低點，則可能出現買入訊號。</p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-large wp-image-48914" src="https://www.atfx.com/wp-content/uploads/2025/04/USD-CAD-TC-1024x887.webp" alt="USD-CAD-TC" width="800" height="693" srcset="https://www.atfx.com/wp-content/uploads/2025/04/USD-CAD-TC-1024x887.webp 1024w, https://www.atfx.com/wp-content/uploads/2025/04/USD-CAD-TC-300x260.webp 300w, https://www.atfx.com/wp-content/uploads/2025/04/USD-CAD-TC-768x666.webp 768w, https://www.atfx.com/wp-content/uploads/2025/04/USD-CAD-TC.webp 1200w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<h3><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f504.png" alt="🔄" class="wp-smiley" style="height: 1em; max-height: 1em;" />看跌背離</h3>
+<p>如果價格創下更高高點，但 RSI 未能創下新高，則表示買入動能減弱並可能出現下行逆轉。</p>
+<p><strong>範例：</strong>如果美元/瑞郎創下新高，但 RSI 顯示更低的高點，則發出賣出訊號。</p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-large wp-image-48915" src="https://www.atfx.com/wp-content/uploads/2025/04/USD-CHF-TC-1024x640.webp" alt="USD-CHF-TC" width="800" height="500" srcset="https://www.atfx.com/wp-content/uploads/2025/04/USD-CHF-TC-1024x640.webp 1024w, https://www.atfx.com/wp-content/uploads/2025/04/USD-CHF-TC-300x188.webp 300w, https://www.atfx.com/wp-content/uploads/2025/04/USD-CHF-TC-768x480.webp 768w, https://www.atfx.com/wp-content/uploads/2025/04/USD-CHF-TC.webp 1200w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<h2>RSI 中心線交叉：辨識趨勢強度</h2>
+<p><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4cd.png" alt="📍" class="wp-smiley" style="height: 1em; max-height: 1em;" />RSI 中心線（50 水平）對於確認現有趨勢的強度至關重要：</p>
+<ul>
+<li>RSI 高於 50：當 RSI 在上升趨勢中保持在 50 水平以上時，它預示著強勁的看漲勢頭，證實價格可能會繼續上漲。</li>
+<li>RSI 低於 50：當 RSI 在下行趨勢中保持在 50 水平以下時，表示看跌勢頭強勁，表明下行趨勢可能會持續。</li>
+</ul>
+<p><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4cd.png" alt="📍" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 50水平的交叉為趨勢的強度提供了額外的確認。例如：</p>
+<ul>
+<li>如果 RSI 從下方突破 50 以上，則可能預示上升趨勢的開始。</li>
+<li>相反，如果 RSI 從上方跌破 50，則可能預示下行趨勢的開始。</li>
+</ul>
+<p><img loading="lazy" decoding="async" class="aligncenter size-large wp-image-48913" src="https://www.atfx.com/wp-content/uploads/2025/04/RSI-50-uptrend-TC-1024x640.webp" alt="RSI-50-uptrend-TC" width="800" height="500" srcset="https://www.atfx.com/wp-content/uploads/2025/04/RSI-50-uptrend-TC-1024x640.webp 1024w, https://www.atfx.com/wp-content/uploads/2025/04/RSI-50-uptrend-TC-300x188.webp 300w, https://www.atfx.com/wp-content/uploads/2025/04/RSI-50-uptrend-TC-768x480.webp 768w, https://www.atfx.com/wp-content/uploads/2025/04/RSI-50-uptrend-TC.webp 1200w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<h2>RSI 交易策略以及如何在您的策略中使用它</h2>
+<p>當與其他技術指標、趨勢分析或市場條件結合時，RSI 交易最有效。以下是一些使用 RSI 的策略：</p>
+<h3><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4cc.png" alt="📌" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 辨識超買/超賣情況：</h3>
+<p>使用 RSI 來偵測資產何時超買或超賣。當 RSI 低於 30（超賣）時買入，當 RSI 高於 70（超買）時賣出。</p>
+<ul>
+<li>RSI 高於 70 = 超買 = 潛在賣出。</li>
+<li>RSI 低於 30 = 超賣 = 潛在買入。</li>
+</ul>
+<h3><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f511.png" alt="🔑" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 發現趨勢逆轉的背離：</h3>
+<p>尋找價格走勢和 RSI 之間的差異，以發現弱化趨勢並預測潛在的逆轉。</p>
+<ul>
+<li>看漲背離：價格創下更低地點，RSI 創更高低點。買入</li>
+<li>看跌背離：價格創下更高高點，RSI 創下更低高點。賣出</li>
+</ul>
+<h3><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/26a1.png" alt="⚡" class="wp-smiley" style="height: 1em; max-height: 1em;" />確認趨勢強度：</h3>
+<p>使用 RSI 來確認當前趨勢的強度。 RSI 讀數高於 50 確認看漲勢頭，而低於 50 的讀數確認看跌勢頭。</p>
+<ul>
+<li>RSI&gt; 50：表示強勁的上升趨勢。</li>
+<li>RSI &lt; 50：表示強勁的下降趨勢。</li>
+</ul>
+<h3><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4dd.png" alt="📝" class="wp-smiley" style="height: 1em; max-height: 1em;" />中心線交叉：</h3>
+<p>RSI 的 50 水準對於確認趨勢的方向和強度至關重要。用它來衡量潛在的買進或賣出訊號。</p>
+<ul>
+<li>突破超過 50：潛在的上升趨勢。</li>
+<li>跌破低於 50：潛在的下降趨勢。</li>
+</ul>
+<h2>不同市場的最佳 RSI 設置</h2>
+<p>RSI 的預設為 14 個週期，但可根據市場條件和交易方式進行調整。</p>
+<table>
+<tbody>
+<tr>
+<td><strong>市場類型</strong></td>
+<td><strong>最佳 RSI 設定</strong></td>
+<td><strong>交易風格</strong></td>
+</tr>
+<tr>
+<td>股票</td>
+<td>14</td>
+<td>波段交易</td>
+</tr>
+<tr>
+<td>外匯</td>
+<td>9或14</td>
+<td>日內和波段交易</td>
+</tr>
+<tr>
+<td>加密貨幣</td>
+<td>7或14</td>
+<td>高波動性</td>
+</tr>
+<tr>
+<td>大宗商品</td>
+<td>10</td>
+<td>趨勢確認</td>
+</tr>
+</tbody>
+</table>
+<p><strong><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4a1.png" alt="💡" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 專業提示：縮短 RSI 設定（例如 7-9 個週期），以便在加密貨幣等波動的市場中更快獲得訊號。</strong></p>
+<h3><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/2699.png" alt="⚙" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 如何在 MetaTrader 4（MT4）中設定 RSI</h3>
+<p>在 MT4 中設定 RSI 簡單快速。請依照以下步驟操作：</p>
+<ol>
+<li>開啟 <a href="https://www.atfx.com/zh-hant/trading-platforms/metatrader-4" target="_blank" rel="noopener">MT4</a> 並選擇您想要使用的圖表。</li>
+<li>點選插入 → 指標 → 振盪器 → 相對強弱指數。</li>
+<li>根據您的策略調整週期（預設為 14）。</li>
+<li>如有需要，修改關鍵水準（30 為超賣，70 為超買）。</li>
+<li>按一下「確定」將 RSI 指標套用到您的圖表。</li>
+</ol>
+<p>現在，您可以使用 RSI 來識別超買或超賣情況，並直接在 MT4 中做出明智的交易決策。</p>
+<p><a href="https://www.atfx.com/zh-hant/trading-platforms/metatrader-4/download-mt4" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="aligncenter wp-image-25078 size-full" src="https://www.atfx.com/wp-content/uploads/2023/10/mt4-download-taiwan.webp" alt="mt4 download taiwan" width="825" height="206" srcset="https://www.atfx.com/wp-content/uploads/2023/10/mt4-download-taiwan.webp 825w, https://www.atfx.com/wp-content/uploads/2023/10/mt4-download-taiwan-300x75.webp 300w, https://www.atfx.com/wp-content/uploads/2023/10/mt4-download-taiwan-768x192.webp 768w" sizes="(max-width: 825px) 100vw, 825px" /></a></p>
+<p>&nbsp;</p>
+<h2>RSI 交易策略建議</h2>
+<ul>
+<li>將 RSI 與其他指標結合：在交易中結合使用 RSI 和其他技術指標（如移動平均線或 MACD）來提高策略的有效性。</li>
+<li>注意極端 RSI 讀數：尋找 RSI 超過極端水平（高於 70 或低於 30）的情況，因為這些情況可能表示潛在的反轉點。</li>
+<li>使用 RSI 進行趨勢分析：如果市場處於強勁趨勢，則可以使用 RSI 來識別趨勢回調，從而提供更有利的切入點。</li>
+</ul>
+<h2>使用 RSI 時應避免的常見錯誤</h2>
+<p>即使是專業交易者也會誤用 RSI，導致錯誤訊號和不必要的損失。以下是需要避免的情況：</p>
+<p><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/274c.png" alt="❌" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 僅依靠 RSI – 始終使用其他指標來確認訊號。</p>
+<p><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/274c.png" alt="❌" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 不檢查市場趨勢－RSI 在橫盤市場中更有效。</p>
+<p><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/274c.png" alt="❌" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 忽略背離訊號－RSI 背離可以提前預測逆轉。</p>
+<p><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/274c.png" alt="❌" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 無需測試即可使用預設 RSI – 根據您的交易風格自訂 RSI 設定。</p>
+<p><strong><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4cc.png" alt="📌" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 專業提示：在進行即時交易之前，請務必在模擬帳戶中回測 RSI 策略。</strong></p>
+<h2>利用 RSI 策略最大化交易潛力</h2>
+<p>為了充分利用 RSI，請使用以下經過驗證的交易策略：</p>
+<p><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/2714.png" alt="✔" class="wp-smiley" style="height: 1em; max-height: 1em;" /> RSI 趨勢策略 – 跟隨 RSI 50 上方/下方的方向。</p>
+<p><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/2714.png" alt="✔" class="wp-smiley" style="height: 1em; max-height: 1em;" /> RSI 反轉策略－基於 RSI 背離進行交易。</p>
+<p><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/2714.png" alt="✔" class="wp-smiley" style="height: 1em; max-height: 1em;" /> RSI 剝頭皮策略－使用 RSI + MACD 進行短期交易。</p>
+<p><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/2714.png" alt="✔" class="wp-smiley" style="height: 1em; max-height: 1em;" /> RSI 和布林通道 – 辨識波動性突破。</p>
+<p><strong><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4cc.png" alt="📌" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 最後提示：在進行即時交易之前，先在模擬帳戶中測試 RSI 策略，以完善您的方法。</strong></p>
+<h2>結論</h2>
+<p>相對強弱指數 (RSI) 是一種強大的工具，可協助交易者識別超買和超賣情況、發現趨勢逆轉以及確認現有趨勢的強度。掌握 RSI 交易並了解其訊號可以增強您的市場分析能力並幫助您做出更明智的交易決策。</p>
+<p>無論您交易的是<a href="https://www.atfx.com/zh-hant/markets/shares-trading" target="_blank" rel="noopener">股票</a>、外匯還是加密貨幣，將 RSI 整合到您的策略中都可以提供有價值的見解並提高您的交易表現。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

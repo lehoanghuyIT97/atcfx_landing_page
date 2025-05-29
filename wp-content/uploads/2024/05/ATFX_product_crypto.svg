@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <g id="icon-product-cryptocurrencies-blue" transform="translate(1364.176 -4072.824)">
+    <rect id="Rectangle_20233" data-name="Rectangle 20233" width="50" height="50" transform="translate(-1364.176 4072.824)" fill="#24282d" opacity="0"></rect>
+    <g id="icon_crypto" transform="translate(-1364 4073)">
+      <path id="Path_73" data-name="Path 73" d="M544.934,248.106a23.905,23.905,0,1,1-23.9,23.9,23.933,23.933,0,0,1,23.9-23.9m0-.92a24.824,24.824,0,1,0,24.824,24.824,24.824,24.824,0,0,0-24.824-24.824Z" transform="translate(-520.11 -247.186)" fill="#24282d"></path>
+      <g id="Group_42" data-name="Group 42" transform="translate(5.536 5.536)">
+        <path id="Path_74" data-name="Path 74" d="M547.288,255.994a18.37,18.37,0,1,1-18.37,18.37,18.392,18.392,0,0,1,18.37-18.37m0-.919a19.289,19.289,0,1,0,19.289,19.289,19.289,19.289,0,0,0-19.289-19.289Z" transform="translate(-527.999 -255.075)" fill="#24282d"></path>
+      </g>
+      <g id="Group_43" data-name="Group 43" transform="translate(23.902 1.845)">
+        <circle id="Ellipse_16" data-name="Ellipse 16" cx="1" cy="1" r="1" transform="translate(-0.078 -0.021)" fill="#24282d"></circle>
+      </g>
+      <g id="Group_44" data-name="Group 44" transform="translate(23.902 45.958)">
+        <circle id="Ellipse_17" data-name="Ellipse 17" cx="0.923" cy="0.923" r="0.923" fill="#24282d"></circle>
+      </g>
+      <g id="Group_45" data-name="Group 45" transform="translate(45.958 23.902)">
+        <circle id="Ellipse_18" data-name="Ellipse 18" cx="0.923" cy="0.923" r="0.923" fill="#24282d"></circle>
+      </g>
+      <g id="Group_46" data-name="Group 46" transform="translate(1.845 23.902)">
+        <circle id="Ellipse_19" data-name="Ellipse 19" cx="1" cy="1" r="1" transform="translate(-0.021 -0.078)" fill="#24282d"></circle>
+      </g>
+      <g id="Group_47" data-name="Group 47" transform="translate(39.503 8.301)">
+        <circle id="Ellipse_20" data-name="Ellipse 20" cx="0.923" cy="0.923" r="0.923" fill="#24282d"></circle>
+      </g>
+      <g id="Group_48" data-name="Group 48" transform="translate(8.301 39.503)">
+        <circle id="Ellipse_21" data-name="Ellipse 21" cx="0.923" cy="0.923" r="0.923" fill="#24282d"></circle>
+      </g>
+      <g id="Group_49" data-name="Group 49" transform="translate(39.503 39.503)">
+        <circle id="Ellipse_22" data-name="Ellipse 22" cx="0.923" cy="0.923" r="0.923" fill="#24282d"></circle>
+      </g>
+      <g id="Group_50" data-name="Group 50" transform="translate(8.301 8.301)">
+        <circle id="Ellipse_23" data-name="Ellipse 23" cx="0.923" cy="0.923" r="0.923" fill="#24282d"></circle>
+      </g>
+      <g id="Group_51" data-name="Group 51" transform="translate(44.087 32.78)">
+        <circle id="Ellipse_24" data-name="Ellipse 24" cx="0.923" cy="0.923" r="0.923" fill="#24282d"></circle>
+      </g>
+      <g id="Group_52" data-name="Group 52" transform="translate(3.717 15.024)">
+        <circle id="Ellipse_25" data-name="Ellipse 25" cx="0.923" cy="0.923" r="0.923" fill="#24282d"></circle>
+      </g>
+      <g id="Group_53" data-name="Group 53" transform="translate(44.45 15.898)">
+        <circle id="Ellipse_26" data-name="Ellipse 26" cx="0.923" cy="0.923" r="0.923" fill="#24282d"></circle>
+      </g>
+      <g id="Group_54" data-name="Group 54" transform="translate(3.354 31.906)">
+        <circle id="Ellipse_27" data-name="Ellipse 27" cx="0.923" cy="0.923" r="0.923" fill="#24282d"></circle>
+      </g>
+      <g id="Group_55" data-name="Group 55" transform="translate(32.78 3.717)">
+        <circle id="Ellipse_28" data-name="Ellipse 28" cx="0.923" cy="0.923" r="0.923" fill="#24282d"></circle>
+      </g>
+      <g id="Group_56" data-name="Group 56" transform="translate(15.024 44.087)">
+        <circle id="Ellipse_29" data-name="Ellipse 29" cx="0.923" cy="0.923" r="0.923" fill="#24282d"></circle>
+      </g>
+      <g id="Group_57" data-name="Group 57" transform="translate(15.898 3.354)">
+        <circle id="Ellipse_30" data-name="Ellipse 30" cx="0.923" cy="0.923" r="0.923" fill="#24282d"></circle>
+      </g>
+      <g id="Group_58" data-name="Group 58" transform="translate(31.906 44.45)">
+        <circle id="Ellipse_31" data-name="Ellipse 31" cx="0.923" cy="0.923" r="0.923" fill="#24282d"></circle>
+      </g>
+      <path id="Path_75" data-name="Path 75" d="M558.934,276.438l-.514-.307.43-.415a5.22,5.22,0,0,0,1.622-3.729c0-2.351-1.73-5.042-5.529-5.392l-1.54,0v-2.046a.958.958,0,0,0-.951-.93.918.918,0,0,0-.663.277.875.875,0,0,0-.252.641v2.366l-2.161,0v-2.26a.971.971,0,0,0-.737-.962.945.945,0,0,0-.786.19.929.929,0,0,0-.343.72v2.315h-2.29a1.045,1.045,0,0,0-.738.306.911.911,0,0,0,.556,1.547h2.472v16.615H545.14a.978.978,0,0,0-1,.843.93.93,0,0,0,.93,1.011h2.443v2.254a.971.971,0,0,0,.737.962.934.934,0,0,0,1.129-.911v-2.306h2.161v2.3a.962.962,0,0,0,.735.961.925.925,0,0,0,.777-.186.954.954,0,0,0,.354-.745v-2.334l2.73-.014a5.891,5.891,0,0,0,5.6-5.846A5.627,5.627,0,0,0,558.934,276.438Zm-9.247-7.679h4.992c2.561.231,3.689,1.865,3.689,3.384s-1.119,3.151-3.616,3.38l-4.6,0h-.461ZM555.9,285.37l-.024,0h-6.191v-7.689h6.15a3.844,3.844,0,0,1,.065,7.687Z" transform="translate(-527.367 -252.089)" fill="#24282d"></path>
+    </g>
+  </g>
+</svg>

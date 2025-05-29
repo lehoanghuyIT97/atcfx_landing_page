@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>UK 100 Archives - ATFX Global - Official Website</title>
+	<atom:link href="https://www.atfx.com/zh-hant/tag/uk-100/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Thu, 07 Mar 2024 09:25:29 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>https://www.atfx.com/wp-content/uploads/2023/06/favicon-150x150.webp</url>
+	<title>UK 100 Archives - ATFX Global - Official Website</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>財政大臣公佈預算案：對英國股市意味著什麼</title>
+		<link>https://www.atfx.com/zh-hant/analysis/market-news/chancellors-budget-unveiled-what-it-means-for-uk-stocks</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Thu, 07 Mar 2024 09:25:29 +0000</pubDate>
+				<category><![CDATA[市場新聞及觀點]]></category>
+		<category><![CDATA[FTSE 100]]></category>
+		<category><![CDATA[UK 100]]></category>
+		<category><![CDATA[最近的新聞]]></category>
+		<guid isPermaLink="false">https://www.atfx.com/?p=30614</guid>
+
+					<description><![CDATA[英國股市週三受到關注，因英國財政大臣亨特發表春季預算報告，其中包括促進金融中心倫敦金融城投資的措施。 UK10 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><a href="https://www.atfx.com/zh-hant/markets/shares-trading" target="_blank" rel="noopener">英國股市</a>週三受到關注，因英國財政大臣亨特發表春季預算報告，其中包括促進金融中心倫敦金融城投資的措施。</p>
+<p style="text-align: center;"><img fetchpriority="high" decoding="async" class="size-full wp-image-30563 aligncenter" src="https://www.atfx.com/wp-content/uploads/2024/03/UK100-Daily-Chart.jpg" alt="UK100-Daily-Chart" width="730" height="615" srcset="https://www.atfx.com/wp-content/uploads/2024/03/UK100-Daily-Chart.jpg 730w, https://www.atfx.com/wp-content/uploads/2024/03/UK100-Daily-Chart-300x253.jpg 300w" sizes="(max-width: 730px) 100vw, 730px" /></p>
+<p style="text-align: center;">UK100日圖</p>
+<p>英國富時100指數(FTSE 100)小幅收高，但市場陷入了一個區間，自2023年12月以來一直處於7750點的阻力位。</p>
+<p>富時100指數在亨特英國午間演講後相對穩定，顯示投資者不會感到重大意外。</p>
+<p>亨特的預算案包括英國個人儲蓄帳戶(ISA)計劃，當投資者用完目前每年2萬英鎊的限額後，他們將獲得額外的5000英鎊免稅補貼，用於專門投資英國公司。</p>
+<p>儲蓄和投資專家對新措施的反應不一，有些人認為，新措施對倫敦金融城的影響有限，因為它是在幫助富有的投資者。 然而，新的ISA有可能推動新的資本流向英國公司，包括中小型股公司。</p>
+<p>投資協會執行長Chris Cummings表示，該措施可能會鼓勵人們放棄分散投資。</p>
+<p>財政大臣的預算是安全的，不太可能給全球市場帶來任何影響，但傑里米·亨特講話中謹慎樂觀的語氣幫助提振了英鎊。</p>
+<p>富時指數與美國股市的表現對比在股價走勢圖上很明顯，令人擔憂的是，在市場樂觀的時候，市場卻表現出如此疲軟。 由於全球大品牌集中在美國指數中，美國股市走高。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

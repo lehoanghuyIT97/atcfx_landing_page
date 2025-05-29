@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="34.937" height="34.937" viewBox="151.425 108.082 34.937 34.937">
+  <g data-name="Group 21493" transform="translate(156.393 111.628)" clip-path="url(&quot;#a&quot;)">
+    <path d="M29.968 13.922c0 9.648-7.82 17.469-17.468 17.469S-4.968 23.57-4.968 13.922c0-9.647 7.82-17.468 17.468-17.468s17.468 7.82 17.468 17.468" fill="#e1e1e1" fill-rule="evenodd" data-name="Path 42960"></path>
+    <path d="M18.276 9.718a5.776 5.776 0 1 0-11.552 0 5.776 5.776 0 0 0 11.552 0" fill="#a0a0a0" fill-rule="evenodd" data-name="Path 42961"></path>
+    <path d="M17.683 16.739h-.034L12.5 25.657 7.363 16.76a5.18 5.18 0 0 0-4.767 5.162v3.261c0 1.057.865 1.922 1.921 1.922h16.428a1.927 1.927 0 0 0 1.921-1.921V21.922a5.183 5.183 0 0 0-5.183-5.183" fill="#353534" fill-rule="evenodd" data-name="Path 42962"></path>
+    <path d="M14.728 16.739h-4.456l1.547 2.413-.635 4.225 1.316 2.28 1.316-2.28-.635-4.225 1.547-2.413Z" fill="#a0a0a0" fill-rule="evenodd" data-name="Path 42963"></path>
+    <path d="M10.272 16.739H7.779c-.14 0-.278.01-.416.02l3.821 6.618.635-4.225-1.547-2.413Z" fill="#ebebeb" fill-rule="evenodd" data-name="Path 42964"></path>
+    <path d="m14.728 16.739-1.547 2.413.635 4.225 3.833-6.638h-2.921Z" fill="#ebebeb" fill-rule="evenodd" data-name="Path 42965"></path>
+  </g>
+  <defs>
+    <clipPath id="a">
+      <path d="M156.393 124.128c0 6.904 5.596 12.5 12.5 12.5s12.5-5.596 12.5-12.5-5.596-12.5-12.5-12.5-12.5 5.596-12.5 12.5" data-name="Path 42966" transform="translate(-156.393 -111.628)"></path>
+    </clipPath>
+  </defs>
+</svg>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>S&amp;P 500 Archives - ATFX Global - Official Website</title>
+	<atom:link href="https://www.atfx.com/zh-hans/tag/sp-500/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Oct 2024 19:35:54 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>https://www.atfx.com/wp-content/uploads/2023/06/favicon-150x150.webp</url>
+	<title>S&amp;P 500 Archives - ATFX Global - Official Website</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>尽管美国股市周四上涨，但仍面临阻力</title>
+		<link>https://www.atfx.com/zh-hans/analysis/market-news/us-stocks-resistance-despite-thursday-gain</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Thu, 17 Oct 2024 18:51:29 +0000</pubDate>
+				<category><![CDATA[市场新闻及观点]]></category>
+		<category><![CDATA[S&P 500]]></category>
+		<category><![CDATA[最近的新闻]]></category>
+		<guid isPermaLink="false">https://www.atfx.com/?p=41833</guid>
+
+					<description><![CDATA[美国股市周四走高，但未能突破近期的历史高点。 标准普尔500-日线图 标准普尔500指数在5,882点再次遇到 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><a href="/zh-hans/markets/shares-trading" target="_blank" rel="noopener"><span style="font-weight: 400;">美国股市</span></a><span style="font-weight: 400;">周四走高，但未能突破近期的历史高点。</span></p>
+<p><img fetchpriority="high" decoding="async" class="aligncenter size-full wp-image-41821" src="https://www.atfx.com/wp-content/uploads/2024/10/SP-500-–-Daily-Chart-1.png" alt="SP 500 – Daily Chart" width="967" height="588" srcset="https://www.atfx.com/wp-content/uploads/2024/10/SP-500-–-Daily-Chart-1.png 967w, https://www.atfx.com/wp-content/uploads/2024/10/SP-500-–-Daily-Chart-1-300x182.png 300w, https://www.atfx.com/wp-content/uploads/2024/10/SP-500-–-Daily-Chart-1-768x467.png 768w" sizes="(max-width: 967px) 100vw, 967px" /></p>
+<p style="text-align: center;"><span style="font-weight: 400; font-size: 10pt;">标准普尔500-日线图</span></p>
+<p><a href="/zh-hans/live-chart/sp500" target="_blank" rel="noopener"><span style="font-weight: 400;">标准普尔500指数</span></a><span style="font-weight: 400;">在5,882点再次遇到阻力，这可能引发潜在的回调。第一个支撑位在5784点，进一步的水平在5680点。</span></p>
+<p><span style="font-weight: 400;">芯片股的上涨推动市场触及新高，台积电公布第三季度净利润增长54%好于预期，并上调了2024年的目标，缓解了对芯片需求的担忧。强于预期的上周初请失业金人数和零售销售数据也支撑了市场，改善了经济软着陆的前景。</span></p>
+<p><span style="font-weight: 400;">每周首次申请失业救济人数意外减少1.9万人，至24.1万人，表明劳动力市场强于预期的增长至25.9万人。美国9月零售销售环比增长0.4%，强于0.3%的预期。</span></p>
+<p><span style="font-weight: 400;">中东紧张局势继续成为股市的负面因素，市场开始消化特朗普取得决定性胜利，即将到来的美国大选带来了波动风险。</span></p>
+<p><span style="font-weight: 400;">据Bloomberg Intelligence称，进一步的第三季度收益可能会决定股市的近期走势，标准普尔500指数成分股公司预计将报告平均较上年同期增长4.3%，低于7月份预测的7.9%。市场目前认为，美联储11月降息25个基点的可能性为92%。</span></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

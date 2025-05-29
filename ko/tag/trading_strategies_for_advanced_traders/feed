@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>거래전략-고급 Archives - ATFX Global - Official Website</title>
+	<atom:link href="https://www.atfx.com/ko/tag/trading_strategies_for_advanced_traders/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Fri, 17 Dec 2021 04:50:00 +0000</lastBuildDate>
+	<language>ko-KR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>https://www.atfx.com/wp-content/uploads/2023/06/favicon-150x150.webp</url>
+	<title>거래전략-고급 Archives - ATFX Global - Official Website</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>FX 트레이더들이 캔들스틱 차트를  환율 추세분석에 활용하는 방법</title>
+		<link>https://www.atfx.com/ko/analysis/trading-strategies/how-forex-traders-use-candlestick-charts-to-analyze-forex-trends</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Fri, 17 Dec 2021 04:50:00 +0000</pubDate>
+				<category><![CDATA[트레이딩 전략]]></category>
+		<category><![CDATA[거래전략-고급]]></category>
+		<guid isPermaLink="false">https://lptemplatedev.wpengine.com/uncategorized/how-forex-traders-use-candlestick-charts-to-analyze-forex-trends-2</guid>
+
+					<description><![CDATA[캔들라인 분석이라고도 불리는 ‘캔들스틱 차트’는 기초적인 기술적 분석의 일환으로, 손쉽게 이해하고 배울 수 있으며 주로 단기 트레이딩에 활용됩니다. 캔들차트는 지속적인 트레이딩 시그널, 소규모 수익/손실, 꾸준한 거래 등의 특징으로 대표됩니다. 물론 여기서 말하는 ‘꾸준한 거래’라 함은 지속적인 수익 혹은 손실을 꾸준히 만들어나가는 것을 의미합니다.&#160; 캔들차트 분석이 실제 트레이딩 시장에 적용될 수 있느냐 마느냐를 따지려면 과거에 트레이더들이 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p style="text-align: justify">캔들라인 분석이라고도 불리는 ‘캔들스틱 차트’는 기초적인 기술적 분석의 일환으로, 손쉽게 이해하고 배울 수 있으며 주로<a href="/en/analysis/trading-strategies/which-varieties-are-most-suitable-for-short-term-trading-beginners-trading-guide-by-atfx" rel="noopener" target="_blank"> <span style="text-decoration: underline">단기 트레이딩</span></a>에 활용됩니다. 캔들차트는 지속적인 트레이딩 시그널, 소규모 수익/손실, 꾸준한 거래 등의 특징으로 대표됩니다. 물론 여기서 말하는 ‘꾸준한 거래’라 함은 지속적인 수익 혹은 손실을 꾸준히 만들어나가는 것을 의미합니다.&nbsp;</p>
+<p><span id="more-10517"></span></p>
+<p style="text-align: justify">캔들차트 분석이 실제<a href="/ko/markets" rel="noopener" target="_blank"> 트레이딩 시장</a>에 적용될 수 있느냐 마느냐를 따지려면 과거에 트레이더들이 역사적으로 얼마나 실험을 많이 했는지, 혹은 캔들 매매법의 승률(수익 비율:손실 비율)이 어떻게 되는지를 따질 게 아니라, 캔들차트 분석이 시장의 근본적인 작동 원리와 궤를 같이한다는 점을 고려하면 되겠습니다.&nbsp;</p>
+<p style="text-align: justify"><a href="/ko/markets/forex-trading" rel="noopener" target="_blank">외환 트레이딩</a> 업계에서 성과를 내고 싶은 투자자들은 외환 추세 분석을 반드시 이해n할 줄 알아야 합니다. 환율추세를 분석하기 위해서는 캔들차트를 보조도구로 활용하여야 합니다. 캔들차트는 투자자들 중 누군가에겐 분명 성공적인 트레이딩을 위한 열쇠 역할을 해 줍니다. 그렇다면 과연 어떻게 하면 캔들차트를 통해 환율 추세를 효과적으로 분석할 수 있을까요?&nbsp;</p>
+<p style="text-align: justify"><img decoding="async" src="https://www.atfx.com/hubfs/ATFX-candlestick-chart-trading.jpg?width=1200&amp;name=ATFX-candlestick-chart-trading.jpg" alt="ATFX-candlestick-chart-trading" loading="lazy"></p>
+<p style="text-align: justify">첫째, 기초적인 외환 캔들차트 형태를 숙지해야 합니다. 환율시장에서 캔들라인 차트는 매일매일 변화하지만, 면밀히 관찰하면 일부 차트들은 근본적으로 동일하다는 사실을 발견할 수 있습니다. 수많은 관측과 요약 이후 전문가들은 주축 추세, 교차 추세 등 여러 전형적인 패턴을 제시했습니다. 이러한 전형적인 추세 그래프는 고유의 특징을 지니며, 투자자들은 이러한 추세 그래프를 배우고 숙달해야만 합니다. 투자자들은 캔들라인 심층분석, 간단패턴 등을 숙지하고, 거기에서 더 나아가 보다 복잡한 추세 그래프를 분석할 줄 알아야 합니다.&nbsp;</p>
+<p style="text-align: justify">둘째, 각 추세선을 심도있게 분석하고 이 추세의 근본 원인을 파악해야 합니다. 환율추세 캔들라인은 서로 다른 선으로 구성되어 있습니다. 각 선은 다음에 이어지는 추세에 영향을 미칠 수 있습니다. 그 와중에 투자자들은 각 추세선의 특징을 이해해야만 합니다. 각 추세가 형성된 데에는 고유의 이유가 있으며, 이를 분석하는 것은 필수입니다. 이를테면 어떤 선이 왜 갑자기 사라졌는지, 왜 나타났는지, 왜 모멘텀이 매우 느린지, 주요 금융시장 이벤트 혹은 <a href="/ko/analysis/market-news" rel="noopener" target="_blank">시장 소식</a>이 왜 발생했는지를 파악하고 이에 대한 분석법을 발전시켜야 합니다. 기나긴 시간이 흐른 뒤, 트레이더들은 환율 캔들라인 차트를 심도있게 분석하는 법을 자연스럽게 터득하게 될 것입니다.</p>
+<p style="text-align: justify">셋째, 캔들스틱 차트 분석에 <a href="/ko/education-and-tools" rel="noopener" target="_blank">트레이딩 툴</a>을 활용하는 법을 학습하는 것입니다. 외환거래를 틈틈이 하는 트레이더라면 환율 캔들라인 차트에 수많은 선들이 존재한다는 사실을 압니다. 그 수많은 선들은 서로 다른 의미를 지닙니다. 한편, 투자자들은 추세분석을 위해 스스로 보조선을 그릴 수도 있습니다. 한 눈에 추세를 파악하기 쉽게 말이죠. 물론 추세선을 그려주는 전문 분석 소프트웨어도 존재하기 때문에, 투자자들은 각자의 실제 상황을 고려해 이를 활용할 수도 있습니다.</p>
+<p style="text-align: justify">&nbsp;또한, 만일 투자자들이 환율추세 캔들라인 차트를 보다 심도있는 수준으로 분석해 내면의 비밀을 찾아내는 수준에 이르게 된다면, 이후에는 장기적 관점을 취하는 법을 학습하여 지금 당장 눈앞에 펼쳐지는 현재의 추세에 집착하지 않는 법을 익혀야 합니다. 거시적 분석을 익히고, 이에 따른 <a href="/ko/analysis/trading-strategies" rel="noopener" target="_blank">트레이딩 전략</a>을 세워야 합니다.</p>
+<p style="text-align: justify"><img decoding="async" src="https://www.atfx.com/hubfs/ATFX-candlestick-chart-forex.jpg?width=1200&amp;name=ATFX-candlestick-chart-forex.jpg" alt="ATFX-candlestick-chart-forex" loading="lazy"></p>
+<h2 style="text-align: justify">&nbsp;캔들스틱을 통해 상승과 하락을 보는 법</h2>
+<p style="text-align: justify">캔들라인 차트는 최고의 기술적 분석 툴입니다. 같은 캔들라인 차트를 보더라도 투자자들의 견해는 제각각이므로, <a href="/ko/ways-to-trade" rel="noopener" target="_blank">트레이딩 방법</a>도 가지각색입니다. 서로 다른 수많은 결과를 분석해 보면 결국에는 수익 아니면 손실로 귀결되기는 하지만 말이죠.</p>
+<p style="text-align: justify">캔들라인 차트를 파악하는 비결은 다음과 같습니다: 먼저 음양을 파악하고, 이어서 엔티티, 마지막으로 그림자선을 파악하면 됩니다.</p>
+<h3 style="text-align: justify">1. 음양 파악하기&nbsp;</h3>
+<p style="text-align: justify">‘음양’은 롱/숏 추세방향을 나타냅니다. ‘양’은 현재 시장이 상방추세를 보이고 있으며 지속 상승을 할 가능성을 나타냅니다. 반면 ‘음’은 현재 시장이 하방추세를 보이고 있으며 지속 하락을 할 가능성을 나타냅니다. 양봉을 예로 들면, 하루 동안 이런저런 롱·숏 트레이딩이 진행되고 나서 마감된 종가가 시초가보다 높으면 이는 상방추세가 우위에 있음을 의미하며, 이에 따라 이후에도 양봉이 지속 형성될 가능성이 있음을 보여줍니다.</p>
+<h3 style="text-align: justify">2. 엔티티 확인하기&nbsp;</h3>
+<p style="text-align: justify">여기서 ‘엔티티’라 함은 캔들라인의 종가와 시초가 사이의 차액을 의미합니다. 차액이 크면 클수록 강한 캔들라인을 의미합니다. 따라서 트레이딩을 하는 데 있어 물리적으로 규모가 큰 캔들라인 차트를 선택하시기 바랍니다. 이를테면 크기가 큰 음양처럼 말이죠. 장대양봉을 활용하면 트레이딩 성공 가능성이 높아짐을 의미하며, 트레이더들은 이를 통해 트레이딩에서의 리스크 관리를 학습할 수 있습니다.&nbsp;</p>
+<h3 style="text-align: justify">3. 그림자선 살펴보기</h3>
+<p style="text-align: justify">여기서 ‘그림자선’이라 함은 캔들스틱의 저고점, 혹은 최저점과 종가 사이의 차액을 나타내는 선입니다. 예를 들어, 상단 그림자선은 최고점과 종가 사이의 차액을 의미합니다. 최고점과 종가 사이의 갭이 적으면 적을수록 상단 그림자선이 길게 형성됨을 의미하고, 그말인즉슨 상방압력 그림자가 과하게 형성됨을 의미합니다. 이런 시기에는 매수를 하거나, 숏매도를 하는 게 이득입니다. 하단 그림자선이라 함은 캔들스틱 최저점과 종가 사이의 차액을 의미합니다. 하단 그림자선이 길면 길수록 하방추세가 막혀있음을 의미하며, 상방 카운터상승이 강해질 수 있음을 의미합니다. 따라서, 만일 캔들스틱의 상단 그림자선이 너무 길게 형성되어 있을 경우에는 롱포지션을 잡지 않는 것이 좋습니다. 만일 하단 그림자선이 너무 길다 싶으면 숏을 치지 않는 것이 좋습니다.</p>
+<p style="text-align: justify">&nbsp;</p>
+<p style="text-align: justify">캔들라인을 활용하면 상승장과 하락장을 뚜렷하게 판단하기가 매우 용이해집니다. 캔들라인 분석은 매우 간단하면서도 직관적이지만, 반면에 리스크 또한 분명 존재합니다. 무엇이든 항상 100% 맞아떨어지라는 법은 없으니까요. 따라서 투자자들은 분명한 방향성을 탑재해야만 합니다. 트레이딩에 있어서는 때로는 손절을 할 줄도 알아야 하며, 국제시장에서의 상방추세도 신중히 지켜볼 줄 알아야 합니다. 만약 시장이 엄청나게 격변한다면 시의적절한 대응을 취하는 전략 또한 필요합니다.</p>
+<p style="text-align: justify">&nbsp;</p>
+<p style="text-align: justify"><a href="/ko/trading-platforms/metatrader-4/download-mt4" rel="noopener" target="_blank">메타트레이더4를 다운로드</a>하거나<a href="/ko/trading-accounts/demo-account" rel="noopener" target="_blank"> 데모 트레이딩 계좌</a>를 개설해 지금 바로 트레이딩을 시작해보세요!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

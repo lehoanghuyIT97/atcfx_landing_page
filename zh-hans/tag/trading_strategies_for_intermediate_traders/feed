@@ -1,0 +1,866 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>中级交易策略 Archives - ATFX Global - Official Website</title>
+	<atom:link href="https://www.atfx.com/zh-hans/tag/trading_strategies_for_intermediate_traders/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Wed, 07 May 2025 04:15:06 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>https://www.atfx.com/wp-content/uploads/2023/06/favicon-150x150.webp</url>
+	<title>中级交易策略 Archives - ATFX Global - Official Website</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>交易中的相对强弱指数 (RSI) 是什么？</title>
+		<link>https://www.atfx.com/zh-hans/analysis/trading-strategies/relative-strength-index</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Wed, 23 Apr 2025 03:57:35 +0000</pubDate>
+				<category><![CDATA[交易策略]]></category>
+		<category><![CDATA[RSI]]></category>
+		<category><![CDATA[RSI trading]]></category>
+		<category><![CDATA[中级交易策略]]></category>
+		<guid isPermaLink="false">https://www.atfx.com/?p=48344</guid>
+
+					<description><![CDATA[相对强弱指数 (RSI) 是一种动量震荡指标，用于衡量近期价格变动的速度和幅度，以识别资产的超买或超卖情况。其 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>相对强弱指数 (RSI) 是一种动量震荡指标，用于衡量近期价格变动的速度和幅度，以识别资产的超买或超卖情况。其范围从 0 到 100，通常用于发现潜在的反转点、确认市场趋势强度以及评估市场趋势的总体方向，尤其是与<a href="https://www.atfx.com/zh-hans/trading-platforms/metatrader-4/support-resistance-indicator" target="_blank" rel="noopener">支撑位和阻力</a>位结合使用时。</p>
+<p>RSI 最初由 J. Welles Wilder Jr. 于 1978 年创建，现已成为股票、<a href="https://www.atfx.com/zh-hans/markets/forex-trading" target="_blank" rel="noopener">外汇</a>、加密货币和<a href="https://www.atfx.com/zh-hans/markets/commodities" target="_blank" rel="noopener">大宗商品</a>等各个市场最广泛使用的技术指标之一。通过掌握 RSI 交易信号，交易者可以增强时机把握、改善决策并提高盈利能力。在本文中，我们将探讨 RSI 的工作原理以及如何有效地使用它来加强您的交易策略。</p>
+<h2>RSI公式如何计算？</h2>
+<p>RSI 是一个动量振荡器，用于测量价格变动的速度和变化。它是通过比较特定时期（通常为 14 天）内的平均涨幅和跌幅来计算的。它可以帮助交易者确定资产是否超买或超卖。</p>
+<h3><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f9ee.png" alt="🧮" class="wp-smiley" style="height: 1em; max-height: 1em;" /> RSI 公式：</h3>
+<p>RSI = 100 − [100 / (1 + (平均涨幅 / 平均跌幅))]</p>
+<p>分解：</p>
+<ul>
+<li>平均涨幅：给定期间内价格涨幅的平均值。</li>
+<li>平均跌幅：相同期间内价格平均跌幅。</li>
+</ul>
+<p><img fetchpriority="high" decoding="async" class="aligncenter size-large wp-image-48905" src="https://www.atfx.com/wp-content/uploads/2025/04/How-is-RSI-Formula-Calculated-SC-1024x529.webp" alt="How-is-RSI-Formula-Calculated-SC" width="800" height="413" srcset="https://www.atfx.com/wp-content/uploads/2025/04/How-is-RSI-Formula-Calculated-SC-1024x529.webp 1024w, https://www.atfx.com/wp-content/uploads/2025/04/How-is-RSI-Formula-Calculated-SC-300x155.webp 300w, https://www.atfx.com/wp-content/uploads/2025/04/How-is-RSI-Formula-Calculated-SC-768x397.webp 768w, https://www.atfx.com/wp-content/uploads/2025/04/How-is-RSI-Formula-Calculated-SC.webp 1200w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<p>RSI 计算公式可帮助交易者通过比较价格上涨和价格下跌的幅度来评估资产是上涨趋势还是下跌趋势。</p>
+<h3><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/23f1.png" alt="⏱" class="wp-smiley" style="height: 1em; max-height: 1em;" />根据市场情况调整 RSI 周期</h3>
+<p>14 个周期的默认 RSI 设置被广泛使用，因为它平衡了响应性和平滑度。然而，交易者经常会调整周期以更好地适应他们的交易市场。</p>
+<ul>
+<li>RSI 的较短周期（例如 7-9）对价格变化更加敏感，从而发出更快的信号。这通常用于价格快速波动的动荡市场。缺点是，它可能导致对微小波动做出更多错误信号反应，并且交易者可能会过于频繁地进入和退出交易。</li>
+<li>RSI 的较长周期（例如 21-30）反应性较低，可平滑短期波动。长期交易者或投资者经常使用此设置来关注大宗商品等重要的市场趋势。缺点是 RSI 对价格变化的反应可能较慢，这意味着交易者可能会错过早期的趋势转变或逆转。</li>
+</ul>
+<h2>RSI 在交易中的作用</h2>
+<p>RSI 确定资产是否超买或超卖，预示潜在的逆转。通过测量价格变化的动量，RSI 可以对资产价格走势的强弱给出指导。</p>
+<p>该指标从 0 移动到 100，关键水平为 70（超买）和 30（超卖）。</p>
+<h3><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f680.png" alt="🚀" class="wp-smiley" style="height: 1em; max-height: 1em;" /> RSI 超买状态（高于 70）：</h3>
+<p>当 RSI 超过 70 时，表明资产超买，可能即将出现回调或逆转。这通常与价格达到阻力位同时发生。</p>
+<p><strong><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4cc.png" alt="📌" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 行动：当 RSI 超过 70 时，交易者通常会卖出，因为他们预计市场将在阻力位附近出现回调。</strong></p>
+<p><strong>例子：</strong>如果<a href="https://www.atfx.com/zh-hans/live-chart/eur-usd" target="_blank" rel="noopener">欧元/美元</a>对的 RSI 为 80，则可能表明市场超买，预示着价格接近阻力位时可能下跌。</p>
+<p><img decoding="async" class="aligncenter size-large wp-image-48903" src="https://www.atfx.com/wp-content/uploads/2025/04/EUR-USD-SC-1024x887.webp" alt="EUR-USD-SC" width="800" height="693" srcset="https://www.atfx.com/wp-content/uploads/2025/04/EUR-USD-SC-1024x887.webp 1024w, https://www.atfx.com/wp-content/uploads/2025/04/EUR-USD-SC-300x260.webp 300w, https://www.atfx.com/wp-content/uploads/2025/04/EUR-USD-SC-768x666.webp 768w, https://www.atfx.com/wp-content/uploads/2025/04/EUR-USD-SC.webp 1200w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<h3><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4c9.png" alt="📉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> RSI 超卖状况（低于 30）：</h3>
+<p>当 RSI 跌破 30 时，表明资产超卖，价格可能即将反弹，尤其是在接近支撑位时。</p>
+<p><strong><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4cc.png" alt="📌" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </strong><strong>行动：当 RSI 低于 30 时，交易者通常会寻找买入机会，预期支撑位会出现逆转。</strong></p>
+<p><strong>例子：</strong>如果<a href="https://www.atfx.com/zh-hans/live-chart/gbp-usd" target="_blank" rel="noopener">英镑/美元</a>对的 RSI 为 25，则可能意味着英镑超卖，可能会出现逆转，并可能从关键支撑位反弹。</p>
+<p><img decoding="async" class="aligncenter size-large wp-image-48904" src="https://www.atfx.com/wp-content/uploads/2025/04/GBP-USD-SC-1024x887.webp" alt="GBP-USD-SC" width="800" height="693" srcset="https://www.atfx.com/wp-content/uploads/2025/04/GBP-USD-SC-1024x887.webp 1024w, https://www.atfx.com/wp-content/uploads/2025/04/GBP-USD-SC-300x260.webp 300w, https://www.atfx.com/wp-content/uploads/2025/04/GBP-USD-SC-768x666.webp 768w, https://www.atfx.com/wp-content/uploads/2025/04/GBP-USD-SC.webp 1200w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<h2>RSI 背离：发现趋势逆转</h2>
+<p>当资产价格与 RSI 走势相反时，就会出现 RSI 背离。这是潜在趋势逆转的关键信号：</p>
+<h3><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f504.png" alt="🔄" class="wp-smiley" style="height: 1em; max-height: 1em;" />看涨背离</h3>
+<p>当价格创下更低的低点，但 RSI 形成更高的低点时发生。这表明抛售势头正在减弱，价格可能出现反转上涨。</p>
+<p><strong>例子：</strong>如果美元/加元创下新低，但 RSI 形成更高的低点，则可能出现买入信号。</p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-large wp-image-48907" src="https://www.atfx.com/wp-content/uploads/2025/04/USD-CAD-SC-1024x887.webp" alt="USD-CAD-SC" width="800" height="693" srcset="https://www.atfx.com/wp-content/uploads/2025/04/USD-CAD-SC-1024x887.webp 1024w, https://www.atfx.com/wp-content/uploads/2025/04/USD-CAD-SC-300x260.webp 300w, https://www.atfx.com/wp-content/uploads/2025/04/USD-CAD-SC-768x666.webp 768w, https://www.atfx.com/wp-content/uploads/2025/04/USD-CAD-SC.webp 1200w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<h3><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f504.png" alt="🔄" class="wp-smiley" style="height: 1em; max-height: 1em;" />看跌背离</h3>
+<p>如果价格创下更高高点，但 RSI 未能创下新高，则表明买入势头减弱并可能出现下行逆转。</p>
+<p><strong>例子：</strong>如果美元/瑞郎创下新高，但 RSI 显示出更低的高点，则发出卖出信号。</p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-large wp-image-48908" src="https://www.atfx.com/wp-content/uploads/2025/04/USD-CHF-SC-1024x640.webp" alt="USD-CHF-SC" width="800" height="500" srcset="https://www.atfx.com/wp-content/uploads/2025/04/USD-CHF-SC-1024x640.webp 1024w, https://www.atfx.com/wp-content/uploads/2025/04/USD-CHF-SC-300x188.webp 300w, https://www.atfx.com/wp-content/uploads/2025/04/USD-CHF-SC-768x480.webp 768w, https://www.atfx.com/wp-content/uploads/2025/04/USD-CHF-SC.webp 1200w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<h2>RSI 中心线交叉：识别趋势强度</h2>
+<p><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4cd.png" alt="📍" class="wp-smiley" style="height: 1em; max-height: 1em;" />RSI 中心线（50 水平）对于确认现有趋势的强度至关重要：</p>
+<ul>
+<li>RSI 高于 50：当 RSI 在上升趋势中保持在 50 水平以上时，它预示着强劲的看涨势头，证实价格可能会继续上涨。</li>
+<li>RSI 低于 50：当 RSI 在下行趋势中保持在 50 水平以下时，表明看跌势头强劲，表明下行趋势可能会持续。</li>
+</ul>
+<p><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4cd.png" alt="📍" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 50水平的交叉为趋势的强度提供了额外的确认。例如：</p>
+<ul>
+<li>如果 RSI 从下方突破 50 以上，则可能预示上升趋势的开始。</li>
+<li>相反，如果 RSI 从上方跌破 50，则可能预示着下行趋势的开始。</li>
+</ul>
+<p><img loading="lazy" decoding="async" class="aligncenter size-large wp-image-48906" src="https://www.atfx.com/wp-content/uploads/2025/04/RSI-50-uptrend-SC-1024x640.webp" alt="RSI-50-uptrend-SC" width="800" height="500" srcset="https://www.atfx.com/wp-content/uploads/2025/04/RSI-50-uptrend-SC-1024x640.webp 1024w, https://www.atfx.com/wp-content/uploads/2025/04/RSI-50-uptrend-SC-300x188.webp 300w, https://www.atfx.com/wp-content/uploads/2025/04/RSI-50-uptrend-SC-768x480.webp 768w, https://www.atfx.com/wp-content/uploads/2025/04/RSI-50-uptrend-SC.webp 1200w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<h2>RSI 交易策略以及如何在您的策略中使用它</h2>
+<p>当与其他技术指标、趋势分析或市场条件相结合时，RSI 交易最有效。以下是一些使用 RSI 的策略：</p>
+<h3><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4cc.png" alt="📌" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 识别超买/超卖情况：</h3>
+<p>使用 RSI 来检测资产何时超买或超卖。当 RSI 低于 30（超卖）时买入，当 RSI 高于 70（超买）时卖出。</p>
+<ul>
+<li>RSI 高于 70 = 超买 = 潜在卖出。</li>
+<li>RSI 低于 30 = 超卖 = 潜在买入。</li>
+</ul>
+<h3><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f511.png" alt="🔑" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 发现趋势逆转的背离：</h3>
+<p>寻找价格走势和 RSI 之间的差异，以发现弱化趋势并预测潜在的逆转。</p>
+<ul>
+<li>看涨背离：价格创下更低地点，RSI 创更高低点。<strong>买入</strong></li>
+<li>看跌背离：价格创下更高高点，RSI 创下更低高点。<strong>卖出</strong></li>
+</ul>
+<h3><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/26a1.png" alt="⚡" class="wp-smiley" style="height: 1em; max-height: 1em;" />确认趋势强度：</h3>
+<p>使用 RSI 来确认当前趋势的强度。RSI 读数高于 50 确认看涨势头，而低于 50 的读数确认看跌势头。</p>
+<ul>
+<li>RSI&gt; 50：表示强劲的上升趋势。</li>
+<li>RSI &lt; 50：表示强劲的下降趋势。</li>
+</ul>
+<h3><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4dd.png" alt="📝" class="wp-smiley" style="height: 1em; max-height: 1em;" />中心线交叉：</h3>
+<p>RSI 的 50 水平对于确认趋势的方向和强度至关重要。用它来衡量潜在的买入或卖出信号。</p>
+<ul>
+<li>突破超过 50：潜在的上升趋势。</li>
+<li>跌破低于 50：潜在的下降趋势。</li>
+</ul>
+<h2>不同市场的最佳 RSI 设置</h2>
+<p>RSI 的默认设置为 14 个周期，但可以根据市场条件和交易方式进行调整。</p>
+<table>
+<tbody>
+<tr>
+<td>市场类型</td>
+<td>最佳 RSI 设置</td>
+<td>交易风格</td>
+</tr>
+<tr>
+<td>股票</td>
+<td>14</td>
+<td>波段交易</td>
+</tr>
+<tr>
+<td>外汇</td>
+<td>9或14</td>
+<td>日内和波段交易</td>
+</tr>
+<tr>
+<td>加密货币</td>
+<td>7或14</td>
+<td>高波动性</td>
+</tr>
+<tr>
+<td>大宗商品</td>
+<td>10</td>
+<td>趋势确认</td>
+</tr>
+</tbody>
+</table>
+<p><strong><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4a1.png" alt="💡" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 专业提示：缩短 RSI 设置（例如 7-9 个周期），以便在加密货币等波动的市场中更快地获得信号。</strong></p>
+<h3><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/2699.png" alt="⚙" class="wp-smiley" style="height: 1em; max-height: 1em;" />如何在 MetaTrader 4（MT4）中设置 RSI</h3>
+<p>在 <a href="https://www.atfx.com/zh-hant/trading-platforms/metatrader-4" target="_blank" rel="noopener">MT4</a> 中设置 RSI 简单快捷。请按照以下步骤操作：</p>
+<ol>
+<li>打开 MT4 并选择您想要使用的图表。</li>
+<li>单击插入 → 指标 → 振荡器 → 相对强弱指数。</li>
+<li>根据您的策略调整周期（默认为 14）。</li>
+<li>如果需要，修改关键水平（30 为超卖，70 为超买）。</li>
+<li>单击“确定”将 RSI 指标应用到您的图表。</li>
+</ol>
+<p>现在，您可以使用 RSI 来识别超买或超卖情况，并直接在 MT4 中做出明智的交易决策。</p>
+<p><a href="https://www.atfx.com/zh-hans/trading-platforms/metatrader-4/download-mt4" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="aligncenter wp-image-25082 size-full" src="https://www.atfx.com/wp-content/uploads/2023/10/mt4-download-mandarin.webp" alt="mt4 download mandarin" width="825" height="206" srcset="https://www.atfx.com/wp-content/uploads/2023/10/mt4-download-mandarin.webp 825w, https://www.atfx.com/wp-content/uploads/2023/10/mt4-download-mandarin-300x75.webp 300w, https://www.atfx.com/wp-content/uploads/2023/10/mt4-download-mandarin-768x192.webp 768w" sizes="(max-width: 825px) 100vw, 825px" /></a></p>
+<h2>RSI 交易策略建议</h2>
+<ul>
+<li>将 RSI 与其他指标结合起来：在交易中结合使用 RSI 和其他技术指标（如移动平均线或 MACD）来提高策略的有效性。</li>
+<li>注意极端 RSI 读数：寻找 RSI 超过极端水平（高于 70 或低于 30）的情况，因为这些情况可能表示潜在的反转点。</li>
+<li>使用 RSI 进行趋势分析：如果市场处于强劲趋势，则可以使用 RSI 来识别趋势回调，从而提供更有利的切入点。</li>
+</ul>
+<h2>使用 RSI 时应避免的常见错误</h2>
+<p>即使是专业交易者也会误用 RSI，导致错误信号和不必要的损失。以下是需要避免的情况：</p>
+<p><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/274c.png" alt="❌" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 仅依靠 RSI – 始终使用其他指标确认信号。<br />
+<img src="https://s.w.org/images/core/emoji/15.0.3/72x72/274c.png" alt="❌" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 不检查市场趋势——RSI 在横盘市场中更有效。<br />
+<img src="https://s.w.org/images/core/emoji/15.0.3/72x72/274c.png" alt="❌" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 忽略背离信号——RSI 背离可以提前预测逆转。<br />
+<img src="https://s.w.org/images/core/emoji/15.0.3/72x72/274c.png" alt="❌" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 无需测试即可使用默认 RSI – 根据您的交易风格自定义 RSI 设置。</p>
+<p><strong><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4cc.png" alt="📌" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 专业提示：在进行实时交易之前，务必在模拟账户中回测 RSI 策略。</strong></p>
+<h2>利用 RSI 策略最大化交易潜力</h2>
+<p>为了充分利用 RSI，请使用以下经过验证的交易策略：</p>
+<p><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/2714.png" alt="✔" class="wp-smiley" style="height: 1em; max-height: 1em;" /> RSI 趋势策略 – 跟随 RSI 50 上方/下方的方向。<br />
+<img src="https://s.w.org/images/core/emoji/15.0.3/72x72/2714.png" alt="✔" class="wp-smiley" style="height: 1em; max-height: 1em;" /> RSI 反转策略——基于 RSI 背离进行交易。<br />
+<img src="https://s.w.org/images/core/emoji/15.0.3/72x72/2714.png" alt="✔" class="wp-smiley" style="height: 1em; max-height: 1em;" /> RSI 剥头皮策略——使用 RSI + MACD 进行短期交易。<br />
+<img src="https://s.w.org/images/core/emoji/15.0.3/72x72/2714.png" alt="✔" class="wp-smiley" style="height: 1em; max-height: 1em;" /> RSI 和布林带 – 识别波动性突破。</p>
+<p><strong><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4cc.png" alt="📌" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 最后提示：在进行实时交易之前，先在模拟账户中测试 RSI 策略，以完善您的方法。</strong></p>
+<h2>结论</h2>
+<p>相对强弱指数 (RSI) 是一种强大的工具，可帮助交易者识别超买和超卖情况、发现趋势逆转以及确认现有趋势的强度。掌握 RSI 交易并了解其信号可以增强您的市场分析能力并帮助您做出更明智的交易决策。</p>
+<p>无论您交易的是<a href="https://www.atfx.com/zh-hans/markets/shares-trading" target="_blank" rel="noopener">股票</a>、外汇还是加密货币，将 RSI 整合到您的策略中都可以提供有价值的见解并提高您的交易表现。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>特朗普的经济政策：对股票和外汇市场的影响 &#124; 交易趋势</title>
+		<link>https://www.atfx.com/zh-hans/analysis/trading-strategies/trump-economic-policies</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Tue, 26 Nov 2024 05:04:16 +0000</pubDate>
+				<category><![CDATA[交易策略]]></category>
+		<category><![CDATA[中级交易策略]]></category>
+		<guid isPermaLink="false">https://www.atfx.com/?p=43403</guid>
+
+					<description><![CDATA[特朗普的经济政策：对股票和外汇市场的影响 唐纳德·特朗普赢得 2024 年美国总统大选后，金融市场已经做出重大 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h2 dir="ltr">特朗普的经济政策：对股票和外汇市场的影响</h2>
+<p dir="ltr">唐纳德·特朗普赢得 2024 年美国总统大选后，金融市场已经做出重大反应，这是他在 2016 年第一任期后重返总统职位，投资者和交易者正在评估影响。他的胜利标志着政府重新转向亲商政策，着重于放松管制、减税和保护主义贸易政策。</p>
+<p dir="ltr">在本文中，我们将研究特朗普的经济政策如何影响主要金融市场，特别是<a href="https://www.atfx.com/zh-hans/markets/forex-trading" target="_blank" rel="noopener">外汇交易</a>、美国股票、全球股票以及更广阔的经济前景。</p>
+<ol class="no-markers">
+<li dir="ltr">
+<h2 dir="ltr">对外汇市场的影响：特朗普赢得 2024 年大选后美元走强</h2>
+</li>
+</ol>
+<p dir="ltr">特朗普在 2024 年大选获胜的最直接反应之一是美元 (USD) 在全球市场上大幅走强。</p>
+<p dir="ltr">美元的这种大幅走强主要是受到特朗普亲商议程的预期所推动，该议程包括减税、放松管制以及旨在刺激美国经济增长的政策。</p>
+<p dir="ltr">投资者认为，这些政策将促进企业盈利、增加经济活动并推动对美元的需求。因此，美元兑主要货币（包括中国离岸人民币（CNH）、墨西哥比索（MXN）和欧元（EUR））走强，反映出人们对特朗普政府政策下美国经济表现的乐观情绪。</p>
+<h3 dir="ltr">美元走强</h3>
+<p dir="ltr">由于预期特朗普执政下美国经济将强劲增长，美元将从中受益。投资者预计特朗普的贸易和税收政策将提高美国企业盈利，从而推动对美元的更多需求。</p>
+<p dir="ltr">如果特朗普继续执行对进口产品（尤其是中国产品）征收关税的计划，美元可能会进一步走高。因此，外汇交易者有希望利用美元走强的机会获利，尤其是兑人民币、墨西哥比索和欧元。</p>
+<h3 dir="ltr">中国离岸人民币（CNH）承压</h3>
+<p dir="ltr">由于对潜在贸易紧张局势的担忧，中国离岸人民币（USDCNH）已经走弱。特朗普上一届政府曾提高对中国的关税，随着他再次当选，很有可能采取更为激进的立场，包括对中国商品征收 60% 的关税。</p>
+<p dir="ltr">因此，外汇交易者可能会在美元/离岸人民币货币对中发现机会，押注人民币因中美贸易战紧张局势升级而进一步走弱。</p>
+<p dir="ltr">替代交易：澳元/美元和美元/人民币</p>
+<ol class="no-markers">
+<li dir="ltr">
+<p dir="ltr">美元/离岸人民币：鉴于特朗普的贸易政策和与中国持续的贸易战风险，美元/离岸人民币货币对可能是关注美元走强的最直接的替代交易。特朗普延续关税战略和保护主义立场可能会对人民币（CNH）造成巨大的下行压力，同时刺激对美元（USD）的需求。外汇交易者可以通过在交易中积极纳入美元/离岸人民币来利用这些货币变化趋势。</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">澳元/美元：另一个潜在的替代交易是澳元/美元，澳元（AUD）通常充当中国离岸人民币（CNH）的流动性替代。澳大利亚严重依赖对中国的出口（尤其是铁矿石、煤炭和天然气等大宗商品），这意味着中国经济前景的变化会对澳元产生重大影响。当美国和中国之间的贸易紧张局势加剧时，澳元通常会与人民币做出同步反应，因为这两种货币都受到更广泛的贸易环境和全球大宗商品市场的影响。</p>
+</li>
+</ol>
+<p dir="ltr">因此，如果特朗普的经济政策导致中美关系波动加剧，澳元/美元货币对的波动性也可能会加剧。此外，如果特朗普政府专注于提高国内能源产量，澳元可能会受益于全球大宗商品价格上涨，从而进一步影响澳元/美元的交易趋势变化。</p>
+<ol class="no-markers" start="2">
+<li dir="ltr">
+<h2 dir="ltr">对股票市场的影响：特朗普的亲商议程提振美国股市</h2>
+</li>
+</ol>
+<p dir="ltr">特朗普获胜后，受其亲商政策乐观情绪推动，<a href="https://www.atfx.com/zh-hans/markets/shares-trading" target="_blank" rel="noopener">美国股市</a>出现上涨。能源、科技和金融等关键行业有望实现大幅增长。放松管制、减税以及注重国内能源生产的政策共同支撑了这种看涨情绪。</p>
+<h3 dir="ltr">美国股市飙升</h3>
+<p dir="ltr"><a href="https://www.atfx.com/zh-hans/live-chart/sp500" target="_blank" rel="noopener">标普500指数</a>、<a href="https://www.atfx.com/zh-hans/live-chart/dow-jones" target="_blank" rel="noopener">道琼斯指数</a>、<a href="https://www.atfx.com/zh-hans/live-chart/nasdaq100" target="_blank" rel="noopener">纳斯达克指数</a>等美国股市对特朗普的胜利做出了积极反应，各大<a href="https://www.atfx.com/zh-hans/markets/indices-trading" target="_blank" rel="noopener">指数</a>纷纷创下新高。那些有望受益于特朗普政策的行业的涨势尤其明显。能源股（尤其是石油和天然气）和科技股一直处于领先地位，因为投资者为这些行业预期的有利环境做好了准备。</p>
+<h3 dir="ltr">能源行业提振</h3>
+<p dir="ltr">特朗普以“钻吧，宝贝，钻吧”的竞选口号支持化石燃料，包括石油和天然气，这种支持在他当选后提振了埃克森美孚和雪佛龙等公司。他的政府采取的取消国内石油和天然气生产限制以及放松环境法规的举措为能源公司创造了更有利的环境。随着对能源独立和更少监管障碍的注重，能源股有望实现大幅增长、提高盈利能力并扩大国内资源获取渠道。</p>
+<h3 dir="ltr">科技行业增长</h3>
+<p dir="ltr">由于投资者猜测唐纳德·特朗普重返白宫可能会给特斯拉带来受益，特斯拉股价飙升。这种预期包括来自小型电动汽车制造商的竞争减少和中国进口汽车关税提高，这可能会给特斯拉带来优势。特朗普的放松管制和减税等亲商政策也被视为对科技巨头有利，有可能提高盈利能力并鼓励对创新的再投资。具体来说，特斯拉可以从放宽有关电动汽车和可再生能源的监管中受益。</p>
+<h3 dir="ltr">金融业提振</h3>
+<p dir="ltr">特朗普获胜后，摩根大通、高盛和美国银行的股价以及大型银行泛股指数均大幅上涨。由于投资者预期金融行业将出现更为有利的监管环境，区域性银行的股价也出现了显著增长。特朗普的放松管制立场被视为对大型金融机构的提振，因为减少管制将允许银行承担更多风险并增加放贷。此外，减税预期进一步支持了更高盈利前景，使这些银行更具竞争力和效率。</p>
+<p><a href="https://www.atfx.com/zh-hans/trading-accounts/live-account" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="aligncenter wp-image-25084 size-full" src="https://www.atfx.com/wp-content/uploads/2023/10/live-account-mandarin.webp" alt="live account mandarin" width="825" height="206" srcset="https://www.atfx.com/wp-content/uploads/2023/10/live-account-mandarin.webp 825w, https://www.atfx.com/wp-content/uploads/2023/10/live-account-mandarin-300x75.webp 300w, https://www.atfx.com/wp-content/uploads/2023/10/live-account-mandarin-768x192.webp 768w" sizes="(max-width: 825px) 100vw, 825px" /></a></p>
+<ol class="no-markers" start="3">
+<li dir="ltr">
+<h2 dir="ltr">对指数的影响：美国表现优于全球指数</h2>
+</li>
+</ol>
+<p dir="ltr">尽管美国股市因特朗普胜选而上涨，但全球金融市场却面临阻力。特朗普贸易政策的影响——尤其是他在贸易和关税方面的立场——可能会对美国以外的市场产生影响，特别是欧洲、中国和日本。</p>
+<h3 dir="ltr">美国指数对比全球指数</h3>
+<p dir="ltr">随着特朗普推进“美国优先”政策，受减税、放松管制和基础设施支出的乐观情绪推动，美国股市预计将在短期至中期内跑赢全球指数。然而，更容易受到中美贸易战或更高关税影响的欧洲和亚洲市场可能会落后。依赖美国出口或全球供应链的国家可能面临增长放缓，促使投资者寻求美国资产的安全。由于特朗普的政策在全球范围内引发了不同的反应，这可能进一步提振对美国股票和美元的需求。</p>
+<ol class="no-markers" start="4">
+<li dir="ltr">
+<h2 dir="ltr">特朗普贸易战紧张局势</h2>
+</li>
+</ol>
+<p dir="ltr">全球市场最大的风险之一是可能再次爆发贸易战，尤其是美国和中国之间的贸易战。特朗普激进的贸易政策，包括对外国商品征收广泛关税的可能性，可能会加剧与中国和欧盟的紧张关系。他提议对所有进口产品征收 10% 至 20% 的关税，再加上汽车等具体关税目标，这可能会扰乱全球供应链、推高通胀并减缓经济增长。</p>
+<p dir="ltr">如果特朗普对中国商品征收 60% 的关税，这可能会导致中国采取报复性关税，从而导致全球市场动荡。这将对墨西哥、韩国和巴西等严重依赖与美国和中国的贸易的新兴市场产生尤为明显的影响。欧盟也容易受到美国关税的影响，这可能会使其陷入更广泛的贸易冲突。</p>
+<p dir="ltr">鉴于英国与欧盟的紧密联系以及陷入腹背受敌的风险，脱欧后的英国面临着如何应对这些风险的艰难选择。保护主义的抬头可能破坏全球市场的稳定，损害较小经济体的利益，并对全球经济稳定构成严重风险。</p>
+<ol class="no-markers" start="5">
+<li dir="ltr">
+<h2 dir="ltr">投资者的交易机会和风险</h2>
+</li>
+</ol>
+<p dir="ltr">虽然美国股市和美元的短期前景乐观，但长期风险依然存在，特别是与通胀、国家债务上升和全球贸易不确定性相关的风险。特朗普的亲商政策或许会在短期内带来经济提振，但他的贸易战和财政政策的长期影响仍不确定。</p>
+<h3 dir="ltr">特朗普的放松管制政策</h3>
+<p dir="ltr">特朗普继续推动在关键领域特别是能源、金融和技术领域放松管制，这可能会带来增长和创新的机会。通过减少监管障碍并允许企业获得更大的运营灵活性，放松管制可以降低合规成本，提高生产力并刺激投资。石油和天然气、金融服务和科技等行业的公司盈利能力可能会显著提高，从而有可能在短期内提振美国股市的表现。这种环境也可能吸引寻求美国商业友好型环境的外国投资。然而，这些好处能否长期持续，这取决于放松管制是否会导致无法预料的负面后果，例如环境或系统性金融风险。</p>
+<h3 dir="ltr">债务和通胀风险</h3>
+<p dir="ltr">在特朗普执政下，美国国债问题依然令人担忧。他提出的减税和增加国防开支的政策可能会增加财政赤字，从而可能对利率造成上行压力。此外，财政扩张和保护主义抬头（包括对来自中国和其他贸易伙伴的进口商品征收关税）可能会推高美国消费者和企业的成本。随着通货膨胀加速，这可能会削弱购买力并抑制消费者支出，从而对经济增长产生负面影响。通胀上升也可能导致美联储收紧货币政策，这可能会减缓股市的势头并增加借贷成本。</p>
+<h2 dir="ltr">结论：不确定时期的乐观主义</h2>
+<p dir="ltr">唐纳德·特朗普在 2024 年大选获胜，引发美国股市强劲上涨，美元走强，这得益于减税、放松管制以及包括关注能源独立的亲商议程的预期。预计能源、技术和金融等关键行业将在短期内实现增长，而全球市场则面临潜在贸易战、关税和地缘政治紧张局势带来的风险。</p>
+<p dir="ltr">尽管美国市场情绪乐观，但对通胀上升、国家债务和长期经济稳定的担忧仍然存在。投资者应保持积极但谨慎的态度，在短期市场机会与整体经济的潜在波动性和不确定性之间取得平衡。</p>
+<p><a href="https://www.atfx.com/zh-hans/trading-accounts/demo-account" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="aligncenter wp-image-25095 size-full" src="https://www.atfx.com/wp-content/uploads/2023/10/demo-account-mandarin.webp" alt="demo account mandarin" width="825" height="206" srcset="https://www.atfx.com/wp-content/uploads/2023/10/demo-account-mandarin.webp 825w, https://www.atfx.com/wp-content/uploads/2023/10/demo-account-mandarin-300x75.webp 300w, https://www.atfx.com/wp-content/uploads/2023/10/demo-account-mandarin-768x192.webp 768w" sizes="(max-width: 825px) 100vw, 825px" /></a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>4 种常见的交易图表形态: 掌握市场走势的关键</title>
+		<link>https://www.atfx.com/zh-hans/analysis/trading-strategies/4-trading-chart-patterns-why-important</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Thu, 24 Aug 2023 06:34:21 +0000</pubDate>
+				<category><![CDATA[交易策略]]></category>
+		<category><![CDATA[中级交易策略]]></category>
+		<guid isPermaLink="false">https://lptemplatedev.wpengine.com/uncategorized/4-trading-chart-patterns-why-important-2</guid>
+
+					<description><![CDATA[图表形态是技术分析中使用的工具。 一些交易者会使用指标或振荡指标。一些则倾向于把分析重点放在价格上。 很清楚的 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>图表形态是技术分析中使用的工具。</p>
+<p>一些交易者会使用指标或振荡指标。一些则倾向于把分析重点放在价格上。</p>
+<p>很清楚的是，这些技术形态表明了一些具体的东西：图表的趋势，价格目标等等。</p>
+<p>让我们看看存在有哪些图表形态以及它们的用途。</p>
+<p>&nbsp;</p>
+<p><strong>目录</strong></p>
+<p><a href="#trading-chart-patterns" rel="noopener">交易图表形态概述</a></p>
+<p><a href="#type-of-trading-chart-patterns" rel="noopener">2 种最常见的交易图表形态</a></p>
+<p><a href="#other-chart-patterns" rel="noopener">其他常见的图表形态</a></p>
+<p><a href="#importance-of-trading-with-patterns" rel="noopener">掌握图表形态的重要性</a></p>
+<p><a href="#summary" rel="noopener">总结</a></p>
+<p>&nbsp;</p>
+<h2>交易图表形态概述</h2>
+<p>当我们开始在交易世界中操作时，我们了解到某些工具可以帮助我们提前评估价格走势，从而预测并采取相应的行动。</p>
+<p>顾名思义，这些工具是将历史价格联系在一起的图表设置。</p>
+<p>我们都经历过经典的肩-头-肩或日本烛图。但是形态本身没有任何意义。你要寻找对你有利的交易环境，而不仅仅是形态。</p>
+<p>&nbsp;</p>
+<h2>2 种最常见的交易图表形态</h2>
+<p>图形模式可以有2 种形态：反转形态和延续形态。</p>
+<p>这 2 种形态上有什么区别呢 ?</p>
+<p>反转形态预示着图表上趋势的变化。如果我们有一个看涨的图表，反转模式将表明一个看跌走势。最常见的是头肩型、坡跟型、W型或双顶型。</p>
+<p>延续形态则意味着遵循当前趋势。换句话说，在上升趋势中，延续模式将表明该趋势的延续。它们很常见，如三角形态或旗形。</p>
+<h3>1. 反转形态</h3>
+<p>看图表时，趋势的方向是决定性的。</p>
+<p>让我们更详细地讨论一些变化形态：</p>
+<ul>
+<li>
+<h4>头肩形态 (HCH)</h4>
+<h4><span style="font-size: 11px;color: #000000"><img loading="lazy" decoding="async" style="width: 270px;height: auto;max-width: 100%" src="https://lh5.googleusercontent.com/kBdafG5Uog7EP0bOEIMD3LuSgoRxmeUJsU8yhtv5T3RvNerjPH0uumunzW25LWUvixRzzgGgvzblCXlrQ6M9l3VvqWOn9o7HuTpa7Mi8538lQ-h2mZqZNWR-BoDyniuhnoNLxZAxZKOHKYlJBsR0NAo" width="270" height="270" /></span></h4>
+</li>
+</ul>
+<p>通常出现在上升趋势的末端，表明市场可能会改变方向。它由3个相对极大值组成。</p>
+<ul>
+<li>
+<h4>楔形</h4>
+<h4><span style="font-size: 14px;color: #434343"><img loading="lazy" decoding="async" style="width: 279px;height: auto;max-width: 100%" src="https://lh5.googleusercontent.com/rp59cTOjzAYu6pBFslpjJaKfhNYSnyC5HS-O_BQ9gr4tl_ZZp_Q4jCsdh0sBZqqo4pZhijuDPjOfbOJJKUqOadCeoqo_lhnhVVjfD1OUa5FuBaPmA1tAheQmRbErqI-sZnFHtT9YtM93iqGgGO6PG98" width="279" height="279" /></span></h4>
+</li>
+</ul>
+<p>这也标志着市场的趋势变化。这种形态可以出现在任何时间框架图上，无论是日图、周图还是月图。</p>
+<ul>
+<li>
+<h4>双顶或双底 (W形态)</h4>
+</li>
+</ul>
+<h4><span style="font-size: 11px;color: #000000"><img loading="lazy" decoding="async" style="width: 301px;height: auto;max-width: 100%" src="https://lh3.googleusercontent.com/ewuzeFyA8FOK4t1AB3r1k4E1BE9_HCgHEICqMX9ZIBSuwjnRTyLli03A1fnHMwM1HM2e45r4BQ1G9C11yKRdA-6bfesw3XKh23_wAnDz4upa1CR6vuaIW4qZLs4d4iEix2LX2O2Fx7J_qG_K-BeyK50" width="301" height="301" /></span></h4>
+<p>它们是一样的，只是相反。2 者都是典型的逆转模式，预示着潜在的趋势逆转(双顶-看涨到看跌；双底-看跌到看涨)。</p>
+<h3>2. 持续形态</h3>
+<p>延续模式表示趋势的巩固，通常持续时间较短。</p>
+<p>我们看看一些例子：</p>
+<ul>
+<li>
+<h4>三角形</h4>
+<h4><span style="font-size: 11px;color: #000000"><img loading="lazy" decoding="async" style="width: 223px;height: auto;max-width: 100%" src="https://lh3.googleusercontent.com/nn5RqtdNHA7mn4TWQAYTh-zpylO3h2iwTswT3A9cv5M-XDsXtQy6XnzVA9xrg3B0aRIsW-ZPqoGRySEquH1lWlfWzYr0z8nhxbPP6E44q7er_oGRfVFzXTCGqSt0RKgYv9hFg5VeOYP8XVNeapeqEkw" width="223" height="223" /></span></h4>
+</li>
+</ul>
+<p>它们可以揭示当前市场的交易形势，以及鲨鱼和小鱼之间的不匹配。三角形通常出现在趋势的中间，表示其趋势将延续。</p>
+<ul>
+<li>
+<h4>旗形</h4>
+<h4><span style="font-size: 11px;color: #000000"><img loading="lazy" decoding="async" style="width: 208px;height: auto;max-width: 100%;margin-top: 0px;margin-bottom: 10px" src="https://lh4.googleusercontent.com/EZK9UpuMS_PgoKl4SWURZKG_RMmOMRcwcYcbu4x5_mDDjLYbYgsmw-OtUxbxQgji93vbnGb_Tb_Ksl63wIWJeP6zMDiHknPrERP_Y0Iu7es4DvM9QGuWlPU_fscfgbKjmYNqLL66JDP6nNALfBWSs2Q" width="208" height="208" /></span></h4>
+</li>
+</ul>
+<p>它们出现在已经形成趋势的图表上，要么是看涨，要么是看跌。这是一个持续的模式，因为趋势还在继续。通常情况下，这些标志在一个强劲的趋势期之后形成。</p>
+<p>&nbsp;</p>
+<h2>其他常见的图表形态</h2>
+<p>我们还可以用其他元素来判断数据或形态。</p>
+<p>只需要了解一些工具也可以在图表上显示价格的趋势或连续性。</p>
+<p>仔细看一下这些例子。对于技术分析，您应该考虑所有这些因素。</p>
+<h3>1. 蜡烛图形态</h3>
+<p>蜡烛图在交易中是一个常识问题。</p>
+<p>只有2种蜡烛形态：反转模式和延续模式。</p>
+<h3><span style="font-size: 11px;color: #000000"><img loading="lazy" decoding="async" src="https://lh3.googleusercontent.com/vgwyt9XoVnASwg7LX39I6hch-hIMjoNS5g8-0GKqxLSOSZr7g2M0EnUDeDaZ0iSYbaSAZ5Z5Sc5GQ_0m7mHH1j6qISfK-GiC-PFwVgg8D-4JWR5CcSdXi5PfqELDRdyhmVTfHcndQ77Q3lZ_i9i41AU" width="256" height="256" /></span></h3>
+<p>它们分别说明了什么？</p>
+<p>反转模式是指价格掉头的模式。简而言之，它包括在一个或多个蜡烛中观察价格如何从看涨到看跌，或反之亦然。</p>
+<p>另一方面，延续模式指的是当前趋势的中断。价格通常会在一段时间内保持不变或略有回落。<a href="/zh-hans/analysis/trading-strategies/how-forex-traders-use-candlestick-charts-to-analyze-forex-trends?__hstc=45788219.fb561c80ddf7d590a00aac45082e5beb.1692844910495.1692844910495.1692844910495.1&amp;__hssc=45788219.1.1692844910496&amp;__hsfp=3106923833" target="_blank" rel="noopener">了解外汇交易员如何使用蜡烛图来分析趋势。</a></p>
+<h3>2. 趋势形态</h3>
+<p>价格是按趋势变动的吗?</p>
+<p>答案是肯定的。</p>
+<p><span style="font-size: 11px;color: #000000"><img loading="lazy" decoding="async" style="margin-top: 10px;margin-bottom: 10px;width: 181px;height: auto;max-width: 100%" src="https://lh5.googleusercontent.com/aenoyVgwKnG0WYIaUJMi52KCpNZnESa45E9zRW3TGD9qxqe6gjCVFitycOtHqRbvWWW1ZhultqQWTVvEWL3mC8CgwEHNVotYxAkmv3Rtsost7_u1lm5D5QwEqApEHPAeaGLLWue5yZqjgu61Rnur4Sw" width="181" height="204" /></span></p>
+<p>趋势模式是典型的技术分析工具。它们将帮助我们确定市场的方向、支撑和阻力。</p>
+<p>让我们来看看一些趋势线类型：</p>
+<ul>
+<li>看涨趋势线</li>
+<li>上升趋势线</li>
+<li>下降趋势线</li>
+<li>看跌趋势线</li>
+<li>抛物线趋势线</li>
+</ul>
+<p>如果你想更多地了解每种类型的趋势，请观看下一篇完整介绍的文章。</p>
+<p>然而，请记住，趋势显示的是价格的变动。这个价格是不断波动的。所以一个真正的趋势总是伴随振荡的。</p>
+<p><span style="font-size: 11px;color: #000000"><img loading="lazy" decoding="async" style="margin-left: auto;margin-right: auto;width: 451px;height: auto;max-width: 100%" src="https://lh6.googleusercontent.com/W12sLqmCcrLjZ8FTqusWORP67zwLw5YuGbO4O6venPzigJVWqjnkdZIg97_OILvHFXEML7QiRJy8-s40V2RaVRWvTRkg1JaU2w15IKPlaCeXGGRaeHw0pCjRp6Wh2irALVVQu2OWf0t1YTraKyX7Z3U" width="451" height="430" /></span></p>
+<p>&nbsp;</p>
+<h2>掌握图表形态的重要性</h2>
+<p>正如我们在文章中已经告诉你的，形态是开始交易的基础。</p>
+<p>我们不怀疑它们能在某个时刻帮助你，但要做到爱上它们很难。</p>
+<p>在网上流传的许多博客中，它们被定义为完美的交易策略，但事实并非如此。</p>
+<p>你必须寻找对应的趋势，而不是认为公式会给你所有你需要的钱。</p>
+<p>我们甚至会将它们与其他技术指标结合起来，以确认你对价格走势的看法，或者证明你的假设是错误的。</p>
+<p>随机振荡器，强力指数，或MACD，可以帮助你在买卖时大大提高你的精确度。</p>
+<p>&nbsp;</p>
+<h2>总结</h2>
+<p>技术分析用于研究市场中的机会，并确定进入和退出的时机，以及一般情况下管理我们的头寸。</p>
+<p>有无数的<a href="/zh-hans/trading-platforms/metatrader-4/mt4-indicators?__hstc=45788219.fb561c80ddf7d590a00aac45082e5beb.1692844910495.1692844910495.1692844910495.1&amp;__hssc=45788219.1.1692844910496&amp;__hsfp=3106923833" target="_blank" rel="noopener">mt4指标</a>是免费使用的，可识别的模式、技术和交易系统。重要的是，在真正投入资金之前，你要学会识别常见的交易图表形态。</p>
+<p>同时，如果你想在投资你的血汗钱之前测试一下你对交易图表的了解，我们建议你<a href="/zh-hans/trading-accounts/demo-account?__hstc=45788219.fb561c80ddf7d590a00aac45082e5beb.1692844910495.1692844910495.1692844910495.1&amp;__hssc=45788219.1.1692844910496&amp;__hsfp=3106923833" target="_blank" rel="noopener">开立一个模拟账户</a>。ATFX在一个非常实用的交易平台上提供所有主要的金融产品，以练习不同的策略，同时还可以从ATFX提供的指南或免费培训材料中学习。所以，现在就免费获得您的模拟交易账户吧！</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>白银值得投资吗？购买白银的 5 个利与弊</title>
+		<link>https://www.atfx.com/zh-hans/analysis/trading-strategies/is-silver-a-good-investment-5-pros-cons-of-silver-investment</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Thu, 29 Dec 2022 06:00:00 +0000</pubDate>
+				<category><![CDATA[交易策略]]></category>
+		<category><![CDATA[中级交易策略]]></category>
+		<guid isPermaLink="false">https://lptemplatedev.wpengine.com/uncategorized/is-silver-a-good-investment-5-pros-cons-of-silver-investment-2</guid>
+
+					<description><![CDATA[在决定何时投资哪种金属最合适时，贵金属投资者很可能有太多选择。许多人想知道，根据他们的风险偏好、当前的经济状况 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p style="text-align: justify;line-height: 2">在决定何时投资哪种金属最合适时，贵金属投资者很可能有太多选择。许多人想知道，根据他们的风险偏好、当前的经济状况或投资时间框架，哪种白银和黄金是正确的选择。在做这样重要的决定时，白银常常被忽视，但从历史上看，它一直是最便宜的贵金属。然而，它在整个文明中都有价值。然而，在2022年，白银是一个好的投资吗？在目前经济不确定的情况下，我现在应该投资白银吗?</p>
+<p><span id="more-11232"></span></p>
+<p style="text-align: justify;line-height: 2">从消费者的角度来看，白银可能看起来是一种有价值的财产，但从投资者的角度来看，有很多变量在起作用。白银投资有利有弊，新手投资者也不能忽视。这些都是你在投资白银之前需要考虑的问题。</p>
+<p style="text-align: justify;line-height: 2"><img loading="lazy" decoding="async" src="https://www.atfx.com/hubfs/Silver%20A%20Good%20Investment.webp" alt="Silver A Good Investment" width="940" height="483" loading="lazy" style="height: auto;max-width: 100%;width: 940px"></p>
+<h2 style="text-align: justify;line-height: 2">投资白银的5个好处</h2>
+<h3 style="text-align: justify;line-height: 2">1. 全天候价值储存——它是有形的金钱</h3>
+<p style="text-align: justify;line-height: 2">虽然现金存款、股票、国库券、债券和其他类似的金融产品是很好的财富储存方式，但它们仍然是本票。你可以预期，由于印钞等做法，它们将面临大量的贬值风险。拥有银块就保证了一种有限的有形资产。即使在动荡的市场环境中，实物白银也永远不会变得一文不值。白银将保持其内在和真正的价值。</p>
+<h3 style="text-align: justify;line-height: 2">2. 对于入门者来说，银是一种有效的投资组合分散工具。</h3>
+<p style="text-align: justify;line-height: 2">银应该是任何投资组合的特色成分。即使白银有时在一个狭窄的区间内交易，人们总是预期市场将发生影响市场的事件。你应该考虑持有白银，因为它能够长期保值，使你的投资组合在不利的市场表现中有缓冲作用。当股市崩盘时，如果你的大部分储蓄都是现金，那么你的净资产就会减少。如果你在股票和基金等风险较高的金融工具上过度投资，白银资产可以让你收回一些价值。</p>
+<p style="text-align: justify;line-height: 2">从历史上看，当股市崩盘时，白银价格就会飙升，这并不奇怪。在投资组合中拥有黄金和白银有助于投资者弥补股市损失，并在经济开始复苏时提供了一个备用资金来源，用于重新投资被低估的股票。</p>
+<p style="text-align: justify;line-height: 2"><img loading="lazy" decoding="async" src="https://www.atfx.com/hubfs/5%20Pros%20and%20Cons%20of%20Silver%20Investment.webp" alt="5 Pros and Cons of Silver Investment" width="975" height="502" loading="lazy" style="height: auto;max-width: 100%;width: 975px"></p>
+<h3 style="text-align: justify;line-height: 2">3. 白银的回报率比黄金高。</h3>
+<p style="text-align: justify;line-height: 2">银比黄金便宜得多，但回报率却比黄金高。白银现货价格的波动比黄金价格的波动要大，即使它们的走势是相同的。当银价开始上涨时，你可以预期有更大的百分比收益。在寻找短期投机交易时，你可以指望白银在牛市中表现优于黄金。例如，在2008年至2011年这两种金属的上涨期间，黄金只上涨了170%，而银上涨了450%。投资者可以考虑在投资组合中持有更多的白银而不是黄金。</p>
+<h3 style="text-align: justify;line-height: 2">4. 白银是一种避险投资</h3>
+<p style="text-align: justify;line-height: 2">白银是一种避险金属，可以帮助投资者运用对冲机制来应对通货膨胀和任何经济衰退。最近的一个例子是，银价在2020年初COVID-19大流行爆发时上涨。不确定性推动白银现货价格今年上涨了45%。随着主要央行和政府调整财政政策，推出更多刺激方案，投资者纷纷买入白银。</p>
+<h3 style="text-align: justify;line-height: 2">5. 用途广泛的多功能金属——持续需求。</h3>
+<p style="text-align: justify;line-height: 2">银是工业部门中广泛使用的金属，也是投资组合中必不可少的金融大宗商品。许多工业用具使用银，因为它的高导电性和防锈性。未来的技术创新包括电池、电子、能源电池和医疗研究设备中的银。因此，即使全球经济扩张，白银投资也会继续增长。</p>
+<p style="text-align: justify;line-height: 2">经济发展与技术发展是同步的。例如，新的纯电动汽车(BEV)在许多方面都使用了银。BEV也在其他部件中使用银，如车辆导航和充电状态传感器。许多半导体使用银与电子元件相互作用。需要银来运营的充电站(包括家庭充电站和基础设施充电站)有望扩大。</p>
+<h2 style="text-align: justify;line-height: 2">投资白银的4个缺点</h2>
+<p style="text-align: justify;line-height: 2">尽管有这么多好处，白银投资仍不是轻而易举的事。它也有一些轻微的缺点，盲目投资可能会带来可怕的后果，尤其是对入门者来说。在决定是否或何时投资白银之前，有一些缺点需要考虑。</p>
+<h3 style="text-align: justify;line-height: 2">1. 恐惧会对价格产生负面影响</h3>
+<p style="text-align: justify;line-height: 2">由于购买白银的投机持续增长，恐惧是不可忽视的推动力。恐惧会不可预测地震动价格，在某些情况下，很难找到价格为何以某种方式表现的解释。由于恐惧，价格总是对投资者有利或不利。投资者的行为也不理性，因此对一些新闻事件反应过度。当你预计价格将倾向于上行，当消息看起来乐观时转向下行时，你可以卖出它们。极端的乐观和悲观也导致了现货价格的大量错误定价。</p>
+<p style="text-align: justify;line-height: 2">即使有很好的炒白银策略，一些人仍然无法控制自己的情绪，最终抛售白银来满足短期生活开支。他们这样做也可能是希望以不同的价格购买白银，由于通货膨胀，他们无法准确估计价格。当新冠肺炎疫情显然将影响整个市场时，白银价格在几周内大幅波动，最终形成了一个明确的走势。人们首先抛售了他们的库存，白银紧随其后，因为工厂不得不削减产量，减少了对白银的需求。当以白银为基础的投资出现过剩时，白银价格就会出现波动。</p>
+<p style="text-align: justify;line-height: 2"><img loading="lazy" decoding="async" src="https://www.atfx.com/hubfs/Cons%20of%20Silver%20Investment.webp" alt="Cons of Silver Investment" width="975" height="502" loading="lazy" style="height: auto;max-width: 100%;width: 975px"></p>
+<h3 style="text-align: justify;line-height: 2">2. 实物白银没有红利</h3>
+<p style="text-align: justify;line-height: 2">持有银块是一种依靠升值赚钱的投资。它削弱了投资银币或银条的吸引力。在许多情况下，这类投资者不得不冒险进入其他业务或购买其他金融资产，以产生现金流，以维持他们退休后的生活。未来有很多获得现金流入的选择，但纯粹依靠出售白银来获得生存收入是一个糟糕的主意，一生积蓄的白银很容易用完。由于白银价格的波动，如果人们想立即获得现金，有时会以比买入更低的价格卖出。</p>
+<h3 style="text-align: justify;line-height: 2">3.每盎司没有对应的准确价值</h3>
+<p style="text-align: justify;line-height: 2">即使可以在网上随时获取白银的现货价格，最终，你也只能以市场流行时刻有人愿意支付的价格出售你的银条。即使是在贵金属等复杂市场的交易中，自愿买卖规则也适用。除了供求关系，人们还需要担心情绪和杠杆的结合。虽然根据收入预测、未偿还贷款等参数很容易对企业进行估值，但银价受到外部力量的影响。</p>
+<h3 style="text-align: justify;line-height: 2">4. 白银ETF存在交易对手风险</h3>
+<p style="text-align: justify;line-height: 2">交易对手风险的概念仅仅意味着投资者依靠另一方来确保其投资得到良好管理。这就是为什么投资于两种不同的白银ETF仍能产生不同的结果。这种情况就像拥有一个银行账户一样，这意味着你依赖银行在你需要的时候支付你的提款。ETF的流动性很高，但在发生灾难性事件时，某些条款和条件有时有利于该基金。</p>
+<h2 style="text-align: justify;line-height: 2">总结图表</h2>
+<table style="border-collapse: collapse;margin-left: auto;margin-right: auto;border: 1px solid #99acc2;width: 99.1402%;height: 383.859px">
+<tbody>
+<tr style="height: 53.125px">
+<td style="border: 0.99609pt solid #000000;width: 4.13383%;height: 53px;vertical-align: top">&nbsp;</td>
+<td style="border: 0.99609pt solid #000000;width: 95.9049%;height: 53px;vertical-align: top" colspan="2">
+<p style="text-align: center"><span style="font-size: 18px"><strong>购买白银</strong></span></p>
+</td>
+</tr>
+<tr style="height: 53px">
+<td style="border: 0.99609pt solid #000000;width: 4.13383%;height: 53px;vertical-align: top">
+<p><span style="font-size: 18px">&nbsp;</span></p>
+</td>
+<td style="border: 0.99609pt solid #000000;width: 47.9525%;height: 53px;vertical-align: top">
+<p style="text-align: center"><span style="font-size: 18px"><strong>5 大优点</strong></span></p>
+</td>
+<td style="border: 0.99609pt solid #000000;width: 47.9525%;height: 53px;vertical-align: top">
+<p style="text-align: center"><span style="font-size: 18px"><strong>4 大缺点</strong></span></p>
+</td>
+</tr>
+<tr style="height: 48.3125px">
+<td style="border: 0.99609pt solid #000000;width: 4.13383%;height: 48px;vertical-align: top">
+<p><span style="font-size: 18px">1.</span></p>
+</td>
+<td style="border: 0.99609pt solid #000000;width: 47.9525%;height: 48px;vertical-align: top">
+<p><span style="font-size: 18px">全天候价值储存——它是有形的金钱</span></p>
+</td>
+<td style="border: 0.99609pt solid #000000;width: 47.9525%;height: 48px;vertical-align: top">
+<p><span style="font-size: 18px">恐惧会对价格产生负面影响</span></p>
+</td>
+</tr>
+<tr style="height: 78.3125px">
+<td style="border: 0.99609pt solid #000000;width: 4.13383%;height: 78px;vertical-align: top">
+<p><span style="font-size: 18px">2.</span></p>
+</td>
+<td style="border: 0.99609pt solid #000000;width: 47.9525%;height: 78px;vertical-align: top">
+<p><span style="font-size: 18px">对于入门者来说，银是一种有效的投资组合分散工具</span></p>
+</td>
+<td style="border: 0.99609pt solid #000000;width: 47.9525%;height: 78px;vertical-align: top">
+<p><span style="font-size: 18px">实物白银没有红利</span></p>
+</td>
+</tr>
+<tr style="height: 49.4844px">
+<td style="border: 0.99609pt solid #000000;width: 4.13383%;height: 49px;vertical-align: top">
+<p><span style="font-size: 18px">3.</span></p>
+</td>
+<td style="border: 0.99609pt solid #000000;width: 47.9525%;height: 49px;vertical-align: top">
+<p><span style="font-size: 18px">白银的回报率比黄金高</span></p>
+</td>
+<td style="border: 0.99609pt solid #000000;width: 47.9525%;height: 49px;vertical-align: top">
+<p><span style="font-size: 18px">每盎司没有对应的准确价值</span></p>
+</td>
+</tr>
+<tr style="height: 49.3125px">
+<td style="border: 0.99609pt solid #000000;width: 4.13383%;height: 49px;vertical-align: top">
+<p><span style="font-size: 18px">4.</span></p>
+</td>
+<td style="border: 0.99609pt solid #000000;width: 47.9525%;height: 49px;vertical-align: top">
+<p><span style="font-size: 18px">白银是一种避险投资</span></p>
+</td>
+<td style="border: 0.99609pt solid #000000;width: 47.9525%;height: 49px;vertical-align: top">
+<p><span style="font-size: 18px">白银ETF存在交易对手风险</span></p>
+</td>
+</tr>
+<tr style="height: 51px">
+<td style="border: 0.99609pt solid #000000;width: 4.13383%;height: 51px;vertical-align: top">
+<p><span style="font-size: 18px">5.</span></p>
+</td>
+<td style="border: 0.99609pt solid #000000;width: 47.9525%;height: 51px;vertical-align: top">
+<p><span style="font-size: 18px">用途广泛的多功能金属——持续需求</span></p>
+</td>
+<td style="border: 0.99609pt solid #000000;width: 47.9525%;height: 51px;vertical-align: top">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<h2 style="text-align: justify;line-height: 2">投资白银的4种方法</h2>
+<p style="text-align: justify;line-height: 2">掌握了投资白银的利与弊的足够信息后，你现在需要考虑如何投资白银。如果你正在寻找投资白银的最佳方式，这里有一些现成的建议。</p>
+<h3 style="text-align: justify;line-height: 2">1. 购买银条</h3>
+<p style="text-align: justify;line-height: 2">价值投资者可以以硬币、银条或各种形式购买白银铸造的实物。废银被认为是最纯粹的形式。它通常是各种各样的纯银，存放在家里的一个小箱子里，或存放在保险库里的大量白银。然而，储存白银是困难的，因为需要为安全设备制定单独的计划，特别是知道贵金属会被偷。你可以投资实物白银，以避免其他方就其操作订立合同或担保。</p>
+<p style="text-align: justify;line-height: 2">实物形式的白银需要有人在网上商店或当地硬币商店购买或出售。如果你在网上购买，你可能会得到更好的价格，因为实体店通常会考虑其他因素，如存储、租金和安全成本。</p>
+<h3 style="text-align: justify;line-height: 2">2. 买白银ETF和期货</h3>
+<p style="text-align: justify;line-height: 2">交易所交易基金(ETF)的狂热使得许多投资者更容易拥有贵金属，而不用担心它们的储存。在投资白银ETF之前，你可以通过一个演示账户来监控价格并学习交易。一些知名的<a href="/zh-hans/etf" rel="noopener" target="_blank">白银ETF</a>和期货合约包括景顺银行白银基金(Invesco DB silver Fund)和SPDR。这是一种投资白银的好方法，因为人们可以享受拥有白银的好处、日内交易和实时报价，以监控投资组合中白银的价格。</p>
+<p style="text-align: justify;line-height: 2">喜欢波动性大的交易员喜欢白银ETF，而不是黄金，因为白银价格波动更大，对制造业数据的轻微波动更有反应。然而，最大的好处是在需要时立即卖出或买入。实物黄金可能需要很长时间才能以合适的价格和数量出售。点击这里进行<a href="/zh-hans/markets/commodities" rel="noopener" target="_blank">商品交易</a>。</p>
+<p style="text-align: justify;line-height: 2"><img loading="lazy" decoding="async" src="https://www.atfx.com/hubfs/ETF.webp" alt="ETF" width="975" height="502" loading="lazy" style="height: auto;max-width: 100%;width: 975px"></p>
+<h3 style="text-align: justify;line-height: 2">3. 拥有白银公司股票</h3>
+<p style="text-align: justify;line-height: 2">如果你喜欢拥有白银资产，而不担心供应问题，你可以购买银矿股。有时白银矿业股票的表现可能会超过白银本身的收益。</p>
+<p style="text-align: justify;line-height: 2">此外，该矿业公司的管理层可能会进行资产投资，以增加其白银产量，使其股价迅速上涨。一定要确保你投资的矿业公司以白银为主要关注点。First Magtic Silver(NYSE:AG)的主要业务是白银，2020年65%的收入来自白银开采。点击这里开始<a href="/zh-hans/markets/shares-trading" rel="noopener" target="_blank">股票交易</a>。</p>
+<h3 style="text-align: justify;line-height: 2">4. 白银作为外汇货币对进行交易</h3>
+<p style="text-align: justify;line-height: 2">如果有一种技巧可以让你以尽可能少的步骤投资白银，那就是与货币对一起交易。如果你已经知道如何在<a href="/zh-hans/markets/forex-trading" rel="noopener" target="_blank">外汇交易</a>中使用银对。人们可以任意投资他们想要的金额，因为它不要求交易者购买一定数量的最低数量来拥有白银。这种货币只是根据当时现货银的价值进行交换。这种方法是投机交易者的最爱，因为无论现货银价格是否下跌，他们都可以从中获利。当你打赌价格会下跌时，做空头寸就会有利可图，而这种情况确实会发生。</p>
+<h2 style="text-align: justify;line-height: 2">那么，你应该炒白银吗？</h2>
+<p style="text-align: justify;line-height: 2">华尔街专家、交易员和市场行家的总体共识是，从长期来看，白银有很大的上涨潜力。白银几乎没有下跌风险，但与许多其他资产类型不同，白银受到工业用途增加的支撑。它是新手的首选金属。可以肯定的是，白银将保持其战略重要性，以对冲可能暗示经济萧条的不同市场事件。</p>
+<p style="text-align: justify;line-height: 2">白银投资受到高度评价，因为它给人们提供了一种安全的资产，即使是在动荡的贵金属市场。即使白银在未来几个月的表现仍不确定，你也可以指望它仍是投资组合经理和投机交易员的战略持有资产。因此，强烈建议你在投资组合中加入白银，以保护你的净资产不受未来经济波动的影响。<a href="/zh-hans/analysis/trading-strategies/how-to-become-a-trader" rel="noopener" target="_blank">学习如何成为一名操盘手</a>。</p>
+<p style="text-align: justify;line-height: 2"><img loading="lazy" decoding="async" src="https://www.atfx.com/hubfs/Trade%20Silver%20ATFX.webp" alt="Trade Silver ATFX" width="1200" height="619" loading="lazy" style="height: auto;max-width: 100%;width: 1200px"></p>
+<h2 style="text-align: justify;line-height: 2">如何开始购买白银？</h2>
+<p style="text-align: justify;line-height: 2">只需几个简单的步骤，你就可以在几分钟内开始你的白银投资生涯。在你的电脑或手机上开一个账户，开始<a href="/zh-hans/markets/commodities/oil-trading" rel="noopener" target="_blank">交易原油</a>、白银、黄金、股票、外汇和其他金融工具。ATFX在一个非常实用的交易平台上提供所有主要货币对、加密货币和其他货币对。如果你还想在投资之前对市场有更多的了解，你可以开一个<a href="/zh-hans/trading-accounts/demo-account" rel="noopener" target="_blank">模拟账户</a>，在学习ATFX提供的指南或免费培训材料的同时，练习不同的策略。马上报名吧！</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>买黄金来投资划算吗？黄金投资的5 个利与弊</title>
+		<link>https://www.atfx.com/zh-hans/analysis/trading-strategies/is-gold-good-investment</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Mon, 05 Dec 2022 06:00:00 +0000</pubDate>
+				<category><![CDATA[交易策略]]></category>
+		<category><![CDATA[中级交易策略]]></category>
+		<guid isPermaLink="false">https://lptemplatedev.wpengine.com/uncategorized/is-gold-good-investment</guid>
+
+					<description><![CDATA[购买黄金是一项好的投资吗？交易员、储蓄者和投资者青睐黄金的原因有很多，其中包括黄金令人印象深刻的特性，这使得它 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p style="text-align: justify; line-height: 2;">购买黄金是一项好的投资吗？交易员、储蓄者和投资者青睐黄金的原因有很多，其中包括黄金令人印象深刻的特性，这使得它与债券和股票等传统证券形成了鲜明对比。全世界都认为黄金是一种很好的保值手段，尽管它不提供任何现金流。许多人认为黄金是对冲通胀的绝佳工具，但这是投资黄金的唯一理由吗? 然而，黄金是一种好的投资吗？更重要的是，你现在应该<a href="/zh-hans/analysis/trading-strategies/5-tips-for-trading-gold-xauusd" target="_blank" rel="noopener">投资黄金</a>吗？</p>
+<p><span id="more-11144"></span></p>
+<p style="text-align: justify; line-height: 2;">购买黄金需要初学者了解买卖黄金有利有弊。很多因素都会起作用，包括策略、时机和定价。在你开始买卖黄金之前，你应该考虑以下5个利弊。</p>
+<p style="text-align: justify; line-height: 2;"><span style="font-size: 11px; color: #000000; background-color: #d9ead3;"><img loading="lazy" decoding="async" style="margin-left: auto; margin-right: auto; height: auto; max-width: 100%; width: 948px;" src="https://www.atfx.com/hubfs/is%20gold%20a%20good%20investment.webp" alt="is gold a good investment" width="948" height="489" /></span></p>
+<h2 style="text-align: justify; line-height: 2;">投资黄金的 5 大好处</h2>
+<h3 style="text-align: justify; line-height: 2;">1. 黄金有很长的升值历史。</h3>
+<p style="text-align: justify; line-height: 2;">自从黄金被发现以来，它一直是人们梦寐以求的商品，用来储存财富。尽管大多数央行最近已经停止使用黄金支持的货币，但黄金仍然非常有价值，尤其是在经济低迷时期。与硬币和纸币不同，黄金几个世纪以来一直保持稳定。投资者可以押注黄金，将财富传给后代。</p>
+<h3 style="text-align: justify; line-height: 2;">2. 危机时期的可靠对冲</h3>
+<p style="text-align: justify; line-height: 2;">历史上，黄金作为对抗通货膨胀和其他危机的可靠对冲手段表现良好。即使在2022年生活成本继续上升的情况下，它的价格仍在上涨。当世界主要经济体遭受高通货膨胀时，它们的货币会贬值，国债收益率也会变得不利。这种现象促使投资者关注黄金，因为作为避险资源，现金和国债收益率变得不那么有效。在过去的50年里，黄金价格持续上涨，而每当出现高通胀时期，股票指数就会暴跌。</p>
+<p style="text-align: justify; line-height: 2;"><img loading="lazy" decoding="async" style="height: auto; max-width: 100%; width: 1200px;" src="https://www.atfx.com/hubfs/Gold%20Markets%20Bear.webp" alt="Gold Markets Bear" width="1200" height="619" /></p>
+<h3 style="text-align: justify; line-height: 2;">3. 黄金帮助你分散投资组合</h3>
+<p style="text-align: justify; line-height: 2;">在投资组合中，除了普通股之外，拥有更多的股票是明智的。如果从十多年的时间来看，黄金有助于在经济低迷时期减少损失。它对提高投资组合中经风险调整后的回报的表现有极好的作用。黄金期货或ETF为你提供了一种流动性资产，同时在经济繁荣和萧条期间保持与其他资产类别的低相关性。根据金融投资建议，好的投资组合应该拥有相关性较低的资产，黄金是一个极好的选择，因为它与股票呈负相关。</p>
+<h3 style="text-align: justify; line-height: 2;">4. 黄金需求持续增长</h3>
+<p style="text-align: justify; line-height: 2;">随着新兴经济体的持续繁荣，新财富增加了消费者对黄金的需求。也有一些国家，金饰是文化的一部分。例如，印度是全球最大的黄金消费国，这是因为拥有黄金首饰的人非常普遍。印度家庭持有的黄金总量超过了前五大央行。赠送黄金首饰和家居装饰是亚洲的一种普遍文化。中国和印度是全球最大的黄金消费国。对于那些计投资黄金、又不确定需求的人来说，迅速壮大的中产阶级已经是一个很好的投资线索。</p>
+<p style="text-align: justify; line-height: 2;">由于现金流动性高的中产阶级对黄金珠宝、戒指和相关配件的需求更大，预计黄金需求将会增长。过去10年，由于网上交易的普及，机构投资者和基金经理纷纷涌向黄金和贵金属，将其作为投资渠道。它们是配置资金和从微小价格变化中受益的流动性投资渠道。</p>
+<h3 style="text-align: justify; line-height: 2;">5. 全球政府债务正处于最高水平</h3>
+<p style="text-align: justify; line-height: 2;">全球政府债务总额每年都在增加。2020年底的总债务为284万亿美元，预计在2023年还会增加，因为许多经济体别无选择，只能继续借贷。全球主要经济体所经历的巨额赤字也可能意味着另一场金融危机可能正在酝酿之中。我现在应该投资黄金吗？精明的投资者应该将此视为一个信号，将黄金作为一种可以保护其投资组合的避险资产。</p>
+<h2 style="text-align: justify; line-height: 2;">投资黄金的 5 个缺点</h2>
+<p style="text-align: justify; line-height: 2;">就像所有的投资一样，它从来都不是一帆风顺的。投资黄金也有一些重大的风险和缺点。这些常见的问题经常使人们不愿在投资组合中持有大量黄金。</p>
+<h3 style="text-align: justify; line-height: 2;">1. 大幅上涨后又下跌</h3>
+<p style="text-align: justify; line-height: 2;">当全球经济进入轻度或严重衰退时，黄金价格通常会飙升。这一点在2011年表现得很明显，当时金价平均达到每盎司1888美元。然而，到2020年中期，价格已经下降。这表明价格表现良好，但与十年前相比仍有所下降。</p>
+<p style="text-align: justify; line-height: 2;">一个更为明显的趋势发生在70年代末，当时由于经济不稳定，金价飙升。在屡创新高之后，现货价格在接下来的20年里逐渐下跌。根据你可能采取的策略，一个买入并持有的投资者不会等待10年，直到价格接近或低于他们买入时的价格。在2020年大流行期间，投资者不确定经济将如何表现，反过来，许多人也不太清楚黄金交易的未来走向。在70年代的情况下，许多投资者还需要决定是立即买入黄金，还是等待金价稍微下跌后再买入。股市在持续反弹后大幅下跌，令许多没有高风险偏好的投资者望而却步。</p>
+<p style="text-align: justify; line-height: 2;"><img loading="lazy" decoding="async" style="height: auto; max-width: 100%; width: 1200px;" src="https://www.atfx.com/hubfs/Cons%20of%20Gold%20Investment.webp" alt="Cons of Gold Investment" width="1200" height="619" /></p>
+<h3 style="text-align: justify; line-height: 2;">2. 金币并不是抵御通货膨胀的完美工具</h3>
+<p style="text-align: justify; line-height: 2;">由于金币或金条不产生股息或任何利息回报，黄金并不是长期通货膨胀的“完美对冲”。投资黄金也是有风险的，人们希望对这种风险有一定的补偿。对黄金进行战略性配置是可以的，但从长期来看，许多人认为，黄金无法产生足以证明简单地将其存放在保险库里的回报水平。另一方面，尽管通货膨胀保值债券在高通胀时期提供了一些保障，但其他证券，如通货膨胀保值债券和自然资源类股票，可以提供更好的对冲效果。</p>
+<h3 style="text-align: justify; line-height: 2;">3.黄金不能生产或复制</h3>
+<p style="text-align: justify; line-height: 2;">如果从非价格的角度来看，随着时间的推移，一盎司黄金仍将是一盎司黄金。相比之下，投资者可能更喜欢公司股，因为这些公司生产其他产品。例如，一支科技股可能会继续生产一些消费电子产品，为投资者带来新的收入来源。如果条件合适，一家公司可能会拥有不断增长的资产组合，从而获得更大的盈利潜力。从好的方面看，一家盈利的公司可能会给投资者更多的股息。它仍可能将利润再投资于其他有可能获得更多收入流的企业。发现投资者收回投资并从股息中获得比最初投资更多的收益是很正常的。</p>
+<h3 style="text-align: justify; line-height: 2;">4. 黄金的用途有限</h3>
+<p style="text-align: justify; line-height: 2;">黄金需求最常见的来源是珠宝。然而，珠宝首饰在黄金总需求中所占的比例已经慢慢下降，而大部分新需求都来自金融投机。除了装饰、工业和医疗用途外，很难说将来是否会出现新的用途。由于实物黄金没有收入来源，人们大多依靠短期需求变化来识别潜在的交易机会。</p>
+<h3 style="text-align: justify; line-height: 2;">5. 黄金缺乏标准的估值标准</h3>
+<p style="text-align: justify; line-height: 2;">与黄金相比，股票估值是一个简单的过程。金融专家可以根据未来的现金流对任何资产进行估值。有准确的财务比率，以及其他被搜索为市盈率和市净率的数据，可以帮助投资者在<a href="/zh-hans/markets/shares-trading" target="_blank" rel="noopener">交易公司股票</a>之前知道他们是否做了一笔划算的交易。对于黄金，事情变得有点模糊。黄金纯粹是基于人们对其价值的印象。当你无法判断收益的增长，因为你无法预测黄金的收益时，情况就更加棘手了。</p>
+<p style="text-align: justify; line-height: 2;">在给一只股票评级时，公司股票的基本面也可以给投资者提供一条线索，让他们知道该股的上行或下行潜力有多大。另一方面，黄金的价值会因供求关系而变化。在最坏的情况下，黄金的供需往往是由恐慌而非直接的基本面因素推动的。因此，估值方面的挑战使得投资金条或金币对于初学者来说是一个棘手的问题。</p>
+<h2 style="text-align: justify; line-height: 2;">总结图表</h2>
+<table style="border-collapse: collapse; margin-left: auto; margin-right: auto; border: 1px solid #99acc2; width: 99.9886%; height: 343.5px;">
+<tbody>
+<tr style="height: 50.3125px;">
+<td style="border: 0.99609pt solid #000000; width: 3.88226%; height: 50px; vertical-align: top;" rowspan="2"></td>
+<td style="border: 0.99609pt solid #000000; width: 96.1557%; height: 50px; vertical-align: top;" colspan="2">
+<p style="text-align: center; font-size: 18px;"><strong>黄金买卖</strong></p>
+</td>
+</tr>
+<tr style="height: 48.3125px;">
+<td style="border: 0.99609pt solid #000000; width: 47.2294%; height: 48px; vertical-align: top;">
+<p style="text-align: center;"><strong>5 大优点</strong></p>
+</td>
+<td style="border: 0.99609pt solid #000000; width: 48.9263%; height: 48px; vertical-align: top;">
+<p style="text-align: center;"><strong>5 大缺点</strong></p>
+</td>
+</tr>
+<tr style="height: 48.3125px;">
+<td style="border: 0.99609pt solid #000000; width: 3.88226%; height: 48px; vertical-align: top;">1.</td>
+<td style="border: 0.99609pt solid #000000; width: 47.2294%; height: 48px; vertical-align: top;">黄金有很长的升值历史</td>
+<td style="border: 0.99609pt solid #000000; width: 48.9263%; height: 48px; vertical-align: top;">大幅上涨后又下跌</td>
+</tr>
+<tr style="height: 50.3125px;">
+<td style="border: 0.99609pt solid #000000; width: 3.88226%; height: 50px; vertical-align: top;">2.</td>
+<td style="border: 0.99609pt solid #000000; width: 47.2294%; height: 50px; vertical-align: top;">危机时期的可靠对冲</td>
+<td style="border: 0.99609pt solid #000000; width: 48.9263%; height: 50px; vertical-align: top;">金币并不是抵御通货膨胀的完美工具</td>
+</tr>
+<tr style="height: 48.3125px;">
+<td style="border: 0.99609pt solid #000000; width: 3.88226%; height: 48px; vertical-align: top;">3.</td>
+<td style="border: 0.99609pt solid #000000; width: 47.2294%; height: 48px; vertical-align: top;">黄金帮助你分散投资组合</td>
+<td style="border: 0.99609pt solid #000000; width: 48.9263%; height: 48px; vertical-align: top;">黄金不能生产或复制</td>
+</tr>
+<tr style="height: 48.3125px;">
+<td style="border: 0.99609pt solid #000000; width: 3.88226%; height: 48px; vertical-align: top;">4.</td>
+<td style="border: 0.99609pt solid #000000; width: 47.2294%; height: 48px; vertical-align: top;">黄金需求持续增长</td>
+<td style="border: 0.99609pt solid #000000; width: 48.9263%; height: 48px; vertical-align: top;">黄金的用途有限</td>
+</tr>
+<tr style="height: 48.3125px;">
+<td style="border: 0.99609pt solid #000000; width: 3.88226%; height: 48px; vertical-align: top;">5.</td>
+<td style="border: 0.99609pt solid #000000; width: 47.2294%; height: 48px; vertical-align: top;">全球政府债务正处于最高水平</td>
+<td style="border: 0.99609pt solid #000000; width: 48.9263%; height: 48px; vertical-align: top;">
+<p style="font-size: 18px;">黄金缺乏标准的估值标准</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h2 style="text-align: justify; line-height: 2;"></h2>
+<h2 style="text-align: justify; line-height: 2;">4 种投资黄金的管道</h2>
+<p style="text-align: justify; line-height: 2;">现在你已经大致了解了黄金的利弊，接下来要考虑的是如何购买黄金。因此，了解你可以持有或交易黄金的常用渠道是至关重要的。</p>
+<h3 style="text-align: justify; line-height: 2;">1. 金条</h3>
+<p style="text-align: justify; line-height: 2;">投资实物黄金最古老的方式是通过金条。人们通过JM bullion或APMEX等在线交易商购买金条。人们也从面对面的介绍人、当地的交易商、收藏家和典当行购买。由于以这种方式持有黄金的基本方式，投资者需要找到一个有意愿的卖家，并确保所需的数量是可用的，他们可以获得公平的交易。你可以随时与现货价格进行交叉核对，以免上当受骗。考虑到黄金的形式，它还需要一种安全的运输和储存方式。</p>
+<h3 style="text-align: justify; line-height: 2;">2. 购买黄金ETF</h3>
+<p style="text-align: justify; line-height: 2;">为了跳过拥有实物黄金的复杂性和安全储存黄金的成本，你可以考虑购买投资黄金的etf。从全球顶级指数中<a href="/zh-hans/etf" target="_blank" rel="noopener">购买黄金ETF</a>。一些流行的黄金ETF包括SPDR gold Trust和iShares gold Trust。买卖黄金的etf为你提供了更多的流动性和便利，因为投资者只被发行由信托持有的实际黄金的股份。它们是在市场上复制黄金表现的好方法，同时只向投资者收取很小的费用比例。</p>
+<p style="text-align: justify; line-height: 2;"><img loading="lazy" decoding="async" style="height: auto; max-width: 100%; width: 1200px;" src="https://www.atfx.com/hubfs/Trade%20Gold%20ETF%20with%20ATFX.webp" alt="Trade Gold ETF with ATFX" width="1200" height="619" /></p>
+<h3 style="text-align: justify; line-height: 2;">3. 黄金期货</h3>
+<p style="text-align: justify; line-height: 2;">黄金期货是投机黄金价格的一种方便快捷的方式。投资者可以简单地推测价格是涨是跌。COMEX黄金期货(GC)是黄金期货合约的最高公认基准。当发布在网上时，人们可以得到提示、分析和跟踪日常变化。经常做生意的人甚至在舒适的家里下单。点击这里进行<a href="/zh-hans/markets/commodities" target="_blank" rel="noopener">商品交易</a>。</p>
+<h3 style="text-align: justify; line-height: 2;">4. 将黄金作为货币进行交易</h3>
+<p style="text-align: justify; line-height: 2;">澳元兑美元是目前外汇经纪人提供的货币对之一。如果你已经知道如何在<a href="/zh-hans/markets/forex-trading" target="_blank" rel="noopener">外汇交易</a>中使用黄金对。作为一个免费的建议，将黄金作为货币组合进行交易可以帮助你一举两得，因为你可以采用与交易货币和股票相同的策略。实时图表还可以帮助您实时监控价格变化。初学者可以开一个模拟账户，用一个指南来测试不同的黄金价格波动赚钱策略。</p>
+<h2 style="text-align: justify; line-height: 2;">那么，你应该投资黄金吗?</h2>
+<p style="text-align: justify; line-height: 2;">买卖黄金的利远大于弊。所选择的投资工具取决于首选的时间框架(短期或长期)和首选的购买黄金的理由。希望在战争或政治危机期间有后备计划的黄金持有者会更喜欢实物黄金，因为它与国家的金融体系没有关联。如果你更喜欢进行短期投机交易，黄金ETF和黄金期货将为你提供利用价格波动的流动性解决方案。学习<a href="/zh-hans/analysis/trading-strategies/how-to-become-a-trader" target="_blank" rel="noopener">如何成为一名交易者</a>。</p>
+<p style="text-align: justify; line-height: 2;"><img loading="lazy" decoding="async" style="height: auto; max-width: 100%; width: 1200px;" src="https://www.atfx.com/hubfs/Pros%20of%20Gold%20Investment.webp" alt="Pros of Gold Investment" width="1200" height="619" /></p>
+<h2 style="text-align: justify; line-height: 2;">如何开始买卖黄金?</h2>
+<p style="text-align: justify; line-height: 2;">你可以在ATFX开一个账户，今天就开始<a href="/zh-hans/markets/commodities/gold-trading" target="_blank" rel="noopener">买卖黄金</a>、白银、<a href="/zh-hans/markets/commodities/oil-trading" target="_blank" rel="noopener">原油</a>等。你的新投资机会之旅可以从几次点击开始。有了ATFX，您可以享受低价差，快速执行订单，24-5实时支持您所有的交易需求。如果你还是一个交易新手，你可以在ATFX<a href="/zh-hans/trading-accounts/demo-account" target="_blank" rel="noopener">注册一个模拟账户</a>，然后练习，而不用存入真钱。用免费的有价值的培训指南来测试你所有的策略，让自己熟悉市场。一旦您想要升级到一个真实帐户，一个有回报的未来正在等着您。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>道琼斯指数为什么非常重要 — 中级交易策略</title>
+		<link>https://www.atfx.com/zh-hans/analysis/trading-strategies/why-dow-jones-important-in-world-of-stocks</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Wed, 16 Feb 2022 09:00:00 +0000</pubDate>
+				<category><![CDATA[交易策略]]></category>
+		<category><![CDATA[中级交易策略]]></category>
+		<guid isPermaLink="false">https://lptemplatedev.wpengine.com/uncategorized/why-dow-jones-important-in-world-of-stocks-2</guid>
+
+					<description><![CDATA[很多新手在解除美国股票的时候都听过道琼斯指数这个名词，1884年的时候，道琼斯公司的创始人查尔斯亨利道首次编制 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p style="text-align: justify;line-height: 1.75"><span style="font-size: 18px">很多新手在解除美国股票的时候都听过<a href="/zh-hans/live-chart/dow-jones" rel="noopener" target="_blank">道琼斯指数</a>这个名词，1884年的时候，道琼斯公司的创始人查尔斯亨利道首次编制了道琼斯指数，到目前为止，道琼斯指数是目前世界上最古老的股票指数，道琼斯只是的全称是平均股价指数。</span></p>
+<p><span id="more-10650"></span></p>
+<p style="text-align: justify;line-height: 1.75"><span style="font-size: 18px">道琼斯指数一共有四组指数，这四组指数是根据不同的规则来编制的，美国道琼斯指数通常是指的这里面比较具有代表性的道琼斯工业平均指数，该指数选取了30家比较具有代表性的纽交所上市工业公司的股票进行编制，道琼斯指数是道琼斯公司的创始人于1884年所编写的一种股价指数，也是世界上最早的<a href="/zh-hans/analysis/trading-strategies/what-you-should-know-about-the-three-major-us-stock-market-indexes" rel="noopener" target="_blank">股票指数</a>。</span></p>
+<p style="text-align: justify;line-height: 1.75"><span style="font-size: 18px"><img decoding="async" src="https://www.atfx.com/hubfs/ATFX-dow-jones-trading.jpg?width=1200&amp;name=ATFX-dow-jones-trading.jpg" alt="ATFX-dow-jones-trading" loading="lazy"></span><span style="font-size: 18px;color: #434343"></span></p>
+<h3 style="text-align: justify;line-height: 1.75"><span style="font-size: 18px;color: #434343">1、道琼斯指数所选取的上升公司都是在美国甚至是在世界上都举足轻重的，并且所选择的公司也不是一成不变的，会经常进行更新，所以其股价的走势变化通常可以代表宏观上的经济发展情况。</span></h3>
+<h3 style="text-align: justify;line-height: 1.75"><span style="font-size: 18px;color: #434343">2、道琼斯指数的相关信息都是由《华尔街日报》进行公布的，该报纸在世界金融行业中的地位是举足轻重的。</span></h3>
+<h3 style="text-align: justify;line-height: 1.75"><span style="font-size: 18px"><span style="color: #434343">3、道琼斯指数有着悠久的历史，并且从编制以来就没有停止过，所以其可参考的范围非常的大，研究的价值和意义也是高于其他</span><a href="/zh-hans/markets/indices-trading" rel="noopener" target="_blank">指数</a><span style="color: #434343">的。</span></span></h3>
+<p>&nbsp;</p>
+<p style="text-align: justify;line-height: 1.75"><span style="font-size: 18px">自2020年，ATFX对<a href="/zh-hans/trading-platforms/metatrader-4/mt4-indicators" rel="noopener" target="_blank">MT4交易平台</a>进行优化升级，在现有新闻资讯的基础上，最新增加了道琼斯通讯社的新闻服务，并提供多种语言供投资者灵活选择。</span></p>
+<p style="text-align: justify;line-height: 1.75"><span style="font-size: 18px"><img decoding="async" src="https://www.atfx.com/hubfs/ATFX-metatrader4-platform%20(1).jpg?width=1200&amp;name=ATFX-metatrader4-platform%20(1).jpg" alt="ATFX-metatrader4-platform (1)" loading="lazy"></span></p>
+<p style="text-align: justify;line-height: 1.75"><span style="font-size: 18px">道琼斯通讯社的新闻服务的上线，使得ATFX交易平台的<a href="/zh-hans/analysis" rel="noopener" target="_blank">金融投资资讯</a>更加全面化、国际化，客户可以获得来自众多国际客户端提供的最新新闻，学习最专业的分析技巧和<a href="/zh-hans/analysis/trading-strategies" rel="noopener" target="_blank">投资策略</a>，有助于客户做出最精准的判断和决策，进一步提升客户的交易水平。</span></p>
+<p style="text-align: justify;line-height: 1.75"><span style="font-size: 18px">道琼斯通讯社提供的信息内容在金融市场具有很高的权威性和参考价值。ATFX将道琼斯通讯社的服务纳入到MT4交易平台之中，进一步拓展了客户获取信息的渠道。ATFX客户可以从道琼斯通讯中社获得独家的见解，并且也可以对<a href="/zh-hans/analysis/market-news" rel="noopener" target="_blank">金融市场</a>的日常运作有更多的了解。新增的道琼斯通讯社新闻内容提供丰富的信息和数据流，ATFX的客户可以根据自己的兴趣使用不同的语言轻松导航和自定义门户。</span></p>
+<p style="text-align: justify;line-height: 1.75"><span style="font-size: 18px">ATFX所有客户都可以在MT4交易平台上免费使用<a href="/zh-hans/education-and-tools/trading-central" rel="noopener" target="_blank">Trading Central</a>的专业交易工具以及道琼斯通讯社提供的免费财经新闻和市场信息。门户网站中的专业工具包括实时新闻、分析师观点指标、技术和基础分析、模式识别以及大数据驱动的情感工具，这将有助于客户制定更加精准的投资策略。</span></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>美联储加息如何影响股票及外汇市场</title>
+		<link>https://www.atfx.com/zh-hans/analysis/trading-strategies/how-fed-rate-hikes-affect-stock-forex-market</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Wed, 02 Feb 2022 06:11:00 +0000</pubDate>
+				<category><![CDATA[交易策略]]></category>
+		<category><![CDATA[中级交易策略]]></category>
+		<guid isPermaLink="false">https://lptemplatedev.wpengine.com/uncategorized/how-fed-rate-hikes-affect-stock-forex-market-2</guid>
+
+					<description><![CDATA[在现实中，美联储加息就意味着使用美元兑换其他的货币会更加有吸引力，像国内的资金以及一些外资企业的资金就会流入美 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p style="text-align: justify;line-height: 1.75">在现实中，美联储加息就意味着使用美元兑换其他的货币会更加有吸引力，像国内的资金以及一些外资企业的资金就会流入美国的市场，这对于美国的投资市场来说属于一件利好的消息，同时非常容易引发美元升值，美联储加息提高了美国银行的存款利率，一些稳妥的美国投资者就会选择把钱存入银行，美国股票市场的行情就会有所波动，造成股价下跌，但是从大方面来看，美联储加息对于美国经济所产生的影响是利大于弊，接下来就来说一下美联储加息对于股票市场有哪些影响：</p>
+<p><span id="more-10614"></span></p>
+<p style="text-align: justify;line-height: 1.75"><img decoding="async" src="https://www.atfx.com/hubfs/ATFX-fed-rate-hikes.jpg?width=1200&amp;name=ATFX-fed-rate-hikes.jpg" alt="ATFX-fed-rate-hikes" loading="lazy" style="margin-left: auto;margin-right: auto"></p>
+<p style="text-align: justify;line-height: 1.75">1、对于美国股市来说，加息会提高银行存款的利率，因此美国的投资者就会选择将钱存入银行，这样就导致流入股市的资金大大的减少；</p>
+<p style="text-align: justify;line-height: 1.75">&nbsp;</p>
+<p style="text-align: justify;line-height: 1.75">2、对于中国的股市来说，美国的股市流入的资金减少，股价下跌，美股下跌就会对全球的股市造成影响。</p>
+<p style="text-align: justify;line-height: 1.75">&nbsp;</p>
+<p style="text-align: justify;line-height: 1.75">3、美联储的利息提高，大陆的资金或者外资就会流入美国市场，一旦美元升值，人民币贬值，就会使得中国企业进购原料的成本提高。</p>
+<p style="text-align: justify;line-height: 1.75">&nbsp;</p>
+<h2 style="text-align: justify;font-size: 24px;line-height: 1.75">美联储加息如何影响外汇交易市场</h2>
+<p style="text-align: justify;line-height: 1.75">如果美联储进行加息，就意味着美元的资产收到追捧，美元升值幅度高，每个国家的资本对于购买美元资产的倾向就会增加，同样这对我我们国家的资本流动也会产生很大的压力。但是在大多数的时候，在外汇交易市场的盘面上，美元宣布加息，美元实际是没有走高的。</p>
+<p style="text-align: justify;line-height: 1.75">&nbsp;</p>
+<p style="text-align: justify;line-height: 1.75">主要原因就在于外汇交易市场通过了各种渠道，比如说美国的经济状况以及政要人物的讲话等因素，对于美元的加息有了一定的预期，这个时候外汇交易市场上有可能早就有了一个共识，就是美元即将要加息，外汇交易市场就会出现很多关于美元加息方向的行情，到了美元真正加息的时候，市场可能已经把这次加息对于外汇交易市场的影响已经走完，所以就导致了市场公布数据的时候不会产生多大的影响，如果美元没有宣布加息，市场就可能会有比较大的反应，并且会将之前的行情都吐回去。</p>
+<p style="text-align: justify;line-height: 1.75">&nbsp;</p>
+<h2 style="text-align: justify;font-size: 24px;line-height: 1.75">美联储加息对于外汇交易市场会有哪些影响呢？</h2>
+<p style="text-align: justify;line-height: 1.75"><img decoding="async" src="https://www.atfx.com/hubfs/ATFX-fed-rate-hikes-forex.jpg?width=1200&amp;name=ATFX-fed-rate-hikes-forex.jpg" alt="ATFX-fed-rate-hikes-forex" loading="lazy" style="margin-left: auto;margin-right: auto"></p>
+<p style="text-align: justify;line-height: 1.75">一、美联储加息，就意味着美元进入强势的通道，和美元有所挂钩的货币和商品都会有所贬值；</p>
+<p style="text-align: justify;line-height: 1.75">&nbsp;</p>
+<p style="text-align: justify;line-height: 1.75">二、国际的资本流入到美国的动力会更强；</p>
+<p style="text-align: justify;line-height: 1.75">&nbsp;</p>
+<p style="text-align: justify;line-height: 1.75">三、受到美元资本支持的国家就会面对资本抽造失血的风险；</p>
+<p style="text-align: justify;line-height: 1.75">&nbsp;</p>
+<p style="text-align: justify;line-height: 1.75">四、说明美联储看好美国的经济发展，因为需要采取紧缩货币的政策来打压经济的势头；</p>
+<p style="text-align: justify;line-height: 1.75">&nbsp;</p>
+<p style="text-align: justify;line-height: 1.75">五、就整体来说美元加息对美元有好处，使得美元的指数上涨。</p>
+<p style="text-align: justify;line-height: 1.75">&nbsp;</p>
+<p style="text-align: justify;line-height: 1.75">美联储加息就是提高联邦基金的利率，是商业银行互相拆借资金是的利率。这个利率对于商业银行的利率有着实质的影响，所以可以对银行的利息产生影响。</p>
+<p style="text-align: justify;line-height: 1.75">&nbsp;</p>
+<p style="text-align: justify;line-height: 1.75">美联储加息，就会提高用户存款的利息。所以外汇交易投资者就会更加会喜欢持有美元，国际资金都陆续涌入美国，就会使得美元在外汇交易市场上走强，相对于其他的货币升值，所以其他的货币相较于美元贬值。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>外汇市场的杠杆为什么那么高？—﻿中级交易策略</title>
+		<link>https://www.atfx.com/zh-hans/analysis/trading-strategies/why-is-leverage-high-in-the-forex-market</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Wed, 15 Dec 2021 10:20:00 +0000</pubDate>
+				<category><![CDATA[交易策略]]></category>
+		<category><![CDATA[中级交易策略]]></category>
+		<guid isPermaLink="false">https://lptemplatedev.wpengine.com/uncategorized/why-is-leverage-high-in-the-forex-market-2</guid>
+
+					<description><![CDATA[投资市场以小博大的有力投资工具，有人畏之如水火，有人甘之如蜜饯。 中国的A股市场没有杠杆，因为个股的股价实在是 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><a href="https://www.atfx.com/zh-hans/markets"><span>投资市场</span></a>以小博大的有力<a href="https://www.atfx.com/zh-hans/education-and-tools"><span>投资工具</span></a>，有人畏之如水火，有人甘之如蜜饯。</p>
+<p><span id="more-10428"></span></p>
+<p>中国的A股市场没有杠杆，因为个股的股价实在是太低了。一支10元的股票，交易一手的门槛只有1000元人民币，这对于大部分个人交易者来说都是小意思。</p>
+<p>中国的期货市场，杠杆大部分都设定在20倍。比如豆粕2105合约，当前报价3185元/吨，一手10吨，那么最低交易门槛为3.185万元。这一数额，足够将大部分个人投资者拒之门外。</p>
+<p>为了增加市场流动性，让散户也能参与其中，引入20倍的杠杆就非常合适。同样的合约，交易者只需要支付1592元保证金就可以进行交易，毕竟大部分并不想持有到期（交割需要支付全款），仅仅是参与期货品种的价差交易。</p>
+<p>&nbsp;</p>
+<h2 style="font-size: 33px">汇市的杠杆为什么那么高？</h2>
+<p>同样的道理，因为<a href="https://www.atfx.com/zh-hans/markets/forex-trading"><span>外汇市场</span></a>一手合约的价值高达10万基础货币，并且基础货币往往是美元。10万美元转换成人民币就是70万，这对于大部分交易者来说是很难达到的资金水平。</p>
+<p>要知道，中国科创板所设定的资金门槛是50万人民币，这种门槛就已经怨声载道，更何况是70万的外汇市场最低门槛。</p>
+<p><img decoding="async" src="https://www.atfx.com/hubfs/Others%20folders/ATFX%20Blog%20Image%202020/ATFX_forex-market-trading.jpg" alt="forex-market-trading" width="1200" loading="lazy" style="width: 1200px"></p>
+<p>也许会有人问，一定要10万基础货币吗？我只交易几百几千不可以？</p>
+<p>答案是可以的。但是，对于汇市来说，汇率的波动在短期内是微乎其微的。它不像<a href="https://www.atfx.com/zh-hans/markets/shares-trading"><span>股票市场</span></a>一样，今天一个10%涨停，明天一个10%跌停。</p>
+<p>以EURUSD为例，2019年全年波动2.22%，2018年波动4.45%，2017年波动13.98%，2016年波动3.14%，2015年波动10.17% 。</p>
+<p>全年的波动最高也只是在10%附近，一年有365天，一日的波动幅度之小可想而知。在如此小的波动之下几百几千美元的投资额基本就是开玩笑，可能持有数年时间，都没能获得可观的收益。</p>
+<p>之所以汇率波动小，是因为汇率是一个国家经济稳定的根本。如果汇率经常性的大幅波动，就会对这个国家的进出口产业造成重大打击。</p>
+<p>另外，国内的企业经常会到国际市场进行贷款，如果汇率波动剧烈，贷款的金额就会随着汇率的波动而剧烈变化，这显然不利于企业的财务成本管理。</p>
+<p>汇市的杠杆在30~200之间，50倍以下的杠杆，适合机构参与，100~200的杠杆适合个人交易者参与。</p>
+<p>由于汇市的特性，人们一般不用涨跌百分比来衡量行情的波动性强弱，而是用“标准点”来计量。</p>
+<p>比如EURUSD，一个标准点是0.0001的汇率波动，也就是万分之一。交易一手EURUSD，在200倍的杠杆之下，只需要支付500美金即可，汇率每波动一个标准点，交易者盈亏10美金。一天下来，EURUSD的波动点数大概在几十到几百之间，这样就能够实现低波动率下的可观收益。</p>
+<p>杠杆是一把双刃剑，既可以降低交易门槛，让更多的个人交易者参与进来；同时也增大了交易的风险，尤其会出现本金亏光甚至倒欠钱的情况，也就是业内人士所说的爆仓。</p>
+<p>很多人将爆仓看作是杠杆太高的问题，但笔者看来，这和杠杆高低没有多少关系，反而是交易者风险控制不到位。</p>
+<p>&nbsp;</p>
+<h2 style="font-size: 33px">风控有两大要素：仓位和止损</h2>
+<p>个人交易者常犯的错误是，重仓交易时不设置止损，这是导致巨亏、爆仓和穿仓的根本原因。</p>
+<p><img decoding="async" src="https://www.atfx.com/hubfs/Others%20folders/ATFX%20Blog%20Image%202020/ATFX_trading-risk-control.jpg" alt="ATFX_trading-risk-control" width="1200" loading="lazy" style="width: 1200px"></p>
+<p>即便不用杠杆交易，犯了重仓和不止损的毛病，也会出现超预期的亏损。人们之所以爱犯这两个问题，是因为人性的驱使。</p>
+<p>大家都想来投资市场赚快钱，耐心不足，经常抱着“赌一把”的心态下单。在冲动情绪的引导下，“一把定输赢”的想法占据上风，自然会出现各种不理智的行为。</p>
+<p>成熟的投资者都知道，财务自由并不是通过一笔交易达到的，需要无数的交易单不断累积获得, <a href="https://www.atfx.com/zh-hans/ways-to-trade"><span>学习投资</span></a>。把仓位降下来，把设定止损当做习惯，把交易冲动压制住，这才是长期稳定盈利的诀窍。</p>
+<p>&nbsp;</p>
+<h2 style="font-size: 33px">小结</h2>
+<p>杠杆的范畴很广，上市公司发债券也是杠杆的一种，只不过它被称作财务杠杆。</p>
+<p>买房首付35%，这也是一种杠杆，购房者只需要支付一部分首付款就能够获得住宅房。蚂蚁花呗也是一种杠杆，让借用未来的现金流来人们提前消费。</p>
+<p>所以，杠杆并非魔鬼，它有它的好处，只是人们在使用杠杆时必须注重风险控制。风控是一根绳子，只有将杠杆的脖子套进去，才能让使用者受益无穷。</p>
+<p>&nbsp;</p>
+<p>立即<a href="https://www.atfx.com/zh-hans/trading-platforms/metatrader-4/download-mt4"><span>下载 Metatrader 4</span></a> 账户或设置<a href="https://www.atfx.com/zh-hans/trading-accounts/demo-account"><span>模拟交易账户</span></a>开始交易！</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>投资美国股票要看哪几种美股指数</title>
+		<link>https://www.atfx.com/zh-hans/analysis/trading-strategies/what-you-should-know-about-the-three-major-us-stock-market-indexes</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Wed, 15 Dec 2021 05:53:00 +0000</pubDate>
+				<category><![CDATA[交易策略]]></category>
+		<category><![CDATA[中级交易策略]]></category>
+		<guid isPermaLink="false">https://lptemplatedev.wpengine.com/uncategorized/what-you-should-know-about-the-three-major-us-stock-market-indexes-2</guid>
+
+					<description><![CDATA[大多数投资者都知道美国股票中有道琼斯指数、纳斯达克指数和标普500指数这个三种重要的美股指数，这三种指数对于美 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>大多数投资者都知道<a href="/zh-hans/markets/shares-trading" rel="noopener" target="_blank"><span>美国股票</span></a>中有道琼斯指数、纳斯达克指数和标普500指数这个三种重要的<a href="/zh-hans/markets/indices-trading" rel="noopener" target="_blank"><span>美股指数</span></a>，这三种指数对于美国股票的投资者有着非常重要的参考作用，但是很多新手投资者对于这三种指数并不是非常了解，今天就来给大家介绍一下这三种美国股票指数分别有什么意义，在投资的时候应该要如何参考。</p>
+<p><span id="more-10506"></span></p>
+<p>&nbsp;</p>
+<h2 style="font-size: 30px">美国股票</h2>
+<p><img decoding="async" src="https://www.atfx.com/hubfs/ATFX-us-stock-market-index.jpg?width=1200&amp;name=ATFX-us-stock-market-index.jpg" alt="ATFX-us-stock-market-index" loading="lazy"></p>
+<h3 style="font-size: 24px"><span style="color: #434343">1、道琼斯指数，整体市场成绩指标</span></h3>
+<p><a href="/zh-hans/live-chart/dow-jones" rel="noopener" target="_blank">道琼斯指数</a>作为世界上历史悠久的股票指数，距今已经有100多年的历史了，其成分股只有30支，为美国30加最大的知名上市公司，当然大家都知道美国股票有超过1万只股票，所以成分股只有30支股票的道琼斯指数也受到了很多专家学者的怀疑，他们认为只有30只成分股并没有代表性，但是大家需要注意的是这30只成分股都是在美国急着去找的公司，所以还是具备非常大的参考价值的，可以作为总体市场成绩的指标来进行参考。</p>
+<p>&nbsp;</p>
+<h3 style="font-size: 24px"><span style="color: #434343">2、纳斯达克指数，全世界科技股的重要指标</span></h3>
+<p>纳斯达克指数于1971年成立，成分股包括美国纳斯达克上市的股份，为全世界科技股最为重要的指标，纳斯达克指数的成分股超过有5000只，其涵盖的范围包括生化科技等各个领域，比如说电脑软硬件、半导体、网络通讯等，是投资科技股的重要参考标准。</p>
+<p><img decoding="async" src="https://www.atfx.com/hubfs/ATFX-nasdaq-index-market.jpg?width=1200&amp;name=ATFX-nasdaq-index-market.jpg" alt="ATFX-nasdaq-index-market" loading="lazy"></p>
+<h2 style="font-size: 30px">为什么说纳斯达克指数市场是场外交易?</h2>
+<p>纳斯达克指数市场预先投资者通过电话或者是互联网交易，而不需要到交易大厅中进行交易，而且交易的内容大多与高科技尤其是计算机方面相关，是世界第一电子证券交易市场，纳斯达克指数有着自己的市场制度，是一些独立的<a href="/zh-hans/markets" rel="noopener" target="_blank"><span>股票交易</span></a>上，为投资者承担了某一只股票的买入和卖出。</p>
+<p>&nbsp;</p>
+<p>场外交易是指非上市或者是上市公司的证券，不再交易所中进行交易而是在场外市场进行的交易活动，而是私下以高于或者是低于功效会上所规定的价格或者是富有其他条件的价格所达成的交易，有称作是店头交易或者是柜头交易。</p>
+<p>&nbsp;</p>
+<h3 style="font-size: 24px"><span style="color: #434343">3、标普500指数，美国经济兴衰的指标</span></h3>
+<p>标普500指数是美国前500大上市公司总体衡量的标准，评级公司标准普尔根据市值和流通量在美国股票市场上选取了500家各行各业的龙头企业，选取范围涵盖了美国的两大股票交易市场。标普500指数所包含的上升公司比道琼斯指数多得多，说开可以更好的反应美国股票市场的变化，风险也更加的分散。除此之外，标普500指数和道琼斯指数使用的加权方式也有所不同，道指使用股价加权，而标普500指数则使用市值加权，其更能反应出公司股票的实际价值，甚至是可以反映出美国经济的兴衰。</p>
+<p>&nbsp;</p>
+<p>最后还有一点大家要注意的是，上面所说的三大美股指数所包含的成分股是不一样的，比如说投资者购买了Google的股票，那么Google的股价涨跌是不会影响到道琼斯指数的，因为Google并不属于道指的成分股，所以这三种美股指数没有一个可以包含美国股票市场上所有的股票每日涨跌，投资在投资的时候千万不能只看一个美股指数，而是要三种结合起来一起看，这样才更加有利于投资者作出正确的决定。</p>
+<p>马上<a href="/zh-hans/trading-platforms/metatrader-4/download-mt4" rel="noopener" target="_blank"><span>下载MT4</span></a>或<a href="/zh-hans/trading-accounts/demo-account" rel="noopener" target="_blank"><span>MT4模拟帐户</span></a>开始交易吧！</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>如何借美债收益率波动交易？先弄清它与各大资产的关系</title>
+		<link>https://www.atfx.com/zh-hans/analysis/trading-strategies/how-us-bond-yields-impact-forex-market-stock-markets-gold-oil-prices</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Tue, 14 Dec 2021 09:18:00 +0000</pubDate>
+				<category><![CDATA[交易策略]]></category>
+		<category><![CDATA[中级交易策略]]></category>
+		<guid isPermaLink="false">https://lptemplatedev.wpengine.com/uncategorized/how-us-bond-yields-impact-forex-market-stock-markets-gold-oil-prices-2</guid>
+
+					<description><![CDATA[今年以来美债收益率上升一直是市场交易的重要主题之一，引发了市场的集体震荡。在美国经济强劲复苏的前景下，市场一直 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>今年以来美债收益率上升一直是<a href="https://www.atfx.com/zh-hans/markets"><span>市场交易</span></a>的重要主题之一，引发了市场的集体震荡。在美国经济强劲复苏的前景下，市场一直在计价10年期美债收益率持续上涨的预期，不少机构认为年底前可能达到2%以上的水平，可见这样的交易主题仍将在较长时间内持续，那么如何通过债券收益率的变化来预测或者更好的交易？首先要先厘清它和不同资产之间的走势相关性。</p>
+<p><span id="more-10375"></span></p>
+<p>&nbsp;</p>
+<h2 style="font-size: 33px">对汇市的影响</h2>
+<p>国债收益率上涨反映的是经济增长预期，也表明通胀前景在升温，通胀水平又关乎央行货币政策的制定，如果通胀上涨过快，央行将不得不收紧政策来应对，市场对央行货币政策立场的预期会推动整体汇率走势，所以收益率对<a href="https://www.atfx.com/zh-hans/markets/forex-trading"><span>外汇市场</span></a>至关重要。</p>
+<p><img decoding="async" src="https://www.atfx.com/hubfs/forex-market-us-bond-yields.jpg" alt="forex-market-us-bond-yields" width="1200" loading="lazy"></p>
+<p>一国债券收益率与另一国债券收益率之间的差异，会影响相应的货币对走势，利率较高的国家将吸引更多的投资者购买其债券，希望获得更高的收益率。资本流动会被高收益货币所吸引，持有低收益率货币的成本上升，所以购买这些债券所需的需求会吸引资金流入，令该国的货币走强。</p>
+<h3 style="font-size: 18px"><span style="color: #434343">以下的例子可以更直观了解其影响：</span></h3>
+<p>今年2月份开始，美国10年期国债收益率就开始出现明显的上升，3月18日突破1.7%关口，直至3月30日创下去年1月份以来的新高。期间<a href="https://www.atfx.com/zh-hans/markets/indices-trading"><span>美元指数</span></a>也跟随上涨，最高曾突破93关口。不过尽管长期国债收益率大幅上升，但短期国债收益率仍保持稳定，长短期国债利差走阔，指向了经济增长和通胀增强的前景。</p>
+<p>今年以来欧元走势一直弱于美元，部分原因在于美国经济的恢复能力要超过欧元区，而且距离仍在拉大，在投资者越发看好美国经济前景的情况下，美国国债收益率高于德国国债，利率上行会加速资金回流到美元，使美元兑欧元汇率走强。</p>
+<p><img decoding="async" src="https://www.atfx.com/hubfs/Others%20folders/ATFX%20Blog%20Image%202020/US-dollar-index.png" alt="US-dollar-index" width="1318" loading="lazy"></p>
+<p>另一个例子是，前不久新西兰政府采取措施为不断上涨的房价降温，从而大大降低了通胀预期，相应地也导致新西兰公债收益率下跌了10个基点，当时也拖累纽元兑美元在两个交易日内大跌逾2.4%。</p>
+<p>&nbsp;</p>
+<h2 style="font-size: 33px">对股票市场的影响</h2>
+<p>除了汇市以外，国债收益率还与其他市场息息相关，由于债券收益率受到货币政策的显著影响，美联储的目标利率通过影响需求来影响国债。较低的利率会增加国债的需求，较高的利率会减少需求，需求越低，利率就越高，所以收益率走势被市场视为美联储政策的先行指标。就像目前市场计价美联储提前在明年加息的可能，美债收益率也攀升至逾一年的高位。</p>
+<p>同时债券收益率也可以视为衡量投资者信心的指标，因为在<a href="https://www.atfx.com/zh-hans/markets/shares-trading"><span>股票市场</span></a>处于牛市的时候，国债价格通常会下降，因为投资者风险意愿增强希望寻求更高的回报。相反，随着利率的上升，债券相对于股票或其他风险系数更高的投资更具吸引力。</p>
+<p><img decoding="async" src="https://www.atfx.com/hubfs/Others%20folders/ATFX%20Blog%20Image%202020/bear-bull-market.jpg" alt="bear-bull-market" width="1200" loading="lazy"></p>
+<p>名义收益率的上升对股市有利，而实际收益率的上升则不利于股市。在高通胀环境下，收益率上升通常会导致股票回报率下降。但是不同的板块对收益率上升的反应不同，比如周期性行业在收益率上升时通常表现较好，因为其相对应的是经济前景的改善，而防御性行业则相反。</p>
+<p>&nbsp;</p>
+<h2 style="font-size: 33px">对黄金的影响</h2>
+<p>虽然美债收益率和<a href="https://www.atfx.com/zh-hans/markets/commodities/gold-trading"><span>黄金价格</span></a>看起来都与股市呈现相反走势，但是并不代表两者之间是正相关。国债和黄金都具备避险的属性，黄金和债券价格之间存在正相关关系，黄金和债券收益率之间存在负相关关系。</p>
+<p>当债券收益率出现飙升或者利率上升对黄金更加不利，因为黄金原本就是无息资产，再加上债息上升同样会带动美元走高，对黄金又是另一重施压。所以当10年期美债收益率在3月底触及逾一年新高的同时，当时的现货黄金就一度跌破了1700美元重要关口。</p>
+<p>不过从另外一个角度来看：收益率上升表明对经济强劲的预期，这样的预期会助长通货膨胀，而黄金又通常被用来对冲通胀，所以长期来讲对黄金并非完全不利，如果未来通胀加剧严重到引发市场恐慌的程度，金价会再次展现它的魅力。</p>
+<p>&nbsp;</p>
+<h2 style="font-size: 33px">对油价的影响</h2>
+<p>能源价格和国债收益率走势都可以被视为经济前景的晴雨表，如上面所说经济向好有利国债收益率上涨。同样地，当经济增长前景被看好，原油需求面向好或者乐观，会带动油价的上涨。所以两者间价格的关系受经济周期的影响而呈现正相关关系。</p>
+<p><img decoding="async" src="https://www.atfx.com/hubfs/Others%20folders/ATFX%20Blog%20Image%202020/crude-oil-prices.jpg" alt="crude-oil-prices" width="1200" loading="lazy"></p>
+<p>这其中还涉及到通胀预期，以往的价格走势表明，油价同比增速同美国CPI增长呈现积极相关，原油上涨本身会提振通胀预期，从而提高了名义债券收益率，进而影响债券价格。所以今年以来，<a href="https://www.atfx.com/zh-hans/markets/commodities/oil-trading"><span>原油价格</span></a>和通胀两个关键词常常搭对出现，油价在3月份之前的强劲反弹，也是伴随着债券收益率的上升。</p>
+<p>当然除了美国公债外，也还要留意主要原油出口国的债券收益率表现和油价之间的关系（如加拿大），甚至是其他商品出口型国家（如澳大利亚）。如果各国通胀预期和公债收益率继续高企或进一步飙升，油价也会有积极的上行配合。不过留意由于美国的债息上扬会对美元有支持，而美元走强又会影响整体<a href="https://www.atfx.com/zh-hans/markets/commodities"><span>商品价格</span></a>的上涨空间。</p>
+<p>&nbsp;</p>
+<p style="font-size: 18px">以上分析由ATFX亚太区首席分析师林铭添提供。</p>
+<p>（以上分析仅代表个人观点，汇市有风险，投资需谨慎。ATFX不会为直接或间接使用或依赖此资料而可能引致的任何盈亏负责。）</p>
+<p>开设<a href="https://www.atfx.com/zh-hans/trading-accounts"><span>真实交易账户</span></a>或设置<a href="https://www.atfx.com/zh-hans/trading-accounts/demo-account"><span>模拟交易账户</span></a>开始交易吧！</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
