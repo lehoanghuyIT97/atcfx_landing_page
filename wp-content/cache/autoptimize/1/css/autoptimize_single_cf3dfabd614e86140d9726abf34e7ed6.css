@@ -1,1 +1,16 @@
-.elementor-18245 .elementor-element.elementor-element-ad17beb{text-align:justify;color:#000;font-family:"Muli",Sans-serif;font-size:12px;font-weight:300;line-height:30px}@media(max-width:780px){.elementor-18245 .elementor-element.elementor-element-ad17beb{text-align:left}}.copyright hr+p{margin-top:10px}
+.elementor-18245 .elementor-element.elementor-element-ad17beb {
+  text-align: justify;
+  color: #000;
+  font-family: 'Muli', Sans-serif;
+  font-size: 12px;
+  font-weight: 300;
+  line-height: 30px;
+}
+@media (max-width: 780px) {
+  .elementor-18245 .elementor-element.elementor-element-ad17beb {
+    text-align: left;
+  }
+}
+.copyright hr + p {
+  margin-top: 10px;
+}

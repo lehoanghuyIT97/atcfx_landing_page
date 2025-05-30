@@ -1,1 +1,6 @@
-.default-button.orange.elementor-widget-button .elementor-button{background-image:linear-gradient(180deg,#ff8055,#f2672a)}.default-button.orange.elementor-widget-button .elementor-button:hover{background-image:none}
+.default-button.orange.elementor-widget-button .elementor-button {
+  background-image: linear-gradient(180deg, #ff8055, #f2672a);
+}
+.default-button.orange.elementor-widget-button .elementor-button:hover {
+  background-image: none;
+}

@@ -1,1 +1,42 @@
-.elementor-18227 .elementor-element.elementor-element-ed90b13{margin-top:0;margin-bottom:20px}.elementor-18227 .elementor-element.elementor-element-cf29e25{text-align:center}.elementor-18227 .elementor-element.elementor-element-fc7c3a7{text-align:center;font-family:"Muli",Sans-serif;font-size:16px;font-weight:400}.elementor-18227 .elementor-element.elementor-element-fc7c3a7>.elementor-widget-container{margin:0 0 10px}.elementor-18227 .elementor-element.elementor-element-c032da6>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute){margin-bottom:10px}@media(max-width:1024px){.elementor-18227 .elementor-element.elementor-element-c032da6>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute){margin-bottom:10px}}@media(max-width:780px){.elementor-18227 .elementor-element.elementor-element-fc7c3a7{font-size:14px;line-height:24px}.elementor-18227 .elementor-element.elementor-element-c032da6>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute){margin-bottom:10px}}
+.elementor-18227 .elementor-element.elementor-element-ed90b13 {
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+.elementor-18227 .elementor-element.elementor-element-cf29e25 {
+  text-align: center;
+}
+.elementor-18227 .elementor-element.elementor-element-fc7c3a7 {
+  text-align: center;
+  font-family: 'Muli', Sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+.elementor-18227 .elementor-element.elementor-element-fc7c3a7 > .elementor-widget-container {
+  margin: 0 0 10px;
+}
+.elementor-18227
+  .elementor-element.elementor-element-c032da6
+  > .elementor-widget-wrap
+  > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+  margin-bottom: 10px;
+}
+@media (max-width: 1024px) {
+  .elementor-18227
+    .elementor-element.elementor-element-c032da6
+    > .elementor-widget-wrap
+    > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 10px;
+  }
+}
+@media (max-width: 780px) {
+  .elementor-18227 .elementor-element.elementor-element-fc7c3a7 {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .elementor-18227
+    .elementor-element.elementor-element-c032da6
+    > .elementor-widget-wrap
+    > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 10px;
+  }
+}
