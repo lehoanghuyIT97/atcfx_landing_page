@@ -1,5 +1,5 @@
 .elementor-18320 .elementor-element.elementor-element-702aaa9a > .elementor-container {
-  max-width: 1280px;
+  max-width: 1380px;
 }
 .elementor-18320 .elementor-element.elementor-element-702aaa9a > .elementor-container > .elementor-column > .elementor-widget-wrap {
   align-content: center;
@@ -184,18 +184,11 @@
   background-color: #24272c;
 }
 .elementor-18320 .elementor-element.elementor-element-f3a3fda {
-  transition:
-    background 0.3s,
-    border 0.3s,
-    border-radius 0.3s,
-    box-shadow 0.3s;
+  transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
   padding: 0;
 }
 .elementor-18320 .elementor-element.elementor-element-f3a3fda > .elementor-background-overlay {
-  transition:
-    background 0.3s,
-    border-radius 0.3s,
-    opacity 0.3s;
+  transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
 }
 .elementor-18320 .elementor-element.elementor-element-0da9f5f > .elementor-element-populated {
   padding: 0 20px;
@@ -598,18 +591,11 @@
   background-color: #24272c;
 }
 .elementor-18320 .elementor-element.elementor-element-273024f {
-  transition:
-    background 0.3s,
-    border 0.3s,
-    border-radius 0.3s,
-    box-shadow 0.3s;
+  transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
   padding: 0;
 }
 .elementor-18320 .elementor-element.elementor-element-273024f > .elementor-background-overlay {
-  transition:
-    background 0.3s,
-    border-radius 0.3s,
-    opacity 0.3s;
+  transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
 }
 .elementor-18320 .elementor-element.elementor-element-6e02a00 > .elementor-element-populated {
   padding: 0 20px;
@@ -1741,8 +1727,7 @@ div[data-elementor-type='header'].elementor .elementor-widget:not(:last-child) {
   font-weight: 400;
   font-display: swap;
   src: url('https://www.atfx.com/wp-content/uploads/2023/06/Muli-Regular.eot');
-  src:
-    url('https://www.atfx.com/wp-content/uploads/2023/06/Muli-Regular.eot?#iefix') format('embedded-opentype'),
+  src: url('https://www.atfx.com/wp-content/uploads/2023/06/Muli-Regular.eot?#iefix') format('embedded-opentype'),
     url('https://www.atfx.com/wp-content/uploads/2023/06/Muli-Regular.woff2') format('woff2'),
     url('https://www.atfx.com/wp-content/uploads/2023/06/Muli-Regular.woff') format('woff'),
     url('https://www.atfx.com/wp-content/uploads/2023/06/Muli-Regular.ttf') format('truetype');
@@ -1753,8 +1738,7 @@ div[data-elementor-type='header'].elementor .elementor-widget:not(:last-child) {
   font-weight: 300;
   font-display: swap;
   src: url('https://www.atfx.com/wp-content/uploads/2023/06/Muli-Light.eot');
-  src:
-    url('https://www.atfx.com/wp-content/uploads/2023/06/Muli-Light.eot?#iefix') format('embedded-opentype'),
+  src: url('https://www.atfx.com/wp-content/uploads/2023/06/Muli-Light.eot?#iefix') format('embedded-opentype'),
     url('https://www.atfx.com/wp-content/uploads/2023/06/Muli-Light.woff2') format('woff2'),
     url('https://www.atfx.com/wp-content/uploads/2023/06/Muli-Light.woff') format('woff'),
     url('https://www.atfx.com/wp-content/uploads/2023/06/Muli-Light.ttf') format('truetype');
@@ -1765,8 +1749,7 @@ div[data-elementor-type='header'].elementor .elementor-widget:not(:last-child) {
   font-weight: 500;
   font-display: swap;
   src: url('https://www.atfx.com/wp-content/uploads/2023/06/Muli-SemiBold.eot');
-  src:
-    url('https://www.atfx.com/wp-content/uploads/2023/06/Muli-SemiBold.eot?#iefix') format('embedded-opentype'),
+  src: url('https://www.atfx.com/wp-content/uploads/2023/06/Muli-SemiBold.eot?#iefix') format('embedded-opentype'),
     url('https://www.atfx.com/wp-content/uploads/2023/06/Muli-SemiBold.woff2') format('woff2'),
     url('https://www.atfx.com/wp-content/uploads/2023/06/Muli-SemiBold.woff') format('woff'),
     url('https://www.atfx.com/wp-content/uploads/2023/06/Muli-SemiBold.ttf') format('truetype');
@@ -1777,8 +1760,7 @@ div[data-elementor-type='header'].elementor .elementor-widget:not(:last-child) {
   font-weight: 700;
   font-display: swap;
   src: url('https://www.atfx.com/wp-content/uploads/2023/06/Muli-Bold.eot');
-  src:
-    url('https://www.atfx.com/wp-content/uploads/2023/06/Muli-Bold.eot?#iefix') format('embedded-opentype'),
+  src: url('https://www.atfx.com/wp-content/uploads/2023/06/Muli-Bold.eot?#iefix') format('embedded-opentype'),
     url('https://www.atfx.com/wp-content/uploads/2023/06/Muli-Bold.woff2') format('woff2'),
     url('https://www.atfx.com/wp-content/uploads/2023/06/Muli-Bold.woff') format('woff'),
     url('https://www.atfx.com/wp-content/uploads/2023/06/Muli-Bold.ttf') format('truetype');
@@ -1789,8 +1771,7 @@ div[data-elementor-type='header'].elementor .elementor-widget:not(:last-child) {
   font-weight: 700;
   font-display: swap;
   src: url('https://www.atfx.com/wp-content/uploads/2023/06/Muli-Bold.eot');
-  src:
-    url('https://www.atfx.com/wp-content/uploads/2023/06/Muli-Bold.eot?#iefix') format('embedded-opentype'),
+  src: url('https://www.atfx.com/wp-content/uploads/2023/06/Muli-Bold.eot?#iefix') format('embedded-opentype'),
     url('https://www.atfx.com/wp-content/uploads/2023/06/Muli-Bold.woff2') format('woff2'),
     url('https://www.atfx.com/wp-content/uploads/2023/06/Muli-Bold.woff') format('woff'),
     url('https://www.atfx.com/wp-content/uploads/2023/06/Muli-Bold.ttf') format('truetype');
@@ -1801,8 +1782,7 @@ div[data-elementor-type='header'].elementor .elementor-widget:not(:last-child) {
   font-weight: 900;
   font-display: swap;
   src: url('https://www.atfx.com/wp-content/uploads/2023/06/Muli-Black.eot');
-  src:
-    url('https://www.atfx.com/wp-content/uploads/2023/06/Muli-Black.eot?#iefix') format('embedded-opentype'),
+  src: url('https://www.atfx.com/wp-content/uploads/2023/06/Muli-Black.eot?#iefix') format('embedded-opentype'),
     url('https://www.atfx.com/wp-content/uploads/2023/06/Muli-Black.woff2') format('woff2'),
     url('https://www.atfx.com/wp-content/uploads/2023/06/Muli-Black.woff') format('woff'),
     url('https://www.atfx.com/wp-content/uploads/2023/06/Muli-Black.ttf') format('truetype');
@@ -1813,8 +1793,7 @@ div[data-elementor-type='header'].elementor .elementor-widget:not(:last-child) {
   font-weight: 800;
   font-display: swap;
   src: url('https://www.atfx.com/wp-content/uploads/2023/06/Muli-ExtraBold.eot');
-  src:
-    url('https://www.atfx.com/wp-content/uploads/2023/06/Muli-ExtraBold.eot?#iefix') format('embedded-opentype'),
+  src: url('https://www.atfx.com/wp-content/uploads/2023/06/Muli-ExtraBold.eot?#iefix') format('embedded-opentype'),
     url('https://www.atfx.com/wp-content/uploads/2023/06/Muli-ExtraBold.woff2') format('woff2'),
     url('https://www.atfx.com/wp-content/uploads/2023/06/Muli-ExtraBold.woff') format('woff'),
     url('https://www.atfx.com/wp-content/uploads/2023/06/Muli-ExtraBold.ttf') format('truetype');
