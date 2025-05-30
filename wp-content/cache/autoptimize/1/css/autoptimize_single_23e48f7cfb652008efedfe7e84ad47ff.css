@@ -1,1 +1,34 @@
-.elementor-18119 .elementor-element.elementor-element-7889211 .elementor-button{font-family:"Muli",Sans-serif;font-size:18px;font-weight:300;background-color:#0f2c52;border-radius:5px}.elementor-18119 .elementor-element.elementor-element-15d4b13 .elementor-button{font-family:"Muli",Sans-serif;font-size:18px;font-weight:300;background-color:#0f2c52;border-radius:5px}.elementor-18119 .elementor-element.elementor-element-919e69a .elementor-button{font-family:"Muli",Sans-serif;font-size:18px;font-weight:300;background-color:#0f2c52;border-radius:5px}.elementor-18119 .elementor-element.elementor-element-61157f9 .elementor-button{font-family:"Muli",Sans-serif;font-size:18px;font-weight:300;background-color:#0f2c52;border-radius:5px}.default-button.blue.elementor-widget-button .elementor-button{background-image:linear-gradient(180deg,#2c4d7a,#0f2c52)}.default-button.blue.elementor-widget-button .elementor-button:hover{background-image:none}
+.elementor-18119 .elementor-element.elementor-element-7889211 .elementor-button {
+  font-family: 'Muli', Sans-serif;
+  font-size: 18px;
+  font-weight: 300;
+  background-color: #0f2c52;
+  border-radius: 5px;
+}
+.elementor-18119 .elementor-element.elementor-element-15d4b13 .elementor-button {
+  font-family: 'Muli', Sans-serif;
+  font-size: 18px;
+  font-weight: 300;
+  background-color: #0f2c52;
+  border-radius: 5px;
+}
+.elementor-18119 .elementor-element.elementor-element-919e69a .elementor-button {
+  font-family: 'Muli', Sans-serif;
+  font-size: 18px;
+  font-weight: 300;
+  background-color: #0f2c52;
+  border-radius: 5px;
+}
+.elementor-18119 .elementor-element.elementor-element-61157f9 .elementor-button {
+  font-family: 'Muli', Sans-serif;
+  font-size: 18px;
+  font-weight: 300;
+  background-color: #0f2c52;
+  border-radius: 5px;
+}
+.default-button.blue.elementor-widget-button .elementor-button {
+  background-image: linear-gradient(180deg, #2c4d7a, #0f2c52);
+}
+.default-button.blue.elementor-widget-button .elementor-button:hover {
+  background-image: none;
+}

@@ -1,1 +1,101 @@
-.elementor-35737 .elementor-element.elementor-element-45aa7ebf{text-align:left}.elementor-35737 .elementor-element.elementor-element-45aa7ebf .elementor-heading-title{color:#24282d;font-family:"Muli",Sans-serif;font-size:24px;font-weight:700;line-height:34px}.elementor-35737 .elementor-element.elementor-element-45aa7ebf>.elementor-widget-container{margin:0 30px 0 0}.elementor-35737 .elementor-element.elementor-element-1decc30b{color:#24282d;font-family:"Muli",Sans-serif;font-size:14px;font-weight:400;line-height:20px}.elementor-35737 .elementor-element.elementor-element-1decc30b>.elementor-widget-container{margin:0}.elementor-35737 .elementor-element.elementor-element-157c83c4 .elementor-button{font-family:"Muli",Sans-serif;font-size:16px;font-weight:700;line-height:20px;fill:#0f2c52;color:#0f2c52;background-color:#fff;border-style:solid;border-width:1px;border-radius:6px;padding:10px 30px}.elementor-35737 .elementor-element.elementor-element-157c83c4 .elementor-button:hover,.elementor-35737 .elementor-element.elementor-element-157c83c4 .elementor-button:focus{color:#fff;background-color:#183d6d}.elementor-35737 .elementor-element.elementor-element-157c83c4 .elementor-button:hover svg,.elementor-35737 .elementor-element.elementor-element-157c83c4 .elementor-button:focus svg{fill:#fff}.elementor-35737 .elementor-element.elementor-element-157c83c4{width:auto;max-width:auto}@media(max-width:1024px){.elementor-35737 .elementor-element.elementor-element-45aa7ebf .elementor-heading-title{font-size:22px;line-height:30px}.elementor-35737 .elementor-element.elementor-element-45aa7ebf>.elementor-widget-container{margin:0 30px 0 0}.elementor-35737 .elementor-element.elementor-element-1decc30b>.elementor-widget-container{margin:0 20px 0 0}}@media(max-width:780px){.elementor-35737 .elementor-element.elementor-element-45aa7ebf{text-align:center}.elementor-35737 .elementor-element.elementor-element-45aa7ebf .elementor-heading-title{font-size:24px;line-height:30px}.elementor-35737 .elementor-element.elementor-element-45aa7ebf>.elementor-widget-container{margin:0}.elementor-35737 .elementor-element.elementor-element-1decc30b{text-align:center}.elementor-35737 .elementor-element.elementor-element-1decc30b>.elementor-widget-container{margin:0}}.elementor-35737 .elementor-element.elementor-element-157c83c4 a{text-decoration:none !important}.platform-image img{position:absolute;width:49vw !important;max-width:50vw;left:0;top:-70px;z-index:-1}@media (max-width:1024px){.platform-image img{top:0}}@media (max-width:767px){.platform-image img{width:100vw !important;max-width:100vw}}
+.elementor-35737 .elementor-element.elementor-element-45aa7ebf {
+  text-align: left;
+}
+.elementor-35737 .elementor-element.elementor-element-45aa7ebf .elementor-heading-title {
+  color: #24282d;
+  font-family: 'Muli', Sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 34px;
+}
+.elementor-35737 .elementor-element.elementor-element-45aa7ebf > .elementor-widget-container {
+  margin: 0 30px 0 0;
+}
+.elementor-35737 .elementor-element.elementor-element-1decc30b {
+  color: #24282d;
+  font-family: 'Muli', Sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+}
+.elementor-35737 .elementor-element.elementor-element-1decc30b > .elementor-widget-container {
+  margin: 0;
+}
+.elementor-35737 .elementor-element.elementor-element-157c83c4 .elementor-button {
+  font-family: 'Muli', Sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 20px;
+  fill: #0f2c52;
+  color: #0f2c52;
+  background-color: #fff;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 6px;
+  padding: 10px 30px;
+}
+.elementor-35737 .elementor-element.elementor-element-157c83c4 .elementor-button:hover,
+.elementor-35737 .elementor-element.elementor-element-157c83c4 .elementor-button:focus {
+  color: #fff;
+  background-color: #183d6d;
+}
+.elementor-35737 .elementor-element.elementor-element-157c83c4 .elementor-button:hover svg,
+.elementor-35737 .elementor-element.elementor-element-157c83c4 .elementor-button:focus svg {
+  fill: #fff;
+}
+.elementor-35737 .elementor-element.elementor-element-157c83c4 {
+  width: auto;
+  max-width: auto;
+}
+@media (max-width: 1024px) {
+  .elementor-35737 .elementor-element.elementor-element-45aa7ebf .elementor-heading-title {
+    font-size: 22px;
+    line-height: 30px;
+  }
+  .elementor-35737 .elementor-element.elementor-element-45aa7ebf > .elementor-widget-container {
+    margin: 0 30px 0 0;
+  }
+  .elementor-35737 .elementor-element.elementor-element-1decc30b > .elementor-widget-container {
+    margin: 0 20px 0 0;
+  }
+}
+@media (max-width: 780px) {
+  .elementor-35737 .elementor-element.elementor-element-45aa7ebf {
+    text-align: center;
+  }
+  .elementor-35737 .elementor-element.elementor-element-45aa7ebf .elementor-heading-title {
+    font-size: 24px;
+    line-height: 30px;
+  }
+  .elementor-35737 .elementor-element.elementor-element-45aa7ebf > .elementor-widget-container {
+    margin: 0;
+  }
+  .elementor-35737 .elementor-element.elementor-element-1decc30b {
+    text-align: center;
+  }
+  .elementor-35737 .elementor-element.elementor-element-1decc30b > .elementor-widget-container {
+    margin: 0;
+  }
+}
+.elementor-35737 .elementor-element.elementor-element-157c83c4 a {
+  text-decoration: none !important;
+}
+.platform-image img {
+  position: absolute;
+  width: 49vw !important;
+  max-width: 50vw;
+  left: 0;
+  top: -70px;
+  z-index: -1;
+}
+@media (max-width: 1024px) {
+  .platform-image img {
+    top: 0;
+  }
+}
+@media (max-width: 767px) {
+  .platform-image img {
+    width: 100vw !important;
+    max-width: 100vw;
+  }
+}
