@@ -1236,7 +1236,7 @@ div.language-switcher.elementor-element.elementor-widget {
   flex-wrap: nowrap !important;
 }
 .main-menu-wrapper .elementor-nav-menu--layout-horizontal .elementor-nav-menu a {
-  white-space: break-spaces;
+  /* white-space: break-spaces; */
 }
 .main-menu-wrapper .elementor-nav-menu > li > a.has-submenu:before {
   content: '';

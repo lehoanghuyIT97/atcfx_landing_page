@@ -789,7 +789,7 @@ div.language-switcher.elementor-element.elementor-widget {
   width: 100%;
 }
 .main-menu-wrapper .elementor-nav-menu--layout-horizontal .elementor-nav-menu a {
-  white-space: break-spaces;
+  /* white-space: break-spaces; */
 }
 .main-menu-wrapper .elementor-nav-menu > li > a.has-submenu:before {
   content: '';
@@ -1500,7 +1500,7 @@ div.language-switcher.elementor-element.elementor-widget {
   width: 100%;
 }
 .main-menu-wrapper .elementor-nav-menu--layout-horizontal .elementor-nav-menu a {
-  white-space: break-spaces;
+  /* white-space: break-spaces; */
 }
 .main-menu-wrapper .elementor-nav-menu > li > a.has-submenu:before {
   content: '';
