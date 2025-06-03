@@ -137,7 +137,7 @@
 <h3>옵션 시장</h3>
 <p>옵션 시장은 특정 날짜 이전에 특정 가격으로 통화를 매수 혹은 매도하는 시장이지만, 선물과는 달리 반드시 이를 이행해야 할 의무는 없습니다. 이는 트레이더들로 하여금 잠재적 손실로부터 헤징을 하면서도 리스크에 한도를 거는 유연성을 활용할 수 있게 해줍니다.</p>
 <h3>차액결제거래(SPC)</h3>
-<p>CFD는 기초자산을 직접 소유하지 않고도 환율 변화를 예측하고 투자할 수 있는 파생상품입니다. SPC 거래는 높은 레버리지를 제공하는데, 트레이더들은 비교적 소액의 투자금으로도 큰 규모의 포지션을 굴릴 수 있습니다. 대신 그만큼 리스크도 높아집니다.</p>
+<p>두 번째 계약는 기초자산을 직접 소유하지 않고도 환율 변화를 예측하고 투자할 수 있는 파생상품입니다. SPC 거래는 높은 레버리지를 제공하는데, 트레이더들은 비교적 소액의 투자금으로도 큰 규모의 포지션을 굴릴 수 있습니다. 대신 그만큼 리스크도 높아집니다.</p>
 <p><a href="https://www.atfx.com/ko/analysis/trading-strategies/spot-vs-futures-vs-contract-trading-for-beginner" target="_blank" rel="noopener">현물 vs 선물 vs 차액결제거래</a>에 대해 더 알아보세요.</p>
 <div class="article-banner article-banner__dark" style="background-image: url('https://www.atfx.com/wp-content/uploads/2023/10/Free-Demo-Trading-Account.webp'); background-size: cover; background-position: center; color: #fff; padding: 20px; justify-content: space-between; align-items: center; margin: 20px 0;">
 <div class="article-banner-content" style="flex: 1; margin-right: 20px;">
