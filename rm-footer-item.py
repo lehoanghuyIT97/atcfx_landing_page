@@ -5,9 +5,9 @@ def remove_target_li(filepath):
     with open(filepath, "r", encoding="utf-8") as f:
         html = f.read()
 
-    # Regex để tìm <li> có class "menu-item menu-item-type-post_type menu-item-object-page menu-item-22385"
-    pattern = r'<li\s+class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17201">.*?</li>'
-    
+    # Regex để tìm <li> có id "menu-item-22390"
+    pattern = r'<li\s+[^>]*id=["\']menu-item-22390["\'][^>]*>.*?</li>'
+
     # Dùng DOTALL để .* khớp được nhiều dòng
     html_new = re.sub(pattern, '', html, flags=re.DOTALL)
 
