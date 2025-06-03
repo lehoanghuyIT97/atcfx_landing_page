@@ -136,7 +136,7 @@
 <p>포워드 시장과 비슷한 선물 시장은 미래의 날짜에 통화를 매수 혹은 매도합니다. 다만 포워드 시장과는 달리 선물 계약은 표준화되어 있으며, 거래소를 통해 거래됩니다. 선물거래는 예상되는 환율 흐름으로부터 수익을 내고자 하는 투기성 목적으로 활용되곤 합니다.</p>
 <h3>옵션 시장</h3>
 <p>옵션 시장은 특정 날짜 이전에 특정 가격으로 통화를 매수 혹은 매도하는 시장이지만, 선물과는 달리 반드시 이를 이행해야 할 의무는 없습니다. 이는 트레이더들로 하여금 잠재적 손실로부터 헤징을 하면서도 리스크에 한도를 거는 유연성을 활용할 수 있게 해줍니다.</p>
-<h3>차액결제거래(CFD)</h3>
+<h3>차액결제거래(SPC)</h3>
 <p>CFD는 기초자산을 직접 소유하지 않고도 환율 변화를 예측하고 투자할 수 있는 파생상품입니다. SPC 거래는 높은 레버리지를 제공하는데, 트레이더들은 비교적 소액의 투자금으로도 큰 규모의 포지션을 굴릴 수 있습니다. 대신 그만큼 리스크도 높아집니다.</p>
 <p><a href="https://www.atfx.com/ko/analysis/trading-strategies/spot-vs-futures-vs-contract-trading-for-beginner" target="_blank" rel="noopener">현물 vs 선물 vs 차액결제거래</a>에 대해 더 알아보세요.</p>
 <div class="article-banner article-banner__dark" style="background-image: url('https://www.atfx.com/wp-content/uploads/2023/10/Free-Demo-Trading-Account.webp'); background-size: cover; background-position: center; color: #fff; padding: 20px; justify-content: space-between; align-items: center; margin: 20px 0;">
@@ -268,7 +268,7 @@
 <p><img loading="lazy" decoding="async" class="size-full wp-image-41218 aligncenter" src="https://www.atfx.com/wp-content/uploads/2024/09/eurusd-history-chart-in-korean.webp" alt="eurusd-history-chart-in-korean" width="1200" height="620" srcset="https://www.atfx.com/wp-content/uploads/2024/09/eurusd-history-chart-in-korean.webp 1200w, https://www.atfx.com/wp-content/uploads/2024/09/eurusd-history-chart-in-korean-300x155.webp 300w, https://www.atfx.com/wp-content/uploads/2024/09/eurusd-history-chart-in-korean-1024x529.webp 1024w, https://www.atfx.com/wp-content/uploads/2024/09/eurusd-history-chart-in-korean-768x397.webp 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>
 <h2><strong>왜 EUR/USD는 가장 많이 거래되는 통화쌍으로 간주되나요?</strong></h2>
 <p>EUR/USD는 유로존의 경제 규모로 인해 전세계에서 가장 많이 거래되는 통화쌍입니다. EUR/USD 환율의 높은 유동성은 트레이더들로 하여금 최소한의 슬리피지만으로도 포지션에 진입/엑싯을 할 수 있도록 해 주며, 이는 외환 트레이더들에게 EUR/USD 통화쌍의 매력도를 높여줍니다.</p>
-<p>EUR/USD 환율의 높은 유동성은 스팟 트레이딩, 차액결제거래(CFD), 스프레드 베팅을 비롯한 다양한 트레이딩 전략을 펼칠 수 있게 해줍니다.</p>
+<p>EUR/USD 환율의 높은 유동성은 스팟 트레이딩, 차액결제거래(SPC), 스프레드 베팅을 비롯한 다양한 트레이딩 전략을 펼칠 수 있게 해줍니다.</p>
 <h2><strong>EUR/USD 거래 시간</strong></h2>
 <p>EUR/USD 통화쌍은 시드니, 도쿄, 런던, 뉴욕 외환거래 세션을 활용해 주 5일 24시간 거래가 가능합니다.<a href="https://www.atfx.com/ko/analysis/trading-strategies/best-time-to-trade-eurusd" target="_blank" rel="noopener"> EUR/USD를 거래하기 최고의 시간대</a>는 런던 외환시장과 뉴욕 외환시장의 거래 시간대가 겹치는 때(GMT 기준 낮 12시~오후 4시)이며, 높은 유동성과 높은 변동성으로 인한 유의미한 환율변동 및 그로부터 창출되는 기회로 인해 단타 트레이더들에게 이상적인 환경이 조성됩니다.</p>
 <p><a href="https://www.atfx.com/ko/trading-accounts/live-account"><img loading="lazy" decoding="async" class="alignnone wp-image-25089 size-full" src="https://www.atfx.com/wp-content/uploads/2023/10/live-account-korea.webp" alt="live account korea" width="825" height="206" srcset="https://www.atfx.com/wp-content/uploads/2023/10/live-account-korea.webp 825w, https://www.atfx.com/wp-content/uploads/2023/10/live-account-korea-300x75.webp 300w, https://www.atfx.com/wp-content/uploads/2023/10/live-account-korea-768x192.webp 768w" sizes="(max-width: 825px) 100vw, 825px" /></a></p>

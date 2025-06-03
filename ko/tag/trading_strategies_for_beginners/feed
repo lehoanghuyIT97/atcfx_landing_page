@@ -752,8 +752,8 @@
 <p dir="ltr">옵션: 옵션 거래는 기초자산을 사전에 결정된 가격(행사 가격)으로 사전에 결정된 옵션 만기일 전에 매수(콜옵션) 혹은 매도(풋옵션)하는 상품으로, ‘권리’를 구매하되 ‘의무’를 지지는 않는 것이 특징입니다. 옵션 거래는 손실 방지 및 투기적 목적으로 활용됩니다. 만약 투자자가 가격 상승을 예견한다면 콜옵션 매수를 통해 실제 자산을 구매하지 않고도 수익을 낼 수 있습니다.</p>
 <p dir="ltr">스왑: 스왑은 금융자산이나 부채의 교환을 가능케 해주는 일종의 계약입니다. 가장 흔한 유형으로는 ‘금리 스왑’이 있는데, 각 당사자가 고정금리와 변동금리를 맞교환하는 방식입니다. 예를 들어, 변동금리 대출이 있는 기업이 고정금리 스왑을 체결함으로써 금리 상승에 대한 리스크 노출을 경감할 수 있습니다.</p>
 <p dir="ltr">포워드: 포워드(선도) 계약은 선물처럼 미래의 특정 날짜에 특정 상품을 매수 혹은 매도하기로 하는 상품입니다. 다만 계약 성격이 선물에 비해 유연하며, 장외거래(OTC)를 통해 진행됩니다. 계약을 맞춤형으로 만들 수 있는 이 같은 유연성을 통해 각 당사자는 조건을 조정할 수 있습니다. 다만 표준화된 거래소를 통해 거래되지 않는다는 점에서 카운터파티 리스크가 존재합니다.</p>
-<h4 dir="ltr">차액결제거래(CFD)</h4>
-<p dir="ltr">차액결제거래(CFD)는 트레이더가 기초자산을 소유하지 않고도 외환, 주식, 원자재(석유, 금 등), 인덱스 등과 같은 자산의 가격 변동을 예측하고 투자할 수 있는 파생상품입니다. 트레이더들은 롱/숏 포지션을 통해 시장의 상승과 하락 모두에서 수익을 낼 수 있습니다.</p>
+<h4 dir="ltr">차액결제거래(SPC)</h4>
+<p dir="ltr">차액결제거래(SPC)는 트레이더가 기초자산을 소유하지 않고도 외환, 주식, 원자재(석유, 금 등), 인덱스 등과 같은 자산의 가격 변동을 예측하고 투자할 수 있는 파생상품입니다. 트레이더들은 롱/숏 포지션을 통해 시장의 상승과 하락 모두에서 수익을 낼 수 있습니다.</p>
 <ul>
 <li dir="ltr">레버리지: CFD는 레버리지를 동반하곤 하며, 트레이더들은 비교적 적은 투자금만으로도 보다 큰 금액의 포지션을 굴릴 수 있습니다. 레버리지는 수익을 극대화해줄 수 있지만, 막대한 손실을 입을 가능성 또한 증폭됩니다.</li>
 <li dir="ltr">유연성: CFD는 다양한 시장 범주에 대한 접근성을 제공하고, 장외거래가 가능하다는 점에서 보다 높은 거래 유연성을 선보입니다.</li>
@@ -834,7 +834,7 @@
 <h2 id="how-to-trade-in-the-derivatives-market-with-atfx">ATFX에서 파생상품 시장 거래하는 법</h2>
 </li>
 </ol>
-<p dir="ltr"><a href="https://www.atfx.com/ko/about-us" target="_blank" rel="noopener">ATFX</a>는 다양한 자산군에 대한<a href="https://www.atfx.com/ko/ways-to-trade/cfd-trading" target="_blank" rel="noopener">차액결제거래(CFD)</a>를 비롯하여 폭넓은 파생상품 트레이딩 선택지를 제공하는 글로벌 트레이딩 플랫폼입니다. ATFX를 통해 파생상품을 거래하는 단계별 절차를 알아보도록 하겠습니다.</p>
+<p dir="ltr"><a href="https://www.atfx.com/ko/about-us" target="_blank" rel="noopener">ATFX</a>는 다양한 자산군에 대한<a href="https://www.atfx.com/ko/ways-to-trade/cfd-trading" target="_blank" rel="noopener">차액결제거래(SPC)</a>를 비롯하여 폭넓은 파생상품 트레이딩 선택지를 제공하는 글로벌 트레이딩 플랫폼입니다. ATFX를 통해 파생상품을 거래하는 단계별 절차를 알아보도록 하겠습니다.</p>
 <p dir="ltr">계좌 생성하기: 우선 ATFX 계좌를 개설하세요. 이 단계는 본인의 개인정보 및 금융정보를 제공하는 간단한 절차입니다.</p>
 <p dir="ltr">계좌에 예수금 입금: 다양한 결제 방식들 중에서 한 가지를 선택하고 본인의 트레이딩 계좌에<a href="https://www.atfx.com/ko/trading-accounts/deposits-and-withdrawals" target="_blank" rel="noopener">예수금</a>을 입금하세요. ATFX는 최소 예수금 요건이 낮은 편으로, 초기 투자금이 많든 적든 트레이더 분들에게 낮은 진입장벽을 제공합니다.</p>
 <p dir="ltr">파생상품 선택하기: ATFX는 주식, 원자재, 인덱스, 외환 등 다양한 자산군에 대한 CFD를 제공합니다. ATFX 플랫폼은 광범위한 시장 정보 및<a href="https://www.atfx.com/ko/education-and-tools" target="_blank" rel="noopener">분석 툴</a>을 통해 사용자들이 적절한 파생상품을 선택하는 데 도움을 줍니다.</p>
@@ -942,7 +942,7 @@
 <p><img loading="lazy" decoding="async" class="size-full wp-image-41218 aligncenter" src="https://www.atfx.com/wp-content/uploads/2024/09/eurusd-history-chart-in-korean.webp" alt="eurusd-history-chart-in-korean" width="1200" height="620" srcset="https://www.atfx.com/wp-content/uploads/2024/09/eurusd-history-chart-in-korean.webp 1200w, https://www.atfx.com/wp-content/uploads/2024/09/eurusd-history-chart-in-korean-300x155.webp 300w, https://www.atfx.com/wp-content/uploads/2024/09/eurusd-history-chart-in-korean-1024x529.webp 1024w, https://www.atfx.com/wp-content/uploads/2024/09/eurusd-history-chart-in-korean-768x397.webp 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>
 <h2><strong>왜 EUR/USD는 가장 많이 거래되는 통화쌍으로 간주되나요?</strong></h2>
 <p>EUR/USD는 유로존의 경제 규모로 인해 전세계에서 가장 많이 거래되는 통화쌍입니다. EUR/USD 환율의 높은 유동성은 트레이더들로 하여금 최소한의 슬리피지만으로도 포지션에 진입/엑싯을 할 수 있도록 해 주며, 이는 외환 트레이더들에게 EUR/USD 통화쌍의 매력도를 높여줍니다.</p>
-<p>EUR/USD 환율의 높은 유동성은 스팟 트레이딩, 차액결제거래(CFD), 스프레드 베팅을 비롯한 다양한 트레이딩 전략을 펼칠 수 있게 해줍니다.</p>
+<p>EUR/USD 환율의 높은 유동성은 스팟 트레이딩, 차액결제거래(SPC), 스프레드 베팅을 비롯한 다양한 트레이딩 전략을 펼칠 수 있게 해줍니다.</p>
 <h2><strong>EUR/USD 거래 시간</strong></h2>
 <p>EUR/USD 통화쌍은 시드니, 도쿄, 런던, 뉴욕 외환거래 세션을 활용해 주 5일 24시간 거래가 가능합니다.<a href="https://www.atfx.com/ko/analysis/trading-strategies/best-time-to-trade-eurusd" target="_blank" rel="noopener"> EUR/USD를 거래하기 최고의 시간대</a>는 런던 외환시장과 뉴욕 외환시장의 거래 시간대가 겹치는 때(GMT 기준 낮 12시~오후 4시)이며, 높은 유동성과 높은 변동성으로 인한 유의미한 환율변동 및 그로부터 창출되는 기회로 인해 단타 트레이더들에게 이상적인 환경이 조성됩니다.</p>
 <p><a href="https://www.atfx.com/ko/trading-accounts/live-account"><img loading="lazy" decoding="async" class="alignnone wp-image-25089 size-full" src="https://www.atfx.com/wp-content/uploads/2023/10/live-account-korea.webp" alt="live account korea" width="825" height="206" srcset="https://www.atfx.com/wp-content/uploads/2023/10/live-account-korea.webp 825w, https://www.atfx.com/wp-content/uploads/2023/10/live-account-korea-300x75.webp 300w, https://www.atfx.com/wp-content/uploads/2023/10/live-account-korea-768x192.webp 768w" sizes="(max-width: 825px) 100vw, 825px" /></a></p>
@@ -2683,7 +2683,7 @@
 <p dir="ltr"><a href="https://www.atfx.com/ko/analysis/trading-strategies/stock-market-investment-beginners-5-insider-tips" target="_blank" rel="noopener">초보자들을 위한 주식시장 투자법 </a>에 대해 알아보세요.</p>
 <p>&nbsp;</p>
 <h2 id="start-trading-stocks-with-us" dir="ltr">9. ATFX와 함께 주식 트레이딩 시작하기</h2>
-<p dir="ltr">우리 ATFX의 <a href="https://www.atfx.com/ko/markets/shares-trading" target="_blank" rel="noopener">주식 트레이딩 </a>플랫폼에 가입하고<a href="https://www.atfx.com/ko/ways-to-trade/cfd-trading" target="_blank" rel="noopener">차액결제거래(CFD)</a>를 이용하세요. CFD는 실제 주식을 보유하지 않고도 시장의 상방 혹은 하방 움직임을 예측해서 수익을 낼 수 있습니다. 여러분은 ATFX의<a href="https://www.atfx.com/ko/trading-accounts/demo-account" target="_blank" rel="noopener">데모 계좌</a>를 통해 현금 투입 리스크 없이도 본인의 전략을 테스트 할 수 있고, 실전 투자를 할 준비가 되셨다면<a href="https://www.atfx.com/ko/trading-accounts/live-account" target="_blank" rel="noopener">라이브 계좌</a>를 통해서도 투자가 가능합니다.</p>
+<p dir="ltr">우리 ATFX의 <a href="https://www.atfx.com/ko/markets/shares-trading" target="_blank" rel="noopener">주식 트레이딩 </a>플랫폼에 가입하고<a href="https://www.atfx.com/ko/ways-to-trade/cfd-trading" target="_blank" rel="noopener">차액결제거래(SPC)</a>를 이용하세요. CFD는 실제 주식을 보유하지 않고도 시장의 상방 혹은 하방 움직임을 예측해서 수익을 낼 수 있습니다. 여러분은 ATFX의<a href="https://www.atfx.com/ko/trading-accounts/demo-account" target="_blank" rel="noopener">데모 계좌</a>를 통해 현금 투입 리스크 없이도 본인의 전략을 테스트 할 수 있고, 실전 투자를 할 준비가 되셨다면<a href="https://www.atfx.com/ko/trading-accounts/live-account" target="_blank" rel="noopener">라이브 계좌</a>를 통해서도 투자가 가능합니다.</p>
 <p dir="ltr"><a href="https://www.atfx.com/ko/trading-accounts/live-account" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="alignnone wp-image-25089 size-full" src="https://www.atfx.com/wp-content/uploads/2023/10/live-account-korea.webp" alt="live account korea" width="825" height="206" srcset="https://www.atfx.com/wp-content/uploads/2023/10/live-account-korea.webp 825w, https://www.atfx.com/wp-content/uploads/2023/10/live-account-korea-300x75.webp 300w, https://www.atfx.com/wp-content/uploads/2023/10/live-account-korea-768x192.webp 768w" sizes="(max-width: 825px) 100vw, 825px" /></a></p>
 ]]></content:encoded>
 					
