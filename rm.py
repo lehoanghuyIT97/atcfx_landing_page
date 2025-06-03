@@ -12,14 +12,14 @@ def remove_li_with_es_pe(filepath):
     removed = False
     for li in all_lis:
         # Nếu bên trong thẻ <li> có <a lang="pt-PT" hreflang="pt-PT">
-        if re.search(r'<a\s+[^>]*lang="pt-PT"\s+hreflang="pt-PT"', li):
+        if re.search(r'<a\s+[^>]*lang="th"\s+hreflang="th"', li):
             html = html.replace(li, '')
             removed = True
 
     if removed:
         with open(filepath, "w", encoding="utf-8") as f:
             f.write(html)
-        print(f"✅ Đã xoá tiếng pt-PT ở: {filepath}")
+        print(f"✅ Đã xoá tiếng th ở: {filepath}")
 
 def scan_and_remove(root_dir):
     for root, dirs, files in os.walk(root_dir):
