@@ -25,6 +25,6 @@ def scan_and_remove(root_dir, target_class):
 
 if __name__ == "__main__":
     # Bước 1: xoá thẻ li con trước
-    scan_and_remove(".", "menu-item-49478")
+    scan_and_remove(".", "menu-item-49969")
     # Bước 2: xoá thẻ li cha sau
-    scan_and_remove(".", "menu-item-49477")
+    scan_and_remove(".", "menu-item-49968")
