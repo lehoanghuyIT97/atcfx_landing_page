@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ATFX Connect Archives - ATFX Global - Official Website</title>
+	<atom:link href="https://www.atfx.com/pt/tag/atfx-connect/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Sun, 06 Apr 2025 17:33:22 +0000</lastBuildDate>
+	<language>pt-PT</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>https://www.atfx.com/wp-content/uploads/2023/06/favicon-150x150.webp</url>
+	<title>ATFX Connect Archives - ATFX Global - Official Website</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>ATFX Connect obtém certificação Cyber Essentials Plus</title>
+		<link>https://www.atfx.com/pt/noticias-da-empresa/atfx-connect-obtem-certificacao-cyber-essentials-plus</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Thu, 27 Mar 2025 09:00:11 +0000</pubDate>
+				<category><![CDATA[Notícias da empresa]]></category>
+		<category><![CDATA[ATFX Connect]]></category>
+		<category><![CDATA[Notícias recentes]]></category>
+		<guid isPermaLink="false">https://www.atfx.com/?p=47345</guid>
+
+					<description><![CDATA[ATFX Connect, o braço institucional da ATFX, obteve com sucesso a certificação Cyber Essentials Plus, ressaltando sua dedicação a uma infraestrutura de TI segura e medidas rigorosas de segurança cibernética. Cyber Essentials Plus é uma certificação apoiada pelo governo do Reino Unido que exige uma avaliação técnica independente e prática para verificar as defesas cibernéticas [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><a href="https://www.atfxconnect.com/" target="_blank" rel="noopener">ATFX Connect</a>, o braço institucional da ATFX, obteve com sucesso a certificação Cyber Essentials Plus, ressaltando sua dedicação a uma infraestrutura de TI segura e medidas rigorosas de segurança cibernética.</p>
+<p>Cyber Essentials Plus é uma certificação apoiada pelo governo do Reino Unido que exige uma avaliação técnica independente e prática para verificar as defesas cibernéticas de uma organização contra ameaças comuns, como malware, phishing e tentativas de hacking. Administrado pela IASME, representa um nível mais alto de garantia de segurança em comparação ao Cyber Essential padrão.</p>
+<p>Emitida pela Bulletproof e verificada pela IASME, esta certificação significa que as defesas cibernéticas da ATFX Connect foram rigorosamente testadas e atenderam aos padrões da indústria contra ameaças cibernéticas baseadas em commodities. O processo de avaliação avaliou as principais medidas de segurança, incluindo configurações de firewall, controles de acesso, proteção contra malware e aplicação de patches no sistema, garantindo a conformidade com as melhores práticas em segurança cibernética.</p>
+<p>Para clientes institucionais, a segurança cibernética é essencial para a confiança e integridade operacional. A obtenção do Cyber Essentials Plus demonstra o comprometimento da ATFX Connect em proteger os dados do cliente, mitigar os riscos cibernéticos e manter uma infraestrutura de negociação segura.</p>
+<p>No cenário competitivo de negociação institucional, medidas robustas de segurança cibernética são um diferencial importante. A obtenção da certificação Cyber Essentials Plus pela ATFX Connect não apenas atende aos padrões do setor, mas também a diferencia dos concorrentes, demonstrando sua abordagem proativa para proteger os interesses dos clientes.</p>
+<p>À medida que as ameaças à segurança cibernética evoluem, a ATFX Connect continua dedicada a aprimorar sua estrutura de segurança, garantindo a conformidade com os padrões do setor e fornecendo uma plataforma resiliente e segura para clientes institucionais.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
