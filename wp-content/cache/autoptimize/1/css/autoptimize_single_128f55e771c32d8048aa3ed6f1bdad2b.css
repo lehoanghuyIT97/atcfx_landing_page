@@ -1,5 +1,5 @@
 .elementor-18326 .elementor-element.elementor-element-702aaa9a > .elementor-container {
-  max-width: 1280px;
+  max-width: 1380px;
 }
 .elementor-18326 .elementor-element.elementor-element-702aaa9a > .elementor-container > .elementor-column > .elementor-widget-wrap {
   align-content: center;
@@ -1266,7 +1266,7 @@ div.language-switcher.elementor-element.elementor-widget {
   flex-wrap: nowrap !important;
 }
 .main-menu-wrapper .elementor-nav-menu--layout-horizontal .elementor-nav-menu a {
-  /* white-space: break-spaces; */
+  white-space: break-spaces;
 }
 .main-menu-wrapper .elementor-nav-menu > li > a.has-submenu:before {
   content: '';
