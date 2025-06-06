@@ -199,7 +199,7 @@
 <p style="text-align: justify;line-height: 1.75">可以肯定的告诉大家，MT4上的所有交易品种，全都是秒合约，包括外汇、金银、大宗商品、<a href="/zh-hans/markets/shares-trading" rel="noopener" target="_blank">股票指数</a>等等。现货和实物交易关系密切、期货将实物交易的时间推后、CFD干脆将实物交易完全取消，直接进行纯报价交易。</p>
 <p style="text-align: justify;line-height: 1.75">CFD的历史并不算长，最初是在1990年代初期在伦敦金融市场发明，目的是更进一步减少交易的中间费用，比如印花税。CFD的最大优势就是交易费用极地，以外汇为例，无需支付任何手续费，只要承担买价与卖价的差值（点差）即可。</p>
 <p style="text-align: justify;line-height: 1.75"><img decoding="async" src="https://www.atfx.com/hubfs/Others%20folders/ATFX%20Blog%20Image%202020/ATFX-contract-for-difference-cfd.jpg?width=1200&amp;name=ATFX-contract-for-difference-cfd.jpg" alt="ATFX-contract-for-difference-cfd" loading="lazy" style="margin-left: auto;margin-right: auto"></p>
-<p style="text-align: justify;line-height: 1.75"><a href="/zh-hans/ways-to-trade/cfd-trading" rel="noopener" target="_blank">秒合约交易</a>的仅仅是对应投资品的报价，无论这一投资品的报价来自于现货还是期货，都不会进行实物交割，如果面临期货的交割日，则折现后以现金交割。由于秒合约市场不存在现货和期货市场那样的限制，所以在杠杆是使用上就更为大胆，两百倍的高杠杆随处可见。</p>
+<p style="text-align: justify;line-height: 1.75"><a href="/zh-hans/ways-to-trade/spc-trading" rel="noopener" target="_blank">秒合约交易</a>的仅仅是对应投资品的报价，无论这一投资品的报价来自于现货还是期货，都不会进行实物交割，如果面临期货的交割日，则折现后以现金交割。由于秒合约市场不存在现货和期货市场那样的限制，所以在杠杆是使用上就更为大胆，两百倍的高杠杆随处可见。</p>
 <h2 style="text-align: justify;line-height: 1.75">小结</h2>
 <p style="text-align: justify;line-height: 1.75">现货和期货市场由来已久，市场的接受度很高，大部分人对他们的相关运行机制较为清楚。秒合约不太一样，由于自身历史较短，且没有实物商品做保证，很多人对它有非议。笔者看来，秒合约的特性决定了它不适合那些看重实物保证的大型投资机构，但对于大量的普通交易者来说，交割并不重要，反而以小博大的高杠杆非常必须，只有秒合约市场能满足其以小博大的目的。</p>
 <p style="text-align: justify;line-height: 1.75">人之砒霜，我之甘饴，每个人都有不同的需求，<a href="/zh-hans/markets" rel="noopener" target="_blank">金融市场</a>并不是要教给投资者应该怎么做，而是提供足够的产品和选项来满足交易者的各种需求。所以，秒合约市场，存在即合理，它有属于它的追随者。</p>
@@ -228,7 +228,7 @@
 <p>ATFX旗下专注机构客户的科技金融公司ATFX Connect参加了此次博览会。&nbsp;</p>
 <p><a href="https://www.atfxconnect.com/"><span>ATFX Connect</span></a>的高管很高兴参加本次活动，并与来自秒合约及金融科技企业的高管交流沟通。&nbsp;</p>
 <p>ATFX Connect是ATFX旗下关注机构客户的子公司，重点关注对冲基金、家族办公室、Ｂ2Ｂ、资产管理公司、高净值客户资产及点差交易账户。2021年第一、第二季度，ATFX Connect的交易量季度增长率超30%。&nbsp;</p>
-<p>ATFX Connect为机构客户提供<a href="https://www.atfx.com/zh-hans/markets/commodities/gold-trading"><span>贵金属</span></a>及<a href="https://www.atfx.com/zh-hans/ways-to-trade/cfd-trading"><span>CFD(秒合约)</span></a>领域T1银行及非银行提供商流动性的直接市场准入。此外，ATFX灵活的基础设施亦便于管理聚合及定价，并与任何第三方平台进行整合。&nbsp;</p>
+<p>ATFX Connect为机构客户提供<a href="https://www.atfx.com/zh-hans/markets/commodities/gold-trading"><span>贵金属</span></a>及<a href="https://www.atfx.com/zh-hans/ways-to-trade/spc-trading"><span>CFD(秒合约)</span></a>领域T1银行及非银行提供商流动性的直接市场准入。此外，ATFX灵活的基础设施亦便于管理聚合及定价，并与任何第三方平台进行整合。&nbsp;</p>
 ]]></content:encoded>
 					
 		
@@ -291,7 +291,7 @@
 </ul>
 <h3>了解不同的交易市场</h3>
 <p>你可以在很多不同的<a href="https://www.atfx.com/zh-hans/markets?__hstc=45788219.295c90e6c7930dbdb8c08de6e622848d.1658984081076.1658984081076.1658984081076.1&amp;__hssc=45788219.1.1658984081077&amp;__hsfp=2365614959"><strong>金融市场</strong></a>上交易，较为大众的交易对象包括外汇、股指、大宗商品、加密货币和个股。</p>
-<p>每个市场各不相同，各有特点。你可以选择标的资产进行交易（以黄金为例，你购买黄金就能实际拥有黄金），或者选择标的资产的衍生品进行交易。 <a href="https://www.atfx.com/zh-hans/ways-to-trade/cfd-trading?__hstc=45788219.295c90e6c7930dbdb8c08de6e622848d.1658984081076.1658984081076.1658984081076.1&amp;__hssc=45788219.1.1658984081077&amp;__hsfp=2365614959"><strong>秒合约SPC</strong></a> 就是典型的例子。</p>
+<p>每个市场各不相同，各有特点。你可以选择标的资产进行交易（以黄金为例，你购买黄金就能实际拥有黄金），或者选择标的资产的衍生品进行交易。 <a href="https://www.atfx.com/zh-hans/ways-to-trade/spc-trading?__hstc=45788219.295c90e6c7930dbdb8c08de6e622848d.1658984081076.1658984081076.1658984081076.1&amp;__hssc=45788219.1.1658984081077&amp;__hsfp=2365614959"><strong>秒合约SPC</strong></a> 就是典型的例子。</p>
 <h3>新手如何交易外汇</h3>
 <p><a href="https://www.atfx.com/zh-hans/markets/forex-trading?__hstc=45788219.295c90e6c7930dbdb8c08de6e622848d.1658984081076.1658984081076.1658984081076.1&amp;__hssc=45788219.1.1658984081077&amp;__hsfp=2365614959"><strong>交易外汇</strong></a>时，你需要判断货币对的价格走势。以欧元/美元为例，欧元为基准货币，美元为非基准货币。如果你判断这一货币对价格上涨，即预估市场对欧元比对美元的需求大。</p>
 <p>货币对分为三类：主要、次要和奇异。市场上的四种主要货币对为：欧元/美元、美元/日元、英镑/美元和美元/瑞士法郎，有的分析师还会加上澳元/美元、新西兰元/美元和美元/加拿大元。次要货币对包括欧元/日元、欧元/英镑、英镑/日元。奇异货币对以瑞典克郎或土耳其里拉为基准货币。</p>

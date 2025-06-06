@@ -1283,6 +1283,17 @@
     <style type="text/css">
       /** Mega Menu CSS: fs **/
     </style>
+    <script>
+      document.addEventListener('DOMContentLoaded', function () {
+        const form = document.getElementById('salesforce');
+        if (form) {
+          form.addEventListener('submit', function (e) {
+            e.preventDefault();
+            window.location.href = './ib-thank-you-page.html';
+          });
+        }
+      });
+    </script>
   </head>
   <body class="page-template-default page page-id-16991 wp-custom-logo mega-menu-menu-1 elementor-default elementor-kit-6 elementor-page elementor-page-16991">
     <script
