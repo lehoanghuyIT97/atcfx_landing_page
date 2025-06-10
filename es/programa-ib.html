@@ -207,7 +207,7 @@
         text-decoration: none;
       }
     </style>
-    <link rel="stylesheet" id="select2-css" href="../../cdn.jsdelivr.net/npm/select2%404.1.0-rc.0/dist/css/select2.min.css" media="all" />
+    <link rel="stylesheet" id="select2-css" href="http://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" media="all" />
     <link rel="stylesheet" id="hello-elementor-css" href="../wp-content/themes/hello-elementor/style.min.css" media="all" />
     <link rel="stylesheet" id="hello-elementor-theme-style-css" href="../wp-content/themes/hello-elementor/theme.min.css" media="all" />
     <link rel="stylesheet" id="elementor-frontend-css" href="../wp-content/uploads/elementor/css/custom-frontend-lite.min.css" media="all" />
@@ -321,7 +321,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin />
     <script src="../wp-includes/js/jquery/jquery.min.js" id="jquery-core-js"></script>
     <script defer src="../wp-includes/js/jquery/jquery-migrate.min.js" id="jquery-migrate-js"></script>
-    <script defer src="../../cdn.jsdelivr.net/npm/select2%404.1.0-rc.0/dist/js/select2.min.js" id="select2-js"></script>
+    <script defer src="http://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js" id="select2-js"></script>
     <script defer src="../wp-content/cache/autoptimize/1/js/autoptimize_single_b96c43c757139a4b4f0b81da868f14e9.js" id="js-cookie-js"></script>
     <script defer src="../wp-content/cache/autoptimize/1/js/autoptimize_single_90bfb7e40c3fc536887ba54a6b426ead.js" id="utm-tracking-cookies-js"></script>
     <script defer src="../../assets.adobedtm.com/a5e3125ce4c4/3aa995ce2689/launch-9724699d2dd6.min.js" id="atfx_adobe_js-js"></script>
@@ -1261,6 +1261,17 @@
     <style type="text/css">
       /** Mega Menu CSS: fs **/
     </style>
+    <script>
+      document.addEventListener('DOMContentLoaded', function () {
+        const form = document.getElementById('salesforce');
+        if (form) {
+          form.addEventListener('submit', function (e) {
+            e.preventDefault();
+            window.location.href = './ib-thank-you-page.html';
+          });
+        }
+      });
+    </script>
   </head>
   <body
     class="page-template page-template-elementor_header_footer page page-id-18881 wp-custom-logo elementor-default elementor-template-full-width elementor-kit-6 elementor-page elementor-page-18881"
@@ -1703,8 +1714,7 @@
                                       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48627">
                                         <a href="mercados/criptomonedas.html" class="elementor-sub-item">Criptomonedas</a>
                                       </li>
-                                      
-                                      
+
                                       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22342">
                                         <a href="mercados/trading-de-acciones.html" class="elementor-sub-item">Acciones</a>
                                       </li>
@@ -1806,7 +1816,6 @@
                                           >Calc. tamaño de posición</a
                                         >
                                       </li>
-                                      
                                     </ul>
                                   </li>
                                   <li class="menu-unclickable menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-39491">
@@ -1817,7 +1826,6 @@
                                       </li>
                                     </ul>
                                   </li>
-                                  
                                 </ul>
                               </li>
                               <li class="menu-unclickable menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19953">
@@ -1981,8 +1989,7 @@
                                       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48627">
                                         <a href="mercados/criptomonedas.html" class="elementor-sub-item" tabindex="-1">Criptomonedas</a>
                                       </li>
-                                      
-                                      
+
                                       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22342">
                                         <a href="mercados/trading-de-acciones.html" class="elementor-sub-item" tabindex="-1">Acciones</a>
                                       </li>
@@ -2099,7 +2106,6 @@
                                           >Calc. tamaño de posición</a
                                         >
                                       </li>
-                                      
                                     </ul>
                                   </li>
                                   <li class="menu-unclickable menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-39491">
@@ -2112,7 +2118,6 @@
                                       </li>
                                     </ul>
                                   </li>
-                                  
                                 </ul>
                               </li>
                               <li class="menu-unclickable menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19953">
@@ -4143,8 +4148,7 @@
                                   <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22195">
                                     <a href="mercados/criptomonedas.html" class="elementor-sub-item">Criptomonedas</a>
                                   </li>
-                                  
-                                  
+
                                   <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22198">
                                     <a href="mercados/trading-de-acciones.html" class="elementor-sub-item">Acciones</a>
                                   </li>
@@ -4171,7 +4175,6 @@
                                   <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22205">
                                     <a href="grafico-en-vivo/bitcoin-btc.html" class="elementor-sub-item">El precio del Bitcoin</a>
                                   </li>
-                                  
                                 </ul>
                               </li>
                               <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-20910">
@@ -4266,8 +4269,7 @@
                                   <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22195">
                                     <a href="mercados/criptomonedas.html" class="elementor-sub-item" tabindex="-1">Criptomonedas</a>
                                   </li>
-                                  
-                                  
+
                                   <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22198">
                                     <a href="mercados/trading-de-acciones.html" class="elementor-sub-item" tabindex="-1">Acciones</a>
                                   </li>
@@ -4294,7 +4296,6 @@
                                   <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22205">
                                     <a href="grafico-en-vivo/bitcoin-btc.html" class="elementor-sub-item" tabindex="-1">El precio del Bitcoin</a>
                                   </li>
-                                  
                                 </ul>
                               </li>
                               <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-20910">
