@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>BA Archives - ATFX Global - Official Website</title>
+	<atom:link href="https://www.atfx.com/es/tag/ba/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Fri, 02 Feb 2024 03:31:12 +0000</lastBuildDate>
+	<language>es-CL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>https://www.atfx.com/wp-content/uploads/2023/06/favicon-150x150.webp</url>
+	<title>BA Archives - ATFX Global - Official Website</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Acciones de Boeing se hacen visibles después de recientes problemas</title>
+		<link>https://www.atfx.com/es/analisis/noticias-del-mercado/acciones-de-boeing-se-hacen-visibles-despues-de-recientes-problemas</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Tue, 30 Jan 2024 03:27:42 +0000</pubDate>
+				<category><![CDATA[Noticias del mercado y opiniones]]></category>
+		<category><![CDATA[BA]]></category>
+		<category><![CDATA[Recent news]]></category>
+		<guid isPermaLink="false">https://www.atfx.com/?p=29625</guid>
+
+					<description><![CDATA[El fabricante de aeronaves publicará sus ganancias esta semana tras los recientes problemas de seguridad. BA – Gráfico Diario Las acciones de BA encontraron un mínimo cerca del nivel de $200, que será un soporte crítico en la próxima publicación. Los aviones Boeing 737 MAX 9 han vuelto a volar después del incidente de seguridad de Alaska [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>El fabricante de aeronaves publicará sus ganancias esta semana tras los recientes problemas de seguridad.</p>
+<p><img fetchpriority="high" decoding="async" class="size-full wp-image-29502 aligncenter" src="https://www.atfx.com/wp-content/uploads/2024/01/BA-–-Daily-Chart.png" alt="BA – Daily Chart" width="723" height="580" srcset="https://www.atfx.com/wp-content/uploads/2024/01/BA-–-Daily-Chart.png 723w, https://www.atfx.com/wp-content/uploads/2024/01/BA-–-Daily-Chart-300x241.png 300w" sizes="(max-width: 723px) 100vw, 723px" /></p>
+<p style="text-align: center;">BA – Gráfico Diario</p>
+<p>Las <a href="https://www.atfx.com/es/mercados/trading-de-acciones" target="_blank" rel="noopener">acciones de BA</a> encontraron un mínimo cerca del nivel de $200, que será un soporte crítico en la próxima publicación.</p>
+<p>Los aviones Boeing 737 MAX 9 han vuelto a volar después del incidente de seguridad de Alaska Airlines en enero. Sin embargo, se espera que el problema afecte las finanzas de la empresa en el futuro previsible.</p>
+<p>Se prevé que Boeing informe de otra pérdida anual y probablemente retire los objetivos anteriores de producción de aviones comerciales que han sido clave para las perspectivas de la empresa, que incluían beneficios sustanciales en 2025 y 2026.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

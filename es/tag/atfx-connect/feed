@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ATFX Connect Archives - ATFX Global - Official Website</title>
+	<atom:link href="https://www.atfx.com/es/tag/atfx-connect/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Sun, 06 Apr 2025 17:31:49 +0000</lastBuildDate>
+	<language>es-CL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>https://www.atfx.com/wp-content/uploads/2023/06/favicon-150x150.webp</url>
+	<title>ATFX Connect Archives - ATFX Global - Official Website</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>ATFX Connect logra la certificación Cyber Essentials Plus</title>
+		<link>https://www.atfx.com/es/noticias-de-la-compania/atfx-connect-logra-la-certificacion-cyber-essentials-plus</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Thu, 27 Mar 2025 09:00:11 +0000</pubDate>
+				<category><![CDATA[Noticias de la compañía]]></category>
+		<category><![CDATA[ATFX Connect]]></category>
+		<category><![CDATA[Noticias recientes]]></category>
+		<guid isPermaLink="false">https://www.atfx.com/?p=47345</guid>
+
+					<description><![CDATA[ATFX Connect, la división institucional de ATFX, ha obtenido con éxito la certificación Cyber Essentials Plus, lo que demuestra su compromiso con una infraestructura informática segura y estrictas medidas de ciberseguridad. Cyber Essentials Plus es una certificación respaldada por el gobierno del Reino Unido que requiere una evaluación técnica independiente y práctica para verificar las [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><a href="https://www.atfxconnect.com/" target="_blank" rel="noopener">ATFX Connect</a>, la división institucional de ATFX, ha obtenido con éxito la certificación Cyber Essentials Plus, lo que demuestra su compromiso con una infraestructura informática segura y estrictas medidas de ciberseguridad.</p>
+<p>Cyber Essentials Plus es una certificación respaldada por el gobierno del Reino Unido que requiere una evaluación técnica independiente y práctica para verificar las ciber defensas de una organización contra amenazas comunes como malware, phishing e intentos de piratería informática. Administrada por IASME, representa un mayor nivel de garantía de seguridad en comparación con la certificación Cyber Essentials estándar.</p>
+<p>Emitida por Bulletproof y verificada por IASME, esta certificación significa que las ciber defensas de ATFX Connect fueron rigurosamente probadas y cumplieron con los estándares del sector contra amenazas cibernéticas genéricas. El proceso de evaluación evaluó medidas de seguridad clave, incluyendo configuraciones de firewall, controles de acceso, protección contra malware y parches de sistema, garantizando el cumplimiento de las mejores prácticas en ciberseguridad.</p>
+<p>Para los clientes institucionales, la ciberseguridad es fundamental para la confianza y la integridad operativa. La obtención de Cyber Essentials Plus demuestra el compromiso de ATFX Connect con la protección de los datos de los clientes, la mitigación de los riesgos cibernéticos y el mantenimiento de una infraestructura de trading segura.</p>
+<p>En el competitivo panorama del trading institucional, contar con sólidas medidas de ciberseguridad es un factor diferenciador clave. La obtención de la certificación Cyber Essentials Plus por parte de ATFX Connect no solo cumple con los estándares del sector, sino que también la distingue de la competencia, demostrando su enfoque proactivo para proteger los intereses de sus clientes.</p>
+<p>A medida que evolucionan las amenazas de ciberseguridad, ATFX Connect mantiene su compromiso de mejorar su marco de seguridad, garantizar el cumplimiento de los estándares del sector y proporcionar una plataforma resiliente y segura para sus clientes institucionales.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

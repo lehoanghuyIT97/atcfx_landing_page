@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>GOOG Archives - ATFX Global - Official Website</title>
+	<atom:link href="https://www.atfx.com/es/tag/goog/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Thu, 15 Feb 2024 03:25:35 +0000</lastBuildDate>
+	<language>es-CL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>https://www.atfx.com/wp-content/uploads/2023/06/favicon-150x150.webp</url>
+	<title>GOOG Archives - ATFX Global - Official Website</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Las acciones de Google bajan a pesar del anuncio de herramienta de IA premium</title>
+		<link>https://www.atfx.com/es/analisis/noticias-del-mercado/las-acciones-de-google-bajan-a-pesar-del-anuncio-de-herramienta-de-ia-premium</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Fri, 09 Feb 2024 03:22:33 +0000</pubDate>
+				<category><![CDATA[Noticias del mercado y opiniones]]></category>
+		<category><![CDATA[GOOG]]></category>
+		<guid isPermaLink="false">https://www.atfx.com/?p=29966</guid>
+
+					<description><![CDATA[El precio de las acciones de Google bajó a pesar del lanzamiento de su nueva herramienta de IA premium. GOOG – Gráfico Diario Las acciones de GOOG aún mantienen la tendencia alcista reciente, y el soporte está en $144-145. Google anunció el cambio de marca de su chatbot de IA Bard como Gemini, junto con una nueva [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>El precio de las <a href="https://www.atfx.com/es/mercados/trading-de-acciones" target="_blank" rel="noopener">acciones</a> de Google bajó a pesar del lanzamiento de su nueva herramienta de IA premium.</p>
+<p><img fetchpriority="high" decoding="async" class="size-full wp-image-29923 aligncenter" src="https://www.atfx.com/wp-content/uploads/2024/02/GOOG-–-Daily-Chart.png" alt="GOOG – Daily Chart" width="757" height="561" srcset="https://www.atfx.com/wp-content/uploads/2024/02/GOOG-–-Daily-Chart.png 757w, https://www.atfx.com/wp-content/uploads/2024/02/GOOG-–-Daily-Chart-300x222.png 300w" sizes="(max-width: 757px) 100vw, 757px" /></p>
+<p style="text-align: center;">GOOG – Gráfico Diario</p>
+<p>Las acciones de GOOG aún mantienen la tendencia alcista reciente, y el soporte está en $144-145.</p>
+<p>Google anunció el cambio de marca de su chatbot de IA Bard como Gemini, junto con una nueva aplicación móvil y una herramienta de IA más potente llamada Gemini Advanced. A partir del jueves, una aplicación Gemini se lanzará en Android por primera vez, y el chatbot estará disponible dentro de la aplicación oficial de Google en el iOS de Apple.</p>
+<p>En una importante actualización de las herramientas de IA de la compañía, las mejoras de la aplicación móvil se lanzarán junto con un nuevo servicio basado en suscripción llamado Gemini Advanced, que utiliza el modelo de IA LLM Ultra 1.0 más potente. El lanzamiento reciente forma parte de una oferta de Plan Premium de IA dentro de Google One, que costará <strong>$19.99</strong> al mes pero es gratis durante los primeros dos meses.</p>
+<p>En sus recientes ganancias del cuarto trimestre, Google dijo que se estaba expandiendo en IA con Gemini mientras desafía la herramienta ChatGPT de Microsoft.</p>
+<p>La reacción inicial del mercado fue débil, pero los comerciantes probablemente esperaban una herramienta similar y ahora esperarán ver la adopción. El CEO Sundar Pichai recientemente dijo que el conjunto de Google One ha superado los 100 millones de usuarios.</p>
+<p>Todos los planes de Google One incluyen aumento de almacenamiento, herramientas adicionales de edición de fotos, protección VPN y más. El plan básico comienza en <strong>$1.99</strong> mensuales por 10GB de almacenamiento y sube hasta 200TB para premium.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

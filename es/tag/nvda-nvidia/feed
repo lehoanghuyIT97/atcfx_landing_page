@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>NVDA - Nvidia Archives - ATFX Global - Official Website</title>
+	<atom:link href="https://www.atfx.com/es/tag/nvda-nvidia/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Thu, 17 Apr 2025 02:11:06 +0000</lastBuildDate>
+	<language>es-CL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>https://www.atfx.com/wp-content/uploads/2023/06/favicon-150x150.webp</url>
+	<title>NVDA - Nvidia Archives - ATFX Global - Official Website</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Nvidia cae tras exigencia de licencia en chips H20 por parte de EE.UU., con un impacto de 5.500 millones de dólares</title>
+		<link>https://www.atfx.com/es/analisis/noticias-del-mercado/nvidia-dips-us-license-h20-chips-5bn-hit</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Wed, 16 Apr 2025 02:10:50 +0000</pubDate>
+				<category><![CDATA[Noticias del mercado y opiniones]]></category>
+		<category><![CDATA[NVDA - Nvidia]]></category>
+		<guid isPermaLink="false">https://www.atfx.com/?p=48144</guid>
+
+					<description><![CDATA[Nvidia (NYSE:NVDA) experimentó una caída en el precio de sus acciones tras verse involucrada en las guerras comerciales. NVDA &#8211; Gráfico Diario El precio de las acciones de NVDA parece haber encontrado compradores sólidos alrededor del nivel de los $100, pero ese soporte será puesto a prueba el miércoles después de una pérdida del 6% en operaciones fuera [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><strong>Nvidia (NYSE:NVDA)</strong> experimentó una caída en el precio de sus acciones tras verse involucrada en las guerras comerciales.</p>
+<p><img fetchpriority="high" decoding="async" class="aligncenter size-full wp-image-48107" src="https://www.atfx.com/wp-content/uploads/2025/04/NVDA-Daily-Chart.webp" alt="NVDA-Daily-Chart" width="903" height="558" srcset="https://www.atfx.com/wp-content/uploads/2025/04/NVDA-Daily-Chart.webp 903w, https://www.atfx.com/wp-content/uploads/2025/04/NVDA-Daily-Chart-300x185.webp 300w, https://www.atfx.com/wp-content/uploads/2025/04/NVDA-Daily-Chart-768x475.webp 768w" sizes="(max-width: 903px) 100vw, 903px" /></p>
+<p style="text-align: center;">NVDA &#8211; Gráfico Diario</p>
+<p>El precio de las <a href="https://www.atfx.com/es/mercados/trading-de-acciones" target="_blank" rel="noopener">acciones de NVDA</a> parece haber encontrado compradores sólidos alrededor del nivel de los $100, pero ese soporte será puesto a prueba el miércoles después de una pérdida del 6% en operaciones fuera de horario. Se espera que NVDA abra alrededor de los $105.</p>
+<p>Nvidia se desplomó en el mercado after hours luego de que la compañía anunciara que el gobierno exigirá una licencia para exportar sus chips H20 a China, lo que intensifica las restricciones que la empresa ha criticado públicamente.</p>
+<p>El gobierno informó a Nvidia el lunes que dicha licencia estará en vigor “por tiempo indefinido”. Nvidia ahora espera un impacto de 5.500 millones de dólares durante el primer trimestre fiscal debido a “inventario, compromisos de compra y reservas relacionadas”.</p>
+<p>“El gobierno de EE.UU., o USG, informó a NVIDIA Corporation, o la Compañía, que el USG requiere una licencia para la exportación a China (incluidos Hong Kong y Macao) y países D:5, o a empresas con sede o matriz final en dichos lugares, de los circuitos integrados H20 de la Compañía”, decía el comunicado.</p>
+<p>El H20 es un chip reducido diseñado para cumplir con las regulaciones de exportación de EE.UU. y ha sido el principal GPU de IA de Nvidia disponible para la venta en China desde que se prohibieron los modelos H100/A100. Esta última medida representa otro golpe para los planes de Nvidia de impulsar sus ventas y mantener su valoración de crecimiento, que ha disminuido desde la segunda mitad de 2024.</p>
+<p>Bloomberg News informó en enero que la administración Trump estaba considerando esta última medida.</p>
+<p>Empresas tecnológicas chinas como Tencent, Alibaba y ByteDance habían estado aumentando sus pedidos de chips H20 ante la posibilidad de nuevas regulaciones. Esto podría comenzar a impactar las ventas de Nvidia durante el próximo año.</p>
+<p>El fabricante de chips lideró un rally de dos años impulsado por la inteligencia artificial, que ha perdido fuerza en los últimos meses. Nvidia dijo el lunes que planea construir servidores de IA por un valor de hasta 500 mil millones de dólares en EE.UU. durante los próximos cuatro años, pero la compañía no ha logrado escapar a los nuevos controles de exportación.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

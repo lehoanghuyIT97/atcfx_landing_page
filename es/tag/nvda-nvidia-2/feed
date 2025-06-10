@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>NVDA - Nvidia Archives - ATFX Global - Official Website</title>
+	<atom:link href="https://www.atfx.com/es/tag/nvda-nvidia-2/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Fri, 23 May 2025 01:19:51 +0000</lastBuildDate>
+	<language>es-CL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>https://www.atfx.com/wp-content/uploads/2023/06/favicon-150x150.webp</url>
+	<title>NVDA - Nvidia Archives - ATFX Global - Official Website</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Niveles de Nvidia a vigilar antes de los resultados de la próxima semana</title>
+		<link>https://www.atfx.com/es/analisis/noticias-del-mercado/nvidia-levels-ahead-earnings</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Thu, 22 May 2025 01:12:48 +0000</pubDate>
+				<category><![CDATA[Noticias del mercado y opiniones]]></category>
+		<category><![CDATA[NVDA - Nvidia]]></category>
+		<guid isPermaLink="false">https://www.atfx.com/?p=50492</guid>
+
+					<description><![CDATA[El fabricante de chips Nvidia (NAS100:NVDA) publicará sus últimos resultados la próxima semana, tras un reciente repunte en el precio de sus acciones. El reciente repunte en las acciones de Nvidia (NVDA) permitió superar una resistencia clave de la tendencia bajista, ubicada alrededor de los $115. Los próximos resultados financieros serán una prueba importante para el nivel de $143.37, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>El fabricante de chips <strong>Nvidia (NAS100:NVDA)</strong> publicará sus últimos <a href="https://www.atfx.com/es/calendario-de-la-temporada-de-ganancias" target="_blank" rel="noopener">resultados</a> la próxima semana, tras un reciente repunte en el precio de sus acciones.</p>
+<figure id="attachment_50490" aria-describedby="caption-attachment-50490" style="width: 787px" class="wp-caption aligncenter"><img fetchpriority="high" decoding="async" class="wp-image-50490 size-full" src="https://www.atfx.com/wp-content/uploads/2025/05/NVDA-Daily-Chart.png" alt="NVDA - Daily Chart" width="787" height="510" srcset="https://www.atfx.com/wp-content/uploads/2025/05/NVDA-Daily-Chart.png 787w, https://www.atfx.com/wp-content/uploads/2025/05/NVDA-Daily-Chart-300x194.png 300w, https://www.atfx.com/wp-content/uploads/2025/05/NVDA-Daily-Chart-768x498.png 768w" sizes="(max-width: 787px) 100vw, 787px" /><figcaption id="caption-attachment-50490" class="wp-caption-text">NVDA – Gráfico Diario</figcaption></figure>
+<p>El reciente repunte en las acciones de Nvidia (NVDA) permitió superar una resistencia clave de la tendencia bajista, ubicada alrededor de los $115. Los próximos resultados financieros serán una prueba importante para el nivel de $143.37, con los máximos históricos aún por delante en $152.84.</p>
+<p>Nvidia presentará sus resultados el 28 de mayo, en menos de una semana, y se espera que la acción sea uno de los temas más destacados en los mercados durante los próximos días. El valor se ha recuperado de una caída en abril y ahora busca volver a sus máximos previos.</p>
+<p>Estos resultados podrían convertirse en un evento clave que marque la próxima tendencia de mediano plazo para la compañía.</p>
+<p>Uno de los primeros factores a considerar es la relajación de las tensiones geopolíticas en torno al comercio. Estados Unidos y China han retrocedido en su disputa comercial, lo que podría crear un entorno más favorable. Además, Nvidia ha comenzado a invertir en plantas de fabricación dentro de EE. UU., lo que podría mejorar su relación con la administración actual y reducir su exposición a problemas internacionales. Una reciente visita comercial del presidente Trump a Arabia Saudita también ha generado planes de colaboración entre Nvidia y el reino del Medio Oriente.</p>
+<p>El consenso del mercado estima ganancias de $0.89 por acción, lo que representaría un aumento del 45% respecto al año anterior, mientras que los ingresos se proyectan en $43 mil millones, un alza del 65% interanual. El principal impulsor de este crecimiento ha sido la creciente demanda de chips GPU de Nvidia, utilizados en aplicaciones de inteligencia artificial generativa. En el trimestre anterior, la empresa se mostró muy optimista respecto a las ventas iniciales de su nueva plataforma de IA, Blackwell, lo que podría traducirse en una sorpresa positiva en los resultados.</p>
+<p>Sin embargo, los inversores también estarán atentos a las proyecciones futuras de Nvidia, especialmente ante la creciente incertidumbre en torno a políticas comerciales y aranceles. Se dice que la administración de Trump estaría considerando regulaciones más estrictas para la exportación de chips de IA, mediante nuevas normativas sobre la difusión de la inteligencia artificial. Esto podría limitar el potencial de ventas de la compañía.</p>
+<p>Si el <a href="https://www.atfx.com/es/mercados/trading-de-acciones" target="_blank" rel="noopener">mercado</a> se mantiene con un tono positivo, NVDA podría acercarse a su primera resistencia técnica antes de los resultados y preparar un nuevo intento de alcanzar máximos si las cifras sorprenden al alza.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

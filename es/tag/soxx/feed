@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>SOXX Archives - ATFX Global - Official Website</title>
+	<atom:link href="https://www.atfx.com/es/tag/soxx/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Tue, 14 May 2024 01:53:41 +0000</lastBuildDate>
+	<language>es-CL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>https://www.atfx.com/wp-content/uploads/2023/06/favicon-150x150.webp</url>
+	<title>SOXX Archives - ATFX Global - Official Website</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Un vistazo al índice de semiconductores SOXX después de los resultados financieros</title>
+		<link>https://www.atfx.com/es/analisis/noticias-del-mercado/un-vistazo-al-indice-de-semiconductores-soxx-despues-de-los-resultados-financieros</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Fri, 10 May 2024 01:51:37 +0000</pubDate>
+				<category><![CDATA[Noticias del mercado y opiniones]]></category>
+		<category><![CDATA[Noticias recientes]]></category>
+		<category><![CDATA[SOXX]]></category>
+		<guid isPermaLink="false">https://www.atfx.com/?p=33360</guid>
+
+					<description><![CDATA[La temporada de resultados financieros para las mayores empresas de semiconductores logró mantener un rebote después de que los resultados superaran las expectativas. SOXX – Gráfico Diario El precio de SOXX experimentó una caída abrupta, que rompió una línea de soporte de tendencia ascendente. El precio ahora está probando los $219-220, con los máximos anteriores [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>La temporada de resultados financieros para las mayores empresas de semiconductores logró mantener un rebote después de que los resultados superaran las expectativas.</p>
+<p><img fetchpriority="high" decoding="async" class="size-full wp-image-33150 aligncenter" src="https://www.atfx.com/wp-content/uploads/2024/05/SOXX-–-Daily-Chart.webp" alt="SOXX – Daily Chart" width="903" height="629" srcset="https://www.atfx.com/wp-content/uploads/2024/05/SOXX-–-Daily-Chart.webp 903w, https://www.atfx.com/wp-content/uploads/2024/05/SOXX-–-Daily-Chart-300x209.webp 300w, https://www.atfx.com/wp-content/uploads/2024/05/SOXX-–-Daily-Chart-768x535.webp 768w" sizes="(max-width: 903px) 100vw, 903px" /></p>
+<p style="text-align: center;">SOXX – Gráfico Diario</p>
+<p>El precio de SOXX experimentó una caída abrupta, que rompió una línea de soporte de tendencia ascendente. El precio ahora está probando los $219-220, con los máximos anteriores en $240.</p>
+<p>La previsión de ingresos para todo el año de Arm Holdings el miércoles no cumplió con las expectativas de los inversores. La empresa había aumentado desde su oferta pública inicial en septiembre como diseñador de chips hasta convertirse en la mayor empresa de semiconductores. Las acciones de Arm cayeron un 7% en las operaciones después del cierre en EE.UU.</p>
+<p>El sector de semiconductores estaba en auge por el optimismo hacia la IA, pero cayó el mes pasado debido a preocupaciones crecientes sobre la perspectiva de demanda a largo plazo para los chips y la débil demanda desde China. Hubo resultados más débiles de Advanced Micro Devices (AMD) y Super Micro Computer, pero el mercado está valorando las <a href="https://www.atfx.com/es/mercados/trading-de-acciones" target="_blank" rel="noopener">acciones</a> junto con otros sectores tecnológicos.</p>
+<p>AMD ofreció una guía sombría para las ventas de 2024 de su chip de IA recién lanzado, lo que hizo que la acción bajara un 9%. Aunque la compañía elevó su objetivo de ingresos para la línea MI300 a al menos $4 mil millones desde $3.5 mil millones. Wall Street esperaba un impulso mayor, y alrededor de 12 analistas recortaron sus objetivos de precio en AMD.</p>
+<p>Super Micro Computer se desplomó un 14% después de no cumplir con los ingresos esperados debido a preocupaciones sobre la rentabilidad de una nueva línea de servidores. Sin embargo, algunos analistas aumentaron el precio objetivo de la acción porque la demanda de IA aún está en las primeras etapas y continuará creciendo.</p>
+<p>Las mayores participaciones en el índice SOXX son Nvidia y Broadcom, que subieron un 6.27% y un 3.7%, respectivamente, en la última semana. Otra participación importante es Qualcomm, que subió casi un 10% en ese período.</p>
+<p>La perspectiva para el índice es buena si esas grandes participaciones pueden seguir ganando, pero esta temporada de resultados ha levantado algunas alarmas sobre el ritmo de la demanda.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
