@@ -725,6 +725,9 @@
             <li class="root-language-switcher-box-languages-list-item" lang="en">
               <a href="en/index.html" class="root-language-switcher-box-languages-list-item-link">English</a>
             </li>
+            <li class="root-language-switcher-box-languages-list-item" lang="zh-hant">
+              <a href="zh-hant/index.html" class="root-language-switcher-box-languages-list-item-link">繁體中文</a>
+            </li>
             <li class="root-language-switcher-box-languages-list-item" lang="vi">
               <a href="vi/index.html" class="root-language-switcher-box-languages-list-item-link">Tiếng Việt</a>
             </li>
@@ -734,9 +737,7 @@
             <li class="root-language-switcher-box-languages-list-item" lang="de">
               <a href="de/index.html" class="root-language-switcher-box-languages-list-item-link">Deutsch</a>
             </li>
-            <li class="root-language-switcher-box-languages-list-item" lang="zh-hant">
-              <a href="zh-hant/index.html" class="root-language-switcher-box-languages-list-item-link">繁體中文</a>
-            </li>
+
             <li class="root-language-switcher-box-languages-list-item" lang="it">
               <a href="it/index.html" class="root-language-switcher-box-languages-list-item-link">Italiano</a>
             </li>
@@ -1051,17 +1052,21 @@
 
   .root-language-switcher-box-languages ul {
     list-style-type: none;
-    padding: 0;
+    padding: 10px 0px 50px 0px;
     text-decoration: none;
 
-    display: flex;
-    flex-wrap: wrap;
+    /* display: flex; */
+    /* flex-wrap: wrap; */
     margin: 0 auto !important;
 
     flex-direction: column;
     align-items: center;
-    height: 360px;
-    max-width: 680px;
+    /* height: 350px; */
+    max-width: 400px;
+
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 8px 0px;
   }
 
   .root-language-switcher-box-languages ul li {
@@ -1072,7 +1077,7 @@
     line-height: 30px;
     width: 100%;
     text-align: center;
-    margin-bottom: 10px;
+    /* margin-bottom: 10px; */
   }
 
   .root-language-switcher-box-languages ul li a {
