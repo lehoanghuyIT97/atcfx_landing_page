@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>strategy Archives - ATFX Global - Official Website</title>
+	<atom:link href="https://www.atfx.com/th/tag/strategy/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Mon, 24 Feb 2025 06:15:24 +0000</lastBuildDate>
+	<language>th</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>https://www.atfx.com/wp-content/uploads/2023/06/favicon-150x150.webp</url>
+	<title>strategy Archives - ATFX Global - Official Website</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Fibonacci Retracement คืออะไร? เรียนรู้ระดับราคาและการซื้อขายอัตราส่วนทองคำ</title>
+		<link>https://www.atfx.com/th/analysis/trading-strategies/fibonacci-retracement</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Mon, 27 Jan 2025 06:47:36 +0000</pubDate>
+				<category><![CDATA[กลยุทธ์การเทรด]]></category>
+		<category><![CDATA[Fibonacci]]></category>
+		<category><![CDATA[strategy]]></category>
+		<guid isPermaLink="false">https://www.atfx.com/?p=45355</guid>
+
+					<description><![CDATA[Fibonacci retracement เป็นเครื่องมือวิเคราะห์ทางเทคนิคท [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p dir="ltr">Fibonacci retracement เป็นเครื่องมือวิเคราะห์ทางเทคนิคที่สำคัญที่สามารถยกระดับกลยุทธ์การลงทุนได้ ได้มาจากลำดับ Fibonacci ระดับการกลับตัวเหล่านี้ (23.6%, 38.2%, 50%, 61.8% และ 78.6%) ช่วยให้เทรดเดอร์ระบุจุดสำคัญของแนวรับ แนวต้าน การกลับตัวที่อาจเกิดขึ้น และการปรับตัวกลับมาของราคา อัตราส่วนทองคำ (61.8%) ทำหน้าที่เป็นรากฐานทางคณิตศาสตร์ที่แข็งแกร่งสำหรับการตัดสินใจซื้อขายที่ดีขึ้น</p>
+<p dir="ltr">มีรากฐานมาจากผลงานของนักคณิตศาสตร์ Leonardo Bonacci หรือที่รู้จักในชื่อ ฟีโบนัชชี การกลับตัวเหล่านี้ถูกนำมาใช้กันอย่างแพร่หลายโดยนักวิเคราะห์สมัยใหม่เพื่อทำนายการเคลื่อนไหวของตลาด เมื่อนำไปใช้อย่างถูกต้อง จะช่วยให้เทรดเดอร์สามารถปรับกลยุทธ์ให้สอดคล้องกับสภาวะตลาดได้</p>
+<p dir="ltr">คู่มือนี้จะอธิบาย Fibonacci retracement ในรูปแบบง่ายๆ และสาธิตวิธีใช้ Fibonacci retracement อย่างมีประสิทธิภาพบนแพลตฟอร์ม เช่น <a href="https://www.atfx.com/th/trading-platforms/metatrader-4" target="_blank" rel="noopener">MT4 </a>/<a href="https://www.atfx.com/th/trading-platforms/metatrader-5" target="_blank" rel="noopener">MT5</a>(MetaTrader4/MetaTrader5) นอกจากนี้ ยังครอบคลุมถึงวิธีการเพิ่มความแม่นยำในการลงทุนด้วย<a href="https://www.atfx.com/th/trading-platforms/metatrader-4/support-resistance-indicator" target="_blank" rel="noopener">อินดิเคเตอร์แนวรับและแนวต้าน</a>ที่มีอยู่ในแพลตฟอร์มการลงทุนของ ATFX</p>
+<p dir="ltr"><img fetchpriority="high" decoding="async" class="aligncenter size-full wp-image-45356" src="https://www.atfx.com/wp-content/uploads/2025/01/Fibonacci.webp" alt="Fibonacci" width="951" height="547" srcset="https://www.atfx.com/wp-content/uploads/2025/01/Fibonacci.webp 951w, https://www.atfx.com/wp-content/uploads/2025/01/Fibonacci-300x173.webp 300w, https://www.atfx.com/wp-content/uploads/2025/01/Fibonacci-768x442.webp 768w" sizes="(max-width: 951px) 100vw, 951px" /></p>
+<h3 dir="ltr">คำอธิบายของอัตราส่วนฟีโบนัชชี:</h3>
+<ul>
+<li dir="ltr">
+<p dir="ltr">23.6% (0.236) และ 38.2% (0.382): บอกถึงการกลับตัวที่ค่อนข้างตื้น ซึ่งมักพบเห็นในแนวโน้มที่แข็งแกร่ง</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">50% (0.5): ไม่ใช่อัตราส่วนฟีโบนัชชี (แม้ว่าหลายคนจะใช้ระดับนี้ราวกับว่ามันเป็น)</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">61.8% (0.618): อัตราส่วนทองคำมีความสำคัญมากในการค้นหาการกลับตัว</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">78.6% (0.786): การกลับตัวเพิ่มเติมมีแนวโน้มที่จะถึงจุดสูงสุดในการกลับตัวจากส่วนกลาง</p>
+</li>
+</ul>
+<h2 dir="ltr">วิธีการทำงานของ Fibonacci Retracement</h2>
+<p dir="ltr">Fibonacci Retracements แสดงให้เห็นว่าราคาอาจกลับตัวหรือกลับตัวหลังจากการเคลื่อนไหว ระดับเหล่านั้นมักจะเปลี่ยนเป็นโซนแนวรับและแนวต้าน และจะแข็งแกร่งขึ้นมากเมื่อใช้ร่วมกับเครื่องมือทางเทคนิคอื่น ๆ เช่น ตัวบ่งชี้แนวรับและแนวต้านในแพลตฟอร์ม MT4 ของ ATFX</p>
+<p dir="ltr"><img decoding="async" class="aligncenter size-full wp-image-45357" src="https://www.atfx.com/wp-content/uploads/2025/01/Support-Ressist.webp" alt="Support &amp; Ressist" width="803" height="449" srcset="https://www.atfx.com/wp-content/uploads/2025/01/Support-Ressist.webp 803w, https://www.atfx.com/wp-content/uploads/2025/01/Support-Ressist-300x168.webp 300w, https://www.atfx.com/wp-content/uploads/2025/01/Support-Ressist-768x429.webp 768w" sizes="(max-width: 803px) 100vw, 803px" /></p>
+<h3 dir="ltr">ขั้นตอนในการวาด Fibonacci Retracement</h3>
+<ol class="no-markers">
+<li dir="ltr">
+<p dir="ltr">ค้นหาแนวโน้ม: ระบุจุดสูงสุดและจุดต่ำสุดของแนวโน้มเพื่อวิเคราะห์</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">แนวโน้มขาขึ้น: ลากเส้นจากสวิงต่ำ (ราคาต่ำสุด) ไปยังสวิงสูง (ราคาสูงสุด)<img decoding="async" class="aligncenter size-full wp-image-45358" src="https://www.atfx.com/wp-content/uploads/2025/01/Uptrend.webp" alt="Uptrend" width="800" height="459" srcset="https://www.atfx.com/wp-content/uploads/2025/01/Uptrend.webp 800w, https://www.atfx.com/wp-content/uploads/2025/01/Uptrend-300x172.webp 300w, https://www.atfx.com/wp-content/uploads/2025/01/Uptrend-768x441.webp 768w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+</li>
+<li dir="ltr">
+<p dir="ltr">แนวโน้มขาลง: จากจุดราคาสูงสุด (แกว่งสูง) ไปยังจุดราคาต่ำสุด (แกว่งต่ำ)<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-45359" src="https://www.atfx.com/wp-content/uploads/2025/01/Downtrend.webp" alt="Downtrend" width="803" height="452" srcset="https://www.atfx.com/wp-content/uploads/2025/01/Downtrend.webp 803w, https://www.atfx.com/wp-content/uploads/2025/01/Downtrend-300x169.webp 300w, https://www.atfx.com/wp-content/uploads/2025/01/Downtrend-768x432.webp 768w" sizes="(max-width: 803px) 100vw, 803px" /></p>
+</li>
+<li dir="ltr">
+<p dir="ltr">ใช้เครื่องมือ Fibonacci: ใช้เครื่องมือ Fibonacci retracement บนแพลตฟอร์มการลงทุนและวางซ้อนระดับบนแผนภูมิที่กำลังวิเคราะห์</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">มองหาโซนการกลับตัว: ดูว่าราคามีปฏิกิริยาอย่างไรกับระดับแนวรับหรือแนวต้านที่แสดงโดย Fibonacci โดยทั่วไปสำหรับแนวรับในแนวโน้มขาขึ้นและแนวต้านในแนวโน้มขาลง</p>
+</li>
+</ol>
+<h2 dir="ltr">วิธีใช้ Fibonacci Retracements ในกลยุทธ์การลงทุน</h2>
+<p dir="ltr">Fibonacci Retracements นั้นลื่นไหลและทำงานได้ดีกับระบบการลงทุนส่วนใหญ่ นี่คือตัวอย่างวิธีใช้งาน:</p>
+<ol class="no-markers">
+<li dir="ltr">
+<h3 dir="ltr">การระบุจุดเข้า</h3>
+</li>
+</ol>
+<ul>
+<li dir="ltr">
+<p dir="ltr">ค้นหาการฟื้นตัวของราคาไปยังเป้าหมาย Fibonacci ที่สำคัญ (เช่น 0.382 (38.2%) และ 0.618 (61.8%) หรือมากกว่านั้น เป็นต้น) เพื่อเริ่มการซื้อขายเมื่อแนวโน้มหลักกลับมาอีกครั้ง การตรวจสอบระดับเหล่านั้นด้วยตัวบ่งชี้แนวรับและแนวต้านของ ATFX ซึ่งช่วยยืนยันแนวเดียวกันกับโซนกลับตัว</p>
+</li>
+</ul>
+<ol class="no-markers" start="2">
+<li dir="ltr">
+<h3 dir="ltr">การตั้งค่าระดับ Stop-Loss และ Take-Profit</h3>
+</li>
+</ol>
+<ul>
+<li dir="ltr">
+<p dir="ltr">Stop-Loss: ปรับระดับ Stop-Loss และ Take-Profit เพื่อให้แน่ใจว่า Stop-Loss จะอยู่ต่ำกว่าระดับ Fibonacci ถัดไป หากราคาไม่กลับตัวตามที่คาดไว้</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Take-Profit: ใช้ส่วนขยาย Fibonacci (ระดับที่เกิน 100%) เพื่อกำหนดเป้าหมายกำไร คาดการณ์ว่าราคาจะเคลื่อนไหวไปในทิศทางใดหลังจากทะลุระดับแนวรับ</p>
+</li>
+</ul>
+<ol class="no-markers" start="3">
+<li dir="ltr">
+<h3 dir="ltr">การรวม Fibonacci Retracement เข้ากับ RSI</h3>
+</li>
+</ol>
+<p dir="ltr">กลยุทธ์นี้เกี่ยวข้องกับการใช้ระดับ Fibonacci Retracement เพื่อระบุแนวรับและแนวต้านที่เป็นไปได้ รวมกับ RSl เพื่อวัดสภาพและปริมาณการซื้อที่มากเกินไปหรือขายมากเกินไปเพื่อยืนยันการทะลุระดับราคาขึ้น/ลงไป</p>
+<p dir="ltr">ในแนวโน้มตลาดขาขึ้น ให้รอให้ราคาถอยกลับไปที่ระดับ Fibonacci (เช่น 50%) หาก RSl เข้าสู่ขอบเขตของโซน oversold (ต่ำกว่า 30) นี่อาจบ่งบอกถึงโอกาสในการซื้อ</p>
+<ul>
+<li dir="ltr">
+<p dir="ltr">เมื่อใช้ Fibonacci Retracements ให้เสริมข้อสรุปด้วยค่าเฉลี่ยเคลื่อนที่, Relative Strength Index (RSI) หรือรูปแบบแท่งเทียน</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">ตัวอย่าง: รูปแบบแนวโน้มที่เกิดขึ้นที่จุดกลับตัว 61.8% ในธงภาวะขาขึ้นทำให้สัญญาณซื้อแข็งแกร่งขึ้น</p>
+</li>
+</ul>
+<ol class="no-markers" start="4">
+<li dir="ltr">
+<h3 dir="ltr">จดจำการกลับตัว</h3>
+</li>
+</ol>
+<ul>
+<li dir="ltr">
+<p dir="ltr">ใช้ Fibonacci Retracements เพื่อระบุโซนการกลับตัวที่อาจเกิดขึ้น หากราคาไม่ทะลุระดับ Fibonacci ที่สำคัญ ก็มีแนวโน้มที่จะกลับทิศทาง</p>
+</li>
+</ul>
+<p><a href="https://www.atfx.com/th/trading-accounts/demo-account" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="aligncenter wp-image-46034 size-large" src="https://www.atfx.com/wp-content/uploads/2025/01/Demo-Fibo-Banner-ATFX-TH-1024x256.webp" alt="Demo Fibo-Banner ATFX TH" width="800" height="200" srcset="https://www.atfx.com/wp-content/uploads/2025/01/Demo-Fibo-Banner-ATFX-TH-1024x256.webp 1024w, https://www.atfx.com/wp-content/uploads/2025/01/Demo-Fibo-Banner-ATFX-TH-300x75.webp 300w, https://www.atfx.com/wp-content/uploads/2025/01/Demo-Fibo-Banner-ATFX-TH-768x192.webp 768w, https://www.atfx.com/wp-content/uploads/2025/01/Demo-Fibo-Banner-ATFX-TH.webp 1200w" sizes="(max-width: 800px) 100vw, 800px" /></a></p>
+<h2 dir="ltr">ตัวอย่างของการใช้ Fibonacci Retracements</h2>
+<p dir="ltr">อธิบาย Fibonacci Retracement แต่ละระดับ:</p>
+<ul>
+<li dir="ltr">
+<p dir="ltr">23.6%: การถอยกลับเล็กน้อย; ราคาอาจเด้งอย่างรวดเร็วจากที่นี่ในช่วงแนวโน้มที่แข็งแกร่ง</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">38.2%: การพักตัวในระดับปานกลาง มักถูกมองว่าเป็นแนวรับหรือแนวต้านที่แข็งแกร่ง</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">50%: แม้ว่าจะไม่ใช่หมายเลข Fibonacci อย่างเป็นทางการ แต่เทรดเดอร์ก็ใช้กันอย่างแพร่หลายเพื่อทำเครื่องหมายการพักตัวครึ่งทาง</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">61.8%: รู้จักกันในชื่ออัตราส่วนทองคำ ซึ่งถือเป็นพื้นที่ที่แข็งแกร่งของการกลับตัวที่อาจเกิดขึ้น</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">73.6%: การพักตัวแบบลึก; หากราคายังคงอยู่ตรงนี้ การกลับตัวก็มีแนวโน้มสูง แต่การทะลุระดับนี้อาจส่งสัญญาณถึงการเปลี่ยนเทรนด์</p>
+</li>
+</ul>
+<p dir="ltr">ระดับเหล่านี้ช่วยให้เทรดเดอร์ระบุได้ว่าคู่สกุลเงินอาจกลับตัวหรือหยุดชั่วคราวที่จุดใดระหว่างการเคลื่อนไหว ระดับเหล่านี้ช่วยวางแผนการเข้า ออก และจุดหยุดขาดทุนอย่างมั่นใจมากขึ้น</p>
+<p dir="ltr">ตัวอย่าง: ด้านล่างนี้เป็นตัวอย่างของ <a href="https://www.atfx.com/th/markets/forex-trading" target="_blank" rel="noopener">USD/CHF </a>ในช่วงวันที่ 6 กันยายน 2024 ถึง 13 มกราคม 2025 : ราคาเปลี่ยนจาก 0.8377 (สวิงโลว์) ถึง 0.9201 (สวิงไฮ) เราสามารถใช้ระดับ Fibonacci Retracement เพื่อระบุจุดกลับตัวที่อาจเกิดขึ้นได้ ในแนวโน้มขาขึ้น ให้รอให้ราคาย้อนกลับไปยังระดับ Fibonacci ที่สำคัญ เช่น 50% หรือ 61.8% ซึ่งอาจเป็นพื้นที่กลับตัวที่เป็นไปได้ โดยส่งสัญญาณถึงโอกาสในการซื้อหากราคาเริ่มขยับขึ้นอีกครั้ง</p>
+<p dir="ltr"><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-45360" src="https://www.atfx.com/wp-content/uploads/2025/01/USD-CHF.webp" alt="USD-CHF" width="797" height="446" srcset="https://www.atfx.com/wp-content/uploads/2025/01/USD-CHF.webp 797w, https://www.atfx.com/wp-content/uploads/2025/01/USD-CHF-300x168.webp 300w, https://www.atfx.com/wp-content/uploads/2025/01/USD-CHF-768x430.webp 768w" sizes="(max-width: 797px) 100vw, 797px" /></p>
+<h2 dir="ltr">ข้อดีของ Fibonacci Retracement</h2>
+<ul>
+<li dir="ltr">
+<p dir="ltr">เรียบง่าย เข้าถึงได้ และใช้งานง่าย: เครื่องมือนี้ได้รับความนิยมในทุกแพลตฟอร์มการซื้อขาย</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">อเนกประสงค์: ใช้ได้กับฟอเร็กซ์ หุ้น สินค้าโภคภัณฑ์ และเครื่องมือทางการเงินอื่นๆ</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">เพิ่มความมั่นใจ: ช่วยให้สามารถแยกแยะความแตกต่างระหว่างการตั้งค่าที่ทำกำไรและอาจไม่ทำกำไรได้ชัดเจนยิ่งขึ้นด้วยความมั่นใจมากยิ่งขึ้น</p>
+</li>
+</ul>
+<h2 dir="ltr">ข้อผิดพลาดทั่วไปที่ควรหลีกเลี่ยง</h2>
+<ol>
+<li dir="ltr">
+<p dir="ltr">การใช้ Fibonacci แยกกับการวิเคราะห์อื่น: รวมระดับ Fibonacci เข้ากับตัวบ่งชี้หรือวิธีการวิเคราะห์อื่น ๆ เพื่อยืนยันสัญญาณเสมอ</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">การไม่สนใจแนวโน้มของตลาด: Fibonacci Retracements มีประสิทธิภาพมากที่สุดในการระบุแนวโน้มของตลาด</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">ซับซ้อนมากเกินไปเพราะมีระดับสำคัญมากเกินไป: เพื่อหลีกเลี่ยงความสับสน ให้เน้นไปที่ระดับอัตราส่วนที่สำคัญที่สุด (เช่น 38.2%, 50%, 61.8%)</p>
+</li>
+</ol>
+<h2 dir="ltr">บทสรุป</h2>
+<p dir="ltr">Fibonacci Retracements เป็นเครื่องมือที่ยอดเยี่ยมในการระบุระดับสำคัญของแนวรับและแนวต้าน การเรียนรู้สิ่งเหล่านี้สามารถเสริมความแข็งแกร่งให้กับแผนการลงทุน ปรับแต่งจุดเข้าและออก และให้ข้อมูลเชิงลึกเกี่ยวกับวิธีการทำงานของตลาด</p>
+<p dir="ltr">ใช้วิธีที่ถูกต้อง: ดูเทียบกับคู่สกุลเงินอื่น และฝึกฝนกลยุทธ์การลงทถนบนแพลตฟอร์ม MT4/MT5 กับตลาดที่แตกต่างกัน เพื่อเพิ่มความสามารถในการซื้อขาย ให้ใช้ Fibonacci Retracements และเริ่มเคลื่อนไหวได้ดีขึ้น</p>
+<p dir="ltr"><a href="https://www.atfx.com/th/trading-accounts/live-account" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="aligncenter wp-image-46035 size-large" src="https://www.atfx.com/wp-content/uploads/2025/01/Live-Banner-2-Fibonacci-Retracements-TH-1024x256.webp" alt="Live Banner 2 Fibonacci Retracements TH" width="800" height="200" srcset="https://www.atfx.com/wp-content/uploads/2025/01/Live-Banner-2-Fibonacci-Retracements-TH-1024x256.webp 1024w, https://www.atfx.com/wp-content/uploads/2025/01/Live-Banner-2-Fibonacci-Retracements-TH-300x75.webp 300w, https://www.atfx.com/wp-content/uploads/2025/01/Live-Banner-2-Fibonacci-Retracements-TH-768x192.webp 768w, https://www.atfx.com/wp-content/uploads/2025/01/Live-Banner-2-Fibonacci-Retracements-TH.webp 1200w" sizes="(max-width: 800px) 100vw, 800px" /></a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

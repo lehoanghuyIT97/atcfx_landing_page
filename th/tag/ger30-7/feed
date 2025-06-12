@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>GER30 Archives - ATFX Global - Official Website</title>
+	<atom:link href="https://www.atfx.com/th/tag/ger30-7/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Fri, 23 May 2025 06:56:31 +0000</lastBuildDate>
+	<language>th</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>https://www.atfx.com/wp-content/uploads/2023/06/favicon-150x150.webp</url>
+	<title>GER30 Archives - ATFX Global - Official Website</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>หุ้นเยอรมันปรับตัวสูงขึ้น แต่ MACD ส่งสัญญาณที่ไม่เหมือนกันกับราคา</title>
+		<link>https://www.atfx.com/th/analysis/market-news/german-stocks-power-higher-macd-divergence-looms</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Thu, 22 May 2025 23:16:10 +0000</pubDate>
+				<category><![CDATA[ข่าวสาร & ข้อมูลตลาดเชิงลึก]]></category>
+		<category><![CDATA[GER30]]></category>
+		<guid isPermaLink="false">https://www.atfx.com/?p=50540</guid>
+
+					<description><![CDATA[ในช่วงที่ผ่านมา หุ้นเยอรมัน (GER30) ยังคงปรับตัวสูงขึ้น [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>ในช่วงที่ผ่านมา <a href="https://www.atfx.com/th/markets/indices-trading" target="_blank" rel="noopener">หุ้นเยอรมัน (GER30)</a> ยังคงปรับตัวสูงขึ้นอย่างแข็งแกร่ง จนสามารถกลับไปสร้างจุดสูงสุดใหม่ได้ อย่างไรก็ตาม สัญญาณโมเมนตัมชะลอตัวที่เห็นใน<a href="https://www.atfx.com/th/trading-platforms/metatrader-4/mt4-indicators" target="_blank" rel="noopener">อินดิเคเตอร์ MACD</a> กำลังส่งสัญญาณเตือน</p>
+<figure id="attachment_50542" aria-describedby="caption-attachment-50542" style="width: 640px" class="wp-caption aligncenter"><img fetchpriority="high" decoding="async" class="wp-image-50542 size-full" src="https://www.atfx.com/wp-content/uploads/2025/05/GER-30-–-Daily-Chart.png" alt="GER 30 – Daily Chart" width="640" height="651" srcset="https://www.atfx.com/wp-content/uploads/2025/05/GER-30-–-Daily-Chart.png 640w, https://www.atfx.com/wp-content/uploads/2025/05/GER-30-–-Daily-Chart-295x300.png 295w" sizes="(max-width: 640px) 100vw, 640px" /><figcaption id="caption-attachment-50542" class="wp-caption-text">กราฟ GER30 รายวัน</figcaption></figure>
+<p>ราคาของ GER 30 ในปัจจุบันเคลื่อนไหวอยู่ที่ 24,040 หลังร่วงลงมาแตะระดับต่ำถึง 19,000 ในเดือนเมษายน การพุ่งขึ้นสู่ระดับสูงสุดใหม่เกิดขึ้นควบคู่ไปกับค่า MACD ที่ลดลง ซึ่งจะทำให้นักลงทุนเกิดความระมัดระวังมากขึ้น</p>
+<p>ตลาดหุ้นเยอรมนียังคงเคลื่อนไหวอย่างแข็งแกร่งแม้ว่าเศรษฐกิจจะอ่อนแอ</p>
+<p>ข้อมูลล่าสุดแสดงให้เห็นว่าการเติบโตของค่าจ้างในเยอรมนีลดลงอย่างมีนัยสำคัญ ตามข้อมูลของ Bundesbank ความอ่อนแอทางเศรษฐกิจบ่งชี้ว่าโบนัสในอนาคตน่าจะต่ำกว่าในอดีตมาก</p>
+<p>ค่าจ้างที่เจรจากันในไตรมาสแรกเพิ่มขึ้นเพียง 0.9% จากปีก่อน เมื่อเทียบกับการเพิ่มขึ้น 5.8% เมื่อสิ้นปี 2024 ตามรายงานของธนาคารกลาง</p>
+<p>คณะที่ปรึกษาเศรษฐกิจของรัฐบาลคาดการณ์เมื่อวันพุธว่าเศรษฐกิจของเยอรมนีจะซบเซาในปีนี้ เนื่องจากประเทศต้องเผชิญกับอุปสรรคจากภาษีศุลกากรและภัยคุกคามทางการค้าของโดนัลด์ ทรัมป์</p>
+<p>เยอรมนีเป็นประเทศที่มีขนาดเศรษฐกิจใหญ่ที่สุดของยุโรป แต่กลับไม่มีการเติบโตทางเศรษฐกิจที่สำคัญในรอบ 5 ปี ข้อมูลผลิตภัณฑ์มวลรวมภายในประเทศหดตัวในช่วง 2 ปีที่ผ่านมา คณะกรรมการคาดการณ์เศรษฐกิจชะลอตัวก่อนเติบโต 1% ในปี 2026 โดยคาดการณ์ไว้ก่อนหน้านี้ในเดือนพฤศจิกายนว่าจะเติบโต 0.4% ในปีนี้</p>
+<p>แนวโน้มใหม่นี้คล้ายกับการคาดการณ์ของรัฐบาลเยอรมนีในอดีตเมื่อเดือนที่แล้ว ฟรีดริช เมอซ์ ผู้ที่เข้ารับตำแหน่งผู้นำเมื่อวันที่ 6 พฤษภาคม ได้ประกาศแผนลดขั้นตอนราชการ ส่งเสริมการแปลงเป็นดิจิทัล ให้สิทธิลดหย่อนภาษีแก่บริษัทต่างๆ และส่งเสริมข้อตกลงการค้าเสรีเพิ่มเติม</p>
+<p>“นโยบายภาษีศุลกากรของทรัมป์เพิ่มความไม่แน่นอนและเป็นอันตรายต่อการเติบโตทางเศรษฐกิจทั่วโลก” โมนิก้า ชนิตเซอร์ (Monika Schnitzer) หัวหน้าคณะกรรมการกล่าว แต่เธอกล่าวเสริมว่าแพ็คเกจการลงทุนมหาศาลที่เสนอโดยกลุ่มพันธมิตรของฟรีดริช “มอบโอกาสสำหรับการปรับปรุงโครงสร้างพื้นฐานในเยอรมนีและกลับสู่เส้นทางการเติบโตที่สูงขึ้น”</p>
+<p>นักลงทุนอาจเห็นดัชนี GER 30 ปรับตัวขึ้นเพราะนักลงทุนรอย่อเพื่อซื้อได้บ้าง แต่ควรระมัดระวังทิศทางหุ้นที่เปลี่ยนแปลงไปเพราะทัศนคติจากพาดหัวข่าว ข้อความเหล่านี้อาจทำให้เกิดการย่อตัวลงอีกครั้ง</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>SOXX Archives - ATFX Global - Official Website</title>
+	<atom:link href="https://www.atfx.com/th/tag/soxx/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Fri, 10 May 2024 09:55:38 +0000</lastBuildDate>
+	<language>th</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>https://www.atfx.com/wp-content/uploads/2023/06/favicon-150x150.webp</url>
+	<title>SOXX Archives - ATFX Global - Official Website</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>ภาพรวมดัชนีวัดความสามารถของกลุ่มเซมิคอนดักเตอร์ (Soxx) หลังรายงานผลประกอบการ</title>
+		<link>https://www.atfx.com/th/analysis/market-news/a-look-at-the-soxx-semiconductor-index-after-earnings</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Fri, 10 May 2024 09:55:38 +0000</pubDate>
+				<category><![CDATA[ข่าวสาร & ข้อมูลตลาดเชิงลึก]]></category>
+		<category><![CDATA[SOXX]]></category>
+		<category><![CDATA[ข่าวสารล่าสุด]]></category>
+		<guid isPermaLink="false">https://www.atfx.com/?p=33249</guid>
+
+					<description><![CDATA[รายงานผลประกอบการของบริษัทเซมิคอนดักเตอร์ชื่อดังที่สามา [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>รายงานผลประกอบการของบริษัทเซมิคอนดักเตอร์ชื่อดังที่สามารถเอาชนะคาดการณ์ได้ทำให้ภาพรวมของดัชนีวัดประสิทธิภาพของวงการเซมิคอนดักเตอร์ (Soxx) ยังสามารถรักษาการรีบาวด์ของตัวเองเอาไว้ได้</p>
+<p><img fetchpriority="high" decoding="async" class="size-full wp-image-33150 aligncenter" src="https://www.atfx.com/wp-content/uploads/2024/05/SOXX-–-Daily-Chart.webp" alt="SOXX – Daily Chart" width="903" height="629" srcset="https://www.atfx.com/wp-content/uploads/2024/05/SOXX-–-Daily-Chart.webp 903w, https://www.atfx.com/wp-content/uploads/2024/05/SOXX-–-Daily-Chart-300x209.webp 300w, https://www.atfx.com/wp-content/uploads/2024/05/SOXX-–-Daily-Chart-768x535.webp 768w" sizes="(max-width: 903px) 100vw, 903px" /></p>
+<p style="text-align: center;">กราฟ SOXX รายวัน</p>
+<p>ราคาของดัชนี SOXX มีการทะลุลงมาอย่างมาก จนสามารถทะลุเส้นเทรนด์ไลน์ขาขึ้น ราคาตอนนี้ทดสอบระดับราคาที่ 219-220 ดอลลาร์ โดยเคยทำจุดสูงสุดก่อนหน้านี้ที่ 240 ดอลลาร์</p>
+<p>การคาดการณ์รายได้ทั้งปีของ Arm Holdings ในวันพุธไม่เป็นไปตามความคาดหวังของนักลงทุน บริษัททะยานขึ้นจากการเสนอขายหุ้น IPO เมื่อเดือนกันยายนในฐานะผู้ออกแบบชิป สู่บริษัทเซมิคอนดักเตอร์ที่ใหญ่ที่สุด หุ้นของ Arm ลดลง 7% ในตลาดช่วงนอกเวลาทำการของสหรัฐอเมริกา</p>
+<p>ภาคเซมิคอนดักเตอร์กำลังเฟื่องฟูจากความเชื่อมั่นที่มีต่อการมาของ AI แต่ลดลงเมื่อเดือนที่แล้วเนื่องจากความกังวลที่มากขึ้นเกี่ยวกับแนวโน้มความต้องการชิปในระยะยาว และความต้องการจากจีนที่ลดลง บริษัท Advanced Micro Devices AMD และ Super Micro Computer มีรายได้ลดลง แต่ตลาดกำลังประมูลราคา<a href="https://www.atfx.com/th/markets/shares-trading" target="_blank" rel="noopener">หุ้น</a>กับภาคเทคโนโลยีอื่น ๆ</p>
+<p>AMD ให้ข้อมูลที่น่าเศร้าสำหรับยอดขายชิป AI ที่เพิ่งเปิดตัวในปี 2024 ซึ่งทำให้ราคาหุ้นของบริษัทลดลง 9% แม้ว่าบริษัทจะเพิ่มเป้าหมายรายรับสำหรับสายผลิตภัณฑ์ MI300 เป็นอย่างน้อย 4 พันล้านดอลลาร์จาก 3.5 พันล้านดอลลาร์ นักลงทุนใน Wall Street เชื่อว่าไปได้ไกลมากกว่านั้น และนักวิเคราะห์ประมาณ 12 คนได้ลดราคาเป้าหมายสำหรับ AMD</p>
+<p>Super Micro Computer ลดลง 14% หลังจากข้อมูลรายได้พลาดคาดการณ์เพราะความกังวลเกี่ยวกับการทำกำไรของเซิร์ฟเวอร์แนวใหม่ อย่างไรก็ตาม นักวิเคราะห์บางรายเพิ่มราคาเป้าหมายของหุ้นเนื่องจากความต้องการด้าน AI ยังอยู่ในช่วงเริ่มต้นและเชื่อว่าจะยังคงเติบโตต่อไป</p>
+<p>ในช่วงสัปดาห์ที่ผ่านมา สัดส่วนการถือครองที่ใหญ่ที่สุดในดัชนี SOXX ได้แก่ Nvidia และ Broadcom ซึ่งเพิ่มขึ้น 6.27% และ 3.7% ตามลำดับ อันดับหนึ่งอย่าง Qualcomm เพิ่มขึ้นเกือบ 10% ในช่วงเวลานั้น</p>
+<p>แนวโน้มของดัชนีจะดีหากหุ้นของบริษัทขนาดใหญ่เหล่านั้นสามารถปรับตัวเพิ่มขึ้นต่อไปได้ แต่ฤดูกาลผลประกอบการนี้ทำให้เกิดสัญญาณเตือนเกี่ยวกับความต้องการเทคโนโลยีประเภทนี้</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>นักลงทุนชื่อดังไมเคิล เบอร์รี่ลดออเดอร์ชอร์ตในหุ้นกลุ่มเซมิคอนดักเตอร์ลงท่ามกลางตลาดขาขึ้น</title>
+		<link>https://www.atfx.com/th/analysis/market-news/burry-cut-short-position-semiconductor-market-climb</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Fri, 16 Feb 2024 09:54:45 +0000</pubDate>
+				<category><![CDATA[ข่าวสาร & ข้อมูลตลาดเชิงลึก]]></category>
+		<category><![CDATA[SOXX]]></category>
+		<guid isPermaLink="false">https://www.atfx.com/?p=30043</guid>
+
+					<description><![CDATA[ไมเคิล เบอร์รี่ นักลงทุนผู้ได้ฉายาว่า “The Big Short” ถ [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>ไมเคิล เบอร์รี่ นักลงทุนผู้ได้ฉายาว่า “The Big Short” ถูกกดดันให้ทิ้งออเดอร์ขาลงกับหุ้นในตลาดซื้อขายเซมิคอนดักเตอร์</p>
+<p><img decoding="async" class="size-full wp-image-30019 aligncenter" src="https://www.atfx.com/wp-content/uploads/2024/02/SOXX-–-Daily-Chart.png" alt="SOXX – Daily Chart" width="799" height="561" srcset="https://www.atfx.com/wp-content/uploads/2024/02/SOXX-–-Daily-Chart.png 799w, https://www.atfx.com/wp-content/uploads/2024/02/SOXX-–-Daily-Chart-300x211.png 300w, https://www.atfx.com/wp-content/uploads/2024/02/SOXX-–-Daily-Chart-768x539.png 768w" sizes="(max-width: 799px) 100vw, 799px" /></p>
+<p style="text-align: center;">กราฟ SOXX รายวัน</p>
+<p>ราคาของ <a href="https://www.atfx.com/th/etf" target="_blank" rel="noopener">SOXX ETF</a> เพิ่มขึ้นนับตั้งแต่เดิมพันของไมเคิล เบอร์รี่ (Michael Burry) ในเดือนพฤศจิกายนเพื่อไปซื้อขายที่ 634.98 ดอลลาร์</p>
+<p>ตามรายงานล่าสุดในช่วงสามเดือน Burry&#8217;s Scion Asset Management ได้เพิ่มการลงทุนอย่างมากใน Alibaba และ JD.com เมื่อปลายปีที่แล้ว Burry มีชื่อเสียงจากภาพยนตร์เรื่อง The Big Short จากการเดิมพันหนี้ซับไพรม์และประสบความสำเร็จในช่วง<a href="https://www.atfx.com/th/analysis/financial-events/2008-financial-crisis-3-causes-3-effects-3-lessons-learned" target="_blank" rel="noopener">วิกฤตการเงิน</a>ปี 2008-2009</p>
+<p>ตามรายงานดังกล่าว Scion ได้เพิ่มการเป็นเจ้าของหุ้น Alibaba ขึ้น 50% จากไตรมาสที่สามถึงไตรมาสที่สี่ จาก 50,000 หุ้นเป็น 75,000 หุ้น มูลค่าของการเป็นเจ้าของนี้มีมูลค่ามากกว่า 5.5 ล้านดอลลาร์ในวันพุธ</p>
+<p>กองทุนยังเพิ่มการเป็นเจ้าของใน JD.com อีก 60% เป็น 200,000 หุ้นจาก 125,000 หุ้น การดำเนินการดังกล่าวมีมูลค่ามากกว่า <strong>4.6 ล้านดอลลาร์</strong></p>
+<p>อย่างไรก็ตาม กองทุนถูกบังคับให้ลดการถือครองกองทุนซื้อขายแลกเปลี่ยน iShares Semiconductor (SOXX) ในเดือนกุมภาพันธ์ ไมเคิลจึงไม่มีออเดอร์ชอร์ตในพอร์ตของเขา ก่อนหน้านี้ เขาเคยลดออเดอร์ที่คล้ายกันกับดัชนี <a href="https://www.atfx.com/th/live-chart/sp500" target="_blank" rel="noopener">S&amp;P 500</a> และ <a href="https://www.atfx.com/th/live-chart/nasdaq100" target="_blank" rel="noopener">Nasdaq 100</a> เมื่อปีที่แล้ว</p>
+<p>ในเดือนพฤศจิกายน Scion รายงานการเป็นเจ้าของ 100,000 put options ที่มีความเชื่อมโยงกับ iShares Semiconductor ETF ซึ่งมีมูลค่าตามสัญญา 47 ล้านดอลลาร์ โดยอิงจากราคาปิดของกองทุน ณ สิ้นเดือนกันยายน</p>
+<p>นักลงทุนฝั่งขาลงยังคงคิดผิดเกี่ยวกับการเพิ่มขึ้นของ<a href="https://www.atfx.com/th/markets/shares-trading">หุ้น</a> AI อย่าง Nvidia ที่เพิ่มขึ้น 32% ในเดือนที่ผ่านมาเพียงเดือนเดียว หุ้นผู้ผลิตชิปรายอื่นๆ ก็มีกำไรเช่นกัน โดย AMD เพิ่มขึ้น 17% ในช่วงเวลาดังกล่าว สัปดาห์นี้ ธนาคารเพื่อการลงทุน Susquehanna ปรับราคาเป้าหมายของ Nvidia ขึ้น 36% เป็น <strong>850 ดอลลาร์ต่อหุ้น</strong> ก่อนผลประกอบการในสัปดาห์หน้า</p>
+<p>คนส่วนใหญ่คาดการณ์ว่าบริษัท Nvidia จะทำกำไรได้ประมาณ <strong>4.55 ดอลลาร์ต่อหุ้น</strong> นักวิเคราะห์ Christopher Rolland คิดว่าบริษัท AI ที่ประสบความสำเร็จอย่างยิ่งใหญ่จะทำผลงานได้ดีกว่าที่ตลาดคาดหวังไว้ Rolland เชื่อว่า Nvidia จะมียอดขายเกินความคาดหมายอย่างน้อย 1.5 พันล้านดอลลาร์ในช่วงสามเดือน และสร้างยอดขายรวม 99 พันล้านดอลลาร์ในปี 2025</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
