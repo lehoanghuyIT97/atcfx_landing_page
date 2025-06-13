@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>US WTI Archives - ATFX Global - Official Website</title>
+	<atom:link href="https://www.atfx.com/en-za/tag/us-wti/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Tue, 10 Sep 2024 05:17:18 +0000</lastBuildDate>
+	<language>en-ZA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>https://www.atfx.com/wp-content/uploads/2023/06/favicon-150x150.webp</url>
+	<title>US WTI Archives - ATFX Global - Official Website</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Oil Holds Steady as Storm Francine Offsets Sluggish Demand</title>
+		<link>https://www.atfx.com/en-za/analysis/market-news/oil-holds-steady-as-storm-francine-offsets-sluggish-demand</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Tue, 10 Sep 2024 04:30:39 +0000</pubDate>
+				<category><![CDATA[Market news & Insights]]></category>
+		<category><![CDATA[Recent news]]></category>
+		<category><![CDATA[UK Brent]]></category>
+		<category><![CDATA[US WTI]]></category>
+		<guid isPermaLink="false">https://www.atfx.com/?p=40473</guid>
+
+					<description><![CDATA[Oil prices remained steady in early trading Tuesday, with supply disruptions from Tropical Storm Francine balancing concerns over faltering Chinese demand. Brent crude rose 0.22% to $72.00 a barrel, while West Texas Intermediate gained 0.17% to $68.83. Both benchmarks saw gains of around 1% in the previous session. The US Coast Guard shut down operations at [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><a href="https://www.atfx.com/en-za/live-chart/crude-oil" target="_blank" rel="noopener">Oil prices</a> remained steady in early trading Tuesday, with supply disruptions from Tropical Storm Francine balancing concerns over faltering Chinese demand. Brent crude rose 0.22% to $72.00 a barrel, while West Texas Intermediate gained 0.17% to $68.83. Both benchmarks saw gains of around 1% in the previous session.</p>
+<p>The US Coast Guard shut down operations at several smaller Texas ports, including Brownsville, as Francine swept through the Gulf of Mexico. Exxon Mobil Corp. halted output at its Hoover offshore platform, while Shell Plc and Chevron Corp. initiated shutdowns at multiple sites. According to ANZ analysts, at least 125,000 barrels a day of oil production is at risk, citing data from the National Hurricane Center, which expects Francine to strengthen into a hurricane by Tuesday.</p>
+<p>Despite the storm-related supply issues, concerns over weak demand from China continue to weigh on the market. Executives from commodity trading firms Gunvor Group Ltd. and Trafigura Group Pte forecast oil prices could hover between $60 and $70 a barrel, citing subdued Chinese consumption and a persistent global oversupply.</p>
+<p>China, the world’s largest crude importer, has seen demand growth slow sharply, with annual increases dropping to 200,000 barrels a day from the pre-pandemic average of 500,000 to 600,000 barrels, according to Daan Struyven, head of oil research at Goldman Sachs. Lower-carbon fuel policies and sluggish economic recovery are dragging on consumption.</p>
+<p>Refining margins across Asia have also fallen to their lowest seasonal levels since 2020, further clouding the outlook for crude demand. As supply disruptions unfold in the Gulf, traders are weighing how long these headwinds from China will persist.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
