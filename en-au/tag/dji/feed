@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>DJI Archives - ATFX Global - Official Website</title>
+	<atom:link href="https://www.atfx.com/en-au/tag/dji/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Fri, 31 May 2024 09:23:07 +0000</lastBuildDate>
+	<language>en-AU</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>https://www.atfx.com/wp-content/uploads/2023/06/favicon-150x150.webp</url>
+	<title>DJI Archives - ATFX Global - Official Website</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Dow Jones Industrial Index Crumble from All-Time Highs</title>
+		<link>https://www.atfx.com/en-au/analysis/market-news/dow-jones-industrial-index-crumble-from-all-time-highs</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Fri, 31 May 2024 01:16:27 +0000</pubDate>
+				<category><![CDATA[Market news & Insights]]></category>
+		<category><![CDATA[DJI]]></category>
+		<category><![CDATA[Dow Jones]]></category>
+		<category><![CDATA[Recent news]]></category>
+		<guid isPermaLink="false">https://www.atfx.com/?p=35065</guid>
+
+					<description><![CDATA[After testing a new all-time high two weeks ago, the Dow Jones Industrial Average has seen its price collapse.  DJI – Daily Chart  The US 30 index tested a previous gap higher from early May, and the 2024 open is 37,560.  US stocks fell Thursday after software giant Salesforce issued disappointing guidance and lower revenue, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">After testing a new all-time high two weeks ago, the </span><a href="https://www.atfx.com/en-au/live-chart/dow-jones" target="_blank" rel="noopener"><span style="font-weight: 400;">Dow Jones Industrial Average</span></a><span style="font-weight: 400;"> has seen its price collapse. </span></p>
+<p><span style="font-weight: 400;"> <img fetchpriority="high" decoding="async" class="aligncenter size-full wp-image-35063" src="https://www.atfx.com/wp-content/uploads/2024/05/DJI-–-Daily-Chart.png" alt="DJI – Daily Chart" width="910" height="600" srcset="https://www.atfx.com/wp-content/uploads/2024/05/DJI-–-Daily-Chart.png 910w, https://www.atfx.com/wp-content/uploads/2024/05/DJI-–-Daily-Chart-300x198.png 300w, https://www.atfx.com/wp-content/uploads/2024/05/DJI-–-Daily-Chart-768x506.png 768w" sizes="(max-width: 910px) 100vw, 910px" /></span></p>
+<p style="text-align: center;"><span style="font-weight: 400; font-size: 10pt;">DJI – Daily Chart </span></p>
+<p><span style="font-weight: 400;">The US 30 index tested a previous gap higher from early May, and the 2024 open is 37,560. </span></p>
+<p><span style="font-weight: 400;">US stocks</span><span style="font-weight: 400;"> fell Thursday after software giant </span><a href="https://www.atfx.com/en-au/analysis/market-news/salesforce-release-earnings-on-wednesday" target="_blank" rel="noopener"><span style="font-weight: 400;">Salesforce</span></a><span style="font-weight: 400;"> issued disappointing guidance and lower revenue, hurting other software names. The Dow Jones Industrial Average fell almost 1%, while the </span><a href="https://www.atfx.com/en-au/live-chart/sp500" target="_blank" rel="noopener"><span style="font-weight: 400;">S&amp;P 500</span></a><span style="font-weight: 400;"> and the Nasdaq Composite dropped. </span></p>
+<p><span style="font-weight: 400;">Salesforce shares plunged 20% after the cloud-based software company reported its first quarterly revenue miss in 18 years and offered a soft sales outlook. </span></p>
+<p><span style="font-weight: 400;">Weak bookings in Q1 further tested investor patience as the GenAI (generative AI) innovation cycle has yet to inflect top-line results and increasingly becomes a competitive concern,&#8221; Morgan Stanley analysts said. </span></p>
+<p><span style="font-weight: 400;">There is a risk of a more significant correction with PCE deflator data on Friday, which could add to fears of &#8220;higher rates for longer&#8221; in the United States. Volatility in US stocks on Thursday also affected data feeds, with the CME exchange announcing a data freeze that lasted for about an hour. </span></p>
+<p><span style="font-weight: 400;">United Healthcare was another drag on the Dow Jones after the company&#8217;s CEO discussed Medicare delays at a health conference on Wednesday. UNH stock is down around 4% in the last 2 days. </span></p>
+<p><span style="font-weight: 400;">CFRA analyst Angelo Zino told Yahoo that the Salesforce dump was an &#8220;overreaction. &#8220;Although some areas were disappointing, the company still saw growth of 11% during the quarter. He also believes a recovery could happen due to the company&#8217;s &#8220;recurring revenue nature.&#8221;</span></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

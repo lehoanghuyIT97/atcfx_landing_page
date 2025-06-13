@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>UK100 Archives - ATFX Global - Official Website</title>
+	<atom:link href="https://www.atfx.com/en-au/tag/uk100/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Thu, 07 Mar 2024 08:09:29 +0000</lastBuildDate>
+	<language>en-AU</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>https://www.atfx.com/wp-content/uploads/2023/06/favicon-150x150.webp</url>
+	<title>UK100 Archives - ATFX Global - Official Website</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Chancellor&#8217;s Budget Unveiled: What It Means for UK Stocks</title>
+		<link>https://www.atfx.com/en-au/analysis/market-news/chancellors-budget-unveiled-what-it-means-for-uk-stocks</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Thu, 07 Mar 2024 01:30:59 +0000</pubDate>
+				<category><![CDATA[Market news & Insights]]></category>
+		<category><![CDATA[FTSE 100]]></category>
+		<category><![CDATA[Recent news]]></category>
+		<category><![CDATA[UK100]]></category>
+		<guid isPermaLink="false">https://www.atfx.com/?p=30562</guid>
+
+					<description><![CDATA[UK stocks were in focus on Wednesday as the country’s Chancellor Jeremy Hunt delivered his spring Budget statement, including measures to boost investment in the City of London financial centre. FTSE 100 (UK 100) &#8211; Daily Chart The UK’s FTSE 100 share index closed slightly higher, but the market is stuck in a range with resistance at the [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>UK stocks were in focus on Wednesday as the country’s Chancellor Jeremy Hunt delivered his spring Budget statement, including measures to boost investment in the City of London financial centre.</p>
+<p><img fetchpriority="high" decoding="async" class="size-full wp-image-30563 aligncenter" src="https://.atfx.com/wp-content/uploads/2024/03/UK100-Daily-Chart.jpg" alt="UK100-Daily-Chart" width="730" height="615" srcset="https://www.atfx.com/wp-content/uploads/2024/03/UK100-Daily-Chart.jpg 730w, https://www.atfx.com/wp-content/uploads/2024/03/UK100-Daily-Chart-300x253.jpg 300w" sizes="(max-width: 730px) 100vw, 730px" /></p>
+<p style="text-align: center;">FTSE 100 (UK 100) &#8211; Daily Chart</p>
+<p>The <a href="https://www.atfx.com/en-au/markets/indices-trading" target="_blank" rel="noopener">UK’s FTSE 100 share index</a> closed slightly higher, but the market is stuck in a range with resistance at the 7,750 level holding up since December 2023.</p>
+<p>The FTSE 100 was relatively steady following the lunchtime UK speech, indicating that there were no major surprises for investors.</p>
+<p>Jeremy Hunt’s Budget included plans for a British ISA, which will give investors an additional £5,000 tax-free allowance to invest exclusively in UK companies when they have used up the current £20,000 yearly limit.</p>
+<p>The new measures saw a mixed response from savings and investment experts, with some suggesting that it will have a limited impact on the City as it helps wealthy investors. However, the new ISA has the potential to drive new capital flows to UK companies, including small and mid-cap companies.</p>
+<p>Chris Cummings, chief executive of Investment Association Other said that the measure could encourage people to abandon diversification.</p>
+<p>The Chancellor’s Budget was safe and unlikely to lead to any fallout in global markets, but the cautiously optimistic tone of Jeremy Hunt’s speech helped to boost the British pound.</p>
+<p>The performance of the FTSE in contrast to US stocks is evident in the stock chart and it is a worry that the market is showing such weakness when markets are happy. US stocks are higher due to the concentration of big global brands in the US indices.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

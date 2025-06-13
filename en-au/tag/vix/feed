@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>VIX Archives - ATFX Global - Official Website</title>
+	<atom:link href="https://www.atfx.com/en-au/tag/vix/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Tue, 07 Jan 2025 04:35:19 +0000</lastBuildDate>
+	<language>en-AU</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>https://www.atfx.com/wp-content/uploads/2023/06/favicon-150x150.webp</url>
+	<title>VIX Archives - ATFX Global - Official Website</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Trader Who Made Billions in 2008 Aims Fund at Volatility</title>
+		<link>https://www.atfx.com/en-au/analysis/market-news/trader-made-billions-in-2008-aims-fund-at-volatility</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Tue, 07 Jan 2025 01:38:05 +0000</pubDate>
+				<category><![CDATA[Market news & Insights]]></category>
+		<category><![CDATA[Recent news]]></category>
+		<category><![CDATA[VIX]]></category>
+		<guid isPermaLink="false">https://www.atfx.com/?p=44564</guid>
+
+					<description><![CDATA[A trader who made billions from the market crash in 2007-09 sees market similarities and is raising $250 million for a new fund. VIX – Monthly Chart The VIX index is the US benchmark volatility indicator, and previous spikes have been shown in phases of market turmoil. Two notable spikes were the 2008 crisis and the pandemic arrival in [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>A trader who made billions from the market crash in 2007-09 sees market similarities and is raising $250 million for a new fund.</p>
+<p><img fetchpriority="high" decoding="async" class="size-full wp-image-44565 aligncenter" src="https://www.atfx.com/wp-content/uploads/2025/01/VIX-–-Monthly-Chart-1.jpg" alt="" width="771" height="600" srcset="https://www.atfx.com/wp-content/uploads/2025/01/VIX-–-Monthly-Chart-1.jpg 771w, https://www.atfx.com/wp-content/uploads/2025/01/VIX-–-Monthly-Chart-1-300x233.jpg 300w, https://www.atfx.com/wp-content/uploads/2025/01/VIX-–-Monthly-Chart-1-768x598.jpg 768w" sizes="(max-width: 771px) 100vw, 771px" /></p>
+<p style="text-align: center;">VIX – Monthly Chart</p>
+<p>The VIX <a href="https://www.atfx.com/en-au/markets/indices-trading" target="_blank" rel="noopener">index</a> is the US benchmark volatility indicator, and previous spikes have been shown in phases of market turmoil. Two notable spikes were the 2008 crisis and the pandemic arrival in 2020, but it is back down at the 16 level.</p>
+<p>Steve Diggle’s family office, Vulpes Investment Management, seeks to raise US$250 million from investors as early as in the first quarter.</p>
+<p>Diggle, whose firm bagged US$3 billion between 2007 and 2008, is raising the money for a hedge fund and managed accounts targeted at rising volatility. His plan to start a new fund came after his firm developed a model to use artificial intelligence to read large volumes of public data. That uncovered Asia-Pacific companies with a high chance of failure due to risky leverage or dubious accounting.</p>
+<p>“The number of fault lines out there today are greater, and the chances of something going wrong are significantly greater, but risk prices have come down,” Diggle said. “So we are kind of in an analogous situation to where we were in 2005 to 2007”.</p>
+<p>US stocks traded at 5,993 on Monday, just below the recent all-time highs after Donald Trump’s vote was certified. It is still two weeks from his inauguration, but that will add peace to the market as he gets closer to making changes.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

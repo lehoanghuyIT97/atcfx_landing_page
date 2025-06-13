@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>risk management Archives - ATFX Global - Official Website</title>
+	<atom:link href="https://www.atfx.com/en-au/tag/risk_management/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Tue, 06 May 2025 01:27:18 +0000</lastBuildDate>
+	<language>en-AU</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>https://www.atfx.com/wp-content/uploads/2023/06/favicon-150x150.webp</url>
+	<title>risk management Archives - ATFX Global - Official Website</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Risk and Reward Ratio &#124; 5 Risk management techniques</title>
+		<link>https://www.atfx.com/en-au/analysis/trading-strategies/risk-reward-ratio-management-techniques</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Sat, 10 Oct 2020 07:03:00 +0000</pubDate>
+				<category><![CDATA[Trading Strategies]]></category>
+		<category><![CDATA[management techniques]]></category>
+		<category><![CDATA[risk management]]></category>
+		<category><![CDATA[Risk Reward]]></category>
+		<category><![CDATA[Trading Strategies for Intermediate Traders]]></category>
+		<guid isPermaLink="false">https://lptemplatedev.wpengine.com/uncategorized/risk-reward-ratio-management-techniques-2</guid>
+
+					<description><![CDATA[Risk and Reward Ratio (RRR) falls under the umbrella of risk management. To trade the financial markets, a portion of your funds will be at risk. What risk management does, is ensure you only take the right risks to help you achieve your goals. Using techniques like risk and reward ratio will have a positive [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Risk and Reward Ratio (RRR) falls under the umbrella of risk management. To trade the financial markets, a portion of your funds will be at risk.</p>
+<p><span id="more-30460"></span></p>
+<p>What risk management does, is ensure you only take the right risks to help you achieve your goals. Using techniques like risk and reward ratio will have a positive effect on your results and put you in a better place for long-term success.</p>
+<ul>
+<li><a href="#how-trade-risk-reward-ratio" rel="noopener">How to trade using the risk to reward ratio?</a></li>
+<li><a href="#how-calculate-risk-reward-ratio" rel="noopener">How to calculate the risk and reward ratio?</a></li>
+<li><a href="#how-position-sizing-manage-risk" rel="noopener">How can position sizing help manage your risk?</a></li>
+<li><a href="#how-increase-risk-reward-ratio" rel="noopener">How to increase risk-reward ratio?</a></li>
+<li><a href="#how-make-trade-decisions-risk-reward-ratio" rel="noopener">How to make trade decisions with the risk-reward ratio?</a></li>
+<li><a href="#risk-management-techniques" rel="noopener">5 Risk Management Techniques</a></li>
+<li><a href="#extra-risk-management-tips" rel="noopener">Extra risk management tips</a></li>
+</ul>
+<p>A risk-reward ratio is risking ‘X’ amount of your funds to make ‘Y’ amount of profit.</p>
+<p>For example, you might risk £100 in the forex market to try and make a profit of £300. You class this as a 1:3 risk reward ratio.</p>
+<h3>How does it work?</h3>
+<p>It works by understanding how much you will risk making a certain return. The calculation is made before you place the trade.</p>
+<p>This is done by using specific orders that your platform should, and if you use <a href="https://www.atfx.com/en-au/trading-platforms/metatrader-4" target="_blank" rel="noopener">MT4</a>, will, provide &#8211; a stop loss order and a take profit order.</p>
+<p>Once you know where you want to place your stop loss and take profit, you can determine how much you will place on the trade. And in turn, determine how much capital you&#8217;ll have at risk and how much you&#8217;ll stand to gain. This is your risk and reward ratio.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div class="hs-embed-wrapper hs-fullwidth-embed" style="position: relative; overflow: hidden; width: 100%; height: auto; padding: 0; min-width: 256px; margin: auto; margin-left: auto; margin-right: auto;" data-service="youtube" data-responsive="true">
+<div class="hs-embed-content-wrapper">
+<div style="position: relative; overflow: hidden; max-width: 100%; padding-bottom: 56.5%; margin: 0px;"><iframe style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/-g3XTDJTzAI?autoplay=1&amp;;mute=1&amp;;modestbranding=1&amp;;rel=0&amp;;hl=en&amp;;cc_lang_pref=en&amp;;cc_load_policy=1&amp;;sub_confirmation=1" width="200" height="113" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+</div>
+</div>
+<h2>How to trade using the risk to reward ratio?</h2>
+<p>Risk-reward ratio can be used as a measurement when trading forex, equity indices and commodities. Opinions on optimal risk-reward metrics differ depending on the trading strategies followed and the security bought and sold.</p>
+<p>As an example, take a non-financial instrument, say a car. If you bought a car for £10,000 and hoped to sell it for £13,000, your risk-reward ratio would be 1:0.3. In the car world, which might be seen as a good return.</p>
+<p>Trading forex is a different ball game. There is a higher chance of that original £10,000 going to £0. If you’re trading forex and using that ratio of 1:0.3, you would need to be right 77% of the time to be profitable.</p>
+<p>The difference is that leverage is often applied, which increases your risk significantly. The risk of your investment (trade) becoming worthless.</p>
+<p><img decoding="async" src="https://www.atfx.com/hubfs/ATFX.COM/NEW%20pages/Pages%20-%20go%20live%20-%20Analysis/Analysis%20-%20B%20-%20Trading%20strategies/Analysis%20-%20F%20-%20Trading%20strategies%20-%20Risk%20and%20reward%20ratio%20(pillar%202)/analysis-trading-strategies-risk-and-reward-ratio-man-graph-image.jpg?quality=low&amp;width=825&amp;name=analysis-trading-strategies-risk-and-reward-ratio-man-graph-image.jpg" alt="risk management" width="825" /></p>
+<p>&nbsp;</p>
+<h2>How to calculate the risk and reward ratio?</h2>
+<p>To calculate your risk-reward ratio, follow these steps:</p>
+<p>1- <strong>Determine a trade setup</strong>. Your strategy will do this for you, it will tell you:</p>
+<ul>
+<li>The direction you&#8217;re going to trade</li>
+<li>The price you want to enter</li>
+</ul>
+<p>2 &#8211; <strong>Determine your stop loss price level</strong>. Where will the market have to trade for your trade setup to become invalid? That is where you place your stop loss.</p>
+<p>3- <strong>Determine your profit target</strong>. What is the minimum level you think this market will reach? That will be your target level. Anything on top is a bonus.</p>
+<p>Now you’ll have your entry and exit points mapped out. This is where you can calculate your risk and reward ratio. The calculation is as follows:</p>
+<ul>
+<li>Pips between entry and stop loss level = risk</li>
+<li>Pips between entry and profit level = reward</li>
+</ul>
+<blockquote><p>If it were fifty pips to the stop and one hundred pips to the target, the risk reward ratio would be 1:2.</p>
+<p>Whilst we have now determined the risk-reward ratio, there are still some key stages to go through to ensure the execution of your risk strategy is accurate.</p></blockquote>
+<p>4- <strong>Confirm how much you are willing to lose on the trade</strong>. It might be 1% of your trading account. If your trading account is £10,000, then you would lose no more than £100 on this trade.</p>
+<p>5- <strong>Choose the correct position size</strong>. You have the number of pips between your expected entry and your stop loss. You also have the maximum you&#8217;re willing to lose on the trade &#8211; £100. Now you need to determine how many lots you’ll place on the trade. This will also depend on the instrument you&#8217;re trading. See below for a bit more detail about position sizing.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h3>How can position sizing help manage your risk?</h3>
+<p>What is position sizing? A position size is how many lots (micro, mini or standard) you risk on a single trade. It relates to your account size, setup, and the currency pair you’re trading. Position sizing can be different for each forex trade you place.</p>
+<p>If you risk too much on a trade, a few losing trades can eradicate your account. Risk too little, and your account won’t grow enough to hit your targets.</p>
+<p>Position sizing helps you set the number of units of the currency pair you’ll buy or sell. To calculate your position sizing, you need the following information.</p>
+<p>● The currency pair you’re trading</p>
+<p>● Account equity/balance</p>
+<p>● Account per cent you’re risking</p>
+<p>● Stop-loss you’ll set in pips</p>
+<p>Here’s an example of how it works.</p>
+<p>You and your position:</p>
+<p>● Your account is in dollars</p>
+<p>● The currency pair is EUR/USD</p>
+<p>● You have $10,000 in your account</p>
+<p>● You want to risk 1% of your account</p>
+<p>● You intend to set a 100 pip stop-loss.</p>
+<p>Your risk:</p>
+<p>● You will be risking one hundred micro units of the currency</p>
+<p>● The lot size will be 0.1</p>
+<p>If you use an advanced platform such as MT4, there are position size calculators you can download for free to help you automatically calculate your position size.</p>
+<p>&nbsp;</p>
+<div class="article-banner article-banner__dark" style="background-image: url('https://www.atfx.com/wp-content/uploads/2023/10/Free-Demo-Trading-Account.webp'); background-size: cover; background-position: center; color: #fff; padding: 20px; justify-content: space-between; align-items: center; margin: 20px 0;">
+<div class="article-banner-content" style="flex: 1; margin-right: 20px;">
+<p><span style="font-size: 30px; color: #fff; font-weight: bold;">Risk Free Demo Trading Account</span></p>
+<p style="font-size: 22px; color: #fff; margin-top: 10px;">Learn, Practice, Trade</p>
+<p><a id="banner_button_8_1" class="article-banner-button" style="background-color: #f2672b; color: #fff; padding: 10px 20px; text-decoration: none; font-weight: bold; border-radius: 5px; margin-top: 10px;" href="https://www.atfx.com/en-au/trading-accounts/demo-account" target="_blank" rel="noopener">OPEN DEMO ACCOUNT</a></p>
+</div>
+</div>
+<h2>How to increase risk-reward ratio?</h2>
+<p>There are two ways you can increase your risk-reward ratio.</p>
+<p>1- Increase your profit target. When you increase your target level and keep your stop-loss the same, your RRR will increase.</p>
+<p>If your stop loss is fifty pips away, and your target is one hundred pips away, your RRR is 1:2. If you move your target to 150 pips away, your RRR will increase to 1:3.</p>
+<p>2- Decrease your stop-loss level. Moving your stop loss level closer to your entry will reduce your risk. Using the same example (50 pip stop loss and 100 pip target), if you move your stop loss to twenty-five pips from the entry, your RRR changes from 1:2 to 1:4.</p>
+<p>Whilst both are viable methods of increasing your risk reward ratio, you must ensure that whatever action you take aligns with your strategy. Ensure that if you move either level that they are placed in a strategic position.</p>
+<blockquote><p>For example, suppose you were originally going to place your stop loss fifty pips away from your entry because that is the level that makes the trade invalid. In these circumstances, moving it closer would not make strategic sense because you could get stopped out before your trade became invalid and reached the 50-pip mark.</p></blockquote>
+<h3><img decoding="async" src="https://www.atfx.com/hubfs/ATFX.COM/NEW%20pages/Pages%20-%20go%20live%20-%20Analysis/Analysis%20-%20B%20-%20Trading%20strategies/Analysis%20-%20F%20-%20Trading%20strategies%20-%20Risk%20and%20reward%20ratio%20(pillar%202)/analysis-trading-strategies-risk-and-reward-ratio-man-graph2-image.jpg?quality=low&amp;width=825&amp;name=analysis-trading-strategies-risk-and-reward-ratio-man-graph2-image.jpg" alt="risk reward ratio" width="825" /></h3>
+<p>&nbsp;</p>
+<h3>How to make trade decisions with the risk-reward ratio?</h3>
+<p>Traders cannot ignore risk versus reward as part of their trading plan. You must determine the point at which your trade goes wrong, and you must decide what represents a realistic target. You also must develop a sense of what’s probable based on market history, both recent and longer-term. Putting a huge target on a trade because it makes your RRR look good won’t make the target any more likely to be reached.</p>
+<p>You cannot afford to take a blasé attitude towards RRR. It’s as crucial to your bottom-line as your method and strategy.</p>
+<p>Do ensure you record all your trades and their RRR so that you will be able to go back and analyse your results. This is key to improving your strategy.</p>
+<p><em>For example</em>:</p>
+<ul>
+<li>You’ve taken one hundred trades</li>
+<li>Each trade risked £100</li>
+<li>You made money on fifty trades</li>
+<li>You lost money on fifty trades</li>
+<li>Every trade originally had a RRR of 1:2</li>
+</ul>
+<p><em>Results</em>:</p>
+<ul>
+<li>You will have lost £5,000 in the losing trades</li>
+<li>You will have made £10,000 in the winning trades</li>
+<li>You would have made £5,000 profit</li>
+</ul>
+<blockquote><p>What if your psychology had got in the way? You had moved your stop loss and taken profit before your target was hit. Having analysed your results, you found:</p></blockquote>
+<ul>
+<li>Based on your profit and loss for each trade, your RRR was 1:1.2</li>
+<li>You made money on fifty trades</li>
+<li>You lost money on fifty trades</li>
+</ul>
+<p><em>Results</em>:</p>
+<ul>
+<li>You lost £5,000 in losing trades</li>
+<li>You made £6,000 in winning trades</li>
+<li>Your profit was only £1,000</li>
+</ul>
+<p>Ensuring you keep a record of your results will help you see your <a href="https://www.atfx.com/en-au/analysis/trading-strategies/why-do-day-traders-fail" target="_blank" rel="noopener">mistakes</a> and make corrections that’ll improve your future performance.</p>
+<h2>What is risk management?</h2>
+<p>In trading, risk management is the process you take to protect your trading account. The word &#8216;risk&#8217; refers to &#8216;how likely you are to incur a loss&#8217;. This will include risk per trade and your overall market exposure.</p>
+<ul>
+<li><strong>Risk per trade</strong> would mean how much you were going to lose on an individual trade.</li>
+<li><strong>Risk on market exposure</strong> refers to how much you would lose if all your open trades were to lose.</li>
+</ul>
+<p>You might only risk 0.5% on each trade but if you have one hundred trades open at that risk, your market exposure would be 50% of your trading account.</p>
+<p>Market exposure also refers to how much risk you have on one market and not just all of them.</p>
+<blockquote><p>For example, you might have a 0.5% risk on a forex trade &#8211; GBP/USD. However, if you were to have six other trades open at the same risk in the following pairs: EUR/USD, USD/JPY, USD/CAD, AUD/USD, USD/CHF, and NZD/USD, you would have a total of 3.5% at risk on the US dollar.</p></blockquote>
+<p>This would also depend on your position in each trade, but if you were buying USD in all examples, you would leave yourself open to increased risk if the USD were to sell off.</p>
+<p>Risk management is a simple discipline to develop and put into practice, and it’s essential to your progress as a trader. You can manage your risk in a variety of ways.</p>
+<ul>
+<li>Limit the number of trades you take, per session and week</li>
+<li>Define and limit the markets you trade</li>
+<li>Limit your risk per trade</li>
+<li>Limit your overall risk and market exposure</li>
+<li>Use stops and limit orders</li>
+</ul>
+<h3>Why it’s essential to take a balanced approach to risk management?</h3>
+<p>When you sail across a harbour, you stand more chance of staying afloat if the weight on the boat is evenly balanced. Balancing your risk will help you stay in the <a href="https://www.atfx.com/en-au/markets" target="_blank" rel="noopener">market</a> for the long term without getting your feet wet!</p>
+<p>Most of us instinctively take a balanced approach to risk management in our everyday lives. Take crossing a busy road. We will assess the speed of the oncoming traffic, the gaps between vehicles, the width of the road and whether there is safe stage post midway across. Some days we’ll go for the gap but on others &#8211; say if it’s raining &#8211; we’ll reassess and decide to walk to the crossing point.</p>
+<p>That balancing of risk is exactly what you must do in the markets. With <a href="https://www.atfx.com/en-au/analysis/market-news" target="_blank" rel="noopener">trading conditions</a> continually changing, constantly reassess your risk. Ask yourself if it still fits with your strategy. Are you taking too many trades? Are you risking too much per trade? Are you being realistic? If necessary, take action to rebalance.</p>
+<h2><img decoding="async" src="https://www.atfx.com/hubfs/ATFX.COM/NEW%20pages/Pages%20-%20go%20live%20-%20Analysis/Analysis%20-%20B%20-%20Trading%20strategies/Analysis%20-%20F%20-%20Trading%20strategies%20-%20Risk%20and%20reward%20ratio%20(pillar%202)/analysis-trading-strategies-risk-and-reward-ratio-risk-image.jpg?quality=low&amp;width=1200&amp;name=analysis-trading-strategies-risk-and-reward-ratio-risk-image.jpg" alt="risk to reward" width="1200" /></h2>
+<p>&nbsp;</p>
+<h2>5 Risk Management Techniques</h2>
+<p>Risk management techniques are vital to the success of your <a href="https://www.atfx.com/en-au/analysis/trading-strategies" target="_blank" rel="noopener">trading strategy</a>. It&#8217;s what separates great traders from average traders. Being able to apply these techniques at the right time will help you to achieve your targets.</p>
+<h3>1. Set a plan with trading strategies</h3>
+<p>A trade plan is a set of rules that govern how you trade. It’ll be a set of criteria that you must follow to the tee. This ensures your trading is consistent and so you can easily track its performance.</p>
+<h4>How do you set up a trading strategy?</h4>
+<p>There are a few things that you need to determine to set up your <a href="https://www.atfx.com/en-au/analysis/trading-strategies/day-trading-strategies-for-beginners" target="_blank" rel="noopener">strategy</a>.</p>
+<ul>
+<li><em>When will you be able to trade?</em></li>
+<li><em>What instruments will you trade?</em></li>
+<li>Trade setup. <em>What analysis technique will you use?</em>
+<ul>
+<li><em>How will you determine the market direction?</em></li>
+<li><em>How will you determine your entry?</em></li>
+<li><em>How will you determine your exit?</em></li>
+</ul>
+</li>
+<li>Risk management.
+<ul>
+<li><em>How much will you risk per trade?</em></li>
+<li><em>How much market exposure will you have?</em></li>
+</ul>
+</li>
+<li>Trade execution.
+<ul>
+<li><em>What determines your actual buy or sell decision?</em></li>
+</ul>
+</li>
+<li>Trade management.
+<ul>
+<li><em>Will you add to or remove from your position?</em></li>
+<li><em>Will you reduce the stop loss?</em></li>
+</ul>
+</li>
+</ul>
+<p>If you can answer all these questions and be consistent in the way you execute your strategy, then you’ll be able to better manage your risk.</p>
+<h3>2. Diversify your portfolio</h3>
+<p>Diversifying your portfolio means buying different instruments. You can diversify your portfolio within an asset class, or you can diversify by trading all asset classes.</p>
+<h4>Diversifying within an asset class</h4>
+<p>This entails taking positions in instruments that aren’t directly correlated. We’ll offer two examples: forex and stocks.</p>
+<blockquote><p><strong>Forex </strong>&#8211; If you trade <a href="https://www.atfx.com/en-au/markets/forex-trading" target="_blank" rel="noopener">forex</a>, you have access to any currency pair you want (assuming your broker offers them). If you were to take several positions in currency pairs that contained the US dollar, then you would leave yourself exposed to how each different currency behaved.</p>
+<p>If the USD were to become strong off the back of an interest rate decision and you had sold it in several currency pairs then you would be looking at some negative balances on your trades.</p>
+<p>It’s therefore important to make sure you know exactly what currencies you have exposure to. If you had two positions in two different USD pairs at 0.5% risk, and you decided to take one more of the same risk, you would have 1.5% reliant on what the USD would do. It might therefore be better to look for another position in a pair that doesn’t include the USD.</p></blockquote>
+<p>Spreading your risk across several sectors can protect you from such catastrophes.</p>
+<p>You can also diversify between asset classes. When trading with a broker like ATFX, you have three different asset classes available, so you can better spread your risk.</p>
+<p>Whilst all markets are interlinked, they do move separately. Factors that affect oil are less likely to affect GBP/USD.</p>
+<div class="article-banner article-banner__dark" style="background-image: url('https://www.atfx.com/wp-content/uploads/2022/03/Free-Metatrader-4.webp'); background-size: cover; background-position: center; color: #fff; padding: 20px; justify-content: space-between; align-items: center; margin: 20px 0;">
+<div class="article-banner-content" style="flex: 1; margin-right: 20px;">
+<p><span style="font-size: 30px; color: #fff; font-weight: bold;">Practice with Metatrader 4 Demo Account</span></p>
+<p style="font-size: 22px; color: #fff; margin-top: 10px;">Be Ready To Trade Live</p>
+<p><a id="banner_button_8_1" class="article-banner-button" style="background-color: #f2672b; color: #fff; padding: 10px 20px; text-decoration: none; font-weight: bold; border-radius: 5px; margin-top: 10px;" href="https://www.atfx.com/en-au/trading-platforms/metatrader-4/mt4-demo-account" target="_blank" rel="noopener">REGISTER NOW</a></p>
+</div>
+</div>
+<h3>3. Add trading tools to your armoury</h3>
+<p>There are lots of trading tools that you can apply to your risk management strategy. Below are a few types to start thinking about:</p>
+<p><strong>Technical indicators </strong>&#8211; These offer <a href="https://www.atfx.com/en-au/trading-platforms/metatrader-4/mt4-indicators" target="_blank" rel="noopener">trading signals</a> based on mathematical equations. These let you know when you should enter or exit a trade. They would normally be used as part of your trading strategy if you used technical analysis as your main approach.</p>
+<p><a href="https://www.atfx.com/en-au/analysis/economic-calendar" target="_blank" rel="noopener"><strong>Economic calendar </strong></a>&#8211; This will show you when market-related news is due to be released. Depending on the release, your research will tell you which market it might affect. For instance, a Bank of England inflation report, will have an impact on the GBP/USD. If you’re a stock trader, then you would watch out for earnings reports from the stocks you were looking to trade.</p>
+<p><strong>Trading service tools </strong>&#8211; Some platforms will offer advanced order types that will help you manage your trades and your risk.</p>
+<blockquote><p>For example, you can use an automatic trailing stop. This is set to a certain distance from the price and will move in line with the price. It will only move if the price moves in your favour. If you set your trailing stop loss to always stay fifty pips behind the price, and you buy at 1.5000, the stop will be at 1.4950.</p>
+<p>If the price moves to 1.5010, then the stop would follow to 1.4960. If the price moved back to 1.5000, the stop would remain at 1.4960. Note that you should only use a tool like this if it is in your strategy.</p></blockquote>
+<p><strong>Auto trading </strong>&#8211; Automatic trading is becoming increasingly popular. This is where you set in your trading parameters and let an algorithm take the trades on your behalf. If you set the correct stop loss and take profit levels, then you should never breach your risk management rules. MT4 is a world leader when it comes to auto trading with Expert Advisors (EAs) used to automate your trading. Feel free to try a demo and test out MT4 with your strategy to see how it might perform without your interference.</p>
+<p>Tools such as <a href="https://www.atfx.com/en-au/education-and-tools/trading-central" target="_blank" rel="noopener">Trading Central</a> or Autochartist offer a huge amount and can add value to your trading. They can offer first class technical analysis reports, technical strategies that you can experiment with, as well as advanced indicators that are specific to MT4.</p>
+<h3>4. Calculate your additional costs</h3>
+<p>As an independent <a href="https://www.atfx.com/en-au/analysis/trading-strategies/how-to-become-a-trader" target="_blank" rel="noopener">financial trader</a>, you will have fixed and variable costs. Therefore, you must continually reassess your trading expenses to ensure you’re not paying more than you should and need to. Overtrading can have a devastating effect on your bottom line.</p>
+<h4>How do you calculate your additional costs?</h4>
+<p>1- First you need to know what they are. You will incur three main charges when trading through a <a href="https://www.atfx.com/en-au/analysis/trading-strategies/type-of-brokers" target="_blank" rel="noopener">broker</a>:</p>
+<ul>
+<li>Spread &#8211; difference between the bid and the ask price</li>
+<li>Commission &#8211; the set amount charged to take a trade</li>
+<li>Overnight charges &#8211; the fee you pay to hold your position overnight on leveraged trades</li>
+</ul>
+<p>2- Next you need to understand which applies to you. This will depend on the instruments you trade and the broker you use. Understand how much you are charged per trade and overnight.</p>
+<p>3- Determine how often you trade and whether you hold overnight positions (if you trade on leveraged products).</p>
+<p>4- Average the number of trades you take per day, per week or per month to give you an idea about the volume you trade.</p>
+<p>5- Once you have your volume and cost per trade, you can then multiply, to figure out how much you’re paying the broker to trade.</p>
+<p>If you find this to be more than you expected, it’s worth shopping around for better value. Remember, costs will influence your overall risk management strategy. If you can keep trading costs down, then you’ll have more to risk elsewhere.</p>
+<h3>5. Keep your emotions in check (Beat your feelings with trading psychology)</h3>
+<p>Trading psychology is one of the hardest things in trading to manage. You’re trying to manage yourself and your emotions.</p>
+<p>You’ll find that you’re not alone in this. All the financial markets can be attributed to states of psychology. The more you trade and analyse the markets, the more you’ll notice these periods within the markets.</p>
+<p><img decoding="async" src="https://www.atfx.com/hubfs/ATFX.COM/NEW%20pages/Pages%20-%20go%20live%20-%20Analysis/Analysis%20-%20B%20-%20Trading%20strategies/Analysis%20-%20F%20-%20Trading%20strategies%20-%20Risk%20and%20reward%20ratio%20(pillar%202)/analysis-trading-strategies-risk-and-reward-ratio-trading-chart-image.jpg?quality=low&amp;width=821&amp;name=analysis-trading-strategies-risk-and-reward-ratio-trading-chart-image.jpg" alt="risk management techniques" width="821" /></p>
+<p>The market moves in cycles, and you can attribute different emotions to different periods in that cycle. From peak to trough, you may well encounter:</p>
+<ul>
+<li>Hope</li>
+<li>Relief</li>
+<li>Optimism</li>
+<li>Excitement</li>
+<li>Thrill</li>
+<li>Euphoria</li>
+<li>Anxiety</li>
+<li>Denial</li>
+<li>Fear</li>
+<li>Desperation</li>
+<li>Panic</li>
+<li>Capitulation</li>
+<li>Despondency</li>
+<li>Depression</li>
+</ul>
+<p>The market&#8217;s psychology will continue like this because that is how the participants feel.</p>
+<h4>How do you keep your emotions in check?</h4>
+<p><strong>Trading plan </strong>&#8211; You might be bored with hearing this, but it’s the single thing that makes a difference repeatedly. Set yourself a trading plan and stick to it. It is the first step to trying to control your emotions</p>
+<p><strong>Record your trades </strong>&#8211; Keep a record of your accomplished trades. When you look at them in the light of day without the emotions of the markets behind you, you’ll see your performance in black and white. And you’ll be able to see which trades were controlled by your emotions.</p>
+<ul>
+<li>Any that you went over your risk parameters? Probably because of your emotions.</li>
+<li>Any you cut short? Probably because of your emotions.</li>
+</ul>
+<p><strong>Automation </strong>&#8211; Taking the emotions out of trading and letting a robot do it for you. If you can set up a strategy that has just a few variables that you can plug into an Expert Advisor on MT4, then you’re more likely to be able to stick to your trade plan and risk management strategy.</p>
+<p>Setting stops and take profit limits are forms of automation as your platform can be programmed to execute your instructions when certain levels are triggered. If you also select your entries through automation, then you have no reason to intervene in your trades manually, therefore removing emotions.</p>
+<p>&nbsp;</p>
+<h2>Extra risk management tips</h2>
+<p>If the above five techniques aren’t quite enough, we thought we’d give you some extras to get your teeth into.</p>
+<h4>Only risk money you won’t miss</h4>
+<p>Don’t trade with money you need to pay the bills. Remember, it doesn’t matter how small your account size, you can always add funds to your account once you gain experience and confidence.</p>
+<p>Don’t put all your savings into a trading account. Instead, decide what portion of your savings you can risk. Are you happy to lose say 10% to learn to become a better trader?</p>
+<h4>Consider your risk tolerance</h4>
+<p>Your tolerance of risk depends on your ambition and your psyche. You will only discover what it is once you expose yourself to live market conditions with real money at risk. If you find yourself sweating over results, and manually interfering too early thereby corrupting your trading plan, you need to dial down your risk per trade.</p>
+<h4>Set realistic risk-reward metrics</h4>
+<p>You need to set realistic risk-reward levels. Allow the market to guide you.</p>
+<p>You can use tools such as the ATR indicator (average true range) to determine the typical range a currency pair has oscillated in the past. If for example EUR/USD has operated in a 150-pip range over the past weeks’ sessions, it is not realistic to target a two hundred pip move in the current session to capture 1:5 risk-reward (profit).</p>
+<h4>Keep your risk vs reward consistent</h4>
+<p>Beginners find it very tempting to increase their risk when they’re in a winning position, but they often fail to adjust the risk when they’re in losing situations. Don’t meddle and micro-manage. Let your trading plan do its job.</p>
+<h4>Understand margin and leverage</h4>
+<p>Using leverage allows you to trade more money than your initial deposit because of margin trading. Leverage increases your profits, but the same phenomenon equally applies to your losses. You need to understand how leverage and margin impacts on your overall performance and trading.</p>
+<p>It can be tempting to use high leverage to aim for significant profits but being over-leveraged can lead to large losses due to a mistake on your part or a sudden market movement.</p>
+<h3>Is risk management a one-time plan?</h3>
+<p>While sound money management needs to be a permanent feature of your trading plan, your risk management technique should not be permanently fixed. Attitude to risk will evolve as your trading develops. And you might begin as a day trader but decide that swing trading fits your psyche and time constraints better. Your risk parameters will then change as your trading changes.</p>
+<div class="article-banner article-banner__dark" style="background-image: url('https://www.atfx.com/wp-content/uploads/2022/12/Live-Trading-Account.webp'); background-size: cover; background-position: center; color: #fff; padding: 20px; justify-content: space-between; align-items: center; margin: 20px 0;">
+<div class="article-banner-content" style="flex: 1; margin-right: 20px;">
+<p><span style="font-size: 30px; color: #fff; font-weight: bold;">Start Trading wtih Live Account</span></p>
+<p style="font-size: 22px; color: #fff; margin-top: 10px;">Elevate Your Trading Skills</p>
+<p><a id="banner_button_8_1" class="article-banner-button" style="background-color: #f2672b; color: #fff; padding: 10px 20px; text-decoration: none; font-weight: bold; border-radius: 5px; margin-top: 10px;" href="https://www.atfx.com/en-au/trading-accounts/live-account" target="_blank" rel="noopener">TRADE NOW</a></p>
+</div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
