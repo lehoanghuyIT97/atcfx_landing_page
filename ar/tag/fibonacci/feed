@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Fibonacci Archives - ATFX Global - Official Website</title>
+	<atom:link href="https://www.atfx.com/ar/tag/fibonacci/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Thu, 13 Feb 2025 08:01:52 +0000</lastBuildDate>
+	<language>ar</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>https://www.atfx.com/wp-content/uploads/2023/06/favicon-150x150.webp</url>
+	<title>Fibonacci Archives - ATFX Global - Official Website</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>ما هي تصحيحات فيبوناتشي؟ تعرف على مستويات الأسعار ونسبة التداول الذهبية</title>
+		<link>https://www.atfx.com/ar/analysis/trading-strategies/fibonacci-retracement</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Mon, 27 Jan 2025 06:47:36 +0000</pubDate>
+				<category><![CDATA[استراتيجيات التداول]]></category>
+		<category><![CDATA[Fibonacci]]></category>
+		<category><![CDATA[strategy]]></category>
+		<category><![CDATA[أخر الأخبار]]></category>
+		<guid isPermaLink="false">https://www.atfx.com/?p=45355</guid>
+
+					<description><![CDATA[تعتبر تصحيحات فيبوناتشي أحد أدوات التحليل الفني القوية التي يمكنها الارتقاء بأداء استراتيجية التداول. تُشتق هذه المستويات من متتالية فيبوناتشي، بينما تساعد هذه الحواجز الارتدادية (23.6%، 38.2%، 50%، 61.8%، و78.6%) المتداولين في تحديد المناطق المحورية للدعم، والمقاومة، والانعكاسات المحتملة، وتراجعات الأسعار. تُستخدم النسبة الذهبية (61.8%) كأساس رياضي قوي لتحسن كفاءة عملية اتخاذ قرارات التداول. يستند [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p dir="rtl">تعتبر تصحيحات فيبوناتشي أحد أدوات التحليل الفني القوية التي يمكنها الارتقاء بأداء استراتيجية التداول. تُشتق هذه المستويات من متتالية فيبوناتشي، بينما تساعد هذه الحواجز الارتدادية (23.6%، 38.2%، 50%، 61.8%، و78.6%) المتداولين في تحديد المناطق المحورية للدعم، والمقاومة، والانعكاسات المحتملة، وتراجعات الأسعار. تُستخدم النسبة الذهبية (61.8%) كأساس رياضي قوي لتحسن كفاءة عملية اتخاذ قرارات التداول.</p>
+<p dir="rtl">يستند هذا المفهوم إلى اكتشافات عالم الرياضيات الشهير ليوناردو بوناتشي، المعروف باسم فيبوناتشي، ثم جرى تبني هذه المستويات على نطاق واسع من قبل المحللين المعاصرين للتنبؤ بحركات السوق. تمكن هذه الطريقة المتداولين من مواءمة استراتيجياتهم مع ظروف السوق عند تطبيقها بشكل صحيح.</p>
+<p dir="rtl">يشرح هذا الدليل تصحيحات فيبوناتشي بعبارات بسيطة ويُظهر كيفية استخدامها بفعالية على منصات مثل<a href="https://www.atfx.com/ar/trading-platforms/metatrader-4">MT4</a>/ <a href="https://www.atfx.com/ar/trading-platforms/metatrader-5">MT5</a> (ميتاتريدر4/ميتاتريدر5). بالإضافة إلى ذلك، يغطي كيفية تحسين دقة التداول باستخدام <a href="https://www.atfx.com/ar/trading-platforms/metatrader-4/support-resistance-indicator">مؤشر الدعم والمقاومة </a>المتاح على منصة ATFX.</p>
+<p dir="rtl"><img fetchpriority="high" decoding="async" class="size-full wp-image-45356 aligncenter" src="https://www.atfx.com/wp-content/uploads/2025/01/Fibonacci.webp" alt="Fibonacci" width="951" height="547" srcset="https://www.atfx.com/wp-content/uploads/2025/01/Fibonacci.webp 951w, https://www.atfx.com/wp-content/uploads/2025/01/Fibonacci-300x173.webp 300w, https://www.atfx.com/wp-content/uploads/2025/01/Fibonacci-768x442.webp 768w" sizes="(max-width: 951px) 100vw, 951px" /></p>
+<h3 dir="rtl">شرح نسب فيبوناتشي:</h3>
+<ul>
+<li dir="rtl">
+<p dir="rtl">23.6% (0.236) و38.2% (0.382): تدل على ارتدادات سطحية نسبيًا، غالبًا ما تُلاحظ في الاتجاهات القوية.</p>
+</li>
+<li dir="rtl">
+<p dir="rtl">50% (0.5): ليست احدى نسب فيبوناتشي في حقيقة الأمر (على الرغم من أن كثيرين يستخدمون هذا المستوى كما لو كان كذلك).</p>
+</li>
+<li dir="rtl">
+<p dir="rtl">61.8% (0.618): النسبة الذهبية، وهي مهمة جدًا في رصد الانعكاسات.</p>
+</li>
+<li dir="rtl">
+<p dir="rtl">78.6% (0.786): تشير إلى تراجعات أعمق قد تؤدي إلى انعكاسات مركزية.</p>
+</li>
+</ul>
+<h2 dir="rtl">كيف تعمل تصحيحات فيبوناتشي؟</h2>
+<p dir="rtl">تُظهر تصحيحات فيبوناتشي أين يمكن أن تنعكس الأسعار أو تستقر بعد انتهاء احدى الموجات السعرية. غالبًا ما تتحول هذه المستويات إلى مناطق دعم ومقاومة قوية، خاصة عند دمجها مع أدوات فنية أخرى، مثل مؤشر الدعم والمقاومة على منصة ATFX في MT4.</p>
+<p dir="rtl"><img decoding="async" class="size-full wp-image-45357 aligncenter" src="https://www.atfx.com/wp-content/uploads/2025/01/Support-Ressist.webp" alt="Support &amp; Ressist" width="803" height="449" srcset="https://www.atfx.com/wp-content/uploads/2025/01/Support-Ressist.webp 803w, https://www.atfx.com/wp-content/uploads/2025/01/Support-Ressist-300x168.webp 300w, https://www.atfx.com/wp-content/uploads/2025/01/Support-Ressist-768x429.webp 768w" sizes="(max-width: 803px) 100vw, 803px" /></p>
+<p dir="rtl">خطوات رسم تصحيحات فيبوناتشي</p>
+<ol class="no-markers">
+<li dir="rtl">
+<p dir="rtl">تحديد الاتجاه: حدد نقاط القمة والقاع للاتجاه الذي يتم تحليله.</p>
+</li>
+<li dir="rtl">
+<p dir="rtl">الاتجاه الصعودي: ارسم خطًا من أدنى نقطة (قاع السعر) إلى أعلى نقطة (قمة السعر).<img decoding="async" class="size-full wp-image-45358 aligncenter" src="https://www.atfx.com/wp-content/uploads/2025/01/Uptrend.webp" alt="Uptrend" width="800" height="459" srcset="https://www.atfx.com/wp-content/uploads/2025/01/Uptrend.webp 800w, https://www.atfx.com/wp-content/uploads/2025/01/Uptrend-300x172.webp 300w, https://www.atfx.com/wp-content/uploads/2025/01/Uptrend-768x441.webp 768w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+</li>
+<li dir="rtl">الاتجاه الهبوطي: ارسم خطًا من أعلى نقطة (قمة السعر) إلى أدنى نقطة (قاع السعر).<img loading="lazy" decoding="async" class="size-full wp-image-45359 aligncenter" src="https://www.atfx.com/wp-content/uploads/2025/01/Downtrend.webp" alt="Downtrend" width="803" height="452" srcset="https://www.atfx.com/wp-content/uploads/2025/01/Downtrend.webp 803w, https://www.atfx.com/wp-content/uploads/2025/01/Downtrend-300x169.webp 300w, https://www.atfx.com/wp-content/uploads/2025/01/Downtrend-768x432.webp 768w" sizes="(max-width: 803px) 100vw, 803px" /></li>
+<li dir="rtl">
+<p dir="rtl">استخدام أداة فيبوناتشي: استخدم أداة تصحيح فيبوناتشي في منصة التداول وطبِّق المستويات على الرسم البياني الذي يتم تحليله.</p>
+</li>
+<li dir="rtl">
+<p dir="rtl">ابحث عن منطقة الانعكاس: راقب كيف تتفاعل الأسعار مع مستويات الدعم أو المقاومة التي تُظهرها أداة فيبوناتشي في الاتجاهات الصاعدة والهابطة.</p>
+</li>
+</ol>
+<h2 dir="rtl">كيفية استخدام تصحيحات فيبوناتشي في استراتيجية التداول</h2>
+<p dir="rtl">تصحيحات فيبوناتشي مرنة وتعمل بشكل جيد مع معظم أنظمة التداول. فيما يلي خطوات استخدامها:</p>
+<ul>
+<li dir="rtl">
+<p dir="rtl">تحديد نقاط الدخول:</p>
+<ul>
+<li dir="rtl">
+<p dir="rtl">انتظر حتى يعود السعر إلى مستويات فيبوناتشي الرئيسية (أي 0.382 (38.2%) و0.618 (61.8%) أو نحو ذلك، إلخ) وابدأ التداول عند استئناف الاتجاه الرئيسي. تحقق من هذه المستويات باستخدام مؤشر الدعم والمقاومة من ATFX لضمان توافقها مع مناطق الانعكاس.</p>
+</li>
+</ul>
+</li>
+<li dir="rtl">
+<p dir="rtl">تحديد أوامر إيقاف الخسارة وجني الأرباح:</p>
+<ul>
+<li dir="rtl">
+<p dir="rtl">إيقاف الخسارة: ضع أمر إيقاف الخسارة أسفل مستوى فيبوناتشي التالي في حالة عدم انعكاس السعر كما هو متوقع.</p>
+</li>
+<li dir="rtl">
+<p dir="rtl">جني الأرباح: استخدم امتدادات فيبوناتشي (المستويات التي تتجاوز 100%) لتحديد أهداف الربح المتوقعة، والتنبؤ بالمكان الذي قد يتحرك إليه السعر بعد كسر مستوى التصحيح.</p>
+</li>
+</ul>
+</li>
+<li dir="rtl">
+<p dir="rtl">دمج تصحيحات فيبوناتشي مع مؤشر القوة النسبية (RSI):</p>
+</li>
+</ul>
+<p dir="rtl">تتضمن هذه الاستراتيجية استخدام مستويات تصحيح فيبوناتشي لتحديد مناطق الدعم والمقاومة المحتملة، إلى جانب توظيف مؤشر القوة النسبية لقياس ظروف ذروة الشراء أو ذروة البيع والزخم لتأكيد الاختراقات.</p>
+<p dir="rtl">في السوق الصاعد، انتظر حتى يتراجع السعر إلى مستوى فيبوناتشي (مثل 50%) وإذا دخل مؤشر RSI منطقة ذروة البيع (أقل من 30)، فقد تكون تلك إشارة للشراء.</p>
+<p dir="rtl">o عند استخدام تصحيحات فيبوناتشي، أكِد الاستنتاجات باستخدام المتوسطات المتحركة أو مؤشر القوة النسبية أو نماذج الشموع اليابانية.</p>
+<p dir="rtl">o مثال: يعزز ظهور نموذج العلم الصاعد عند مستوى التصحيح 61.8% من مصداقية إشارة الشراء.</p>
+<ol class="no-markers" start="4">
+<li dir="rtl">
+<p dir="rtl">رصد الانعكاسات</p>
+</li>
+</ol>
+<p dir="rtl">o استخدم تصحيحات فيبوناتشي لتحديد مناطق الانعكاس المحتملة. إذا فشل السعر في اختراق مستوى فيبوناتشي رئيسي، فمن المحتمل أن يغير اتجاهه.</p>
+<p><a href="https://www.atfx.com/ar/trading-accounts/demo-account" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="aligncenter wp-image-45726 size-large" src="https://www.atfx.com/wp-content/uploads/2025/01/Demo-Fibo-Banner-ATFX-AR-1024x256.webp" alt="Demo Fibo-Banner ATFX AR" width="800" height="200" srcset="https://www.atfx.com/wp-content/uploads/2025/01/Demo-Fibo-Banner-ATFX-AR-1024x256.webp 1024w, https://www.atfx.com/wp-content/uploads/2025/01/Demo-Fibo-Banner-ATFX-AR-300x75.webp 300w, https://www.atfx.com/wp-content/uploads/2025/01/Demo-Fibo-Banner-ATFX-AR-768x192.webp 768w, https://www.atfx.com/wp-content/uploads/2025/01/Demo-Fibo-Banner-ATFX-AR.webp 1200w" sizes="(max-width: 800px) 100vw, 800px" /></a></p>
+<h2 dir="rtl">مثال على استخدام تصحيحات فيبوناتشي</h2>
+<p dir="rtl">شرح كل مستوى من مستويات فيبوناتشي:</p>
+<ul>
+<li dir="rtl">
+<p dir="rtl">23.6%: ارتداد طفيف؛ قد يرتد السعر بسرعة من هذا المستوى خلال الاتجاهات القوية.</p>
+</li>
+<li dir="rtl">
+<p dir="rtl">38.2%: تصحيح معتدل، غالبًا ما يُعتبر مستوى دعم أو مقاومة قوي.</p>
+</li>
+<li dir="rtl">
+<p dir="rtl">50%: رغم أنه ليس أحد أرقام فيبوناتشي المعترف بها، إلا أن المتداولين يستخدمونه على نطاق واسع كمستوى تصحيح يقبع في منتصف الاتجاه.</p>
+</li>
+<li dir="rtl">
+<p dir="rtl">61.8%: يُعرف باسم النسبة الذهبية، ويُعتبر منطقة انعكاس قوية.</p>
+</li>
+<li dir="rtl">
+<p dir="rtl">73.6%: تصحيح عميق؛ إذا صمد السعر عند هذا المستوى، فمن المرجح أن يحدث انعكاس، لكن كسره قد يشير إلى تغيير في الاتجاه.</p>
+</li>
+</ul>
+<p dir="rtl">تساعد هذه المستويات المتداولين على تحديد المنطقة التي قد يعكس عندها زوج العملات الاتجاه أو تتوقف حركته. كما تُفيد هذه المستويات في التخطيط لنقاط الدخول والخروج وإيقاف الخسارة بدرجة أكبر من الدقة.</p>
+<p dir="rtl">مثال: فيما يلي مثال لزوج <a href="https://www.atfx.com/ar/markets/forex-trading">USD/CHF </a>في الفترة من 6 سبتمبر 2024 إلى 13 يناير 2025: تحرك السعر من 0.8377 (قاع الموجة) إلى 0.9201 (قمة الموجة). يمكننا استخدام مستويات تصحيح فيبوناتشي لتحديد نقاط الانعكاس المحتملة. في اتجاه صاعد، انتظر حتى يعود السعر إلى مستوى فيبوناتشي رئيسي، مثل 50% أو 61.8%، فقد تكون تلك منطقة انعكاس محتملة، وهو ما يعكس وجود فرصة شراء إذا بدأ التحرك صعودًا مرة أخرى.</p>
+<p dir="rtl"><img loading="lazy" decoding="async" class="size-full wp-image-45360 aligncenter" src="https://www.atfx.com/wp-content/uploads/2025/01/USD-CHF.webp" alt="USD-CHF" width="797" height="446" srcset="https://www.atfx.com/wp-content/uploads/2025/01/USD-CHF.webp 797w, https://www.atfx.com/wp-content/uploads/2025/01/USD-CHF-300x168.webp 300w, https://www.atfx.com/wp-content/uploads/2025/01/USD-CHF-768x430.webp 768w" sizes="(max-width: 797px) 100vw, 797px" /></p>
+<h2 dir="rtl">مزايا تصحيحات فيبوناتشي</h2>
+<ul>
+<li dir="rtl">
+<p dir="rtl">بسيطة وشائعة وسهلة الاستخدام: تتوفر هذه الأداة المهمة على جميع منصات التداول.</p>
+</li>
+<li dir="rtl">
+<p dir="rtl">مرنة: قابلة للتطبيق على الفوركس، الأسهم، السلع، وغيرها من الأدوات المالية.</p>
+</li>
+<li dir="rtl">
+<p dir="rtl">تحسين عملية اتخاذ القرار: تساعد في التمييز بين الصفقات المربحة وغير المربحة بدقة عالية.·</p>
+</li>
+</ul>
+<h2 dir="rtl">الأخطاء الشائعة التي يجب تجنبها</h2>
+<ul>
+<li dir="rtl">
+<p dir="rtl">استخدام مستويات فيبوناتشي بمفردها: يجب دمج هذه الأداة الفنية مع مؤشرات أخرى أو طرق تحليل إضافية لتأكيد الإشارات الصادرة عنها.</p>
+</li>
+<li dir="rtl">
+<p dir="rtl">تجاهل اتجاهات السوق: تصحيحات فيبوناتشي أكثر فاعلية عند استخدامها لتحديد اتجاهات السوق.</p>
+</li>
+<li dir="rtl">
+<p dir="rtl">تعقيد الأمور بسبب استخدام عدد كبير من المستويات: للحد من الالتباس، ركز على النسب الأكثر أهمية (مثل 38.2%، 50%، 61.8%).</p>
+</li>
+</ul>
+<p dir="rtl">الخاتمة</p>
+<p dir="rtl">تعتبر تصحيحات فيبوناتشي أداة ممتازة لتحديد مستويات الدعم والمقاومة الرئيسية. كما يساعد إتقانها في تعزيز أداء خطط التداول وتحسين نقاط الدخول والخروج وتوفير فهمًا أعمق لكيفية عمل السوق.</p>
+<p dir="rtl">استخدمها بالطريقة الصحيحة: جرب تداول الأزواج وتدرب على الاستراتيجيات عبر منصة MT4/MT5 في أسواق مختلفة للارتقاء بقدراتك كمتداول وتحسين كفاءة قرارات التداول.</p>
+<p><a href="https://www.atfx.com/ar/trading-accounts/live-account" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="aligncenter wp-image-45727 size-large" src="https://www.atfx.com/wp-content/uploads/2025/01/Live-Banner-2-Fibonacci-Retracements-AR-1024x256.webp" alt="Live Banner 2 Fibonacci Retracements AR" width="800" height="200" srcset="https://www.atfx.com/wp-content/uploads/2025/01/Live-Banner-2-Fibonacci-Retracements-AR-1024x256.webp 1024w, https://www.atfx.com/wp-content/uploads/2025/01/Live-Banner-2-Fibonacci-Retracements-AR-300x75.webp 300w, https://www.atfx.com/wp-content/uploads/2025/01/Live-Banner-2-Fibonacci-Retracements-AR-768x192.webp 768w, https://www.atfx.com/wp-content/uploads/2025/01/Live-Banner-2-Fibonacci-Retracements-AR.webp 1200w" sizes="(max-width: 800px) 100vw, 800px" /></a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

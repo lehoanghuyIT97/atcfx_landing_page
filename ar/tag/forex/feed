@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Forex Archives - ATFX Global - Official Website</title>
+	<atom:link href="https://www.atfx.com/ar/tag/forex/feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Tue, 10 Dec 2024 04:05:06 +0000</lastBuildDate>
+	<language>ar</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>https://www.atfx.com/wp-content/uploads/2023/06/favicon-150x150.webp</url>
+	<title>Forex Archives - ATFX Global - Official Website</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>ما هو EURUSD &#8211; تاريخ وتأثير اليورو على الدولار</title>
+		<link>https://www.atfx.com/ar/analysis/trading-strategies/what-is-eurusd</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Fri, 20 Sep 2024 03:45:25 +0000</pubDate>
+				<category><![CDATA[استراتيجيات التداول]]></category>
+		<category><![CDATA[EURUSD]]></category>
+		<category><![CDATA[Forex]]></category>
+		<category><![CDATA[استراتيجيات التداول للمتداولين المبتدئين]]></category>
+		<guid isPermaLink="false">https://www.atfx.com/?p=40830</guid>
+
+					<description><![CDATA[ما هو EUR/USD يُعبر EURUSD عن سعر صرف اليورو مقابل الدولار الأمريكي. يشير هذا السعر إلى عدد الدولارات الأمريكية (USD) المطلوبة لشراء يورو واحد (EUR). على سبيل المثال، إذا كان سعر EUR/USD هو 1.50، فهذا يعني أنه يمكن استبدال 1 يورو بـ 1.50 دولار أمريكي. EURUSD هو زوج العملات الأكثر تداولاً على مستوى العالم، حيث [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h2><strong>ما هو EUR/USD</strong></h2>
+<p>يُعبر EURUSD عن سعر صرف اليورو مقابل الدولار الأمريكي. يشير هذا السعر إلى عدد الدولارات الأمريكية (USD) المطلوبة لشراء يورو واحد (EUR). على سبيل المثال، إذا كان سعر EUR/USD هو 1.50، فهذا يعني أنه يمكن استبدال 1 يورو بـ 1.50 دولار أمريكي.</p>
+<p>EURUSD هو زوج العملات الأكثر تداولاً على مستوى العالم، حيث يستحوذ على جزء كبير من حجم التعاملات في سوق الفوركس. يتميز EURUSD بتوفر سيولة عميقة، وفروق أسعار (سبريد) ضيقة، وعمق سوقي أكبر مقارنة بزوجي GBP/USD وUSD/JPY.</p>
+<h2><strong>أمثلة على سعر صرف EUR/USD</strong></h2>
+<p>على سبيل المثال، إذا باعت شركة أوروبية بضائع بقيمة 10,000 يورو لشركة أمريكية، وكان سعر EUR/USD هو 1.20، فسوف تحتاج الشركة الأمريكية إلى دفع 12,000 دولار أمريكي (10,000 × 1.20) لسداد ثمن هذه البضائع.</p>
+<p>من ناحية أخرى، إذا انخفض سعر الصرف إلى 1.10، فإن نفس السلع ستكلف الشركة الأمريكية 11,000 دولار. يوضح هذا المثال التأثير المباشر لأسعار الصرف على ديناميكيات التجارة الدولية.</p>
+<h2><strong>لماذا صُمِم EUR/USD بحيث يكون اليورو هو عملة الأساس؟</strong></h2>
+<p>يستخدم زوج العملات EUR/USD اليورو كعملة أساس، والدولار الأمريكي كعملة اقتباس (تسعير). يعتبر هذا الهيكل فريد إلى حد ما لأن الدولار الأمريكي يستخدم عادةً كعملة أساس في معظم أزواج العملات. يعكس EUR/USD الدور المحوري الذي يلعبه اليورو في الاقتصاد العالمي، وهو ما يسلط الضوء على القوة الاقتصادية لمنطقة العملة الموحدة.</p>
+<h2><strong>الفرق بين EUR/USD وUSD/EUR</strong></h2>
+<p>يُظهِر EUR/USD عدد الدولارات المطلوبة لشراء يورو واحد، بينما يعكس USD/EUR عدد وحدات اليورو اللازمة لشراء دولار واحد. على سبيل المثال، إذا كان EUR/USD يتداول عند 1.20، فإن زوج USD/EUR يساوي 0.8333 (1/1.20). تؤثر هذه العلاقة العكسية على استراتيجيات المتداولين وتفسيراتهم الاقتصادية، وهو ما يسلط الضوء على أهمية فهم أدوار عملة الأساس وعملة الاقتباس.</p>
+<table style="width: 53.1832%;">
+<tbody>
+<tr>
+<td style="width: 25.7669%;"><strong>الخاصية</strong></td>
+<td style="width: 33.2515%;"><strong>EUR/USD</strong></td>
+<td style="width: 87.9814%;"><strong>USD/EUR</strong></td>
+</tr>
+<tr>
+<td style="width: 25.7669%;">عملة الأساس</td>
+<td style="width: 33.2515%;">اليورو (EUR)</td>
+<td style="width: 87.9814%;">الدولار الأمريكي (USD)</td>
+</tr>
+<tr>
+<td style="width: 25.7669%;">عملة الاقتباس</td>
+<td style="width: 33.2515%;">الدولار الأمريكي (USD)</td>
+<td style="width: 87.9814%;">اليورو (EUR)</td>
+</tr>
+<tr>
+<td style="width: 25.7669%;">التفسير</td>
+<td style="width: 33.2515%;">عدد الدولارات الأمريكية لكل يورو واحد</td>
+<td style="width: 87.9814%;">عدد وحدات اليورو لكل دولار أمريكي</td>
+</tr>
+<tr>
+<td style="width: 25.7669%;">عرض السعر النموذجي</td>
+<td style="width: 33.2515%;">1.09 دولار (1 يورو = 1.09 دولار) *</td>
+<td style="width: 87.9814%;">0.92 يورو (1 دولار = 0.92 يورو) *</td>
+</tr>
+<tr>
+<td style="width: 25.7669%;">الاستخدام في أسواق الفوركس</td>
+<td style="width: 33.2515%;">أكثر شيوعًا ويُستخدم على نطاق واسع</td>
+<td style="width: 87.9814%;">أقل شيوعًا، يُحسب غالبًا لأغراض المقارنة فحسب</td>
+</tr>
+<tr>
+<td style="width: 25.7669%;">التأثير على المتداولين</td>
+<td style="width: 33.2515%;">تأثير مباشر على قيمة اليورو مقابل الدولار</td>
+<td style="width: 87.9814%;">تأثير عكسي على قيمة الدولار مقابل اليورو</td>
+</tr>
+<tr>
+<td style="width: 25.7669%;">القوة الاقتصادية</td>
+<td style="width: 33.2515%;">يعكس قوة الاقتصاد في منطقة اليورو</td>
+<td style="width: 87.9814%;">يعكس قوة الاقتصاد الأمريكي</td>
+</tr>
+</tbody>
+</table>
+<p>*تقدم هذه الأرقام لأغراض توضيحية فقط. يرجى تسجيل الدخول إلى<a href="https://www.atfx.com/ar/client-portal"> بوابة العميل</a> للاطلاع على سعر صرف EUR/USD في منصة التداول.</p>
+<h2><strong>العوامل الرئيسية المؤثرة على سعر صرف اليورو مقابل الدولار</strong></h2>
+<ul>
+<li>تؤثر فروق أسعار الفائدة التي يحددها البنك المركزي الأوروبي والاحتياطي الفيدرالي الأمريكي على اتجاهات الطلب على اليورو أو الدولار.</li>
+<li>تؤثر المؤشرات الاقتصادية، مثل نمو الناتج المحلي الإجمالي ومعدلات التوظيف وأرقام التضخم في منطقة اليورو والولايات المتحدة، بشكل كبير على سعر الصرف.</li>
+<li>يمكن للأحداث الجيوسياسية، مثل الاستقرار السياسي والاتفاقيات التجارية والصراعات الدولية، أن تغير تصورات السوق وتقييم العملات.</li>
+<li>تؤثر الأحداث الاقتصادية، مثل التغيرات في السياسة النقدية وبرامج التحفيز المالي والأزمات المختلفة، بشكل جوهري على سعر صرف EUR/USD.</li>
+</ul>
+<h3><strong>دور التجارة الدولية بين أوروبا والولايات المتحدة</strong></h3>
+<p>يُترجم الفائض التجاري في منطقة اليورو إلى ارتفاع الطلب على اليورو، وهو ما يدعم سعر صرف EUR/USD. على النقيض من ذلك، قد يؤدي العجز التجاري إلى إضعاف اليورو مقابل الدولار.</p>
+<h2><strong>تاريخ اليورو مقابل الدولار</strong></h2>
+<p>تغيرت ديناميكيات EUR/USD بشكل كبير منذ طرح اليورو للمرة الأولى في 1 يناير 1999. في بداية إطلاقه، كانت قيمة اليورو أقل من قيمة الدولار، لكنه اكتسب مزيدًا من القوة لاحقًا حتى سجل أعلى مستوياته على الإطلاق عند حوالي 1.60 في 2008.</p>
+<p>تعكس هذه التغييرات الظروف الاقتصادية والسياسات النقدية لمنطقة اليورو والولايات المتحدة. يُظهِر التحليل التاريخي أن أنماط حركة سعر صرف EUR/USD تتأثر بالاتجاهات الاقتصادية الكلية، مثل التحولات في النمو الاقتصادي والاختلافات في السياسات النقدية بين البنك المركزي الأوروبي وبنك الاحتياطي الفيدرالي.</p>
+<p>تطورت العلاقة بين اليورو والدولار عبر دورات اقتصادية مختلفة، بما في ذلك الأزمة المالية العالمية في عام 2008، وأزمة الديون السيادية الأوروبية، ثم عدم اليقين الذي اجتاح الأسوق المالية بسبب جائحة كوفيد-19. ترك كل حدث علامة فارقة على<a href="https://www.atfx.com/ar/live-chart/eur-usd"> الرسم البياني المباشر لسعر صرف</a> EUR/USD، كما يمكنك رؤيته على الرسم البياني المباشر.</p>
+<h3><strong>المحطات البارزة:</strong></h3>
+<ul>
+<li><strong>1999: </strong>إطلاق اليورو، والذي بدء التداول بقيمة أقل من الدولار.</li>
+<li><strong>2008: </strong>اليورو يصل إلى ذروته على حدود 1.60 دولار أمريكي.</li>
+<li><strong>2008: </strong>الأزمة المالية العالمية تؤثر على سعر صرف EUR/USD.</li>
+<li><strong>2010-2012: </strong>تبعات أزمة الديون السيادية الأوروبية على سعر الصرف.</li>
+<li><strong>2020: </strong>جائحة كوفيد-19 تخلق حالة من عدم اليقين الاقتصادي تؤثر على EUR/USD.</li>
+<li><strong>2022-2024 </strong>: تذبذب EUR/USD وسط استمرار مخاوف التضخم، وتغير فروق أسعار الفائدة، وتطور الظروف الاقتصادية.</li>
+</ul>
+<p><img fetchpriority="high" decoding="async" class="size-full wp-image-41216 aligncenter" src="https://www.atfx.com/wp-content/uploads/2024/09/eurusd-history-chart-in-arbic.webp" alt="eurusd-history-chart-in-arbic" width="1200" height="620" srcset="https://www.atfx.com/wp-content/uploads/2024/09/eurusd-history-chart-in-arbic.webp 1200w, https://www.atfx.com/wp-content/uploads/2024/09/eurusd-history-chart-in-arbic-300x155.webp 300w, https://www.atfx.com/wp-content/uploads/2024/09/eurusd-history-chart-in-arbic-1024x529.webp 1024w, https://www.atfx.com/wp-content/uploads/2024/09/eurusd-history-chart-in-arbic-768x397.webp 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>
+<h2><strong>لماذا يعتبر EUR/USD هو زوج العملات الأكثر تداولاً؟</strong></h2>
+<p>يُعَد EUR/USD هو الأكثر تداولاً بسبب حجم اقتصاد منطقة اليورو. تسمح السيولة العميقة للمتداولين بالدخول والخروج من الصفقات بأقل قدر من الانزلاق السعري، وهو ما يُعزز جاذبية EUR/USD بين متداولي الفوركس.</p>
+<p>تسمح السيولة العميقة لزوج EUR/USD بتوظيف استراتيجيات تداول متنوعة، بما في ذلك التداول الفوري، وعقود الفروقات (CFDs)، والسبريد بيتينغ.</p>
+<h2><strong>ساعات تداول EUR/USD</strong></h2>
+<p>يجري تداول EUR/USD على مدار 24 ساعة في اليوم، وخمسة أيام في الأسبوع، وذلك خلال جلسات تداول سوق الفوركس في سيدني وطوكيو ولندن ونيويورك.<a href="https://www.atfx.com/ar/analysis/trading-strategies/best-time-to-trade-eurusd"> أفضل أوقات تداول زوج العملات EUR /USD</a> هي فترات تقاطع جلسات لندن ونيويورك (من الساعة 12:00 ظهرًا إلى 4:00 مساءً بتوقيت جرينتش)، والتي تشهد ارتفاع أحجام السيولة ومستوى التقلبات، وهو ما يجعلها أوقات مثالية للتداولات قصيرة الأجل بسبب تحركات الأسعار الكبيرة ووفرة فرص التداول.</p>
+<p><a href="https://www.atfx.com/ar/trading-accounts/live-account"><img decoding="async" class="alignnone wp-image-25085 size-full" src="https://www.atfx.com/wp-content/uploads/2023/10/live-account-middle-east.webp" alt="live account middle east" width="825" height="206" srcset="https://www.atfx.com/wp-content/uploads/2023/10/live-account-middle-east.webp 825w, https://www.atfx.com/wp-content/uploads/2023/10/live-account-middle-east-300x75.webp 300w, https://www.atfx.com/wp-content/uploads/2023/10/live-account-middle-east-768x192.webp 768w" sizes="(max-width: 825px) 100vw, 825px" /></a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>زوج الجنيه الاسترليني مقابل الدولار الأمريكي يرتفع بعد أن أبقى بنك إنجلترا أسعار الفائدة ثابتة</title>
+		<link>https://www.atfx.com/ar/analysis/market-news/gbpusd-exchange-gains-after-boe-holds-interest-rates</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Fri, 20 Sep 2024 01:42:03 +0000</pubDate>
+				<category><![CDATA[أخبار السوق]]></category>
+		<category><![CDATA[Forex]]></category>
+		<category><![CDATA[GBPUSD]]></category>
+		<category><![CDATA[أخر الأخبار]]></category>
+		<guid isPermaLink="false">https://www.atfx.com/?p=40806</guid>
+
+					<description><![CDATA[الملخص ارتفع زوج الجنيه الاسترليني مقابل الدولار الأمريكي بعد أن أبقى بنك إنجلترا أسعار الفائدة ثابتة عند 5%، مع تحذير صناع السياسة من التضخم وتوقعات بخفض أسعار الفائدة في الأشهر المقبلة. ارتفع زوج الجنيه الاسترليني مقابل الدولار الأمريكي يوم الخميس بعد أن أبقى بنك إنجلترا أسعار الفائدة ثابتة عند 5٪. الرسم البياني اليومي – لزوج الجنيه الاسترليني [&#8230;]]]></description>
+										<content:encoded><![CDATA[<table style="font-size: 16px;">
+<tbody>
+<tr>
+<td><strong>الملخص</strong></p>
+<p>ارتفع زوج الجنيه الاسترليني مقابل الدولار الأمريكي بعد أن أبقى بنك إنجلترا أسعار الفائدة ثابتة عند 5%، مع تحذير صناع السياسة من التضخم وتوقعات بخفض أسعار الفائدة في الأشهر المقبلة.</td>
+</tr>
+</tbody>
+</table>
+<p>ارتفع<a href="https://www.atfx.com/ar/live-chart/gbp-usd" target="_blank" rel="noopener"> زوج الجنيه الاسترليني مقابل الدولار الأمريكي</a> يوم الخميس بعد أن أبقى بنك إنجلترا أسعار الفائدة ثابتة عند 5٪.</p>
+<p><img decoding="async" class="size-full wp-image-40807 aligncenter" src="https://www.atfx.com/wp-content/uploads/2024/09/GBPUSD-–-Daily-Chart.avif" alt="GBPUSD – Daily Chart" width="862" height="589" srcset="https://www.atfx.com/wp-content/uploads/2024/09/GBPUSD-–-Daily-Chart.avif 862w, https://www.atfx.com/wp-content/uploads/2024/09/GBPUSD-–-Daily-Chart-300x205.avif 300w, https://www.atfx.com/wp-content/uploads/2024/09/GBPUSD-–-Daily-Chart-768x525.avif 768w" sizes="(max-width: 862px) 100vw, 862px" /></p>
+<p style="text-align: center;">الرسم البياني اليومي – لزوج الجنيه الاسترليني مقابل الدولار الأمريكي</p>
+<p>أبقى بنك إنجلترا سعر الفائدة الرئيسي دون تغيير عند 5% بسبب المخاوف المستمرة بشأن التضخم داخل لجنة السياسة النقدية بالبنك. وارتفعت الأسعار في الصناعات الخدمية المهمة، والتي تمثل نحو 80% من الاقتصاد البريطاني. أظهرت البيانات الصادرة يوم الأربعاء أن معدل التضخم الإجمالي في بريطانيا ظل عند معدل سنوي قدره 2.2% في أغسطس، وهو ما يزال أعلى من هدف بنك إنجلترا.</p>
+<p>أظهر محضر اجتماع بنك إنجلترا الأخير أن 8 من الأعضاء التسعة صوتوا لصالح إبقاء أسعار الفائدة دون تغيير، بينما أيد عضو واحد فقط خفض الفائدة بمقدار 25 نقطة أساس.</p>
+<p>قال المحافظ بيلي: &#8220;إن الاقتصاد يتطور على نطاق واسع بما يتماشى مع توقعاتنا. وإذا استمر هذا، فيجب أن نكون قادرين على خفض أسعار الفائدة تدريجياً مع مرور الوقت. &#8220;لكن إبقاء التضخم منخفضاً أمر بالغ الأهمية، لذلك نحن بحاجة إلى توخي الحذر، لا تفعلوا ذلك. قطع بسرعة كبيرة أو أكثر من اللازم. &#8221;</p>
+<p>من المتوقع على نطاق واسع أن يخفض بنك إنجلترا تكاليف الاقتراض مرة أخرى في اجتماعه المقبل في نوفمبر. وفي 30 أكتوبر ، ستعلن الحكومة البريطانية الجديدة عن ميزانيتها. وتقول حكومة حزب العمال إنها بحاجة إلى سد فجوة قدرها 22 مليار جنيه استرليني (29 مليار دولار) في المالية العامة كما صرحت إنها قد تحتاج إلى زيادة الضرائب وخفض الإنفاق. ومن المرجح أن يؤثر هذا على التوقعات على المدى القريب لاقتصاد المملكة المتحدة ويضع ضغطًا هبوطيًا على التضخم.</p>
+<p>قال لوك بارثولوميو، نائب كبير الاقتصاديين في أبردين، إن بنك إنجلترا &#8220;سيحتاج إلى دمج أي تغييرات مالية في توقعاته المقبلة، والتي يمكن أن توفر الأساس لخفض أسرع لسعر الفائدة في الوقت المناسب&#8221;.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>التوقيت المثالى لتداول اليورو دولار EURUSD &#8211; ساعات التداول المثلى موضحة</title>
+		<link>https://www.atfx.com/ar/analysis/trading-strategies/best-time-to-trade-eurusd</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Wed, 28 Aug 2024 09:57:13 +0000</pubDate>
+				<category><![CDATA[استراتيجيات التداول]]></category>
+		<category><![CDATA[EURUSD]]></category>
+		<category><![CDATA[Forex]]></category>
+		<category><![CDATA[استراتيجيات التداول للمتداولين المبتدئين]]></category>
+		<guid isPermaLink="false">https://www.atfx.com/?p=40030</guid>
+
+					<description><![CDATA[التوقيت المثالى لتداول زوج اليورو دولار EURUSD أفضل وقت لتداول زوج اليورو دولار EURUSD هو خلال تداخل جلسات تداول لندن ونيويورك من الساعة 12:00 ظهراً إلى 4:00 عصراً بتوقيت جرينتش، حيث تزداد التقلبات والسيولة فى هذا التوقيت، وهو ما يكون مفيداً للمتداولين. بالنسبة لأولئك الذين يرغبون في متابعة تحركات السوق في الوقت الحقيقي، يمكن أن يكون استخدام الرسم [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h2><strong>التوقيت المثالى لتداول زوج اليورو دولار EURUSD</strong></h2>
+<p><strong>أفضل وقت لتداول زوج اليورو دولار </strong><a href="https://www.atfx.com/ar/analysis/trading-strategies/what-is-eurusd"><strong>EURUSD</strong> </a>هو خلال تداخل جلسات تداول لندن ونيويورك من الساعة 12:00 ظهراً إلى 4:00 عصراً بتوقيت جرينتش، حيث تزداد التقلبات والسيولة فى هذا التوقيت، وهو ما يكون مفيداً للمتداولين. بالنسبة لأولئك الذين يرغبون في متابعة تحركات السوق في الوقت الحقيقي، يمكن أن يكون استخدام <a href="https://www.atfx.com/ar/live-chart/eur-usd">الرسم البيانى المباشر لليورو دولار EURUSD</a> خلال هذا التوقيت مفيداً للغاية.</p>
+<h2><strong>ما هي أوقات التداول الرئيسية لليورو دولار EUR/USD؟</strong></h2>
+<table style="width: 43.2187%;">
+<tbody>
+<tr>
+<td style="width: 48.251%;"><strong>الجلسة</strong></td>
+<td style="width: 226.513%;"><strong>الوقت (بتوقيت جرينتش) </strong></td>
+</tr>
+<tr>
+<td style="width: 48.251%;">جلسة لندن</td>
+<td style="width: 226.513%;">7:00 صباحاً إلى 4:00 عصراً</td>
+</tr>
+<tr>
+<td style="width: 48.251%;">جلسة نيويورك</td>
+<td style="width: 226.513%;">12:00 ظهراً إلى 8:00 مساءً</td>
+</tr>
+<tr>
+<td style="width: 48.251%;">أفضل تداخل</td>
+<td style="width: 226.513%;">12:00 ظهراً إلى 4:00 عصراً</td>
+</tr>
+</tbody>
+</table>
+<p>تجمع هذه الفترة الزمنية التي تمتد لأربع ساعات بين أحجام التداول الكبيرة في كلا السوقين الرئيسيين، مما يؤدي إلى تباين ضيق وحركات سعرية أكبر. خلال هذا الوقت، يشارك متداولو الفوركس وصناع السوق والمستثمرون المؤسسيون بشكل نشط، مما يزيد من السيولة والتقلب لزوج اليورو دولار EUR/USD.</p>
+<h2><strong>ما هي الاعتبارات الإضافية؟ </strong></h2>
+<h3>فترة ما قبل فتح لندن</h3>
+<p>يمكن أن يكون التداول فعالاً أيضاً من 7:00 صباحاً إلى 12:00 ظهراً بتوقيت جرينتش حيث يستعد السوق لجلسة لندن. قد يشهد التداول في الصباح الباكر تحركات كبيرة حيث يتفاعل المتداولون مع الأخبار والبيانات التي صدرت خلال الليل.</p>
+<h3>كيف تؤثر الأحداث الاقتصادية على التداول؟</h3>
+<p>تقارير الأحداث الاقتصادية من منطقة اليورو والولايات المتحدة يمكن أن تؤثر على التقلب وظروف التداول خلال هذه الساعات. يمكن أن تؤدي مؤشرات الاقتصاد مثل نمو الناتج المحلي الإجمالي، بيانات التوظيف، وقرارات أسعار الفائدة إلى حركات حادة في سعر صرف زوج اليورو دولار EUR/USD للتداول في سوق الفوركس خلال الليل.</p>
+<h2><strong>ما هي ساعات تداول الفوركس العامة؟</strong></h2>
+<p><a href="https://www.atfx.com/ar/analysis/trading-strategies/why-forex-markets-open-24-hours-a-day">سوق الفوركس يعمل على مدار 24 ساعة</a> في اليوم من الأحد الساعة 9:00 مساءً بتوقيت جرينتش (5:00 مساءً بتوقيت شرق الولايات المتحدة) إلى الجمعة الساعة 9:00 مساءً بتوقيت جرينتش (5:00 مساءً بتوقيت شرق الولايات المتحدة).</p>
+<h3>ما هي ساعات تداول اليورو دولار EUR/USD المحددة؟</h3>
+<p>نافذة التداول القياسية لليورو دولار EUR/USD هي من الساعة 1:00 ظهراً إلى 9:00 مساءً بتوقيت جرينتش، حيث تحدث ذروة النشاط بين الساعة 12:00 ظهراً و4:00 عصراً بتوقيت جرينتش.</p>
+<table style="width: 45.7364%;">
+<tbody>
+<tr>
+<td style="width: 43.553%;"><strong>الجلسة</strong></td>
+<td style="width: 222.674%;"><strong>الوقت (بتوقيت جرينتش) </strong></td>
+</tr>
+<tr>
+<td style="width: 43.553%;">نافذة التداول القياسية</td>
+<td style="width: 222.674%;">1:00 ظهراً إلى 9:00 مساءً</td>
+</tr>
+<tr>
+<td style="width: 43.553%;">ذروة نشاط</td>
+<td style="width: 222.674%;">12:00 ظهراً إلى 4:00 عصراً</td>
+</tr>
+</tbody>
+</table>
+<h2>ما هي الجلسات الرئيسية للتداول؟</h2>
+<p>الجلسات الرئيسية لتداول زوج اليورو دولار EUR/USD هي لندن ونيويورك وطوكيو وسيدني.</p>
+<h3>ما هي أوقات فتح وإغلاق السوق؟</h3>
+<p>سوق الفوركس يفتح الساعة 9:00 مساءً بتوقيت جرينتش يوم الأحد ويغلق الساعة 10:00 مساءً بتوقيت جرينتش يوم الجمعة. أول جلسة تبدأ هي جلسة سيدني، وآخر جلسة تنتهي هي جلسة نيويورك.</p>
+<table style="width: 44.5079%;">
+<tbody>
+<tr>
+<td style="width: 42.9209%;"><strong>الجلسة</strong></td>
+<td style="width: 299.984%;"><strong>الوقت (بتوقيت جرينتش) </strong></td>
+</tr>
+<tr>
+<td style="width: 42.9209%;">جلسة لندن</td>
+<td style="width: 299.984%;">7:00 صباحاً إلى 4:00 عصراً</td>
+</tr>
+<tr>
+<td style="width: 42.9209%;">جلسة نيويورك</td>
+<td style="width: 299.984%;">12:00 ظهراً إلى 8:00 مساءً</td>
+</tr>
+<tr>
+<td style="width: 42.9209%;">جلسة طوكيو</td>
+<td style="width: 299.984%;">11:00 مساءً إلى 8:00 صباحاً</td>
+</tr>
+<tr>
+<td style="width: 42.9209%;">جلسة سيدني</td>
+<td style="width: 299.984%;">9:00 مساءً إلى 6:00 صباحاً</td>
+</tr>
+</tbody>
+</table>
+<p>تعرف على المزيد عن مواصفات <a href="https://www.atfx.com/ar/trading-accounts/product-specifications">منتجاتنا المتاحة للتداول</a>.</p>
+<h2><strong>ما هي أكثر الأوقات تقلباً لزوج اليورو دولار EURUSD؟</strong></h2>
+<table style="width: 44.368%;">
+<tbody>
+<tr>
+<td style="width: 43.7696%;"><strong>العامل</strong></td>
+<td style="width: 62.8849%;"><strong>الوقت (بتوقيت جرينتش) </strong></td>
+</tr>
+<tr>
+<td style="width: 43.7696%;">جلسات السوق</td>
+<td style="width: 62.8849%;">1:00 ظهراً إلى 4:00 عصراً بتوقيت جرينتش</td>
+</tr>
+<tr>
+<td style="width: 43.7696%;">أكثر الأيام تقلباً</td>
+<td style="width: 62.8849%;">الجمعة</td>
+</tr>
+<tr>
+<td style="width: 43.7696%;">أقل الأيام تقلباً</td>
+<td style="width: 62.8849%;">الاثنين</td>
+</tr>
+<tr>
+<td style="width: 43.7696%;">التقارير والأحداث الاقتصادية</td>
+<td style="width: 62.8849%;">يمكن أن تسبب المؤشرات الاقتصادية الرئيسية، واجتماعات البنوك المركزية، والأحداث السياسية تقلبات سعرية كبيرة.</td>
+</tr>
+</tbody>
+</table>
+<p>يؤثر التقلب على الأخبار السوقية، والأحداث الجيوسياسية، وإعلانات البنوك المركزية، وبيانات الاقتصاد من منطقة اليورو والولايات المتحدة.</p>
+<h2><strong>ما هي أنماط أوقات التداول والتقلب؟ </strong></h2>
+<p>الحركة اليومية المتوسطة لزوج اليورو دولار EUR/USD نحو57 نقطة على مدى فترة تمتد الى 10 أسابيع. ساعات التداول الأكثر نشاطاً هي من 1:00 ظهراً إلى 4:00 عصراً بتوقيت جرينتش. يمكن أن تؤدي الإعلانات الاقتصادية الكبيرة، مثل بيانات الوظائف غير الزراعية في الولايات المتحدة (NFP)، إلى حركات حادة.</p>
+<p>ملخص أنماط التقلب</p>
+<p><a href="https://www.atfx.com/zh-hant/trading-accounts/live-account"><img decoding="async" class="alignnone wp-image-25085 size-full" src="https://www.atfx.com/wp-content/uploads/2023/10/live-account-middle-east.webp" alt="live account middle east" width="825" height="206" srcset="https://www.atfx.com/wp-content/uploads/2023/10/live-account-middle-east.webp 825w, https://www.atfx.com/wp-content/uploads/2023/10/live-account-middle-east-300x75.webp 300w, https://www.atfx.com/wp-content/uploads/2023/10/live-account-middle-east-768x192.webp 768w" sizes="(max-width: 825px) 100vw, 825px" /></a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>يترقب زوج الجنيه الاسترليني مقابل الدولار النيوزلندي المؤتمر الصحفي لبنك نيوزيلندا</title>
+		<link>https://www.atfx.com/ar/analysis/market-news/gbpnzd-in-focus-rbnz-conference</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Tue, 13 Aug 2024 18:12:46 +0000</pubDate>
+				<category><![CDATA[أخبار السوق]]></category>
+		<category><![CDATA[Forex]]></category>
+		<category><![CDATA[GBPNZD]]></category>
+		<category><![CDATA[أخر الأخبار]]></category>
+		<guid isPermaLink="false">https://www.atfx.com/?p=39156</guid>
+
+					<description><![CDATA[لدى زوج الجنية الإسترليني مقابل الدولار نيوزلندي توجيهات يوم الأربعاء، بما في ذلك المؤتمر الصحفي لبنك نيوزيلندا وبيانات التضخم في المملكة المتحدة. الرسم البياني الاسبوعي لزوج زوج الجنيه الاسترليني مقابل الدولار النيوزلندي بعد محاولة أخرى للوصول إلى أعلى مستوياته في صيف 2023، وجد زوج الجنيه الاسترليني مقابل الدولار النيوزيلندي مقاومة عند 2.159. إذا دعمت البيانات الاقتصادية الدولار [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>لدى<a href="https://www.atfx.com/ar/markets/forex-trading" target="_blank" rel="noopener"> زوج الجنية الإسترليني مقابل الدولار نيوزلندي</a> توجيهات يوم الأربعاء، بما في ذلك المؤتمر الصحفي لبنك نيوزيلندا وبيانات التضخم في المملكة المتحدة.</p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-39157" src="https://www.atfx.com/wp-content/uploads/2024/08/GBPNZD-–-Weekly-Chart.png" alt="GBPNZD – Weekly Chart" width="774" height="603" srcset="https://www.atfx.com/wp-content/uploads/2024/08/GBPNZD-–-Weekly-Chart.png 774w, https://www.atfx.com/wp-content/uploads/2024/08/GBPNZD-–-Weekly-Chart-300x234.png 300w, https://www.atfx.com/wp-content/uploads/2024/08/GBPNZD-–-Weekly-Chart-768x598.png 768w" sizes="(max-width: 774px) 100vw, 774px" /></p>
+<p style="text-align: center;">الرسم البياني الاسبوعي لزوج زوج الجنيه الاسترليني مقابل الدولار النيوزلندي</p>
+<p>بعد محاولة أخرى للوصول إلى أعلى مستوياته في صيف 2023، وجد زوج الجنيه الاسترليني مقابل الدولار النيوزيلندي مقاومة عند 2.159. إذا دعمت البيانات الاقتصادية الدولار النيوزيلندي، فقد يتراجع سعر الصرف نحو مستوى الدعم 2.060.</p>
+<p>سيتخذ بنك نيوزيلندا قرارًا بشأن السياسة هذا الأسبوع، وليس من الواضح لدى الاقتصاديين والمستثمرين ما إذا كان سيبدأ في خفض أسعار الفائدة أو ينتظر علامات على مزيد من التباطؤ في التضخم.</p>
+<p>أظهر استطلاع أجرته بلومبرج أن 1221 اقتصاديًا توقعوا أن يبقي بنك الاحتياطي النيوزيلندي سعر الفائدة النقدي القياسي عند 5.5%. وقال تسعة اقتصاديين إنهم سيبدأون دورة تخفيف. تظهر بيانات سوق السندات أن المتداولين يرون حاليًا فرصة بنسبة 70% لخفض أسعار الفائدة.</p>
+<p>قال توفلي من بنك ASB في أوكلاند: &#8220;إن خطر تشديد السياسة النقدية أصبح حقيقة واقعة&#8221;.</p>
+<p>&#8220;نعتقد أن الوقت قد حان لكي يخفض بنك الاحتياطي النيوزيلندي أسعار الفائدة، لكن الكثير سيعتمد على مدى تغير توقعاته.&#8221;</p>
+<p>أظهر الاقتصاد النيوزيلندي علامات الانزلاق إلى الركود للمرة الثالثة خلال عامين، مع تباطؤ التضخم أكثر مما توقع البنك المركزي. ستتجه كل الأنظار إلى المؤتمر الصحفي لبنك نيوزيلندا في الساعة 11 صباحًا بتوقيت هونج كونج. وتصريح بنك الاحتياطي النيوزيلندي قبل أشهر إنه سيبدأ في خفض أسعار الفائدة في غضون عام، لكنه يفكر الآن في التحرك بشكل أسرع.</p>
+<p>قال شارون زولنر، كبير الاقتصاديين النيوزيلنديين في بنك ANZ: &#8220;بناءً على تطور البيانات في الأشهر الأخيرة، فمن الصعب تبرير مثل هذا التغيير الجذري في تفكير بنك نيوزيلندا. ويتوقع المحللون أن تكون أسعار الفائدة في نوفمبر.&#8221; تخفيض لأول مرة.</p>
+<p>&#8220;بالنظر إلى تخفيف الظروف النقدية بشكل كبير، فمن المعقول انتظار المزيد من الأدلة على صحة الاقتصاد&#8221;.</p>
+<p>يتبع قرار بنك نيوزيلندا بيانات مهمة عن اقتصاد المملكة المتحدة، مع توقع ارتفاع التضخم من 2% إلى 2.3%. قام بنك إنجلترا بتخفيض أسعار الفائدة في اجتماعه الأخير وقد يحتاج إلى التوقف مؤقتًا إذا ارتفع التضخم مرة أخرى.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>يركز متداولي زوج الدولار الأمريكي مقابل الدولار الكندي على إصدارات البيانات هذا الأسبوع</title>
+		<link>https://www.atfx.com/ar/analysis/market-news/usdcad-exchange-rate-has-data-ahead-this-week</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Tue, 25 Jun 2024 01:42:09 +0000</pubDate>
+				<category><![CDATA[أخبار السوق]]></category>
+		<category><![CDATA[Forex]]></category>
+		<category><![CDATA[USDCAD]]></category>
+		<category><![CDATA[أخر الأخبار]]></category>
+		<guid isPermaLink="false">https://www.atfx.com/?p=36572</guid>
+
+					<description><![CDATA[قد يتأثر اتجاه سعر صرف الدولار الأمريكي مقابل الدولار الكندي هذا الأسبوع بالبيانات الاقتصادية. الرسم البياني اليومي لزوج الدولار الامريكي مقابل الدولار الكندي إذا استمر الدولار الكندي في ارتفاعه، فمن المتوقع أن يجد سعر صرف الدولار الأمريكي/الدولار الكندي دعمًا أقل من 1.3615. في مساء يوم الثلاثاء، سيتم إصدار بيانات التضخم الكندية في الساعة 8:30 مساءً بتوقيت هونج [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>قد يتأثر اتجاه<a href="https://www.atfx.com/ar/markets/forex-trading" target="_blank" rel="noopener"> سعر صرف الدولار الأمريكي مقابل الدولار الكندي</a> هذا الأسبوع بالبيانات الاقتصادية.</p>
+<p><img loading="lazy" decoding="async" class="size-full wp-image-36573 aligncenter" src="https://www.atfx.com/wp-content/uploads/2024/06/USDCAD-–-Daily-Chart.webp" alt="USDCAD – Daily Chart" width="903" height="546" srcset="https://www.atfx.com/wp-content/uploads/2024/06/USDCAD-–-Daily-Chart.webp 903w, https://www.atfx.com/wp-content/uploads/2024/06/USDCAD-–-Daily-Chart-300x181.webp 300w, https://www.atfx.com/wp-content/uploads/2024/06/USDCAD-–-Daily-Chart-768x464.webp 768w" sizes="(max-width: 903px) 100vw, 903px" /></p>
+<p style="text-align: center;">الرسم البياني اليومي لزوج الدولار الامريكي مقابل الدولار الكندي</p>
+<p>إذا استمر الدولار الكندي في ارتفاعه، فمن المتوقع أن يجد سعر صرف الدولار الأمريكي/الدولار الكندي دعمًا أقل من 1.3615.</p>
+<p>في مساء يوم الثلاثاء، سيتم إصدار بيانات التضخم الكندية في الساعة 8:30 مساءً بتوقيت هونج كونج. وتتوقع الأسواق أن ينخفض التضخم إلى 2.6% من 2.7% الشهر الماضي. خلال ساعتين، سيتم إصدار مؤشر ثقة المستهلك الأمريكي. وسيركز المتداولون أيضًا على بيانات نمو الناتج المحلي الإجمالي الأمريكي يوم الخميس وبيانات التضخم في نفقات الاستهلاك الشخصي يوم الجمعة.</p>
+<p>أثر ضعف عوائد سندات الخزانة الأمريكية على الدولار يوم الاثنين. أشار مسؤولو بنك الاحتياطي الفيدرالي إلى أنهم سيخفضون أسعار الفائدة مرة واحدة فقط هذا العام، لكن المستثمرين يبحثون عن بيانات أو أحداث لتسريع تخفيضات أسعار الفائدة.</p>
+<p>قال رئيس بنك كندا مارك ماكليم يوم الاثنين أنه على الرغم من انخفاض التضخم، لا يزال هناك ما يكفي من الركود في سوق العمل الكندي لدفع النمو الاقتصادي وخلق المزيد من فرص العمل.</p>
+<p>انضم بنك كندا هذا الشهر إلى البنك المركزي الأوروبي في خفض سعر الفائدة للمرة الأولى منذ أكثر من أربع سنوات، وقال إنه قد يخفض أسعار الفائدة أكثر إذا استمر التضخم في إظهار أنه يعود بشكل مطرد إلى هدفه البالغ 2٪.</p>
+<p>قال ماكلام: &#8220;بينما يستمر التضخم في الاقتراب من الهدف، لا يزال لدى الاقتصاد مجال للنمو وإضافة وظائف&#8221;.</p>
+<p>أضاف أن المسؤولين يعتقدون أن الوصول إلى هدف التضخم البالغ 2% لا يتطلب زيادة كبيرة في البطالة.</p>
+<p>قال &#8220;الطريق كان ضيقا للغاية ولم نتمكن من الهبوط تماما.&#8221;</p>
+<p>&#8220;إن صعوبة العثور على عمل تشير إلى أن الحكومة لا يزال لديها بعض المجال لإبطاء نمو المقيمين غير الدائمين دون الإفراط في تشديد سوق العمل والتسبب في نقص حاد في العمالة&#8221;.</p>
+<p>رحب رئيس مجلس الاحتياطي الاتحادي جيروم باول بانخفاض التضخم في مايو لكنه قال إن صناع السياسات ما زالوا يبحثون عن علامات مستمرة على تباطؤ الاقتصاد.</p>
+<p>قال للصحفيين &#8220;نعتقد أن تقرير اليوم يعد تقدما ويبني الثقة، لكننا لا نعتقد أن لدينا الثقة لبدء تخفيف السياسة في هذا الوقت&#8221;.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>ما هو تداول الفوركس وكيف يعمل؟</title>
+		<link>https://www.atfx.com/ar/analysis/trading-strategies/what-is-forex-trading-how-does-it-work</link>
+		
+		<dc:creator><![CDATA[ATFX]]></dc:creator>
+		<pubDate>Thu, 22 Dec 2022 08:27:22 +0000</pubDate>
+				<category><![CDATA[استراتيجيات التداول]]></category>
+		<category><![CDATA[Forex]]></category>
+		<guid isPermaLink="false">https://www.atfx.com/?p=40857</guid>
+
+					<description><![CDATA[يعد تداول الفوركس، المعروف أيضًا باسم تداول العملات الأجنبية ، السوق العالمي لتبادل العملات الوطنية مقابل بعضها البعض. وباعتباره واحد من أكبر الأسواق المالية في العالم، فهو يعمل على مدار 24 ساعة في اليوم، وخمسة أيام في الأسبوع، ويتمتع بحجم تداول يومي يتجاوز 6 تريليون دولار. يعد هذا السوق ضروري للتجارة الدولية والاستثمارات والاستقرار الاقتصادي العالمي. أزواج [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>يعد تداول الفوركس، المعروف أيضًا باسم <a href="https://www.atfx.com/ar/markets/forex-trading" target="_blank" rel="noopener">تداول العملات الأجنبية</a> ، السوق العالمي لتبادل العملات الوطنية مقابل بعضها البعض. وباعتباره واحد من أكبر الأسواق المالية في العالم، فهو يعمل على مدار 24 ساعة في اليوم، وخمسة أيام في الأسبوع، ويتمتع بحجم تداول يومي يتجاوز 6 تريليون دولار. يعد هذا السوق ضروري للتجارة الدولية والاستثمارات والاستقرار الاقتصادي العالمي.</p>
+<h2>أزواج العملات الأجنبية وتسعيرها</h2>
+<p>عند تداول الفوركس، يتم تسعير العملات في صورة أزواج، ويرتبط كل زوج بسعر من جزأين: العرض والطلب. يمثل سعر العرض الحد الأقصى للمبلغ الذي يرغب المشتري في دفعه مقابل عملة ما، بينما يمثل سعر الطلب الحد الأدنى للمبلغ الذي يرغب البائع في قبوله. يتم تصنيف أزواج العملات إلى ثلاثة أنواع:</p>
+<p><img loading="lazy" decoding="async" class="aligncenter wp-image-40985 size-full" src="https://www.atfx.com/wp-content/uploads/2022/12/types-of-forex-currency-pairs-major-minor-exotic-pairs-1.webp" alt="types-of-forex-currency-pairs-major-minor-exotic-pairs" width="1200" height="620" srcset="https://www.atfx.com/wp-content/uploads/2022/12/types-of-forex-currency-pairs-major-minor-exotic-pairs-1.webp 1200w, https://www.atfx.com/wp-content/uploads/2022/12/types-of-forex-currency-pairs-major-minor-exotic-pairs-1-300x155.webp 300w, https://www.atfx.com/wp-content/uploads/2022/12/types-of-forex-currency-pairs-major-minor-exotic-pairs-1-1024x529.webp 1024w, https://www.atfx.com/wp-content/uploads/2022/12/types-of-forex-currency-pairs-major-minor-exotic-pairs-1-768x397.webp 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>
+<h3>الأزواج الرئيسية</h3>
+<p>تتضمن <a href="https://www.atfx.com/ar/analysis/trading-strategies/ten-most-traded-currencies" target="_blank" rel="noopener">الأزواج الرئيسية</a> العملات الأكثر تداولاً على مستوى العالم، مثل اليورو مقابل الدولار الأمريكي, الجنيه الاسترليني مقابل الدولار الأمريكي والدولار الأمريكي مقابل الين الياباني. تقدم الأزواج الرئيسية عادةً سيولة عالية وفروق أسعار ضيقة.</p>
+<h3>الأزواج الثانوية</h3>
+<p>تتكون الأزواج الثانوية من عملات من اقتصادات رئيسية ولكنها لا تتضمن الدولار الأمريكي. تشمل الأمثلة اليورو مقابل الدولار الأمريكي والدولار الأسترالي مقابل الين الياباني والدولار الكندي مقابل الفرنك السويسري. غالبًا ما يكون للأزواج الثانوية فروق أسعار أوسع مقارنة بالأزواج الرئيسية.</p>
+<h3>الأزواج الغريبة (الغير شائعة)</h3>
+<p>تتضمن <a href="https://www.atfx.com/ar/analysis/trading-strategies/most-traded-exotic-currency-pairs-in-forex-market">الأزواج الغريبة</a> عملة رئيسية واحدة وعملة واحدة من سوق أصغر أو ناشئة، مثل الدولار الأمريكي مقابل راند جنوب أفريقيا أو الدولار الأمريكي مقابل اليوان الصيني أو اليورو مقابل الفورنت المجري. تميل الأزواج الغريبة إلى أن تكون أقل سيولة وأكثر تقلبًا.</p>
+<h2>فهم تداول الفوركس العملة الأساسية وعملة الاقتباس</h2>
+<p>يتضمن تداول الفوركس شراء عملة واحدة وبيع عملة أخرى في نفس الوقت. تحدث هذه المعاملات في أزواج العملات، مثل <a href="https://www.atfx.com/ar/analysis/trading-strategies/what-is-eurusd" target="_blank" rel="noopener">اليورو مقابل الدولار الأمريكي</a> أو الجنيه الاسترليني مقابل الدولار الأمريكي، حيث تكون العملة الأولى المدرجة هي العملة الأساسية والثانية هي عملة الاقتباس. ويتمثل هدف تداول الفوركس في الاستفادة من التقلبات في أسعار الصرف بين هاتين العملتين.</p>
+<p><img loading="lazy" decoding="async" class="size-full wp-image-40986 aligncenter" src="https://www.atfx.com/wp-content/uploads/2022/12/forex-trading-base-and-quote-currency.webp" alt="" width="1200" height="620" srcset="https://www.atfx.com/wp-content/uploads/2022/12/forex-trading-base-and-quote-currency.webp 1200w, https://www.atfx.com/wp-content/uploads/2022/12/forex-trading-base-and-quote-currency-300x155.webp 300w, https://www.atfx.com/wp-content/uploads/2022/12/forex-trading-base-and-quote-currency-1024x529.webp 1024w, https://www.atfx.com/wp-content/uploads/2022/12/forex-trading-base-and-quote-currency-768x397.webp 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>
+<p>على سبيل المثال، إذا كان المتداول يعتقد أن اليورو سوف يرتفع مقابل الدولار الأمريكي، فقد يشتري زوج العملات اليورو دولار، على أمل بيعه لاحقًا بسعر أعلى. وعلى العكس من ذلك، إذا كان يتوقع أن يضعف اليورو، فسوف يبيع الزوج، بهدف إعادة شرائه بسعر أقل.</p>
+<h2>ما هي النقاط في تداول الفوركس؟</h2>
+<p><a href="https://www.atfx.com/ar/analysis/trading-strategies/what-is-pip-in-forex">النقطة</a> هي أصغر حركة سعرية يمكن أن تحدث في زوج العملات داخل سوق الفوركس. عادةً، بالنسبة لمعظم أزواج العملات، تساوي النقطة 0.0001. على سبيل المثال، إذا تحرك زوج اليورو/الدولار الأمريكي من 1.1050 إلى 1.1051، فقد زاد بمقدار نقطة واحدة. تعتبر النقاط أساسية في تداول الفوركس لأنها تساعد في حساب الأرباح والخسائر، وتمثل التغيرات التدريجية في أسعار الصرف التي يهدف المتداولون إلى الاستفادة منها.</p>
+<p><img loading="lazy" decoding="async" class="size-full wp-image-40987 aligncenter" src="https://www.atfx.com/wp-content/uploads/2022/12/pips-in-forex-trading.webp" alt="pips-in-forex-trading" width="1200" height="620" srcset="https://www.atfx.com/wp-content/uploads/2022/12/pips-in-forex-trading.webp 1200w, https://www.atfx.com/wp-content/uploads/2022/12/pips-in-forex-trading-300x155.webp 300w, https://www.atfx.com/wp-content/uploads/2022/12/pips-in-forex-trading-1024x529.webp 1024w, https://www.atfx.com/wp-content/uploads/2022/12/pips-in-forex-trading-768x397.webp 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>
+<h2>ما هو الفارق في تداول الفوركس؟</h2>
+<p>يشير <a href="https://www.atfx.com/ar/analysis/trading-strategies/what-is-spread-in-forex" target="_blank" rel="noopener">الفارق</a> في تداول الفوركس إلى الفرق بين سعر العرض (البيع) وسعر الطلب (الشراء) لزوج العملات. الفارق هو في الأساس تكلفة تنفيذ صفقة وهو الطريقة الأساسية التي يكسب بها السماسرة المال. على سبيل المثال، إذا كان سعر العرض لزوج اليورو/الدولار الأمريكي 1.1050 وسعر الطلب 1.1100، فإن الفارق هو 50 نقطة. في الأسواق ذات السيولة العالية، مثل أزواج العملات الرئيسية، تكون الفارق عادة أضيق، بينما الأسواق الأقل سيولة، مثل أزواج العملات الغريبة، غالبًا ما يكون لديها فروق أوسع.</p>
+<p><img loading="lazy" decoding="async" class="size-full wp-image-40988 aligncenter" src="https://www.atfx.com/wp-content/uploads/2022/12/spread-in-forex-trading.webp" alt="spread-in-forex-trading" width="1200" height="620" srcset="https://www.atfx.com/wp-content/uploads/2022/12/spread-in-forex-trading.webp 1200w, https://www.atfx.com/wp-content/uploads/2022/12/spread-in-forex-trading-300x155.webp 300w, https://www.atfx.com/wp-content/uploads/2022/12/spread-in-forex-trading-1024x529.webp 1024w, https://www.atfx.com/wp-content/uploads/2022/12/spread-in-forex-trading-768x397.webp 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>
+<h2>ما هو حجم اللوت في تداول الفوركس؟</h2>
+<p>يحدد حجم <a href="https://www.atfx.com/ar/analysis/trading-strategies/what-is-lot-size-in-forex" target="_blank" rel="noopener">اللوت </a>في تداول الفوركس حجم أو كمية العملة المشاركة في التداول. وهو عامل حاسم في حساب الربح أو الخسارة المحتملة للتداول. تتضمن أحجام اللوت المختلفة ما يلي:</p>
+<table style="width: 98.4745%;">
+<tbody>
+<tr>
+<td style="width: 33.4936%;">قيمة النقطة (بالدولار الأمريكي)</td>
+<td style="width: 24.0542%;">وحدات العملة الأساسية</td>
+<td style="width: 22.4202%;">حجم اللوت (العقد)</td>
+<td style="width: 182.241%;">نوع اللوت (العقد)</td>
+</tr>
+<tr>
+<td style="width: 33.4936%;">$10</td>
+<td style="width: 24.0542%;">100,000</td>
+<td style="width: 22.4202%;">1.0</td>
+<td style="width: 182.241%;">اللوت القياسي</td>
+</tr>
+<tr>
+<td style="width: 33.4936%;">$1</td>
+<td style="width: 24.0542%;">10,000</td>
+<td style="width: 22.4202%;">0.1</td>
+<td style="width: 182.241%;">اللوت الصغير</td>
+</tr>
+<tr>
+<td style="width: 33.4936%;">$0.10</td>
+<td style="width: 24.0542%;">1,000</td>
+<td style="width: 22.4202%;">0.01</td>
+<td style="width: 182.241%;">اللوت الميكرو</td>
+</tr>
+<tr>
+<td style="width: 33.4936%;">$0.01</td>
+<td style="width: 24.0542%;">100</td>
+<td style="width: 22.4202%;">0.001</td>
+<td style="width: 182.241%;">اللوت النانو</td>
+</tr>
+</tbody>
+</table>
+<h3>اللوت القياسي</h3>
+<p>اللوت القياسي يعادل 100000 وحدة من العملة الأساسية. على سبيل المثال، يتضمن اللوت القياسي في زوج اليورو/الدولار الأمريكي تداول 100000 يورو.</p>
+<h3>اللوت الصغير</h3>
+<p>اللوت الصغير يعادل 10000 وحدة من العملة الأساسية، أي عُشر اللوت القياسي. يستخدم هذا الحجم عادةً من قبل المتداولين الذين لديهم حسابات أصغر.</p>
+<h3>اللوت الميكرو</h3>
+<p>يتكون اللوت الميكرو من 1000 وحدة من العملة الأساسية، أي عُشر اللوت الصغير، وغالبًا ما يستخدمه المبتدئون أو أولئك الذين يقللون من المخاطر.</p>
+<h3>اللوت النانو</h3>
+<p>يتكون اللوت النانو من 100 وحدة من العملة الأساسية وهو مثالي للمتداولين الحذرين للغاية الذين يفضلون كميات التداول الصغيرة.</p>
+<p>إن فهم حجم اللوت أمر هام للغاية لإدارة المخاطر بشكل فعال في تداول الفوركس، لأنه يؤثر بشكل مباشر على التأثير المالي لكل حركة نقطة.</p>
+<h2>بنية سوق الفوركس</h2>
+<p>يتميز سوق الفوركس بطبيعته اللامركزية. فعلى عكس أسواق الأسهم، التي عادة ما تكون مركزية في بورصة واحدة، يتم تداولالفوركس خارج البورصة (OTC). وهذا يعني أن المعاملات تتم مباشرة بين الأطراف، وعادة ما تكون من خلال منصات التداول الإلكترونية أو عبر الهاتف، دون وجود بورصة مركزية.</p>
+<p>يتكون سوق الفوركس من عدة لاعبين رئيسيين:</p>
+<p><img loading="lazy" decoding="async" class="size-full wp-image-40989 aligncenter" src="https://www.atfx.com/wp-content/uploads/2022/12/structure-of-the-forex-market-players.webp" alt="structure-of-the-forex-market-players" width="1200" height="620" srcset="https://www.atfx.com/wp-content/uploads/2022/12/structure-of-the-forex-market-players.webp 1200w, https://www.atfx.com/wp-content/uploads/2022/12/structure-of-the-forex-market-players-300x155.webp 300w, https://www.atfx.com/wp-content/uploads/2022/12/structure-of-the-forex-market-players-1024x529.webp 1024w, https://www.atfx.com/wp-content/uploads/2022/12/structure-of-the-forex-market-players-768x397.webp 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>
+<p><strong>البنوك المركزية: </strong>تلعب البنوك المركزية دورًا محوريًا في سوق الفوركس من خلال إدارة احتياطيات العملات وتحديد أسعار الفائدة والتدخل في السوق لتثبيت عملتها.</p>
+<p><strong>البنوك التجارية:</strong> تجري هذه المؤسسات كميات كبيرة من معاملات العملات للعملاء وحساباتهم التجارية. كما أنها توفر السيولة للسوق.</p>
+<p><strong>صناديق التحوط ومديرو الاستثمار: </strong>تتداول هذه الكيانات بكميات كبيرة من العملات للتحوط ضد المخاطر أو لأغراض المضاربة.</p>
+<p><strong>الشركات:</strong> تشارك الشركات المتعددة الجنسيات في تداول الفوركس لتسهيل التجارة الدولية، مثل تحويل العائدات من المبيعات الخارجية.</p>
+<p><strong>متداولي التجزئة: </strong>مع ظهور منصات التداول عبر الإنترنت، أصبح المتداولون الأفراد الآن قادرين على الوصول إلى سوق الفوركس. وعلى الرغم من أن متداولي التجزئة يشكلون جزءًا أصغر من السوق الإجمالية، إلا أن نفوذهم نما بشكل كبير في السنوات الأخيرة.</p>
+<h2>كيف تؤثر ساعات عمل سوق الفوركس على التداول؟</h2>
+<p><a href="https://www.atfx.com/ar/analysis/trading-strategies/why-forex-markets-open-24-hours-a-day" target="_blank" rel="noopener">يعمل سوق الفوركس 24 ساعة في اليوم،</a> خمسة أيام في الأسبوع، بسبب طبيعته العالمية. هذا التشغيل المستمر ممكن لأنه مع فتح وإغلاق المراكز المالية في أجزاء مختلفة من العالم، يظل السوق نشطًا، مع جلسات التداول في آسيا وأوروبا وأمريكا الشمالية. يسمح هذا الهيكل الذي يعمل على مدار الساعة طوال أيام الأسبوع للمتداولين بالتفاعل بسرعة مع الأحداث العالمية والتطورات الاقتصادية، بغض النظر عن موقعهم، مما يضمن توفر فرص التداول على مدار الساعة تقريبًا.</p>
+<h2>العوامل المؤثرة على أسعار الفوركس</h2>
+<p>تتأثر أسعار العملات في سوق الفوركس بعوامل مختلفة، والتي يجب على المتداولين مراعاتها عند اتخاذ القرارات:</p>
+<ul>
+<li><strong>أسعار الفائدة: </strong>تعمل سياسات أسعار الفائدة للبنوك المركزية على دفع أسعار العملات بشكل كبير. تميل أسعار الفائدة المرتفعة إلى جذب الاستثمار الأجنبي، مما يؤدي إلى ارتفاع قيمة العملة.</li>
+</ul>
+<ul>
+<li><strong>المؤشرات الاقتصادية:</strong> يمكن للبيانات الاقتصادية مثل نمو الناتج المحلي الإجمالي وأرقام التوظيف ومعدلات التضخم أن تؤثر على قيم العملات. تعمل الأخبار الاقتصادية الإيجابية عادة على تقوية العملة، في حين أن البيانات السلبية يمكن أن تضعّفها.</li>
+<li><strong>الاستقرار السياسي:</strong> يمكن للبيئة السياسية في أي بلد أن تؤثر على عملتها. تميل الحكومات المستقرة إلى جذب الاستثمار، في حين أن عدم اليقين السياسي أو الاضطرابات يمكن أن تؤدي إلى انخفاض قيمة العملة.</li>
+<li><strong>معنويات السوق:</strong> يمكن لتصورات وتوقعات المتداولين أيضًا أن تدفع أسعار العملات. إذا اعتقد المستثمرون أن العملة ستتعزز، فقد يشترونها، مما يزيد من قيمتها.</li>
+<li><strong>الأحداث العالمية:</strong> يمكن أن يكون للأحداث مثل الكوارث الطبيعية أو التوترات الجيوسياسية أو الأوبئة تأثيرات فورية وغالبًا ما تكون غير متوقعة على أسعار العملات.</li>
+</ul>
+<h2>كيف يعمل تداول الفوركس</h2>
+<p>يمكن إجراء تداول الفوركس من خلال طرق مختلفة، اعتمادًا على أهداف المتداول وقدرته على تحمل المخاطر. فيما يلي أنواع تداولات الفوركس.</p>
+<h3>السوق الفوري</h3>
+<p>بالسوق الفوري يتم شراء وبيع العملات للتسليم الفوري. يتم تحديد الأسعار من خلال العرض والطلب في الوقت الفعلي، وعادة ما تتم تسوية الصفقات في غضون يومي عمل. سوق الفور هو الشكل الأكثر شيوعًا لتداول الفوركس.</p>
+<h3>السوق الآجلة</h3>
+<p>في سوق الآجلة، يدخل المتداولون في عقود لشراء أو بيع عملة في تاريخ مستقبلي، بسعر محدد مسبقًا. غالبًا ما تستخدم الشركات والمؤسسات المالية هذه الطريقة للتحوط ضد مخاطر العملة.</p>
+<h3>سوق العقود المستقبلية</h3>
+<p>على غرار سوق الآجلة، تتضمن سوق العقود المستقبلية عقودًا لشراء أو بيع عملة في تاريخ مستقبلي. ومع ذلك، على عكس العقود الآجلة، يتم توحيد عقود الآجلة وتداولها في البورصات. غالبًا ما يستخدم المضاربون تداول العقود الآجلة بحثًا عن الربح من تحركات العملة المتوقعة.</p>
+<h3>سوق الخيارات</h3>
+<p>تسمح سوق الخيارات للمتداولين بشراء أو بيع عملة بسعر محدد قبل تاريخ معين، لكنهم غير ملزمين بذلك. يمنح هذا المتداولين المرونة للتحوط ضد الخسائر المحتملة مع الحد من مخاطرهم.</p>
+<p>العقود مقابل الفروقات (CFDs)</p>
+<p>العقود مقابل الفروقات هي منتجات مشتقة تسمح للمتداولين بالمضاربة على تحركات أسعار العملات دون امتلاك الأصل الأساسي. يمكن أن توفر تداول العقود مقابل الفروقات رافعة مالية عالية، مما يعني أن المتداولين يمكنهم التحكم في مركز كبير باستثمار صغير نسبيًا، ولكنها تأتي أيضًا مع مخاطر أعلى.</p>
+<p>اقرأ المزيد حول <a href="https://www.atfx.com/ar/analysis/trading-strategies/spot-vs-futures-vs-contract-trading-for-beginner" target="_blank" rel="noopener">العقود الفورية مقابل العقود الآجلة مقابل العقود مقابل الفروقات</a></p>
+<p><a href="https://www.atfx.com/ar/trading-accounts/demo-account"><img loading="lazy" decoding="async" class="aligncenter wp-image-25091 size-full" src="https://www.atfx.com/wp-content/uploads/2023/10/demo-account-middle-east.webp" alt="demo account middle east" width="825" height="206" srcset="https://www.atfx.com/wp-content/uploads/2023/10/demo-account-middle-east.webp 825w, https://www.atfx.com/wp-content/uploads/2023/10/demo-account-middle-east-300x75.webp 300w, https://www.atfx.com/wp-content/uploads/2023/10/demo-account-middle-east-768x192.webp 768w" sizes="(max-width: 825px) 100vw, 825px" /></a></p>
+<h2>ما هو الرافعة المالية في تداول الفوركس؟</h2>
+<p><a href="https://www.atfx.com/ar/analysis/trading-strategies/what-is-leverage-in-trading" target="_blank" rel="noopener">الرافعة المالية</a> هي سمة أساسية لتداول الفوركس، حيث تسمح للمتداولين بالتحكم في مراكز أكبر مما قد يفعلونه برأس مالهم وحده. على سبيل المثال، مع نسبة رافعة مالية 50:1، يمكن للمتداول التحكم في مركز بقيمة 50000 دولار أمريكي برأس مال قدره 1000 دولار أمريكي فقط. وفي حين يمكن للرافعة المالية أن تضاعف الأرباح، فإنها تزيد أيضًا من خطر الخسائر الكبيرة.</p>
+<h2>ما هو الهامش في تداول الفوركس؟</h2>
+<p><a href="https://www.atfx.com/ar/analysis/trading-strategies/what-is-margin-in-forex" target="_blank" rel="noopener">الهامش</a> هو المبلغ المطلوب لفتح مركز ممول والحفاظ عليه. وهو في الأساس وديعة حسن نية يحتفظ بها الوسيط لتغطية الخسائر المحتملة. إذا تحرك مركز المتداول ضده، فقد يتلقى نداء هامش، مما يتطلب منه إيداع أموال إضافية للحفاظ على مركزه.</p>
+<h2>كيفية إدارة المخاطر في تداول الفوركس؟</h2>
+<p>تعتبر <a href="https://www.atfx.com/ar/analysis/trading-strategies/risk-reward-ratio-management-techniques" target="_blank" rel="noopener">إدارة المخاطر </a>جانبًا بالغ الأهمية في تداول الفوركس ويستخدم المتداولون الناجحون استراتيجيات مختلفة لحماية رأس مالهم والحد من الخسائر من خلال الخطوات التالية.</p>
+<h3>أوامر وقف الخسارة</h3>
+<p>تغلق أوامر وقف الخسارة تلقائيًا الصفقة عندما يصل السعر إلى مستوى محدد مسبقًا. وهذا يساعد المتداولين على تقليل الخسائر إذا تحرك السوق ضدهم.</p>
+<h3>أوامر جني الأرباح</h3>
+<p>أوامر جني الأرباح تغلق الصفقة تلقائيًا عندما يصل السعر إلى هدف ربح معين. وهذا يسمح للمتداولين بتأمين المكاسب وتجنب إغراء الاحتفاظ بمركز لفترة طويلة جدًا.</p>
+<h3>تحديد حجم المراكز</h3>
+<p>يدرس المتداولون بعناية حجم مراكزهم نسبة إلى رأس مالهم الإجمالي. ومن خلال المخاطرة بنسبة صغيرة فقط من حسابهم في كل صفقة، يمكنهم تقليل تأثير أي خسارة واحدة.</p>
+<h3>التنويع</h3>
+<p>يمكن أن يقلل التنويع من المخاطر في تداول الفوركس. من خلال تداول أزواج عملات متعددة، يمكن للمتداولين توزيع مخاطرهم عبر أسواق مختلفة وتقليل تعرضهم لأي عملة واحدة.</p>
+<h2>كيف تبدأ في تداول الفوركس مع ATFX؟</h2>
+<p>نقدم لك <a href="https://www.atfx.com/ar/trading-platforms/metatrader-4" target="_blank" rel="noopener">منصة الميتاتريدر 4</a> الشهيرة، والتي يمكنك تخصيصها بالكامل. تحظى منصة التداول الشهيرة هذه باحترام كبير ولديها العديد من الميزات والفوائد.</p>
+<p>استفد من ميزات وفوائد منصة الميتاتريدر 4 وأدواتنا التكميلية، والتي تقدم لك تجربة تداول رائعة عند دمجها. وتشمل هذه الأدوات <a href="https://www.atfx.com/ar/education-and-tools/trading-central" target="_blank" rel="noopener">Trading Central</a> وMarket News وAutochartist، على سبيل المثال. <a href="https://www.atfx.com/ar/trading-platforms/metatrader-4/what-is-mt4-and-how-to-use-it" target="_blank" rel="noopener">تعرف على كيفية استخدام MT4 منصة الميتاتريدر 4.</a></p>
+<p><a href="https://www.atfx.com/ar/trading-accounts/live-account" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="aligncenter wp-image-25085 size-full" src="https://www.atfx.com/wp-content/uploads/2023/10/live-account-middle-east.webp" alt="live account middle east" width="825" height="206" srcset="https://www.atfx.com/wp-content/uploads/2023/10/live-account-middle-east.webp 825w, https://www.atfx.com/wp-content/uploads/2023/10/live-account-middle-east-300x75.webp 300w, https://www.atfx.com/wp-content/uploads/2023/10/live-account-middle-east-768x192.webp 768w" sizes="(max-width: 825px) 100vw, 825px" /></a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
