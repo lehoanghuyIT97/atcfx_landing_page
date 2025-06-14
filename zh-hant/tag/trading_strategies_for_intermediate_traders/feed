@@ -40,8 +40,8 @@
 		<guid isPermaLink="false">https://www.atfx.com/?p=48346</guid>
 
 					<description><![CDATA[相對強弱指數 (RSI) 是一種動量震盪指標，用於衡量近期價格變動的速度和幅度，以識別資產的超買或超賣情況。其 [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>相對強弱指數 (RSI) 是一種動量震盪指標，用於衡量近期價格變動的速度和幅度，以識別資產的超買或超賣情況。其範圍從 0 到 100，通常用於發現潛在的反轉點、確認市場趨勢強度以及評估市場趨勢的總體方向，尤其是與<a href="https://www.atfx.com/zh-hant/trading-platforms/metatrader-4/support-resistance-indicator" target="_blank" rel="noopener">支撐位和阻力位</a>結合使用時。</p>
-<p>RSI 最初由 J. Welles Wilder Jr. 於 1978 年創建，現已成為股票、<a href="https://www.atfx.com/zh-hant/markets/forex-trading" target="_blank" rel="noopener">外匯</a>、加密貨幣和<a href="https://www.atfx.com/zh-hant/markets/commodities" target="_blank" rel="noopener">大宗商品</a>等各個市場最廣泛使用的技術指標之一。透過掌握 RSI 交易訊號，交易者可以增強時機把握、改善決策並提高獲利能力。在本文中，我們將探討 RSI 的工作原理以及如何有效地使用它來加強您的交易策略。</p>
+										<content:encoded><![CDATA[<p>相對強弱指數 (RSI) 是一種動量震盪指標，用於衡量近期價格變動的速度和幅度，以識別資產的超買或超賣情況。其範圍從 0 到 100，通常用於發現潛在的反轉點、確認市場趨勢強度以及評估市場趨勢的總體方向，尤其是與<a href="https://www.atfx.com.bz/zh-hant/trading-platforms/metatrader-4/support-resistance-indicator" target="_blank" rel="noopener">支撐位和阻力位</a>結合使用時。</p>
+<p>RSI 最初由 J. Welles Wilder Jr. 於 1978 年創建，現已成為股票、<a href="https://www.atfx.com.bz/zh-hant/markets/forex-trading" target="_blank" rel="noopener">外匯</a>、加密貨幣和<a href="https://www.atfx.com.bz/zh-hant/markets/commodities" target="_blank" rel="noopener">大宗商品</a>等各個市場最廣泛使用的技術指標之一。透過掌握 RSI 交易訊號，交易者可以增強時機把握、改善決策並提高獲利能力。在本文中，我們將探討 RSI 的工作原理以及如何有效地使用它來加強您的交易策略。</p>
 <h2>RSI公式如何計算？</h2>
 <p>RSI 是一個動量振盪器，用於測量價格變動的速度和變化。它是透過比較特定時期（通常為 14 天）內的平均漲幅和跌幅來計算的。它可以幫助交易者確定資產是否超買或超賣。</p>
 <h3><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f9ee.png" alt="🧮" class="wp-smiley" style="height: 1em; max-height: 1em;" /> RSI 公式：</h3>
@@ -65,12 +65,12 @@
 <h3><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f680.png" alt="🚀" class="wp-smiley" style="height: 1em; max-height: 1em;" /> RSI 超買狀態（高於 70）：</h3>
 <p>當 RSI 超過 70 時，表示資產超買，可能即將出現回檔或逆轉。這通常與價格達到阻力位同時發生。</p>
 <p><strong><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4cc.png" alt="📌" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 行動：當 RSI 超過 70 時，交易者通常會賣出，因為他們預計市場將在阻力位附近出現回調。</strong></p>
-<p><strong>例子：</strong>如果<a href="https://www.atfx.com/zh-hant/live-chart/eur-usd" target="_blank" rel="noopener">歐元/美元</a>對的 RSI 為 80，則可能表示市場超買，預示價格接近阻力位時可能下跌。</p>
+<p><strong>例子：</strong>如果<a href="https://www.atfx.com.bz/zh-hant/live-chart/eur-usd" target="_blank" rel="noopener">歐元/美元</a>對的 RSI 為 80，則可能表示市場超買，預示價格接近阻力位時可能下跌。</p>
 <p><img decoding="async" class="aligncenter size-large wp-image-48910" src="https://www.atfx.com/wp-content/uploads/2025/04/EUR-USD-TC-1024x887.webp" alt="EUR-USD-TC" width="800" height="693" srcset="https://www.atfx.com/wp-content/uploads/2025/04/EUR-USD-TC-1024x887.webp 1024w, https://www.atfx.com/wp-content/uploads/2025/04/EUR-USD-TC-300x260.webp 300w, https://www.atfx.com/wp-content/uploads/2025/04/EUR-USD-TC-768x666.webp 768w, https://www.atfx.com/wp-content/uploads/2025/04/EUR-USD-TC.webp 1200w" sizes="(max-width: 800px) 100vw, 800px" /></p>
 <h3><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4c9.png" alt="📉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> RSI 超賣狀況（低於 30）：</h3>
 <p>當 RSI 跌破 30 時，表示資產超賣，價格可能即將反彈，尤其是在接近支撐位時。</p>
 <p><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4cc.png" alt="📌" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>行動：當 RSI 低於 30 時，交易者通常會尋找買入機會，預期支撐位會出現逆轉。</strong></p>
-<p><strong>例如：</strong>如果<a href="https://www.atfx.com/zh-hant/live-chart/gbp-usd" target="_blank" rel="noopener">英鎊/美元</a>對的 RSI 為 25，則可能意味著英鎊超賣，可能會出現逆轉，並可能從關鍵支撐位反彈。</p>
+<p><strong>例如：</strong>如果<a href="https://www.atfx.com.bz/zh-hant/live-chart/gbp-usd" target="_blank" rel="noopener">英鎊/美元</a>對的 RSI 為 25，則可能意味著英鎊超賣，可能會出現逆轉，並可能從關鍵支撐位反彈。</p>
 <p><img decoding="async" class="aligncenter size-large wp-image-48911" src="https://www.atfx.com/wp-content/uploads/2025/04/GBP-USD-TC-1024x887.webp" alt="GBP-USD-TC" width="800" height="693" srcset="https://www.atfx.com/wp-content/uploads/2025/04/GBP-USD-TC-1024x887.webp 1024w, https://www.atfx.com/wp-content/uploads/2025/04/GBP-USD-TC-300x260.webp 300w, https://www.atfx.com/wp-content/uploads/2025/04/GBP-USD-TC-768x666.webp 768w, https://www.atfx.com/wp-content/uploads/2025/04/GBP-USD-TC.webp 1200w" sizes="(max-width: 800px) 100vw, 800px" /></p>
 <h2>RSI 背離：發現趨勢逆轉</h2>
 <p>當資產價格與 RSI 走勢相反時，就會出現 RSI 背離。這是潛在趨勢逆轉的關鍵訊號：</p>
@@ -155,14 +155,14 @@
 <h3><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/2699.png" alt="⚙" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 如何在 MetaTrader 4（MT4）中設定 RSI</h3>
 <p>在 MT4 中設定 RSI 簡單快速。請依照以下步驟操作：</p>
 <ol>
-<li>開啟 <a href="https://www.atfx.com/zh-hant/trading-platforms/metatrader-4" target="_blank" rel="noopener">MT4</a> 並選擇您想要使用的圖表。</li>
+<li>開啟 <a href="https://www.atfx.com.bz/zh-hant/trading-platforms/metatrader-4" target="_blank" rel="noopener">MT4</a> 並選擇您想要使用的圖表。</li>
 <li>點選插入 → 指標 → 振盪器 → 相對強弱指數。</li>
 <li>根據您的策略調整週期（預設為 14）。</li>
 <li>如有需要，修改關鍵水準（30 為超賣，70 為超買）。</li>
 <li>按一下「確定」將 RSI 指標套用到您的圖表。</li>
 </ol>
 <p>現在，您可以使用 RSI 來識別超買或超賣情況，並直接在 MT4 中做出明智的交易決策。</p>
-<p><a href="https://www.atfx.com/zh-hant/trading-platforms/metatrader-4/download-mt4" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="aligncenter wp-image-25078 size-full" src="https://www.atfx.com/wp-content/uploads/2023/10/mt4-download-taiwan.webp" alt="mt4 download taiwan" width="825" height="206" srcset="https://www.atfx.com/wp-content/uploads/2023/10/mt4-download-taiwan.webp 825w, https://www.atfx.com/wp-content/uploads/2023/10/mt4-download-taiwan-300x75.webp 300w, https://www.atfx.com/wp-content/uploads/2023/10/mt4-download-taiwan-768x192.webp 768w" sizes="(max-width: 825px) 100vw, 825px" /></a></p>
+<p><a href="https://www.atfx.com.bz/zh-hant/trading-platforms/metatrader-4/download-mt4" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="aligncenter wp-image-25078 size-full" src="https://www.atfx.com/wp-content/uploads/2023/10/mt4-download-taiwan.webp" alt="mt4 download taiwan" width="825" height="206" srcset="https://www.atfx.com/wp-content/uploads/2023/10/mt4-download-taiwan.webp 825w, https://www.atfx.com/wp-content/uploads/2023/10/mt4-download-taiwan-300x75.webp 300w, https://www.atfx.com/wp-content/uploads/2023/10/mt4-download-taiwan-768x192.webp 768w" sizes="(max-width: 825px) 100vw, 825px" /></a></p>
 <p>&nbsp;</p>
 <h2>RSI 交易策略建議</h2>
 <ul>
@@ -186,7 +186,7 @@
 <p><strong><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4cc.png" alt="📌" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 最後提示：在進行即時交易之前，先在模擬帳戶中測試 RSI 策略，以完善您的方法。</strong></p>
 <h2>結論</h2>
 <p>相對強弱指數 (RSI) 是一種強大的工具，可協助交易者識別超買和超賣情況、發現趨勢逆轉以及確認現有趨勢的強度。掌握 RSI 交易並了解其訊號可以增強您的市場分析能力並幫助您做出更明智的交易決策。</p>
-<p>無論您交易的是<a href="https://www.atfx.com/zh-hant/markets/shares-trading" target="_blank" rel="noopener">股票</a>、外匯還是加密貨幣，將 RSI 整合到您的策略中都可以提供有價值的見解並提高您的交易表現。</p>
+<p>無論您交易的是<a href="https://www.atfx.com.bz/zh-hant/markets/shares-trading" target="_blank" rel="noopener">股票</a>、外匯還是加密貨幣，將 RSI 整合到您的策略中都可以提供有價值的見解並提高您的交易表現。</p>
 ]]></content:encoded>
 					
 		
@@ -205,7 +205,7 @@
 					<description><![CDATA[川普的經濟政策：對股票和外匯市場的影響 唐納德·川普贏得 2024 年美國總統大選後，金融市場已經做出重大反應 [&#8230;]]]></description>
 										<content:encoded><![CDATA[<h2 dir="ltr">川普的經濟政策：對股票和外匯市場的影響</h2>
 <p dir="ltr">唐納德·川普贏得 2024 年美國總統大選後，金融市場已經做出重大反應，這是他在 2016 年第一任期後重返總統職位，投資者和交易者正在評估影響。他的勝利標誌着政府重新轉向親商政策，着重於放松管制、減稅和保護主義貿易政策。</p>
-<p dir="ltr">在本文中，我們將研究川普的經濟政策如何影響主要金融市場，特別是<a href="https://www.atfx.com/zh-hant/markets/forex-trading" target="_blank" rel="noopener">外匯交易</a>、美國股票、全球股票以及更廣闊的經濟前景。</p>
+<p dir="ltr">在本文中，我們將研究川普的經濟政策如何影響主要金融市場，特別是<a href="https://www.atfx.com.bz/zh-hant/markets/forex-trading" target="_blank" rel="noopener">外匯交易</a>、美國股票、全球股票以及更廣闊的經濟前景。</p>
 <ol class="no-markers">
 <li dir="ltr">
 <h2 dir="ltr">對外匯市場的影響：川普贏得 2024 年大選後美元走強</h2>
@@ -235,16 +235,16 @@
 <h2 dir="ltr">對股票市場的影響：川普的親商議程提振美國股市</h2>
 </li>
 </ol>
-<p dir="ltr">川普獲勝後，受其親商政策樂觀情緒推動，<a href="https://www.atfx.com/zh-hant/markets/shares-trading" target="_blank" rel="noopener">美國股市</a>出現上漲。能源、科技和金融等關鍵行業有望實現大幅增長。放松管制、減稅以及注重國內能源生產的政策共同支撐了這種看漲情緒。</p>
+<p dir="ltr">川普獲勝後，受其親商政策樂觀情緒推動，<a href="https://www.atfx.com.bz/zh-hant/markets/shares-trading" target="_blank" rel="noopener">美國股市</a>出現上漲。能源、科技和金融等關鍵行業有望實現大幅增長。放松管制、減稅以及注重國內能源生產的政策共同支撐了這種看漲情緒。</p>
 <h3 dir="ltr">美國股市飆升</h3>
-<p dir="ltr"><a href="https://www.atfx.com/zh-hant/live-chart/sp500" target="_blank" rel="noopener">標普500指數</a>、<a href="https://www.atfx.com/zh-hant/live-chart/dow-jones" target="_blank" rel="noopener">道瓊斯指數</a>、<a href="https://www.atfx.com/zh-hant/live-chart/nasdaq100" target="_blank" rel="noopener">納斯達克指數</a>等美國股市對川普的勝利做出了積極反應，各大<a href="https://www.atfx.com/zh-hant/markets/indices-trading" target="_blank" rel="noopener">指數</a>紛紛創下新高。那些有望受益於川普政策的行業的漲勢尤其明顯。能源股（尤其是石油和天然氣）和科技股一直處於領先地位，因爲投資者爲這些行業預期的有利環境做好了準備。</p>
+<p dir="ltr"><a href="https://www.atfx.com.bz/zh-hant/live-chart/sp500" target="_blank" rel="noopener">標普500指數</a>、<a href="https://www.atfx.com.bz/zh-hant/live-chart/dow-jones" target="_blank" rel="noopener">道瓊斯指數</a>、<a href="https://www.atfx.com.bz/zh-hant/live-chart/nasdaq100" target="_blank" rel="noopener">納斯達克指數</a>等美國股市對川普的勝利做出了積極反應，各大<a href="https://www.atfx.com.bz/zh-hant/markets/indices-trading" target="_blank" rel="noopener">指數</a>紛紛創下新高。那些有望受益於川普政策的行業的漲勢尤其明顯。能源股（尤其是石油和天然氣）和科技股一直處於領先地位，因爲投資者爲這些行業預期的有利環境做好了準備。</p>
 <h3 dir="ltr">能源行業提振</h3>
 <p dir="ltr">川普以“鑽吧，寶貝，鑽吧”的競選口號支持化石燃料，包括石油和天然氣，這種支持在他當選後提振了埃克森美孚和雪佛龍等公司。他的政府採取的取消國內石油和天然氣生產限制以及放鬆環境法規的舉措爲能源公司創造了更有利的環境。隨着對能源獨立和更少監管障礙的注重，能源股有望實現大幅增長、提高盈利能力並擴大國內資源獲取渠道。</p>
 <h3 dir="ltr">科技行業增長</h3>
 <p dir="ltr">由於投資者猜測唐納德·川普重返白宮可能會給特斯拉帶來受益，特斯拉股價飆升。這種預期包括來自小型電動汽車製造商的競爭減少和中國進口汽車關稅提高，這可能會給特斯拉帶來優勢。川普的放松管制和減稅等親商政策也被視爲對科技巨頭有利，有可能提高盈利能力並鼓勵對創新的再投資。具體來說，特斯拉可以從放寬有關電動汽車和可再生能源的監管中受益。</p>
 <h3 dir="ltr">金融業提振</h3>
 <p dir="ltr">川普獲勝後，摩根大通、高盛和美國銀行的股價以及大型銀行泛股指數均大幅上漲。由於投資者預期金融行業將出現更爲有利的監管環境，區域性銀行的股價也出現了顯著增長。川普的放松管制立場被視爲對大型金融機構的提振，因爲減少管制將允許銀行承擔更多風險並增加放貸。此外，減稅預期進一步支持了更高盈利前景，使這些銀行更具競爭力和效率。</p>
-<p><a href="https://www.atfx.com/zh-hant/trading-accounts/live-account" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="aligncenter wp-image-25087 size-full" src="https://www.atfx.com/wp-content/uploads/2023/10/live-account-taiwan.webp" alt="live account taiwan" width="825" height="206" srcset="https://www.atfx.com/wp-content/uploads/2023/10/live-account-taiwan.webp 825w, https://www.atfx.com/wp-content/uploads/2023/10/live-account-taiwan-300x75.webp 300w, https://www.atfx.com/wp-content/uploads/2023/10/live-account-taiwan-768x192.webp 768w" sizes="(max-width: 825px) 100vw, 825px" /></a></p>
+<p><a href="https://www.atfx.com.bz/zh-hant/trading-accounts/live-account" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="aligncenter wp-image-25087 size-full" src="https://www.atfx.com/wp-content/uploads/2023/10/live-account-taiwan.webp" alt="live account taiwan" width="825" height="206" srcset="https://www.atfx.com/wp-content/uploads/2023/10/live-account-taiwan.webp 825w, https://www.atfx.com/wp-content/uploads/2023/10/live-account-taiwan-300x75.webp 300w, https://www.atfx.com/wp-content/uploads/2023/10/live-account-taiwan-768x192.webp 768w" sizes="(max-width: 825px) 100vw, 825px" /></a></p>
 <ol class="no-markers" start="3">
 <li dir="ltr">
 <h2 dir="ltr">對指數的影響：美國表現優於全球指數</h2>
@@ -274,7 +274,7 @@
 <h2 dir="ltr">結論：不確定時期的樂觀主義</h2>
 <p dir="ltr">唐納德·川普在 2024 年大選獲勝，引發美國股市強勁上漲，美元走強，這得益於減稅、放松管制以及包括關注能源獨立的親商議程的預期。預計能源、技術和金融等關鍵行業將在短期內實現增長，而全球市場則面臨潛在貿易戰、關稅和地緣政治緊張局勢帶來的風險。</p>
 <p dir="ltr">儘管美國市場情緒樂觀，但對通脹上升、國家債務和長期經濟穩定的擔憂仍然存在。投資者應保持積極但謹慎的態度，在短期市場機會與整體經濟的潛在波動性和不確定性之間取得平衡。</p>
-<p dir="ltr"><a href="https://www.atfx.com/zh-hant/trading-accounts/demo-account" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="aligncenter wp-image-25097 size-full" src="https://www.atfx.com/wp-content/uploads/2023/10/demo-account-taiwan.webp" alt="demo account taiwan" width="825" height="206" srcset="https://www.atfx.com/wp-content/uploads/2023/10/demo-account-taiwan.webp 825w, https://www.atfx.com/wp-content/uploads/2023/10/demo-account-taiwan-300x75.webp 300w, https://www.atfx.com/wp-content/uploads/2023/10/demo-account-taiwan-768x192.webp 768w" sizes="(max-width: 825px) 100vw, 825px" /></a></p>
+<p dir="ltr"><a href="https://www.atfx.com.bz/zh-hant/trading-accounts/demo-account" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="aligncenter wp-image-25097 size-full" src="https://www.atfx.com/wp-content/uploads/2023/10/demo-account-taiwan.webp" alt="demo account taiwan" width="825" height="206" srcset="https://www.atfx.com/wp-content/uploads/2023/10/demo-account-taiwan.webp 825w, https://www.atfx.com/wp-content/uploads/2023/10/demo-account-taiwan-300x75.webp 300w, https://www.atfx.com/wp-content/uploads/2023/10/demo-account-taiwan-768x192.webp 768w" sizes="(max-width: 825px) 100vw, 825px" /></a></p>
 ]]></content:encoded>
 					
 		
@@ -509,7 +509,7 @@
 <h2 style="text-align: justify; line-height: 2;">如何開始購買白銀？</h2>
 <p style="text-align: justify; line-height: 2;">只需幾個簡單的步驟，你就可以在幾分鐘內開始你的白銀投資生涯。在你的電腦或手機上開一個賬戶，開始<a href="/zh-hant/markets/commodities/oil-trading" target="_blank" rel="noopener">交易原油</a>、白銀、黃金、股票、外彙和其他金融工具。 ATFX在一個非常實用的交易平台上提供所有主要貨幣對、加密貨幣和其他貨幣對。</p>
 <p>&nbsp;</p>
-<p><a href="https://www.atfx.com/zh-hant/trading-accounts/demo-account" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="aligncenter wp-image-25097 size-full" src="https://www.atfx.com/wp-content/uploads/2023/10/demo-account-taiwan.webp" alt="demo account taiwan" width="825" height="206" srcset="https://www.atfx.com/wp-content/uploads/2023/10/demo-account-taiwan.webp 825w, https://www.atfx.com/wp-content/uploads/2023/10/demo-account-taiwan-300x75.webp 300w, https://www.atfx.com/wp-content/uploads/2023/10/demo-account-taiwan-768x192.webp 768w" sizes="(max-width: 825px) 100vw, 825px" /></a></p>
+<p><a href="https://www.atfx.com.bz/zh-hant/trading-accounts/demo-account" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="aligncenter wp-image-25097 size-full" src="https://www.atfx.com/wp-content/uploads/2023/10/demo-account-taiwan.webp" alt="demo account taiwan" width="825" height="206" srcset="https://www.atfx.com/wp-content/uploads/2023/10/demo-account-taiwan.webp 825w, https://www.atfx.com/wp-content/uploads/2023/10/demo-account-taiwan-300x75.webp 300w, https://www.atfx.com/wp-content/uploads/2023/10/demo-account-taiwan-768x192.webp 768w" sizes="(max-width: 825px) 100vw, 825px" /></a></p>
 <p>&nbsp;</p>
 ]]></content:encoded>
 					
@@ -719,18 +719,18 @@
 		<guid isPermaLink="false">https://lptemplatedev.wpengine.com/uncategorized/why-is-leverage-high-in-the-forex-market-2</guid>
 
 					<description><![CDATA[投資市場以小博大的有力投資工具，有人畏之如水火，有人甘之如蜜餞。 中國的A股市場沒有槓桿，因為個股的股價實在是 [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><a href="https://www.atfx.com/zh-hant/markets"><span>投資市場</span></a>以小博大的有力<a href="https://www.atfx.com/zh-hant/education-and-tools"><span>投資工具</span></a>，有人畏之如水火，有人甘之如蜜餞。</p>
+										<content:encoded><![CDATA[<p><a href="https://www.atfx.com.bz/zh-hant/markets"><span>投資市場</span></a>以小博大的有力<a href="https://www.atfx.com.bz/zh-hant/education-and-tools"><span>投資工具</span></a>，有人畏之如水火，有人甘之如蜜餞。</p>
 <p><span id="more-10429"></span></p>
 <p>中國的A股市場沒有槓桿，因為個股的股價實在是太低了。一支10元的股票，交易一手的門檻只有1000元人民幣，這對於大部分個人交易者來說都是小意思。</p>
 <p>中國的期貨市場，槓桿大部分都設定在20倍。比如豆粕2105合約，當前報價3185元/噸，一手10噸，那麼最低交易門檻為3.185萬元。這一數額，足夠將大部分個人投資者拒之門外。</p>
 <p>為了增加市場流動性，讓散戶也能參與其中，引入20倍的槓桿就非常合適。同樣的合約，交易者只需要支付1592元保證金就可以進行交易，畢竟大部分並不想持有到期（交割需要支付全款），僅僅是參與期貨品種的價差交易。</p>
 <p>&nbsp;</p>
 <h2 style="font-size: 33px">匯市的槓桿為什麼那麼高？</h2>
-<p>同樣的道理，因為<a href="https://www.atfx.com/zh-hant/markets/forex-trading"><span>外匯市場</span></a>一手合約的價值高達10萬基礎貨幣，並且基礎貨幣往往是美元。 10萬美元轉換成人民幣就是70萬，這對於大部分交易者來說是很難達到的資金水平。</p>
+<p>同樣的道理，因為<a href="https://www.atfx.com.bz/zh-hant/markets/forex-trading"><span>外匯市場</span></a>一手合約的價值高達10萬基礎貨幣，並且基礎貨幣往往是美元。 10萬美元轉換成人民幣就是70萬，這對於大部分交易者來說是很難達到的資金水平。</p>
 <p>要知道，中國科創板所設定的資金門檻是50萬人民幣，這種門檻就已經怨聲載道，更何況是70萬的外匯市場最低門檻。</p>
 <p><img decoding="async" src="https://www.atfx.com/hubfs/Others%20folders/ATFX%20Blog%20Image%202020/ATFX_forex-market-trading.jpg" alt="forex-market-trading" width="1200" loading="lazy" style="width: 1200px"></p>
 <p>也許會有人問，一定要10萬基礎貨幣嗎？我只交易幾百幾千不可以？</p>
-<p>答案是可以的。但是，對於匯市來說，匯率的波動在短期內是微乎其微的。它不像<a href="https://www.atfx.com/zh-hant/markets/shares-trading"><span>股票市場</span></a>一樣，今天一個10%漲停，明天一個10%跌停。</p>
+<p>答案是可以的。但是，對於匯市來說，匯率的波動在短期內是微乎其微的。它不像<a href="https://www.atfx.com.bz/zh-hant/markets/shares-trading"><span>股票市場</span></a>一樣，今天一個10%漲停，明天一個10%跌停。</p>
 <p>以EURUSD為例，2019年全年波動2.22%，2018年波動4.45%，2017年波動13.98%，2016年波動3.14%，2015年波動10.17% 。</p>
 <p>全年的波動最高也只是在10%附近，一年有365天，一日的波動幅度之小可想而知。在如此小的波動之下幾百幾千美元的投資額基本就是開玩笑，可能持有數年時間，都沒能獲得可觀的收益。</p>
 <p>之所以匯率波動小，是因為匯率是一個國家經濟穩定的根本。如果匯率經常性的大幅波動，就會對這個國家的進出口產業造成重大打擊。</p>
@@ -746,14 +746,14 @@
 <p><img decoding="async" src="https://www.atfx.com/hubfs/Others%20folders/ATFX%20Blog%20Image%202020/ATFX_trading-risk-control.jpg" alt="ATFX_trading-risk-control" width="1200" loading="lazy" style="width: 1200px"></p>
 <p>即便不用槓桿交易，犯了重倉和不止損的毛病，也會出現超預期的虧損。人們之所以愛犯這兩個問題，是因為人性的驅使。</p>
 <p>大家都想來投資市場賺快錢，耐心不足，經常抱著“賭一把”的心態下單。在衝動情緒的引導下，“一把定輸贏”的想法佔據上風，自然會出現各種不理智的行為。</p>
-<p>成熟的投資者都知道，財務自由並不是通過一筆交易達到的，需要無數的交易單不斷累積獲得, <a href="https://www.atfx.com/zh-hant/ways-to-trade"><span>學習投資</span></a>。把倉位降下來，把設定止損當做習慣，把交易衝動壓制住，這才是長期穩定盈利的訣竅。</p>
+<p>成熟的投資者都知道，財務自由並不是通過一筆交易達到的，需要無數的交易單不斷累積獲得, <a href="https://www.atfx.com.bz/zh-hant/ways-to-trade"><span>學習投資</span></a>。把倉位降下來，把設定止損當做習慣，把交易衝動壓制住，這才是長期穩定盈利的訣竅。</p>
 <p>&nbsp;</p>
 <h2 style="font-size: 33px">小結</h2>
 <p>槓桿的範疇很廣，上市公司發債券也是槓桿的一種，只不過它被稱作財務槓桿。</p>
 <p>買房首付35%，這也是一種槓桿，購房者只需要支付一部分首付款就能夠獲得住宅房。螞蟻花唄也是一種槓桿，讓借用未來的現金流來人們提前消費。</p>
 <p>所以，槓桿並非魔鬼，它有它的好處，只是人們在使用槓桿時必須注重風險控制。風控是一根繩子，只有將槓桿的脖子套進去，才能讓使用者受益無窮。</p>
 <p>&nbsp;</p>
-<p>立即<a href="https://www.atfx.com/zh-hant/trading-platforms/metatrader-4/download-mt4"><span>下載 Metatrader 4</span></a> 賬戶或設置<a href="https://www.atfx.com/zh-hant/trading-accounts/demo-account"><span>模擬交易賬戶</span></a>開始交易！</p>
+<p>立即<a href="https://www.atfx.com.bz/zh-hant/trading-platforms/metatrader-4/download-mt4"><span>下載 Metatrader 4</span></a> 賬戶或設置<a href="https://www.atfx.com.bz/zh-hant/trading-accounts/demo-account"><span>模擬交易賬戶</span></a>開始交易！</p>
 ]]></content:encoded>
 					
 		
@@ -808,40 +808,40 @@
 		<guid isPermaLink="false">https://lptemplatedev.wpengine.com/uncategorized/how-us-bond-yields-impact-forex-market-stock-markets-gold-oil-prices-2</guid>
 
 					<description><![CDATA[今年以來美債收益率上升一直是市場交易的重要主題之一，引發了市場的集體震盪。在美國經濟強勁復甦的前景下，市場一直 [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>今年以來美債收益率上升一直是<a href="https://www.atfx.com/zh-hant/markets"><span>市場交易</span></a>的重要主題之一，引發了市場的集體震盪。在美國經濟強勁復甦的前景下，市場一直在計價10年期美債收益率持續上漲的預期，不少機構認為年底前可能達到2%以上的水平，可見這樣的交易主題仍將在較長時間內持續，那麼如何通過債券收益率的變化來預測或者更好的交易？首先要先釐清它和不同資產之間的走勢相關性。</p>
+										<content:encoded><![CDATA[<p>今年以來美債收益率上升一直是<a href="https://www.atfx.com.bz/zh-hant/markets"><span>市場交易</span></a>的重要主題之一，引發了市場的集體震盪。在美國經濟強勁復甦的前景下，市場一直在計價10年期美債收益率持續上漲的預期，不少機構認為年底前可能達到2%以上的水平，可見這樣的交易主題仍將在較長時間內持續，那麼如何通過債券收益率的變化來預測或者更好的交易？首先要先釐清它和不同資產之間的走勢相關性。</p>
 <p><span id="more-10376"></span></p>
 <p>&nbsp;</p>
 <h2 style="font-size: 33px">對匯市的影響</h2>
-<p style="font-size: 33px"><span style="font-size: 18px">國債收益率上漲反映的是經濟增長預期，也表明通脹前景在升溫，通脹水平又關乎央行貨幣政策的製定，如果通脹上漲過快，央行將不得不收緊政策來應對，市場對央行貨幣政策立場的預期會推動整體匯率走勢，所以收益率對<a href="https://www.atfx.com/zh-hant/markets/forex-trading">外匯市場</a>至關重要。</span></p>
+<p style="font-size: 33px"><span style="font-size: 18px">國債收益率上漲反映的是經濟增長預期，也表明通脹前景在升溫，通脹水平又關乎央行貨幣政策的製定，如果通脹上漲過快，央行將不得不收緊政策來應對，市場對央行貨幣政策立場的預期會推動整體匯率走勢，所以收益率對<a href="https://www.atfx.com.bz/zh-hant/markets/forex-trading">外匯市場</a>至關重要。</span></p>
 <p><img decoding="async" src="https://www.atfx.com/hubfs/forex-market-us-bond-yields.jpg" alt="forex-market-us-bond-yields" width="1200" loading="lazy"></p>
 <p>一國債券收益率與另一國債券收益率之間的差異，會影響相應的貨幣對走勢，利率較高的國家將吸引更多的投資者購買其債券，希望獲得更高的收益率。資本流動會被高收益貨幣所吸引，持有低收益率貨幣的成本上升，所以購買這些債券所需的需求會吸引資金流入，令該國的貨幣走強。</p>
 <h3 style="font-size: 18px"><span style="color: #434343">以下的例子可以更直觀了解其影響：</span></h3>
-<p>今年2月份開始，美國10年期國債收益率就開始出現明顯的上升，3月18日突破1.7%關口，直至3月30日創下去年1月份以來的新高。期間<a href="https://www.atfx.com/zh-hant/markets/indices-trading"><span>美元指數</span></a>也跟隨上漲，最高曾突破93關口。不過儘管長期國債收益率大幅上升，但短期國債收益率仍保持穩定，長短期國債利差走闊，指向了經濟增長和通脹增強的前景。</p>
+<p>今年2月份開始，美國10年期國債收益率就開始出現明顯的上升，3月18日突破1.7%關口，直至3月30日創下去年1月份以來的新高。期間<a href="https://www.atfx.com.bz/zh-hant/markets/indices-trading"><span>美元指數</span></a>也跟隨上漲，最高曾突破93關口。不過儘管長期國債收益率大幅上升，但短期國債收益率仍保持穩定，長短期國債利差走闊，指向了經濟增長和通脹增強的前景。</p>
 <p>今年以來歐元走勢一直弱於美元，部分原因在於美國經濟的恢復能力要超過歐元區，而且距離仍在拉大，在投資者越發看好美國經濟前景的情況下，美國國債收益率高於德國國債，利率上行會加速資金回流到美元，使美元兌歐元匯率走強。</p>
 <p><img decoding="async" src="https://www.atfx.com/hubfs/Others%20folders/ATFX%20Blog%20Image%202020/US-dollar-index.png" alt="US-dollar-index" width="1318" loading="lazy"></p>
 <p>另一個例子是，前不久新西蘭政府採取措施為不斷上漲的房價降溫，從而大大降低了通脹預期，相應地也導致新西蘭公債收益率下跌了10個基點，當時也拖累紐元兌美元在兩個交易日內大跌逾2.4%。</p>
 <p>&nbsp;</p>
 <h2 style="font-size: 33px">對股票市場的影響</h2>
 <p>除了匯市以外，國債收益率還與其他市場息息相關，由於債券收益率受到貨幣政策的顯著影響，美聯儲的目標利率通過影響需求來影響國債。較低的利率會增加國債的需求，較高的利率會減少需求，需求越低，利率就越高，所以收益率走勢被市場視為美聯儲政策的先行指標。就像目前市場計價美聯儲提前在明年加息的可能，美債收益率也攀升至逾一年的高位。</p>
-<p>同時債券收益率也可以視為衡量投資者信心的指標，因為在<a href="https://www.atfx.com/zh-hant/markets/shares-trading"><span>股票市場</span></a>處於牛市的時候，國債價格通常會下降，因為投資者風險意願增強希望尋求更高的回報。相反，隨著利率的上升，債券相對於股票或其他風險係數更高的投資更具吸引力。</p>
+<p>同時債券收益率也可以視為衡量投資者信心的指標，因為在<a href="https://www.atfx.com.bz/zh-hant/markets/shares-trading"><span>股票市場</span></a>處於牛市的時候，國債價格通常會下降，因為投資者風險意願增強希望尋求更高的回報。相反，隨著利率的上升，債券相對於股票或其他風險係數更高的投資更具吸引力。</p>
 <p><img decoding="async" src="https://www.atfx.com/hubfs/Others%20folders/ATFX%20Blog%20Image%202020/bear-bull-market.jpg" alt="bear-bull-market" width="1200" loading="lazy"></p>
 <p>名義收益率的上升對股市有利，而實際收益率的上升則不利於股市。在高通脹環境下，收益率上升通常會導致股票回報率下降。但是不同的板塊對收益率上升的反應不同，比如周期性行業在收益率上升時通常表現較好，因為其相對應的是經濟前景的改善，而防禦性行業則相反。</p>
 <p>&nbsp;</p>
 <h2 style="font-size: 33px">對黃金的影響</h2>
-<p>雖然美債收益率和<a href="https://www.atfx.com/zh-hant/markets/commodities/gold-trading"><span>黃金價格</span></a>看起來都與股市呈現相反走勢，但是並不代表兩者之間是正相關。國債和黃金都具備避險的屬性，黃金和債券價格之間存在正相關關係，黃金和債券收益率之間存在負相關關係。</p>
+<p>雖然美債收益率和<a href="https://www.atfx.com.bz/zh-hant/markets/commodities/gold-trading"><span>黃金價格</span></a>看起來都與股市呈現相反走勢，但是並不代表兩者之間是正相關。國債和黃金都具備避險的屬性，黃金和債券價格之間存在正相關關係，黃金和債券收益率之間存在負相關關係。</p>
 <p>當債券收益率出現飆升或者利率上升對黃金更加不利，因為黃金原本就是無息資產，再加上債息上升同樣會帶動美元走高，對黃金又是另一重施壓。所以當10年期美債收益率在3月底觸及逾一年新高的同時，當時的現貨黃金就一度跌破了1700美元重要關口。</p>
 <p>不過從另外一個角度來看：收益率上升表明對經濟強勁的預期，這樣的預期會助長通貨膨脹，而黃金又通常被用來對沖通脹，所以長期來講對黃金並非完全不利，如果未來通脹加劇嚴重到引發市場恐慌的程度，金價會再次展現它的魅力。</p>
 <p>&nbsp;</p>
 <h2 style="font-size: 33px">對油價的影響</h2>
 <p>能源價格和國債收益率走勢都可以被視為經濟前景的晴雨表，如上面所說經濟向好有利國債收益率上漲。同樣地，當經濟增長前景被看好，原油需求面向好或者樂觀，會帶動油價的上漲。所以兩者間價格的關係受經濟周期的影響而呈現正相關關係。</p>
 <p><img decoding="async" src="https://www.atfx.com/hubfs/Others%20folders/ATFX%20Blog%20Image%202020/crude-oil-prices.jpg" alt="crude-oil-prices" width="1200" loading="lazy"></p>
-<p>這其中還涉及到通脹預期，以往的價格走勢表明，油價同比增速同美國CPI增長呈現積極相關，原油上漲本身會提振通脹預期，從而提高了名義債券收益率，進而影響債券價格。所以今年以來，<a href="https://www.atfx.com/zh-hant/markets/commodities/oil-trading"><span>原油價格</span></a>和通脹兩個關鍵詞常常搭對出現，油價在3月份之前的強勁反彈，也是伴隨著債券收益率的上升。</p>
-<p>當然除了美國公債外，也還要留意主要原油出口國的債券收益率表現和油價之間的關係（如加拿大），甚至是其他商品出口型國家（如澳大利亞）。如果各國通脹預期和公債收益率繼續高企或進一步飆升，油價也會有積極的上行配合。不過留意由於美國的債息上揚會對美元有支持，而美元走強又會影響整體<a href="https://www.atfx.com/zh-hant/markets/commodities"><span>商品價格</span></a>的上漲空間。</p>
+<p>這其中還涉及到通脹預期，以往的價格走勢表明，油價同比增速同美國CPI增長呈現積極相關，原油上漲本身會提振通脹預期，從而提高了名義債券收益率，進而影響債券價格。所以今年以來，<a href="https://www.atfx.com.bz/zh-hant/markets/commodities/oil-trading"><span>原油價格</span></a>和通脹兩個關鍵詞常常搭對出現，油價在3月份之前的強勁反彈，也是伴隨著債券收益率的上升。</p>
+<p>當然除了美國公債外，也還要留意主要原油出口國的債券收益率表現和油價之間的關係（如加拿大），甚至是其他商品出口型國家（如澳大利亞）。如果各國通脹預期和公債收益率繼續高企或進一步飆升，油價也會有積極的上行配合。不過留意由於美國的債息上揚會對美元有支持，而美元走強又會影響整體<a href="https://www.atfx.com.bz/zh-hant/markets/commodities"><span>商品價格</span></a>的上漲空間。</p>
 <p>&nbsp;</p>
 <p style="font-size: 18px">以上分析由ATFX亞太區首席分析師林銘添提供。</p>
 <p>（以上分析僅代表個人觀點，匯市有風險，投資需謹慎。ATFX不會為直接或間接使用或依賴此資料而可能引致的任何盈虧負責。）</p>
 <p>&nbsp;</p>
-<p>開設<a href="https://www.atfx.com/zh-hant/trading-accounts"><span>真實交易賬戶</span></a>或設置<a href="https://www.atfx.com/zh-hant/trading-accounts/demo-account"><span>模擬交易賬戶</span></a>開始交易吧！</p>
+<p>開設<a href="https://www.atfx.com.bz/zh-hant/trading-accounts"><span>真實交易賬戶</span></a>或設置<a href="https://www.atfx.com.bz/zh-hant/trading-accounts/demo-account"><span>模擬交易賬戶</span></a>開始交易吧！</p>
 ]]></content:encoded>
 					
 		

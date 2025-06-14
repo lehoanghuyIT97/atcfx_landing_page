@@ -40,8 +40,8 @@
 		<guid isPermaLink="false">https://www.atfx.com/?p=48361</guid>
 
 					<description><![CDATA[상대강도지수(RSI)는 최근 가격변동의 속도와 정도를 측정함으로써 특정 자산의 과매수 혹은 과매도를 파악하는 모멘텀 오실레이터입니다. RSI는 0~100 사이의 범위를 보이며, 지지선 및 저항선과 접목하여 잠재적 반전 포인트를 파악하고, 시장 추세 강도를 확인하고, 전반적인 시장 추세 방향성을 진단하는 데 널리 활용됩니다. 1978년도에 웰스 와일더(J. Welles Wilder Jr.)가 개발한 상대강도지수(RSI)는 훗날 주식, 외환, 암호화폐, 원자재를 비롯한 다양한 시장에서 폭넓게 [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>상대강도지수(RSI)는 최근 가격변동의 속도와 정도를 측정함으로써 특정 자산의 과매수 혹은 과매도를 파악하는 모멘텀 오실레이터입니다. RSI는 0~100 사이의 범위를 보이며, <a href="https://www.atfx.com/ko/trading-platforms/metatrader-4/support-resistance-indicator" target="_blank" rel="noopener">지지선 및 저항선</a>과 접목하여 잠재적 반전 포인트를 파악하고, 시장 추세 강도를 확인하고, 전반적인 시장 추세 방향성을 진단하는 데 널리 활용됩니다.</p>
-<p>1978년도에 웰스 와일더(J. Welles Wilder Jr.)가 개발한 상대강도지수(RSI)는 훗날<a href="https://www.atfx.com/ko/markets/forex-trading" target="_blank" rel="noopener"> 주식</a>, 외환, 암호화폐, <a href="https://www.atfx.com/ko/markets/commodities" target="_blank" rel="noopener">원자재</a>를 비롯한 다양한 시장에서 폭넓게 활용되는 기술적 지표로 자리잡았습니다. RSI 트레이딩 시그널을 마스터함으로써 트레이더 분들은 거래 타이밍 및 의사결정 과정을 개선하고 수익성을 향상시킬 수 있습니다. 이번 글에서는 RSI의 원리가 어떻게 되는지, 트레이딩 전략을 효과적으로 강화하기 위해 어떻게 RSI를 활용할 수 있을지에 대해 알아보도록 하겠습니다.</p>
+										<content:encoded><![CDATA[<p>상대강도지수(RSI)는 최근 가격변동의 속도와 정도를 측정함으로써 특정 자산의 과매수 혹은 과매도를 파악하는 모멘텀 오실레이터입니다. RSI는 0~100 사이의 범위를 보이며, <a href="https://www.atfx.com.bz/ko/trading-platforms/metatrader-4/support-resistance-indicator" target="_blank" rel="noopener">지지선 및 저항선</a>과 접목하여 잠재적 반전 포인트를 파악하고, 시장 추세 강도를 확인하고, 전반적인 시장 추세 방향성을 진단하는 데 널리 활용됩니다.</p>
+<p>1978년도에 웰스 와일더(J. Welles Wilder Jr.)가 개발한 상대강도지수(RSI)는 훗날<a href="https://www.atfx.com.bz/ko/markets/forex-trading" target="_blank" rel="noopener"> 주식</a>, 외환, 암호화폐, <a href="https://www.atfx.com.bz/ko/markets/commodities" target="_blank" rel="noopener">원자재</a>를 비롯한 다양한 시장에서 폭넓게 활용되는 기술적 지표로 자리잡았습니다. RSI 트레이딩 시그널을 마스터함으로써 트레이더 분들은 거래 타이밍 및 의사결정 과정을 개선하고 수익성을 향상시킬 수 있습니다. 이번 글에서는 RSI의 원리가 어떻게 되는지, 트레이딩 전략을 효과적으로 강화하기 위해 어떻게 RSI를 활용할 수 있을지에 대해 알아보도록 하겠습니다.</p>
 <h2>RSI 계산 공식은?</h2>
 <p>RSI는 가격 흐름의 속도와 변화를 측정하는 모멘텀 오실레이터입니다. RSI는 특정 기간 동안의 평균 수익 및 손실을 비교해서 계산되는데, 일반적으로는 14일이 기준으로 설정됩니다. RSI는 트레이더들이 특정 자산이 과매수 상태인지 과매도 상태인지를 판단하는 데 도움을 줍니다.</p>
 <h3><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f9ee.png" alt="🧮" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </span>RSI 공식:</h3>
@@ -65,12 +65,12 @@
 <h3><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f680.png" alt="🚀" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </span>RSI 과매수 환경(70 초과):</h3>
 <p>RSI가 70을 초과하면 특정 자산이 과매수 구간임을 의미하며, 조만간 하락세 혹은 하락반전이 발생할 수 있음을 의미합니다. 과매수 환경은 가격이 저항선에 도달하는 시점과 시기가 겹치기도 합니다.</p>
 <p><strong><b><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4cc.png" alt="📌" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </b>행동</strong><strong>: RSI</strong><strong>가</strong><strong> 70</strong><strong>을</strong> <strong>초과하면</strong> <strong>트레이더들은</strong> <strong>저항선</strong> <strong>근처에서</strong> <strong>시장</strong> <strong>조정이</strong> <strong>발생할</strong> <strong>것을</strong> <strong>예견하고</strong> <strong>매도세로</strong> <strong>돌아서곤</strong> <strong>합니다</strong><strong>.</strong></p>
-<p><strong>예시</strong><strong>:</strong> 만약 <a href="https://www.atfx.com/ko/live-chart/eur-usd" target="_blank" rel="noopener">EUR/USD</a> 통화쌍의 RSI가 80을 달성하면 이는 과매수 상황임을 암시할 수 있으며, 환율이 저항선에 접어든 만큼 잠재적 환율 하락 시그널이 발생할 수 있습니다.</p>
+<p><strong>예시</strong><strong>:</strong> 만약 <a href="https://www.atfx.com.bz/ko/live-chart/eur-usd" target="_blank" rel="noopener">EUR/USD</a> 통화쌍의 RSI가 80을 달성하면 이는 과매수 상황임을 암시할 수 있으며, 환율이 저항선에 접어든 만큼 잠재적 환율 하락 시그널이 발생할 수 있습니다.</p>
 <p><img decoding="async" class="aligncenter size-large wp-image-48941" src="https://www.atfx.com/wp-content/uploads/2025/04/EUR-USD-KR-1024x887.webp" alt="EUR-USD-KR" width="800" height="693" srcset="https://www.atfx.com/wp-content/uploads/2025/04/EUR-USD-KR-1024x887.webp 1024w, https://www.atfx.com/wp-content/uploads/2025/04/EUR-USD-KR-300x260.webp 300w, https://www.atfx.com/wp-content/uploads/2025/04/EUR-USD-KR-768x666.webp 768w, https://www.atfx.com/wp-content/uploads/2025/04/EUR-USD-KR.webp 1200w" sizes="(max-width: 800px) 100vw, 800px" /></p>
 <h3><span style="font-weight: 400;"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4c9.png" alt="📉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </span>RSI 과매도 환경(30 미만):</h3>
 <p>RSI가 30 아래로 떨어지면 특정 자산이 과매도 구간임을 의미하며, 가격이 지지선에 인접한 상황이라면 조만간 가격 반등이 발생할 수 있음을 의미합니다.</p>
 <p><strong><b><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4cc.png" alt="📌" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </b>행동</strong><strong>: RSI</strong><strong>가</strong><strong> 30</strong><strong>선</strong> <strong>아래일</strong> <strong>때</strong><strong>, </strong><strong>트레이더들은</strong> <strong>지지선에서의</strong> <strong>반전을</strong> <strong>예견하고</strong> <strong>매수</strong> <strong>기회를</strong> <strong>물색합니다</strong><strong>.</strong></p>
-<p><strong>예시</strong><strong>:</strong> 만약 <a href="https://www.atfx.com/ko/live-chart/gbp-usd" target="_blank" rel="noopener">GBP/USD</a> 통화쌍의 RSI가 25일 때, 이는 영국 파운드화가 과매도 상태이며 추세 반전이 다가왔다는 신호일 수 있습니다. 이는 핵심 지지선에서 반등이 생길 수 있음을 의미합니다.</p>
+<p><strong>예시</strong><strong>:</strong> 만약 <a href="https://www.atfx.com.bz/ko/live-chart/gbp-usd" target="_blank" rel="noopener">GBP/USD</a> 통화쌍의 RSI가 25일 때, 이는 영국 파운드화가 과매도 상태이며 추세 반전이 다가왔다는 신호일 수 있습니다. 이는 핵심 지지선에서 반등이 생길 수 있음을 의미합니다.</p>
 <p><img decoding="async" class="aligncenter size-large wp-image-48942" src="https://www.atfx.com/wp-content/uploads/2025/04/GBP-USD-KR-1024x887.webp" alt="GBP-USD-KR" width="800" height="693" srcset="https://www.atfx.com/wp-content/uploads/2025/04/GBP-USD-KR-1024x887.webp 1024w, https://www.atfx.com/wp-content/uploads/2025/04/GBP-USD-KR-300x260.webp 300w, https://www.atfx.com/wp-content/uploads/2025/04/GBP-USD-KR-768x666.webp 768w, https://www.atfx.com/wp-content/uploads/2025/04/GBP-USD-KR.webp 1200w" sizes="(max-width: 800px) 100vw, 800px" /></p>
 <h2>RSI 다이버전스: 추세 반전 파악하기</h2>
 <p>특정 자산의 가격이 RSI의 방향과 반대 방향으로 흘러가는 현상을 두고 RSI 다이버전스라고 칭합니다. 이는 잠재적 추세 반전에 대한 핵심 시그널 역할을 합니다:</p>
@@ -153,7 +153,7 @@
 </table>
 <p><strong><b><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4a1.png" alt="💡" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </b>프로</strong> <strong>팁</strong><strong>: </strong><strong>암호화폐와</strong> <strong>같이</strong> <strong>변동성</strong> <strong>높은</strong> <strong>시장에서는</strong><strong> RSI </strong><strong>설정값을</strong> <strong>짧게</strong> <strong>조정</strong><strong>(</strong><strong>예</strong><strong>: 7~9</strong><strong>일</strong><strong>)</strong><strong>함으로써</strong> <strong>빠른</strong> <strong>시그널을</strong> <strong>받아</strong> <strong>보시기</strong> <strong>바랍니다</strong><strong>.</strong></p>
 <h3><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/2699.png" alt="⚙" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 메타트레이더4(MT4)에서 RSI 설정하기</h3>
-<p><a href="https://www.atfx.com/ko/trading-platforms/metatrader-4" target="_blank" rel="noopener">MT4</a>에서 쉽고 빠르게 RSI를 설정할 수 있습니다. 다음 단계를 따라보세요:</p>
+<p><a href="https://www.atfx.com.bz/ko/trading-platforms/metatrader-4" target="_blank" rel="noopener">MT4</a>에서 쉽고 빠르게 RSI를 설정할 수 있습니다. 다음 단계를 따라보세요:</p>
 <ol>
 <li>MT4를 연 뒤, 확인하고 싶은 차트를 선택하세요.</li>
 <li>‘인서트’ → ‘인디케이터’ → ‘오실레이터’ → ‘상대강도지수’를 클릭하세요.</li>
@@ -162,7 +162,7 @@
 <li>‘OK’를 클릭하고 RSI 인디케이터를 본인의 차트에 적용하세요.</li>
 </ol>
 <p>이제 RSI를 활용해 과매수 혹은 과매도 환경을 식별하고, MT4와 함께 정보에 기반한 트레이딩 결정을 내리세요.</p>
-<p><a href="https://www.atfx.com/ko/trading-platforms/metatrader-4/download-mt4" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="aligncenter wp-image-25081 size-full" src="https://www.atfx.com/wp-content/uploads/2023/10/mt4-download-korea.webp" alt="mt4 download korea" width="825" height="206" srcset="https://www.atfx.com/wp-content/uploads/2023/10/mt4-download-korea.webp 825w, https://www.atfx.com/wp-content/uploads/2023/10/mt4-download-korea-300x75.webp 300w, https://www.atfx.com/wp-content/uploads/2023/10/mt4-download-korea-768x192.webp 768w" sizes="(max-width: 825px) 100vw, 825px" /></a></p>
+<p><a href="https://www.atfx.com.bz/ko/trading-platforms/metatrader-4/download-mt4" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="aligncenter wp-image-25081 size-full" src="https://www.atfx.com/wp-content/uploads/2023/10/mt4-download-korea.webp" alt="mt4 download korea" width="825" height="206" srcset="https://www.atfx.com/wp-content/uploads/2023/10/mt4-download-korea.webp 825w, https://www.atfx.com/wp-content/uploads/2023/10/mt4-download-korea-300x75.webp 300w, https://www.atfx.com/wp-content/uploads/2023/10/mt4-download-korea-768x192.webp 768w" sizes="(max-width: 825px) 100vw, 825px" /></a></p>
 <h2>RSI 트레이딩 전략 팁</h2>
 <ul>
 <li>RSI를 여타 지표와 결합하기: 트레이딩에서 RSI를 이동평균선 또는 이동평균수렴확산지수(MACD) 등의 기술적 지표와 함께 활용함으로써 전략의 효율성을 끌어올리세요.</li>
@@ -185,7 +185,7 @@
 <p><strong><b><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4cc.png" alt="📌" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </b>마지막</strong> <strong>팁</strong><strong>: </strong><strong>본인의</strong> <strong>접근법을</strong> <strong>다듬기</strong> <strong>위해서는</strong> <strong>실전</strong> <strong>투자를</strong> <strong>하기에</strong> <strong>앞서</strong> <strong>데모</strong> <strong>계좌에서</strong><strong> RSI </strong><strong>전략을</strong> <strong>테스트</strong> <strong>해보시기</strong> <strong>바랍니다</strong><strong>.</strong></p>
 <h2>결론</h2>
 <p>상대강도지수(RSI)는 트레이더들이 과매수 및 과매도 환경을 식별하고, 추세 반전을 파악하고, 기존 추세의 강도를 확인하는 데 활용할 수 있는 강력한 툴입니다. RSI 트레이딩을 마스터하고 RSI 시그널을 이해하는 것은 여러분의 시장 분석력을 높이고 보다 정확한 정보에 기반한 트레이딩 결정을 내리는 데에 도움을 줍니다.</p>
-<p>여러분이 <a href="https://www.atfx.com/ko/markets/shares-trading" target="_blank" rel="noopener">주식</a>, 외환, 암호화폐 중 무엇을 거래하든 상관없이, RSI를 여러분의 전략에 녹여내는 것은 값진 통찰력을 얻고 트레이딩 성과를 개선하는 데 도움이 됩니다.</p>
+<p>여러분이 <a href="https://www.atfx.com.bz/ko/markets/shares-trading" target="_blank" rel="noopener">주식</a>, 외환, 암호화폐 중 무엇을 거래하든 상관없이, RSI를 여러분의 전략에 녹여내는 것은 값진 통찰력을 얻고 트레이딩 성과를 개선하는 데 도움이 됩니다.</p>
 ]]></content:encoded>
 					
 		
@@ -204,7 +204,7 @@
 					<description><![CDATA[트럼프 경제 정책: 주식 및 외환 시장에 미치는 영향 도널트 트럼프가 2024년 미국 대선에서 승리했습니다. 투자자 및 트레이더들은 2016년 트럼프 1기 이후 이번 트럼프 2기가 미칠 영향을 평가하고 있음에 따라, 금융시장은 이미 상당한 움직임을 보이며 반응하고 있습니다. 트럼프 후보의 승리는 규제 완화, 감세, 보호무역주의 등에 초점을 둔 기업 친화적 어젠다로의 복귀를 의미합니다. 이번 글에서는 트럼프의 [&#8230;]]]></description>
 										<content:encoded><![CDATA[<h2 dir="ltr" style="color: #000000; font-family: 'Times New Roman';">트럼프 경제 정책: 주식 및 외환 시장에 미치는 영향</h2>
 <p dir="ltr" style="color: #000000; font-family: 'Times New Roman'; font-size: medium;">도널트 트럼프가 2024년 미국 대선에서 승리했습니다. 투자자 및 트레이더들은 2016년 트럼프 1기 이후 이번 트럼프 2기가 미칠 영향을 평가하고 있음에 따라, 금융시장은 이미 상당한 움직임을 보이며 반응하고 있습니다. 트럼프 후보의 승리는 규제 완화, 감세, 보호무역주의 등에 초점을 둔 기업 친화적 어젠다로의 복귀를 의미합니다.</p>
-<p dir="ltr" style="color: #000000; font-family: 'Times New Roman'; font-size: medium;">이번 글에서는 트럼프의 경제 정책이 <a href="https://www.atfx.com/ko/markets/forex-trading" target="_blank" rel="noopener">외환거래</a>, 미국 증시, 글로벌 주식, 광의의 경제전망 등을 필두로 하는 핵심 금융시장에 어떻게 영향을 미칠 수 있을지에 대해 알아보도록 하겠습니다.</p>
+<p dir="ltr" style="color: #000000; font-family: 'Times New Roman'; font-size: medium;">이번 글에서는 트럼프의 경제 정책이 <a href="https://www.atfx.com.bz/ko/markets/forex-trading" target="_blank" rel="noopener">외환거래</a>, 미국 증시, 글로벌 주식, 광의의 경제전망 등을 필두로 하는 핵심 금융시장에 어떻게 영향을 미칠 수 있을지에 대해 알아보도록 하겠습니다.</p>
 <ol class="no-markers" style="color: #000000; font-family: 'Times New Roman'; font-size: medium;">
 <li dir="ltr">
 <h2 dir="ltr">외환시장에 미치는 영향: 2024 대선 트럼프 승리 후 미국달러 강세</h2>
@@ -234,16 +234,16 @@
 <h2 dir="ltr">주식시장에 미치는 영향: 미 증시를 끌어올리는 트럼프의 친기업 어젠다</h2>
 </li>
 </ol>
-<p dir="ltr" style="color: #000000; font-family: 'Times New Roman'; font-size: medium;">트럼프 후보의 당선 이후, 트럼프의 친기업 정책에 따른 낙관론에 힘입어 <a href="https://www.atfx.com/ko/markets/shares-trading" target="_blank" rel="noopener">미국 증시 </a>는 상승세를 보였습니다. 에너지, 기술, 금융 등 핵심 섹터들은 상당한 상승을 보일 것으로 전망됩니다. 규제 완화, 감세, 미국 국내 에너지 생산 집중 등의 요소들이 결합되어 이 같은 낙관적 분위기에 힘을 실어주고 있습니다.</p>
+<p dir="ltr" style="color: #000000; font-family: 'Times New Roman'; font-size: medium;">트럼프 후보의 당선 이후, 트럼프의 친기업 정책에 따른 낙관론에 힘입어 <a href="https://www.atfx.com.bz/ko/markets/shares-trading" target="_blank" rel="noopener">미국 증시 </a>는 상승세를 보였습니다. 에너지, 기술, 금융 등 핵심 섹터들은 상당한 상승을 보일 것으로 전망됩니다. 규제 완화, 감세, 미국 국내 에너지 생산 집중 등의 요소들이 결합되어 이 같은 낙관적 분위기에 힘을 실어주고 있습니다.</p>
 <h3 dir="ltr" style="color: #000000; font-family: 'Times New Roman';">미국 주식 급등</h3>
-<p dir="ltr" style="color: #000000; font-family: 'Times New Roman'; font-size: medium;">트럼프 후보의 당선 소식은 <a href="https://www.atfx.com/ko/live-chart/sp500" target="_blank" rel="noopener">S&amp;P500 </a>, <a href="https://www.atfx.com/ko/live-chart/dow-jones" target="_blank" rel="noopener">다우존스</a>, <a href="https://www.atfx.com/ko/live-chart/nasdaq100" target="_blank" rel="noopener">나스닥 </a>을 비롯한 미국 증시에 호재로 작용했으며, <a href="https://www.atfx.com/ko/markets/indices-trading" target="_blank" rel="noopener">인덱스 </a>지수들이 신고점으로 상승했습니다. 이번 상승랠리는 트럼프 정책으로부터 수혜를 볼 것으로 예상되는 섹터에서 특히나 두드러진 모습을 보이고 있습니다. 투자자들은 에너지 섹터와 기술 섹터 친화적인 환경이 조성될 것으로 전망 중인 만큼, 에너지주(특히나 원유·가스) 및 기술주가 상승세를 주도하고 있습니다.</p>
+<p dir="ltr" style="color: #000000; font-family: 'Times New Roman'; font-size: medium;">트럼프 후보의 당선 소식은 <a href="https://www.atfx.com.bz/ko/live-chart/sp500" target="_blank" rel="noopener">S&amp;P500 </a>, <a href="https://www.atfx.com.bz/ko/live-chart/dow-jones" target="_blank" rel="noopener">다우존스</a>, <a href="https://www.atfx.com.bz/ko/live-chart/nasdaq100" target="_blank" rel="noopener">나스닥 </a>을 비롯한 미국 증시에 호재로 작용했으며, <a href="https://www.atfx.com.bz/ko/markets/indices-trading" target="_blank" rel="noopener">인덱스 </a>지수들이 신고점으로 상승했습니다. 이번 상승랠리는 트럼프 정책으로부터 수혜를 볼 것으로 예상되는 섹터에서 특히나 두드러진 모습을 보이고 있습니다. 투자자들은 에너지 섹터와 기술 섹터 친화적인 환경이 조성될 것으로 전망 중인 만큼, 에너지주(특히나 원유·가스) 및 기술주가 상승세를 주도하고 있습니다.</p>
 <h3 dir="ltr" style="color: #000000; font-family: 'Times New Roman';">에너지 섹터 부양</h3>
 <p dir="ltr" style="color: #000000; font-family: 'Times New Roman'; font-size: medium;">석유 및 천연가스를 비롯한 화석 연료 업계를 지원하겠다는 트럼프의 “드릴, 베이비, 드릴(drill, baby, drill)” 캠페인은 엑슨모빌과 셰브론 등의 기업들에 힘을 실어주었습니다. 미국 국내 원유·가스 생산에 대한 제한을 없애고 환경 규제를 철폐하려는 트럼프 행정부의 움직임은 에너지 기업들에게 보다 유리한 환경을 조성해 주었습니다. 에너지 독립에 초점을 맞추고 규제 장애물들을 줄이는 움직임 덕분에, 에너지 종목들은 수익성을 높이고 미국 국내 자원에 대한 접근성을 확대하면서 상당한 성장을 이룰 수 있는 위치를 점하게 되었습니다.</p>
 <h3 dir="ltr" style="color: #000000; font-family: 'Times New Roman';">기술 섹터 성장</h3>
 <p dir="ltr" style="color: #000000; font-family: 'Times New Roman'; font-size: medium;">투자자들은 도널트 트럼프 당선인이 백악관을 재탈환하게 되면 테슬라가 수혜를 볼 수 있다고 판단했고, 이로 인해 테슬라 주가는 급등했습니다. 소규모 EV 제조사들과의 경쟁 감소 및 중국 수입품에 대한 관세 인상 등이 예상됨에 따라 테슬라는 경쟁우위를 점하게 될 수 있겠습니다. 규제 완화 및 감세를 비롯한 트럼프의 친기업 정책 또한 기술 대기업들에 유리하게 작용할 것으로 보이며, 이는 기업 수익성을 높이고 혁신을 위한 재투자를 장려해줄 전망입니다. 특히나 테슬라의 경우는 전기자동차 및 재생에너지와 관련된 규제 완화로 인해 수혜를 볼 수 있겠습니다.</p>
 <h3 dir="ltr" style="color: #000000; font-family: 'Times New Roman';">금융 섹터 부양</h3>
 <p dir="ltr" style="color: #000000; font-family: 'Times New Roman'; font-size: medium;">트럼프의 대선 승리 이후로 대형 은행 인덱스 종목들의 상승과 함께 JP모간체이스, 골드만삭스, 뱅크오브아메리카의 주가는 상당한 상승을 보였습니다. 투자자들이 금융 섹터에 대해 보다 우호적인 규제 환경이 조성될 것으로 예상함에 따라 지역 은행들 또한 눈에 띄는 상승세를 보였습니다. 규제가 완화되면 은행들이 더 많은 리스크를 감수하면서 대출을 늘릴 수 있기 때문에, 트럼프의 규제 완화 기조는 대형 금융기관들에 활력을 불어넣을 수 있겠습니다. 또한, 감세에 대한 기대는 보다 높은 수익성에 대한 전망을 더욱 뒷받침해줌으로써 선술한 은행들의 경쟁력과 효율성을 더욱 끌어올려줄 수 있습니다.</p>
-<p dir="ltr" style="color: #000000; font-family: 'Times New Roman'; font-size: medium;"><a href="https://www.atfx.com/ko/trading-accounts/live-account" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="wp-image-25089 size-full aligncenter" src="https://www.atfx.com/wp-content/uploads/2023/10/live-account-korea.webp" alt="live account korea" width="825" height="206" srcset="https://www.atfx.com/wp-content/uploads/2023/10/live-account-korea.webp 825w, https://www.atfx.com/wp-content/uploads/2023/10/live-account-korea-300x75.webp 300w, https://www.atfx.com/wp-content/uploads/2023/10/live-account-korea-768x192.webp 768w" sizes="(max-width: 825px) 100vw, 825px" /></a></p>
+<p dir="ltr" style="color: #000000; font-family: 'Times New Roman'; font-size: medium;"><a href="https://www.atfx.com.bz/ko/trading-accounts/live-account" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="wp-image-25089 size-full aligncenter" src="https://www.atfx.com/wp-content/uploads/2023/10/live-account-korea.webp" alt="live account korea" width="825" height="206" srcset="https://www.atfx.com/wp-content/uploads/2023/10/live-account-korea.webp 825w, https://www.atfx.com/wp-content/uploads/2023/10/live-account-korea-300x75.webp 300w, https://www.atfx.com/wp-content/uploads/2023/10/live-account-korea-768x192.webp 768w" sizes="(max-width: 825px) 100vw, 825px" /></a></p>
 <ol class="no-markers" style="color: #000000; font-family: 'Times New Roman'; font-size: medium;" start="3">
 <li dir="ltr">
 <h2 dir="ltr">인덱스에 미치는 영향: 글로벌 인덱스를 뛰어넘는 미 증시</h2>
@@ -273,7 +273,7 @@
 <h2 dir="ltr" style="color: #000000; font-family: 'Times New Roman';">결론: 불확실성 시기에서의 낙관론</h2>
 <p dir="ltr" style="color: #000000; font-family: 'Times New Roman'; font-size: medium;">도널트 트럼프 후보의 2024년 대선 승리로 인해 감세, 규제 완화, 에너지 독립을 비롯한 친기업적 어젠다에 대한 시장 기대가 생겨났고, 이는 미국 주식과 달러의 강력한 반등으로 이어졌습니다. 에너지, 기술, 금융 등 핵심 섹터들은 단기적 성장을 보일 것으로 예상되는 반면, 글로벌 시장은 무역전쟁, 관세, 지정학적 갈등을 비롯한 잠재적 리스크에 직면하고 있습니다.</p>
 <p dir="ltr" style="color: #000000; font-family: 'Times New Roman'; font-size: medium;">미국 시장의 낙관론에도 불구하고, 인플레이션 상승, 국가 부채, 장기적 경제 안정성에 대한 우려가 여전히 남아 있는 상황입니다. 투자자 분들은 낙관적인 태도를 유지하되, 광의의 경제 시장에 잠재적으로 존재하는 변동성과 불확실성 속의 단기적 시장 기회에 대한 균형을 잘 유지하면서 신중한 입장을 취하시기 바랍니다.</p>
-<p dir="ltr"><a href="https://www.atfx.com/ko/trading-accounts/demo-account" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="aligncenter wp-image-25093 size-full" src="https://www.atfx.com/wp-content/uploads/2023/10/demo-account-korea.webp" alt="demo account korea" width="825" height="206" srcset="https://www.atfx.com/wp-content/uploads/2023/10/demo-account-korea.webp 825w, https://www.atfx.com/wp-content/uploads/2023/10/demo-account-korea-300x75.webp 300w, https://www.atfx.com/wp-content/uploads/2023/10/demo-account-korea-768x192.webp 768w" sizes="(max-width: 825px) 100vw, 825px" /></a></p>
+<p dir="ltr"><a href="https://www.atfx.com.bz/ko/trading-accounts/demo-account" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="aligncenter wp-image-25093 size-full" src="https://www.atfx.com/wp-content/uploads/2023/10/demo-account-korea.webp" alt="demo account korea" width="825" height="206" srcset="https://www.atfx.com/wp-content/uploads/2023/10/demo-account-korea.webp 825w, https://www.atfx.com/wp-content/uploads/2023/10/demo-account-korea-300x75.webp 300w, https://www.atfx.com/wp-content/uploads/2023/10/demo-account-korea-768x192.webp 768w" sizes="(max-width: 825px) 100vw, 825px" /></a></p>
 ]]></content:encoded>
 					
 		
@@ -508,7 +508,7 @@
 <h2 style="text-align: justify; line-height: 2;">은 투자를 시작하려면?</h2>
 <p style="text-align: justify; line-height: 2;">여러분은 간단한 몇 가지 절차를 통해 은 투자를 시작하실 수 있습니다. 컴퓨터나 스마트폰으로 계좌를 개설한 뒤 <a href="/ko/markets/commodities/oil-trading" target="_blank" rel="noopener">크루드오일</a>, 금, 은, 주식, 외환 및 여타 금융상품 트레이딩을 시작하세요. ATFX는 매우 실용적인 트레이딩 플랫폼을 통해 주요 통화쌍, 암호화폐 및 다양한 투자상품을 제공합니다. 만약 실제 투자금을 통한 투자를 시작하기에 앞서 시장을 좀 더 공부하고 싶으시다면 모의투자 계좌인 <a href="/ko/trading-accounts/demo-account" target="_blank" rel="noopener">데모 계좌를 개설</a>한 뒤 다양한 투자 전략들을 연습하거나, 가이드 혹은 ATFX가 제공하는 무료 교육자료를 통해 학습을 이어나가셔도 좋습니다. 지금 바로 등록하세요!</p>
 <p>&nbsp;</p>
-<p><a href="https://www.atfx.com/ko/trading-accounts/demo-account" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="aligncenter wp-image-25093 size-full" src="https://www.atfx.com/wp-content/uploads/2023/10/demo-account-korea.webp" alt="demo account korea" width="825" height="206" srcset="https://www.atfx.com/wp-content/uploads/2023/10/demo-account-korea.webp 825w, https://www.atfx.com/wp-content/uploads/2023/10/demo-account-korea-300x75.webp 300w, https://www.atfx.com/wp-content/uploads/2023/10/demo-account-korea-768x192.webp 768w" sizes="(max-width: 825px) 100vw, 825px" /></a></p>
+<p><a href="https://www.atfx.com.bz/ko/trading-accounts/demo-account" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="aligncenter wp-image-25093 size-full" src="https://www.atfx.com/wp-content/uploads/2023/10/demo-account-korea.webp" alt="demo account korea" width="825" height="206" srcset="https://www.atfx.com/wp-content/uploads/2023/10/demo-account-korea.webp 825w, https://www.atfx.com/wp-content/uploads/2023/10/demo-account-korea-300x75.webp 300w, https://www.atfx.com/wp-content/uploads/2023/10/demo-account-korea-768x192.webp 768w" sizes="(max-width: 825px) 100vw, 825px" /></a></p>
 ]]></content:encoded>
 					
 		
@@ -618,7 +618,7 @@
 <h2 style="line-height: 2; text-align: justify;">금 투자를 시작하려면?</h2>
 <p style="line-height: 2; text-align: justify;">ATFX에서 계좌를 개설하면 <a href="/ko/markets/commodities/gold-trading" target="_blank" rel="noopener">금</a>, 은, <a href="/ko/markets/commodities/oil-trading" target="_blank" rel="noopener">크루드오일</a> 등 다양한 원자재 투자를 시작할 수 있습니다. 몇 번의 간단한 클릭만으로 새로운 투자 기회를 향한 여정을 시작하실 수 있습니다. ATFX와 함께라면 낮은 스프레드, 빠른 주문처리 속도, 주 5일 24시간 실시간 고객지원팀 등 본인의 니즈를 충족하는 다양한 서비스를 누리실 수 있습니다. 만약 본인이 여전히 트레이딩 초보라고 생각하신다면, ATFX에서 손쉽게 <a href="/ko/trading-accounts/demo-account" target="_blank" rel="noopener">데모 계좌 등록</a>을 한 뒤 실제 현금 투입 없이 모의 투자금만으로도 투자 연습을 하실 수 있습니다. 본인만의 다양한 투자 전략을 시도해본 뒤, 무료로 이용 가능한 양질의 교육 가이드를 활용해 시장과 친숙해지는 과정을 거치시면 됩니다. 이제 실전을 겪을 준비가 되셨다면, 라이브 계좌로 업그레이드하세요. 수익 가득한 미래가 어느덧 여러분을 기다리고 있을 것입니다.</p>
 <p>&nbsp;</p>
-<p><a href="https://www.atfx.com/ko/trading-accounts/live-account" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="alignnone wp-image-25093 size-full" src="https://www.atfx.com/wp-content/uploads/2023/10/demo-account-korea.webp" alt="demo account korea" width="825" height="206" srcset="https://www.atfx.com/wp-content/uploads/2023/10/demo-account-korea.webp 825w, https://www.atfx.com/wp-content/uploads/2023/10/demo-account-korea-300x75.webp 300w, https://www.atfx.com/wp-content/uploads/2023/10/demo-account-korea-768x192.webp 768w" sizes="(max-width: 825px) 100vw, 825px" /></a></p>
+<p><a href="https://www.atfx.com.bz/ko/trading-accounts/live-account" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="alignnone wp-image-25093 size-full" src="https://www.atfx.com/wp-content/uploads/2023/10/demo-account-korea.webp" alt="demo account korea" width="825" height="206" srcset="https://www.atfx.com/wp-content/uploads/2023/10/demo-account-korea.webp 825w, https://www.atfx.com/wp-content/uploads/2023/10/demo-account-korea-300x75.webp 300w, https://www.atfx.com/wp-content/uploads/2023/10/demo-account-korea-768x192.webp 768w" sizes="(max-width: 825px) 100vw, 825px" /></a></p>
 ]]></content:encoded>
 					
 		
@@ -635,7 +635,7 @@
 		<guid isPermaLink="false">https://lptemplatedev.wpengine.com/uncategorized/how-fed-rate-hikes-affect-stock-forex-market-2</guid>
 
 					<description><![CDATA[연준위가 금리를 인상한다는 것은 미국 달러를 이용하는 것이 다른 통화를 이용하는 것보다 유리해진다는 것을 의미합니다. 미국 현지 및 해외의 자금이 미국 시장으로 흘러들어가게 되며, 이는 미국 투자시장에 있어 중요한 요소로 작용합니다.&#160; 이와 동시에, 고금리 현상은 미국 달러의 평가절상으로 이어지게 될 것입니다. 또한 연준위의 금리인상은 미국 은행들의 예금 금리 인상으로 이어지게 됩니다. 미국 및 해외의 똑똑한 [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p style="text-align: justify;line-height: 1.75"><a href="https://www.atfx.com/ko/analysis/market-news/major-central-banks-negotiate-interest-rate-decisions-reducing-debt-purchases">연준위가 금리를 인상</a>한다는 것은 <a href="https://www.atfx.com/ko/analysis/trading-strategies/3-factors-that-affect-us-dollar-rate">미국 달러</a>를 이용하는 것이 다른 통화를 이용하는 것보다 유리해진다는 것을 의미합니다. 미국 현지 및 해외의 자금이 미국 시장으로 흘러들어가게 되며, 이는 미국 투자시장에 있어 중요한 요소로 작용합니다.&nbsp; 이와 동시에, 고금리 현상은 미국 달러의 평가절상으로 이어지게 될 것입니다. 또한 연준위의 금리인상은 미국 은행들의 예금 금리 인상으로 이어지게 됩니다. 미국 및 해외의 똑똑한 투자자들은 타국 은행 대신에 미국 은행에 예금을 하는 전략을 택하게 될 것입니다. 물론 미국 주식시장은 등락을 하며 주가 하락을 겪게 되겠지만, 상황을 크게 보면 연준위의 금리인상은 미국 경제에 단점보다는 장점을 더 많이 가져다줍니다.</p>
+										<content:encoded><![CDATA[<p style="text-align: justify;line-height: 1.75"><a href="https://www.atfx.com.bz/ko/analysis/market-news/major-central-banks-negotiate-interest-rate-decisions-reducing-debt-purchases">연준위가 금리를 인상</a>한다는 것은 <a href="https://www.atfx.com.bz/ko/analysis/trading-strategies/3-factors-that-affect-us-dollar-rate">미국 달러</a>를 이용하는 것이 다른 통화를 이용하는 것보다 유리해진다는 것을 의미합니다. 미국 현지 및 해외의 자금이 미국 시장으로 흘러들어가게 되며, 이는 미국 투자시장에 있어 중요한 요소로 작용합니다.&nbsp; 이와 동시에, 고금리 현상은 미국 달러의 평가절상으로 이어지게 될 것입니다. 또한 연준위의 금리인상은 미국 은행들의 예금 금리 인상으로 이어지게 됩니다. 미국 및 해외의 똑똑한 투자자들은 타국 은행 대신에 미국 은행에 예금을 하는 전략을 택하게 될 것입니다. 물론 미국 주식시장은 등락을 하며 주가 하락을 겪게 되겠지만, 상황을 크게 보면 연준위의 금리인상은 미국 경제에 단점보다는 장점을 더 많이 가져다줍니다.</p>
 <p><span id="more-10610"></span></p>
 <p style="text-align: justify;line-height: 1.75">&nbsp;</p>
 <p><img decoding="async" src="https://www.atfx.com/hubfs/ATFX-fed-rate-hikes.jpg" alt="ATFX-fed-rate-hikes" width="1200" loading="lazy" style="width: 1200px"></p>
@@ -699,22 +699,22 @@
 		<guid isPermaLink="false">https://lptemplatedev.wpengine.com/uncategorized/why-is-leverage-high-in-the-forex-market-2</guid>
 
 					<description><![CDATA[금융투자를 할 때면 다양한 트레이딩 툴을 다루게 됩니다. 중국의 A형 주식에서는 레버리지를 찾아볼 수 없는데, 이유인즉 개별주의 주가가 너무 낮기 때문입니다. 10위안짜리 주식의 경우 주당 트레이딩 최저 금액은 1천 위안으로, 대부분의 개인 투자자들에게 있어 이는 매우 적은 금액입니다. 중국의 선물시장에서 레버리지는 일반적으로 20배로 세팅되어 있습니다. 예를 들어 2105 단위만큼의 콩 무역 거래를 한다고 했을 때, [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><a href="https://www.atfx.com/ko/markets"><span>금융투자</span></a>를 할 때면 다양한 <a href="https://www.atfx.com/ko/education-and-tools"><span>트레이딩 툴</span></a>을 다루게 됩니다. 중국의 A형 주식에서는 레버리지를 찾아볼 수 없는데, 이유인즉 개별주의 주가가 너무 낮기 때문입니다. 10위안짜리 주식의 경우 주당 트레이딩 최저 금액은 1천 위안으로, 대부분의 개인 투자자들에게 있어 이는 매우 적은 금액입니다.</p>
+										<content:encoded><![CDATA[<p><a href="https://www.atfx.com.bz/ko/markets"><span>금융투자</span></a>를 할 때면 다양한 <a href="https://www.atfx.com.bz/ko/education-and-tools"><span>트레이딩 툴</span></a>을 다루게 됩니다. 중국의 A형 주식에서는 레버리지를 찾아볼 수 없는데, 이유인즉 개별주의 주가가 너무 낮기 때문입니다. 10위안짜리 주식의 경우 주당 트레이딩 최저 금액은 1천 위안으로, 대부분의 개인 투자자들에게 있어 이는 매우 적은 금액입니다.</p>
 <p><span id="more-10424"></span></p>
 <p>중국의 선물시장에서 레버리지는 일반적으로 20배로 세팅되어 있습니다. 예를 들어 2105 단위만큼의 콩 무역 거래를 한다고 했을 때, 콩 현재가는 톤당 3185 위안이며, 거래단위를 10톤으로 설정하면 최소 거래규모는 31850 위안이 됩니다. 이처럼 만족스럽지 못한 작은 스케일로 인해 대부분의 개인 투자자들은 투자를 지양하게 됩니다.</p>
 <p>시장 유동성을 늘리고 개인투자자들을 유치하기 위해서는 레버리지 단위를 20으로 도입하는 게 적절해 보입니다. 이같은 거래에서 트레이더들은 1592위안만큼의 최소 증거금만이 필요할 뿐이며, 대부분이 만기일까지 장투를 하려고 하지 않습니다(만기시에는 모든 비용을 지불해야 하기 때문이죠). 다만 상품 선물의 가격변화에 따른 스프레드에만 참여를 하려고 합니다.</p>
 <p>&nbsp;</p>
 <h2 style="font-size: 33px">외환시장의 레버리지는 왜 이렇게 높을까요?</h2>
-<p>선술한 것과 같은 사유로 <a href="https://www.atfx.com/ko/markets/forex-trading"><span>외환시장</span></a>의 거래값은 본위화폐 기준으로 최대 10만 단위까지도 올라갈 수 있으며, 여기서 본위화폐는 보통 미 달러가 선택됩니다. 10만 달러를 환전하면 70만 위안 정도가 되며, 이는 대부분 투자자들이 감당할 수 있는 금액을 넘어서게 됩니다.</p>
+<p>선술한 것과 같은 사유로 <a href="https://www.atfx.com.bz/ko/markets/forex-trading"><span>외환시장</span></a>의 거래값은 본위화폐 기준으로 최대 10만 단위까지도 올라갈 수 있으며, 여기서 본위화폐는 보통 미 달러가 선택됩니다. 10만 달러를 환전하면 70만 위안 정도가 되며, 이는 대부분 투자자들이 감당할 수 있는 금액을 넘어서게 됩니다.</p>
 <p>중국 상하이거래소 학기술혁신판(STIB)에서 설정한 최소 증거금은 50만 위안입니다. 이 설정 금액에 대해 상당수가 비판의 목소리를 내고 있습니다. 심지어 외환시장에 참여하기 위한 최소 증거금은 70만 위안에 달합니다.</p>
 <p><img decoding="async" src="https://www.atfx.com/hubfs/Others%20folders/ATFX%20Blog%20Image%202020/ATFX_forex-market-trading.jpg" alt="forex-market-trading" width="1200" loading="lazy" style="width: 1200px"></p>
 <p>많은 이들이 본위화폐 최소단위를 10만으로 설정하는 게 반드시 필요한가에 대해 의문을 제기한 바 있으며, 수백~수천 정도의 단위만으로도 투자를 시작할 수는 없는지에 대해 궁금해 합니다.</p>
-<p>결론부터 짧게 말씀드리자면, 가능합니다. 하지만 <a href="https://www.atfx.com/ko/markets/shares-trading"><span>통화시장</span></a>의 단기적인 환율 변동은 매우 적은 편입니다.&nbsp;&nbsp;</p>
+<p>결론부터 짧게 말씀드리자면, 가능합니다. 하지만 <a href="https://www.atfx.com.bz/ko/markets/shares-trading"><span>통화시장</span></a>의 단기적인 환율 변동은 매우 적은 편입니다.&nbsp;&nbsp;</p>
 <p>유로·달러 환율을 예로 들어보겠습니다. 2019년의 평균 환율 변동폭은 2.22%, 2018년은 4.45%, 2017년은 13.98%, 2016년은 3.14%, 2015년은 10.17%였습니다.</p>
 <p>즉, 1년간 가장 높은 변동성은 10% 내외였습니다. 1년은 365일이죠. 그러면 하루 동안의 변동폭이 얼마나 적을지를 알 수 있습니다. 이같은 낮은 변동폭으로 인해 수백~수천 달러만을 투자하는 것은 현실적으로 실질적인 이익을 보기 힘들며, 수 년간 장기 보유를 하더라도 만족할만한 수익을 얻지 못할 수도 있습니다.</p>
 <p>환율 변동성이 왜 이렇게 적냐고 물으신다면, 환율은 한 국가가 지닌 경제 안정성의 기틀 그 자체이기 때문입니다. 만일 환율이 너무 자주 요동치게 된다면 해당 국가의 수출입 산업에 엄청난 부작용이 일어나게 될 것입니다.</p>
 <p>또한, 한 국가의 현지 기업들은 글로벌 시장에서 돈을 빌리기도 합니다. 만일 환율이 날카롭게 요동친다면 이에 따라 대출금액 환산액도 계속해서 뒤바뀌게 될 것이며, 이는 기업의 비용관리 차원에서 결코 달갑지 않을 것입니다.</p>
-<p><a href="https://www.atfx.com/ko/markets/forex-trading"><span>외환시장</span></a>의 레버리지 비율은 30~200 사이이며, 기관 투자자들에게는 50 이하의 레버리지, 개인 투자자들에게는 100~200 사이의 레버리지가 적절합니다.</p>
+<p><a href="https://www.atfx.com.bz/ko/markets/forex-trading"><span>외환시장</span></a>의 레버리지 비율은 30~200 사이이며, 기관 투자자들에게는 50 이하의 레버리지, 개인 투자자들에게는 100~200 사이의 레버리지가 적절합니다.</p>
 <p>외환시장의 특성을 고려했을 때, 트레이더들은 외환시장 변동성을 측정할 때 퍼센티지(%)로 등락을 파악하기보다는 “표준편차”를 활용합니다.</p>
 <p>예를 들면, 유로·달러 환율의 표준 포인트는 0.0001입니다. 즉, 1만 분의 1인 것이죠. 200:1 레버리지를 활용해 유로·달러 1 단위를 거래하려면 500 달러를 지불해야 합니다. 1 표준 포인트가 변동할 때마다 트레이더는 10 달러를 얻거나 잃게 됩니다. 하루가 끝나면 유로·달러 변동성은 대략 수십~수백 포인트 정도가 될 것이며, 적은 환율 변동성으로도 상당한 수익을 얻을 수 있는 것입니다.</p>
 <p>레버리지는 큰 수익을 가져다줄 수도 있지만 때때로 큰 손실을 줄 수도 있습니다.&nbsp;</p>
@@ -731,7 +731,7 @@
 <p>레버리지는 활용 범위가 매우 넓으며, 상장사가 발행하는 채권 또한 레버리지의 일종으로 볼 수 있습니다. 소위 ‘금융 레버리지’가 되는 것이죠.</p>
 <p>주택시장에서의 35% 계약금 또한 일종의 레버리지입니다. 주택 매수자는 계약금 일부만으로 주거공간을 마련할 수 있으니까요. 따라서 레버리지는 그 자체로 문제가 되는게 아닙니다. 레버리지를 신중히 활용하면 혜택을 볼 수 있죠. 다만 레버리지를 활용할 때는 신중한 리스크 관리가 필수입니다. 리스크 관리는 가늘고 긴 통로에 비유하라 수 있습니다. 직접 몸소 부딪히는 경험을 해봐야지만 꾸준한 성공을 만들어나갈 수 있는 것이죠.</p>
 <p>&nbsp;</p>
-<p><a href="https://www.atfx.com/ko/trading-platforms/metatrader-4/download-mt4"><span>메타트레이더4</span></a>를 다운로드하거나 <a href="https://www.atfx.com/ko/trading-accounts/demo-account"><span>데모 트레이딩</span></a> 계좌를 개설해 지금 바로 트레이딩을 시작해보세요!</p>
+<p><a href="https://www.atfx.com.bz/ko/trading-platforms/metatrader-4/download-mt4"><span>메타트레이더4</span></a>를 다운로드하거나 <a href="https://www.atfx.com.bz/ko/trading-accounts/demo-account"><span>데모 트레이딩</span></a> 계좌를 개설해 지금 바로 트레이딩을 시작해보세요!</p>
 ]]></content:encoded>
 					
 		
@@ -748,23 +748,23 @@
 		<guid isPermaLink="false">https://lptemplatedev.wpengine.com/uncategorized/what-you-should-know-about-the-three-major-us-stock-market-indexes</guid>
 
 					<description><![CDATA[대부분의 투자자들은 다우존스 지수, 나스닥 지수, S&#38;P500 지수가 3대 미국 증시 인덱스라는 점을 알고 있습니다. 초보 투자자들은 이 3가지 인덱스를 잘 모르기도 하고, 트레이딩 하는 방법도 모르곤 합니다. 이번 글에서는 미국 인덱스 3종의 중요성을 소개하고, 투자자들이 투자를 할 때 이 3대 인덱스를 어떻게 참고하면 좋을지를 다루어보도록 하겠습니다. 1. ‘다우존스 지수’, 시장의 전체적인 실적을 암시하는 지표 [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p style="text-align: justify">대부분의 투자자들은 다우존스 지수, 나스닥 지수, S&amp;P500 지수가 3대 <a href="https://www.atfx.com/ko/markets/indices-trading"><span>미국 증시 인덱스</span></a>라는 점을 알고 있습니다. 초보 투자자들은 이 3가지 인덱스를 잘 모르기도 하고, <a href="https://www.atfx.com/ko/ways-to-trade"><span>트레이딩 하는 방법</span></a>도 모르곤 합니다. 이번 글에서는 미국 인덱스 3종의 중요성을 소개하고, 투자자들이 투자를 할 때 이 3대 인덱스를 어떻게 참고하면 좋을지를 다루어보도록 하겠습니다.</p>
+										<content:encoded><![CDATA[<p style="text-align: justify">대부분의 투자자들은 다우존스 지수, 나스닥 지수, S&amp;P500 지수가 3대 <a href="https://www.atfx.com.bz/ko/markets/indices-trading"><span>미국 증시 인덱스</span></a>라는 점을 알고 있습니다. 초보 투자자들은 이 3가지 인덱스를 잘 모르기도 하고, <a href="https://www.atfx.com.bz/ko/ways-to-trade"><span>트레이딩 하는 방법</span></a>도 모르곤 합니다. 이번 글에서는 미국 인덱스 3종의 중요성을 소개하고, 투자자들이 투자를 할 때 이 3대 인덱스를 어떻게 참고하면 좋을지를 다루어보도록 하겠습니다.</p>
 <p><span id="more-10497"></span></p>
 <p style="text-align: justify"><img decoding="async" src="https://www.atfx.com/hubfs/ATFX-us-stock-market-index.jpg?width=1200&amp;name=ATFX-us-stock-market-index.jpg" alt="ATFX-us-stock-market-index" loading="lazy"></p>
 <h2 style="text-align: justify;font-size: 30px">1. ‘다우존스 지수’, 시장의 전체적인 실적을 암시하는 지표</h2>
-<p style="text-align: justify">다우존스 지수는 100년이 넘는 기나긴 역사를 자랑합니다. 다우존스를 구성하는 종목은 단 30종이며, 미국에서 가장 잘 알려진 대기업 30여곳으로 꾸려져 있습니다. 물론 <a href="https://www.atfx.com/ko/markets/shares-trading"><span>미국 주식</span></a>은 총 1만 종목이 넘는다는 점은 모두가 알고 있는 사실입니다. 이처럼 다우존스 지수가 30종목으로밖에 이루어지지 않았다는 사실로 인해 여러 전문가 및 학자들은 의구심을 품기도 합니다. 전문가·학자들이 보기에 단 30종목은 대표성이 떨어진다는 것이죠. 하지만 이 30종목은 미국에서 가장 영향력이 큰 종목이라는 사실에는 변함이 없습니다. 이 종목들은 여전히 매우 큰 레퍼런스적 가치를 지니며, 전반적인 시장 실적을 나타내는 지표로 활용될 수 있습니다.</p>
+<p style="text-align: justify">다우존스 지수는 100년이 넘는 기나긴 역사를 자랑합니다. 다우존스를 구성하는 종목은 단 30종이며, 미국에서 가장 잘 알려진 대기업 30여곳으로 꾸려져 있습니다. 물론 <a href="https://www.atfx.com.bz/ko/markets/shares-trading"><span>미국 주식</span></a>은 총 1만 종목이 넘는다는 점은 모두가 알고 있는 사실입니다. 이처럼 다우존스 지수가 30종목으로밖에 이루어지지 않았다는 사실로 인해 여러 전문가 및 학자들은 의구심을 품기도 합니다. 전문가·학자들이 보기에 단 30종목은 대표성이 떨어진다는 것이죠. 하지만 이 30종목은 미국에서 가장 영향력이 큰 종목이라는 사실에는 변함이 없습니다. 이 종목들은 여전히 매우 큰 레퍼런스적 가치를 지니며, 전반적인 시장 실적을 나타내는 지표로 활용될 수 있습니다.</p>
 <p style="text-align: justify"><span style="font-size: 12px">&nbsp;</span></p>
 <h2 style="text-align: justify;font-size: 30px">2. ‘나스닥 지수’, 전세계 기술주 동향을 나타내는 중요한 지표</h2>
 <p style="text-align: justify">나스닥 지수는 1971년도에 탄생했습니다. 나스닥 지수를 구성하는 종목들은 미국 나스닥에 상장된 주식들을 포함합니다. 나스닥 지수는 전세계 기술주 동향을 나타내는 중요한 지표입니다. 나스닥 지수는 바이오화학, 컴퓨터 소프트웨어/하드웨어, 반도체, 네트워크 통신 등 5천 종목이 넘는 주식으로 구성되어 있으며, 이는 기술주 투자에 있어 중요한 참고 기준이 될 수 있습니다.</p>
 <p style="text-align: justify"><span style="font-size: 12px"> <img decoding="async" src="https://www.atfx.com/hubfs/ATFX-nasdaq-index-market.jpg?width=1200&amp;name=ATFX-nasdaq-index-market.jpg" alt="ATFX-nasdaq-index-market" loading="lazy"></span></p>
 <h3 style="text-align: justify;font-size: 24px"><span style="color: #434343">나스닥 지수 시장이 OTC 거래라고 불리는 이유는?</span></h3>
-<p style="text-align: justify">나스닥 지수 투자자들은 실제 오프라인 거래소에서 거래를 할 필요 없이 전화나 인터넷을 통해 거래를 합니다. 대부분의 거래는 컴퓨터와 같은 첨단기술과 관련되어 있습니다. 나스닥은 세계 최초의 전자 증권 <a href="https://www.atfx.com/ko/markets"><span>트레이딩 시장</span></a>입니다. 증권 인덱스는 자체적인 시장 시스템을 보유하고 있으며, 특정 주식의 매수·매도에 관해 독립적인 거래 방식을 지닙니다.</p>
+<p style="text-align: justify">나스닥 지수 투자자들은 실제 오프라인 거래소에서 거래를 할 필요 없이 전화나 인터넷을 통해 거래를 합니다. 대부분의 거래는 컴퓨터와 같은 첨단기술과 관련되어 있습니다. 나스닥은 세계 최초의 전자 증권 <a href="https://www.atfx.com.bz/ko/markets"><span>트레이딩 시장</span></a>입니다. 증권 인덱스는 자체적인 시장 시스템을 보유하고 있으며, 특정 주식의 매수·매도에 관해 독립적인 거래 방식을 지닙니다.</p>
 <p style="text-align: justify">OTC (over-the-counter) 트레이딩은 상장·비상장 주식들 중에서 더 이상 증권거래소에서 거래되지는 않지만, 기존 공식 거래가보다 높거나 낮은 가격으로 OTC 시장에서 거래되는 주식 거래를 일컫습니다. 다른 조건 하에서 결정되어 체결된 거래는 ‘스토어 거래’ 혹은 ‘카운터 거래’라고 부릅니다.</p>
 <p style="text-align: justify"><span style="font-size: 12px">&nbsp;</span></p>
 <h2 style="text-align: justify;font-size: 30px">3. ‘S&amp;P500 지수’, 미국 경제의 상승과 하락을 나타내는 지표</h2>
 <p style="text-align: justify">S&amp;P500 지수는 미국에 상장된 상위 500개 기업을 전체적으로 살펴볼 수 있는 기준 역할을 합니다. 기업평가기관인 스탠다드앤푸어스(S&amp;P)는 시가총액 및 유동성을 기준으로 미국의 2대 주식시장의 각계각층을 살펴보며 미국 주식시장을 이끄는 500개 기업을 선정합니다. 다우존스 지수에 비해 S&amp;P500 지수는 새로이 부상하는 기업들을 훨씬 더 많이 반영합니다. 이 덕분에 미국 주식 시장의 변화를 보다 잘 반영할 수도 있고, 리스크도 보다 잘 분산됩니다. 또한, S&amp;P500 지수와 다우존스 지수가 활용하는 인덱스 가중치 산출법에도 차이가 있습니다. 다우존스 지수는 주가 가중치 방식을 사용하는 반면, S&amp;P500 지수는 시장가치 가중치 방식을 사용합니다. 후자가 기업 주식의 실제 가치를 보다 잘 반영해줄 뿐만 아니라 심지어는 미국 경제의 상승세와 하락세까지도 반영해줍니다.</p>
-<p style="text-align: justify">모두가 명심해야 할 마지막 사항은, 선술한 3대 미국 주식 지수는 각자가 서로 다른 종목으로 구성되어 있다는 점입니다. 예를 들어, 만일 투자자가 구글 주식을 매수했다고 한들 구글 주식의 상승·하락은 다우존스 지수에 영향을 주지 않습니다. 이유인즉 구글 주식은 다우지수 구성 종목이 아니기 때문입니다. 이 3대 지수 중 그 어떤 지수도 미국 주식시장의 일 단위 변화를 모두 담아낼 수는 없습니다. 투자자들은 투자를 할 때 단 하나의 미국 주식 지수만을 살펴보는 것은 지양해야 합니다. 3대 지수를 모두 포괄적으로 살펴보며 <a href="https://www.atfx.com/ko/analysis/trading-strategies"><span>트레이딩 전략</span></a>을 따르는 것이 투자자 입장에서 올바른 선택을 하는 데 도움이 됩니다.&nbsp;</p>
-<p style="text-align: justify"><a href="https://www.atfx.com/ko/trading-platforms/metatrader-4/download-mt4">메타트레이더<span style="text-decoration: underline">4</span><span style="text-decoration: underline">를</span> <span style="text-decoration: underline">다운로드</span></a>하거나 <a href="https://www.atfx.com/ko/trading-accounts/demo-account"><span>데모 트레이딩 계좌</span></a>를 개설해 지금 바로 트레이딩을 시작해보세요!</p>
+<p style="text-align: justify">모두가 명심해야 할 마지막 사항은, 선술한 3대 미국 주식 지수는 각자가 서로 다른 종목으로 구성되어 있다는 점입니다. 예를 들어, 만일 투자자가 구글 주식을 매수했다고 한들 구글 주식의 상승·하락은 다우존스 지수에 영향을 주지 않습니다. 이유인즉 구글 주식은 다우지수 구성 종목이 아니기 때문입니다. 이 3대 지수 중 그 어떤 지수도 미국 주식시장의 일 단위 변화를 모두 담아낼 수는 없습니다. 투자자들은 투자를 할 때 단 하나의 미국 주식 지수만을 살펴보는 것은 지양해야 합니다. 3대 지수를 모두 포괄적으로 살펴보며 <a href="https://www.atfx.com.bz/ko/analysis/trading-strategies"><span>트레이딩 전략</span></a>을 따르는 것이 투자자 입장에서 올바른 선택을 하는 데 도움이 됩니다.&nbsp;</p>
+<p style="text-align: justify"><a href="https://www.atfx.com.bz/ko/trading-platforms/metatrader-4/download-mt4">메타트레이더<span style="text-decoration: underline">4</span><span style="text-decoration: underline">를</span> <span style="text-decoration: underline">다운로드</span></a>하거나 <a href="https://www.atfx.com.bz/ko/trading-accounts/demo-account"><span>데모 트레이딩 계좌</span></a>를 개설해 지금 바로 트레이딩을 시작해보세요!</p>
 ]]></content:encoded>
 					
 		
@@ -781,37 +781,37 @@
 		<guid isPermaLink="false">https://lptemplatedev.wpengine.com/uncategorized/how-us-bond-yields-impact-forex-market-stock-markets-gold-oil-prices-2</guid>
 
 					<description><![CDATA[미 국채금리 상승은 올해 초부터 자금시장의 큰 화두로 떠올랐고, 금융시장의 집단변동성을 촉발했습니다. 미국의 견조한 경제회복 전망이 예측되는 현재, 시장 참가자들은 미국 10년물 국채 금리가 지속 상승할 것으로 보고 있습니다. 여러 기관들은 올해가 끝나기 전에 국채 금리가 2%를 넘어설 것으로 보고 있습니다. 이처럼, 많은 이들이 미 국채금리 상승이 당분간 지속될 것이라 예측하고 있습니다. 여기서 궁금한 점은 [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>미 국채금리 상승은 올해 초부터 자금시장의 큰 화두로 떠올랐고,<a href="https://www.atfx.com/ko/markets"><span> 금융시장</span></a>의 집단변동성을 촉발했습니다. 미국의 견조한 경제회복 전망이 예측되는 현재, 시장 참가자들은 미국 10년물 국채 금리가 지속 상승할 것으로 보고 있습니다. 여러 기관들은 올해가 끝나기 전에 국채 금리가 2%를 넘어설 것으로 보고 있습니다. 이처럼, 많은 이들이 미 국채금리 상승이 당분간 지속될 것이라 예측하고 있습니다. 여기서 궁금한 점은 우리가 국채 금리 변화에 따라 어떤 예측을 하고 어떤 투자 결정을 하면 될지입니다. 우선, 국채 금리와 각 자산군 사이의 추세 연관성을 파악해야 합니다.</p>
+										<content:encoded><![CDATA[<p>미 국채금리 상승은 올해 초부터 자금시장의 큰 화두로 떠올랐고,<a href="https://www.atfx.com.bz/ko/markets"><span> 금융시장</span></a>의 집단변동성을 촉발했습니다. 미국의 견조한 경제회복 전망이 예측되는 현재, 시장 참가자들은 미국 10년물 국채 금리가 지속 상승할 것으로 보고 있습니다. 여러 기관들은 올해가 끝나기 전에 국채 금리가 2%를 넘어설 것으로 보고 있습니다. 이처럼, 많은 이들이 미 국채금리 상승이 당분간 지속될 것이라 예측하고 있습니다. 여기서 궁금한 점은 우리가 국채 금리 변화에 따라 어떤 예측을 하고 어떤 투자 결정을 하면 될지입니다. 우선, 국채 금리와 각 자산군 사이의 추세 연관성을 파악해야 합니다.</p>
 <p><span id="more-10372"></span></p>
 <p>&nbsp;</p>
 <h2 style="font-size: 33px">외환시장에 미치는 영향</h2>
-<p>금리 상승은 미국 경제가 성장함을 나타내며, 한편으로는 인플레이션 과열 전망을 암시하기도 합니다. 인플레이션율은 중앙은행 통화정책과 긴밀한 관계가 있습니다. 만일 인플레이션이 너무 빨리 진행되면 중앙은행은 긴축 통화정책을 펼치게 되며, 이는<a href="https://www.atfx.com/ko/markets/forex-trading"><span> 외환시장</span></a>에 파급효과를 가져오게 됩니다. 결과적으로 투자자들은 고금리 통화를 쭉 보유하게 되며, 저금리 혹은 마이너스 금리 통화는 매도하게 됩니다.&nbsp;</p>
+<p>금리 상승은 미국 경제가 성장함을 나타내며, 한편으로는 인플레이션 과열 전망을 암시하기도 합니다. 인플레이션율은 중앙은행 통화정책과 긴밀한 관계가 있습니다. 만일 인플레이션이 너무 빨리 진행되면 중앙은행은 긴축 통화정책을 펼치게 되며, 이는<a href="https://www.atfx.com.bz/ko/markets/forex-trading"><span> 외환시장</span></a>에 파급효과를 가져오게 됩니다. 결과적으로 투자자들은 고금리 통화를 쭉 보유하게 되며, 저금리 혹은 마이너스 금리 통화는 매도하게 됩니다.&nbsp;</p>
 <p><img decoding="async" src="https://www.atfx.com/hubfs/forex-market-us-bond-yields.jpg" alt="forex-market-us-bond-yields" width="1200" loading="lazy"></p>
 <p>A 국가와 B 국가 사이의 국채금리 차이는 두 국가간 통화쌍 추세에 영향을 미치게 됩니다. 금리가 높은 국가는 더 높은 국채금리 수익률을 희망하는 투자자들을 더 많이 끌어들이게 됩니다. 고금리통화는 자본유입을 끌어들이게 되며, 반면 저금리통화 보유에 대한 기회비용이 상승하게 됩니다. 따라서 고금리 국채에 대한 수요가 늘어나 자금 유입을 끌어들이게 되고, 해당국 통화의 가치는 상승하게 됩니다.</p>
 <p style="font-size: 18px"><span style="color: #434343">하단의 사례를 보시면 금리가 미치는 영향을 이해하는 데 도움이 될 것입니다:</span></p>
-<p>올해 2월에는 10년물 미 국채 금리가 상당히 상승해 3월 18일자로 1.7%선을 돌파했고, 추후 2021년 3월 30일에는 지난 2020년 1월 당시의 전고점을 돌파했습니다. 동일 시기 동안<a href="https://www.atfx.com/ko/markets/indices-trading"><span> 미국 달러 인덱스</span></a> 또한 이 추세를 따라서 93포인트 고점을 달성했습니다. 하지만 장기 국채금리의 엄청난 상승에도 불구하고 단기 국채금리는 별다른 변동이 없었습니다.이에 따라 장기/단기 국채금리 사이의 스프레드가 넓어졌고, 이는 경제성장률 상승과 인플레이션율 상승 가능성이 높아짐을 시사했습니다.</p>
+<p>올해 2월에는 10년물 미 국채 금리가 상당히 상승해 3월 18일자로 1.7%선을 돌파했고, 추후 2021년 3월 30일에는 지난 2020년 1월 당시의 전고점을 돌파했습니다. 동일 시기 동안<a href="https://www.atfx.com.bz/ko/markets/indices-trading"><span> 미국 달러 인덱스</span></a> 또한 이 추세를 따라서 93포인트 고점을 달성했습니다. 하지만 장기 국채금리의 엄청난 상승에도 불구하고 단기 국채금리는 별다른 변동이 없었습니다.이에 따라 장기/단기 국채금리 사이의 스프레드가 넓어졌고, 이는 경제성장률 상승과 인플레이션율 상승 가능성이 높아짐을 시사했습니다.</p>
 <p>올해 유로화의 추세는 달러화 추세에 비해 약세인 것으로 나타났습니다. 이 현상의 주요 원인은 미국경제의 회복세가 유로존 회복세보다 빨랐기 때문이며, 그 격차가 지속적으로 커지고 있기 때문입니다. 미국 경제에 대한 낙관론이 높은 투자자들이 많을수록 미국 국채금리는 독일 국채금리보다 높을 수밖에 없습니다. 금리 상승은 미 달러 수익률을 가속화하고, 유로화 대비 달러의 가치를 강화해줍니다.</p>
 <p><img decoding="async" src="https://www.atfx.com/hubfs/Others%20folders/ATFX%20Blog%20Image%202020/US-dollar-index.png" alt="US-dollar-index" width="1318" loading="lazy"></p>
 <p>또다른 사례로는 집값 상승을 잡으려는 뉴질랜드 정부의 액션을 꼽을 수 있습니다. 뉴질랜드 정부의 이같은 움직임으로 인해 현지 인플레이션 전망치가 상당히 줄어들었습니다. 긴축 통화정책은 뉴질랜드 국채 금리를 10bp만큼 감소시켰으며, 미 달러 대비 뉴질랜드달러의 환전 가치를 떨어뜨렸습니다. 결과적으로 키위달러(뉴질랜드달러)는 하루만에 2.4%가 넘게 빠졌습니다.</p>
 <p>&nbsp;</p>
 <h2 style="font-size: 33px">주식시장에 미치는 영향</h2>
 <p>외환시장뿐 아니라 미 국채금리 또한 여타 시장들과 긴밀한 상관관계가 있습니다. 국채금리가 통화정책으로부터 큰 영향을 받는 만큼, 연준위의 목표금리는 국채 수요에 영향을 미칩니다. 저금리 현상은 미국 주식 수요를 상승시키며, 고금리 현상은 미국 주식 수요를 하락시킵니다. 주식 수요가 낮으면 낮을수록 금리는 높아집니다. 때문에 국채금리 시장 추세를 분석할 때에는 연준위 정책을 선행지표로 간주합니다. 현재 증권시장 차원에서 분석하기를 연준위가 내년에 금리를 조기 인상할 가능성을 점치고 있는 만큼, 자연스레 미 국채금리는 신고점을 기록했습니다.</p>
-<p><span style="font-size: 12px">&nbsp;</span>한편, 국채금리는 투자심리를 나타내는 지표 역할을 하기도 합니다.<a href="https://www.atfx.com/ko/markets/shares-trading"><span> 주식시장</span></a>이 상승장일 때에는 국채 가격은 하락합니다. 투자자들이 높은 수익률을 위해 리스크 감내수준을 높이기 때문이죠. 반면, 금리가 상승할 때면 주식이나 여타 고위험 투자수단보다는 국채의 매력지수가 높아지게 됩니다.</p>
+<p><span style="font-size: 12px">&nbsp;</span>한편, 국채금리는 투자심리를 나타내는 지표 역할을 하기도 합니다.<a href="https://www.atfx.com.bz/ko/markets/shares-trading"><span> 주식시장</span></a>이 상승장일 때에는 국채 가격은 하락합니다. 투자자들이 높은 수익률을 위해 리스크 감내수준을 높이기 때문이죠. 반면, 금리가 상승할 때면 주식이나 여타 고위험 투자수단보다는 국채의 매력지수가 높아지게 됩니다.</p>
 <p><img decoding="async" src="https://www.atfx.com/hubfs/Others%20folders/ATFX%20Blog%20Image%202020/bear-bull-market.jpg" alt="bear-bull-market" width="1200" loading="lazy"></p>
 <p>명목금리 상승은 주식시장에 호재로 작용하지만, 실질금리 상승은 그렇지 않습니다. 고인플레이션 환경에서의 금리 상승은 주식 수익률 하락으로 이어지기 때문입니다. 하지만 금리 상승에 대한 각 섹터별 대응은 제각각입니다. 예를 들면, 시황산업은 금리 상승기에 실적이 좋습니다. 왜냐면 시황산업은 경기전망과 정비례 관계이기 때문이죠. 반면, 경기방어주는 경기전망과 반비례 관계를 보입니다.</p>
 <p><span style="font-size: 12px">&nbsp;</span></p>
 <h2 style="font-size: 33px">금값에 미치는 영향</h2>
-<p>비록 미국 국채금리와<a href="https://www.atfx.com/ko/markets/commodities/gold-trading"><span> 금값</span></a>은 주식시장과 반대로 흐르기는 하지만, 그렇다고 해서 국채금리와 금값이 상호 양의 상관관계를 지닌다는 의미는 아닙니다. 국채와 금값은 헤징적 특성을 지닙니다. 이로 인해 금값과 국채금리는 서로 음의 상관관계를 보입니다.&nbsp;</p>
+<p>비록 미국 국채금리와<a href="https://www.atfx.com.bz/ko/markets/commodities/gold-trading"><span> 금값</span></a>은 주식시장과 반대로 흐르기는 하지만, 그렇다고 해서 국채금리와 금값이 상호 양의 상관관계를 지닌다는 의미는 아닙니다. 국채와 금값은 헤징적 특성을 지닙니다. 이로 인해 금값과 국채금리는 서로 음의 상관관계를 보입니다.&nbsp;</p>
 <p>국채금리가 치솟거나 금리가 상승하면 이는 금값에는 악재로 작용합니다. 금은 금리가 없는 자산이기 때문이죠. 또한, 부채금리 상승 또한 달러 상승으로 이어져 금값에 압박을 줍니다. 올 3월 말 미국 10년물 국채금리가 최근 1년 이상의 기간에 대한 신고점을 달성했을 때, 현물 금값은 중요 저항선인 1700달러 아래로 떨어졌습니다.</p>
 <p><span style="font-size: 12px">&nbsp;</span>반대로, 다른 시각에서 살펴보면 금리 상승은 경기 호황에 대한 기대를 나타내기도 합니다. 이같은 기대감은 인플레이션을 부추기게 되는데, 일반적으로 금 투자는 인플레이션 헤징 수단으로 활용됩니다. 따라서 장기적으로는 인플레이션이 금값에 완전히 악재로 작용한다는 법은 없습니다. 만일 미래의 인플레이션이 시장 공포를 유발한다면, 금에 대한 투자 매력은 다시금 상승하게 될 테니까요.</p>
 </p>
 <h2 style="font-size: 33px">유가에 미치는 영향</h2>
-<p>에너지 가격과 국채금리 추세는 한 국가의 경제전망을 나타내는 지표로 활용될 수 있습니다. 앞서 서술했듯 경기 호황기에는 국채금리가 상승하게 됩니다. 비슷한 맥락에서 살펴보면, 경제성장 전망이 낙관적일 때 혹은 크루드오일 수요가 낙관적일 때에는<a href="https://www.atfx.com/ko/markets/commodities/oil-trading"><span> 크루드오일 가격</span></a>이 상승하게 됩니다. 따라서 경제전망과 크루드오일 사이의 가격 상관관계는 경기순환의 영향을 받으며, 양의 상관관계를 보입니다.</p>
+<p>에너지 가격과 국채금리 추세는 한 국가의 경제전망을 나타내는 지표로 활용될 수 있습니다. 앞서 서술했듯 경기 호황기에는 국채금리가 상승하게 됩니다. 비슷한 맥락에서 살펴보면, 경제성장 전망이 낙관적일 때 혹은 크루드오일 수요가 낙관적일 때에는<a href="https://www.atfx.com.bz/ko/markets/commodities/oil-trading"><span> 크루드오일 가격</span></a>이 상승하게 됩니다. 따라서 경제전망과 크루드오일 사이의 가격 상관관계는 경기순환의 영향을 받으며, 양의 상관관계를 보입니다.</p>
 <p>한편, 인플레이션 전망 또한 크루드오일 가격에 영향을 미칩니다. 과거 가격추세를 살펴보면 전년대비 유가상승률은 미국 CPI (인플레이션) 성장률과 양의 상관관계를 보이고 있습니다. 따라서 크루드오일 가격 상승은 그 자체로도 인플레이션 전망을 가속화하며, 명목 국채금리를 상승시키고 국채가격에도 영향을 미칩니다. 때문에, 유가 및 인플레이션은 상호 상관관계로 인해 올해 초부터 종종 함께 묶어서 분석에 활용되곤 합니다. 또한, 3월 유가의 강한 반등 현상은 국채금리 상승과 동반되어 일어나기도 했습니다.</p>
 <p><img decoding="async" src="https://www.atfx.com/hubfs/Others%20folders/ATFX%20Blog%20Image%202020/crude-oil-prices.jpg" alt="crude-oil-prices" width="1200" loading="lazy"></p>
-<p>물론 미국 국가부채 뿐만 아니라 주요 크루드오일 수출국(예: 캐나다)의 국채금리 추이, 유가, 기타 원자재 수출국(예: 호주) 등의 상관관계도 잘 살펴보아야 합니다. 만일 인플레이션 전망과 여러 국가의 국채금리 전망이 높거나 추가 상승 기미가 보인다면, 유가 또한 양의 상관관계를 보일 것이기 때문이죠. 또한 미국 금리 상승은 미국 달러의 강세로 이어질 것이라는 사실을 명심하고, 미국 달러의 강세는<a href="https://www.atfx.com/ko/markets/commodities/gold-trading"><span> 원자재 가격</span></a>의 전반적인 상승으로 이어질 수 있다는 점도 명심하시기 바랍니다.</p>
+<p>물론 미국 국가부채 뿐만 아니라 주요 크루드오일 수출국(예: 캐나다)의 국채금리 추이, 유가, 기타 원자재 수출국(예: 호주) 등의 상관관계도 잘 살펴보아야 합니다. 만일 인플레이션 전망과 여러 국가의 국채금리 전망이 높거나 추가 상승 기미가 보인다면, 유가 또한 양의 상관관계를 보일 것이기 때문이죠. 또한 미국 금리 상승은 미국 달러의 강세로 이어질 것이라는 사실을 명심하고, 미국 달러의 강세는<a href="https://www.atfx.com.bz/ko/markets/commodities/gold-trading"><span> 원자재 가격</span></a>의 전반적인 상승으로 이어질 수 있다는 점도 명심하시기 바랍니다.</p>
 <p><span style="font-size: 12px">&nbsp;</span></p>
-<p><a href="https://trade.atfx.com.bz/pages/desktop/register/register-phone"><span>라이브 트레이딩 계좌</span></a>를 개설하거나<a href="https://www.atfx.com/ko/trading-accounts/demo-account"><span> 데모 트레이딩 계좌</span></a>를 개설하고 트레이딩을 시작하세요!</p>
+<p><a href="https://trade.atfx.com.bz/pages/desktop/register/register-phone"><span>라이브 트레이딩 계좌</span></a>를 개설하거나<a href="https://www.atfx.com.bz/ko/trading-accounts/demo-account"><span> 데모 트레이딩 계좌</span></a>를 개설하고 트레이딩을 시작하세요!</p>
 ]]></content:encoded>
 					
 		
@@ -828,13 +828,13 @@
 		<guid isPermaLink="false">https://lptemplatedev.wpengine.com/uncategorized/how-to-calculate-the-margin-and-profit-and-loss-amount-for-foreign-exchange-transactions-2</guid>
 
 					<description><![CDATA[외환거래의 마진 및 손익 금액은 어떻게 계산되는가? 외환 거래에 관련된 많은 계산과 계산 과정을 이해하면 거래 리스크에 대해 보다 포괄적으로 거래를 통제할 수 있습니다. 많은 초보 거래자들이 기술적 분석에 너무 많은 시간을 투자하고 손익에 대한 계산을 등한시 합니다. 대부분의 거래자들은 MT4와 함께 제공되는 계산 결과만을 확인합니다. 이는 좋은 거래 습관은 아닙니다. 예를 들어, 우리가 EURUSD통화 [&#8230;]]]></description>
-										<content:encoded><![CDATA[<h2 style="font-size: 24px;font-weight: normal"><span style="font-size: 24px"><a href="https://www.atfx.com/ko/markets/forex-trading">외환거래</a></span><span style="color: #0f2c52">의 마진 및 손익 금액은 어떻게 계산되는가?</span></h2>
+										<content:encoded><![CDATA[<h2 style="font-size: 24px;font-weight: normal"><span style="font-size: 24px"><a href="https://www.atfx.com.bz/ko/markets/forex-trading">외환거래</a></span><span style="color: #0f2c52">의 마진 및 손익 금액은 어떻게 계산되는가?</span></h2>
 <p>외환 거래에 관련된 많은 계산과 계산 과정을 이해하면 거래 리스크에 <span style="color: #0f2c52">대해</span> 보다 포괄적으로 거래를 통제할 수 있습니다. 많은 초보 거래자들이 기술적 분석에 너무 많은 시간을 투자하고 손익에 대한 계산을 등한시 합니다. 대부분의 거래자들은 MT4와 함께 제공되는 계산 결과만을 확인합니다. 이는 좋은 거래 습관은 아닙니다.</p>
 <p><span id="more-10314"></span></p>
 <p>예를 들어, 우리가 EURUSD통화 쌍을 거래하는 경우, 현재 계좌에 1만 달러가 있고 미리 설정된 손절매는 10포인트라고 가정하겠습니다. 몇 랏으로 거래가 가능할까요?</p>
 <p>마진 계산이 익숙하지 않으면 자신이 무엇을 생각하고 있는지 알 수 없고, 당연히 리스크 관리도 잘 할 수 없습니다.</p>
 <p><img decoding="async" src="https://www.atfx.com/hubfs/Others%20folders/ATFX%20Blog%20Image%202020/ATFX-foreign-exchange-transactions.jpg" alt="ATFX-foreign-exchange-transactions" width="1200" loading="lazy" style="width: 1200px"></p>
-<h2 style="font-size: 33px">1. <span style="font-size: 33px"><a href="https://www.atfx.com/ko/markets">외환 시장</a></span>에서 직접 거래하는 주문은 10만 기준통화입니다.</h2>
+<h2 style="font-size: 33px">1. <span style="font-size: 33px"><a href="https://www.atfx.com.bz/ko/markets">외환 시장</a></span>에서 직접 거래하는 주문은 10만 기준통화입니다.</h2>
 <p>각 통화쌍에는 두개의 통화가 있습니다. 기준통화가 앞에 위치하고 상대통화가 뒤에 위치합니다. 예를 들어, USDJPY 중에서 USD는 기준 통화이고JPY 는 상대 통화입니다.</p>
 <p>USD가 앞에 있으면 USD가 <strong>기준통화</strong>, USD가 뒤에 있으면 USD는 <strong>상태통화</strong>가 됩니다.</p>
 <p>외환 시장은 거래주문의 총 가치를 100,000 기준 통화로 규정하며 기준 통화는 통화쌍의 앞에 위치하는 통화입니다. 많은 초보 트레이더들이 거래 주문이 10만 달러라고 말하는 것에 익숙합니다. 이는 잘못된 표현 방식입니다.</p>
@@ -852,7 +852,7 @@
 <p>예를 들어, EURUSD 1랏의 마진을 $500으로 고정하는 것입니다. 고정 마진은 복잡한 계산을 포함하지 않으며 거래자는 고정 마진 목록을 확인하고 거래에 활용할 수 있어야 합니다.</p>
 <p><img decoding="async" src="https://www.atfx.com/hubfs/Others%20folders/ATFX%20Blog%20Image%202020/ATFX-calculate-margin-forex.jpg" alt="ATFX-calculate-margin-forex" width="1200" loading="lazy" style="width: 1200px"></p>
 <h2 style="font-size: 33px">3. 트레이딩 손익 계산의 기본은 포인트 가치를 이해하는 것입니다.</h2>
-<p>포인트 가치는 <a href="https://www.atfx.com/ko/markets/forex-trading"><span>환율 변동</span></a> 당 하나의 기준 포인트 값입니다. 통화 시장은 시장 변동의 총 포인트 수를 계산합니다. 예를 들어 EURUSD 통화쌍의 환율이 1.2000에서 1.2001로 상승할 경우, 환율은 기준 1포인트씩 변동됩니다.</p>
+<p>포인트 가치는 <a href="https://www.atfx.com.bz/ko/markets/forex-trading"><span>환율 변동</span></a> 당 하나의 기준 포인트 값입니다. 통화 시장은 시장 변동의 총 포인트 수를 계산합니다. 예를 들어 EURUSD 통화쌍의 환율이 1.2000에서 1.2001로 상승할 경우, 환율은 기준 1포인트씩 변동됩니다.</p>
 <h3 style="font-size: 24px"><span style="color: #0f2c52">표준 포인트의 가치를 계산하는 방법은?</span></h3>
 <p>여기에서는 앞서 언급한 100,000 기본 통화 개념과 관련이 있습니다. EURUSD 통화쌍의 기본 통화는 유로입니다. 100,000 기본통화는 100,000유로이고 환율은 120,000 미국 달러로 변환됩니다. (환율 예 : 1EUR-1.2USD)</p>
 <p>환율이 1.2001로 상승하면 총 계약 가치는 USD 120,010 입니다. 120,000USD에서 120,010을 빼면 10USD의 차이가 발생합니다. 따라서 EURUSD의 핍 가치는 $10 입니다.</p>
@@ -904,9 +904,9 @@
 </table>
 </div>
 <p>&nbsp;</p>
-<p><a href="https://www.atfx.com/ko/trading-platforms/metatrader-4/mt4-demo-account"><span>MT4</span></a><span style="color: #000000">를 통해 자동으로 계산이 가능하지만, 보다 외환시장을 이해하고 자하는 거래자들에게는 매우 유용한 정보되었으면 합니다. 거래에 있어 학습하는 습관은 매우 중요하며 거래학습을 포기해서도 안됩니다.</span></p>
+<p><a href="https://www.atfx.com.bz/ko/trading-platforms/metatrader-4/mt4-demo-account"><span>MT4</span></a><span style="color: #000000">를 통해 자동으로 계산이 가능하지만, 보다 외환시장을 이해하고 자하는 거래자들에게는 매우 유용한 정보되었으면 합니다. 거래에 있어 학습하는 습관은 매우 중요하며 거래학습을 포기해서도 안됩니다.</span></p>
 <p>&nbsp;</p>
-<p><span style="color: #000000">지금 </span><a href="https://www.atfx.com/ko/trading-platforms/metatrader-4"><span>Metatrader 4 account</span></a><span style="color: #000000"> or </span><a href="https://www.atfx.com/ko/trading-accounts/demo-account"><span>demo trading account</span></a><span style="color: #000000"> 로 거래를 시작하세요!</span></p>
+<p><span style="color: #000000">지금 </span><a href="https://www.atfx.com.bz/ko/trading-platforms/metatrader-4"><span>Metatrader 4 account</span></a><span style="color: #000000"> or </span><a href="https://www.atfx.com.bz/ko/trading-accounts/demo-account"><span>demo trading account</span></a><span style="color: #000000"> 로 거래를 시작하세요!</span></p>
 ]]></content:encoded>
 					
 		

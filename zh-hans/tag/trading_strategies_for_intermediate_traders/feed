@@ -40,8 +40,8 @@
 		<guid isPermaLink="false">https://www.atfx.com/?p=48344</guid>
 
 					<description><![CDATA[相对强弱指数 (RSI) 是一种动量震荡指标，用于衡量近期价格变动的速度和幅度，以识别资产的超买或超卖情况。其 [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>相对强弱指数 (RSI) 是一种动量震荡指标，用于衡量近期价格变动的速度和幅度，以识别资产的超买或超卖情况。其范围从 0 到 100，通常用于发现潜在的反转点、确认市场趋势强度以及评估市场趋势的总体方向，尤其是与<a href="https://www.atfx.com/zh-hans/trading-platforms/metatrader-4/support-resistance-indicator" target="_blank" rel="noopener">支撑位和阻力</a>位结合使用时。</p>
-<p>RSI 最初由 J. Welles Wilder Jr. 于 1978 年创建，现已成为股票、<a href="https://www.atfx.com/zh-hans/markets/forex-trading" target="_blank" rel="noopener">外汇</a>、加密货币和<a href="https://www.atfx.com/zh-hans/markets/commodities" target="_blank" rel="noopener">大宗商品</a>等各个市场最广泛使用的技术指标之一。通过掌握 RSI 交易信号，交易者可以增强时机把握、改善决策并提高盈利能力。在本文中，我们将探讨 RSI 的工作原理以及如何有效地使用它来加强您的交易策略。</p>
+										<content:encoded><![CDATA[<p>相对强弱指数 (RSI) 是一种动量震荡指标，用于衡量近期价格变动的速度和幅度，以识别资产的超买或超卖情况。其范围从 0 到 100，通常用于发现潜在的反转点、确认市场趋势强度以及评估市场趋势的总体方向，尤其是与<a href="https://www.atfx.com.bz/zh-hans/trading-platforms/metatrader-4/support-resistance-indicator" target="_blank" rel="noopener">支撑位和阻力</a>位结合使用时。</p>
+<p>RSI 最初由 J. Welles Wilder Jr. 于 1978 年创建，现已成为股票、<a href="https://www.atfx.com.bz/zh-hans/markets/forex-trading" target="_blank" rel="noopener">外汇</a>、加密货币和<a href="https://www.atfx.com.bz/zh-hans/markets/commodities" target="_blank" rel="noopener">大宗商品</a>等各个市场最广泛使用的技术指标之一。通过掌握 RSI 交易信号，交易者可以增强时机把握、改善决策并提高盈利能力。在本文中，我们将探讨 RSI 的工作原理以及如何有效地使用它来加强您的交易策略。</p>
 <h2>RSI公式如何计算？</h2>
 <p>RSI 是一个动量振荡器，用于测量价格变动的速度和变化。它是通过比较特定时期（通常为 14 天）内的平均涨幅和跌幅来计算的。它可以帮助交易者确定资产是否超买或超卖。</p>
 <h3><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f9ee.png" alt="🧮" class="wp-smiley" style="height: 1em; max-height: 1em;" /> RSI 公式：</h3>
@@ -65,12 +65,12 @@
 <h3><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f680.png" alt="🚀" class="wp-smiley" style="height: 1em; max-height: 1em;" /> RSI 超买状态（高于 70）：</h3>
 <p>当 RSI 超过 70 时，表明资产超买，可能即将出现回调或逆转。这通常与价格达到阻力位同时发生。</p>
 <p><strong><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4cc.png" alt="📌" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 行动：当 RSI 超过 70 时，交易者通常会卖出，因为他们预计市场将在阻力位附近出现回调。</strong></p>
-<p><strong>例子：</strong>如果<a href="https://www.atfx.com/zh-hans/live-chart/eur-usd" target="_blank" rel="noopener">欧元/美元</a>对的 RSI 为 80，则可能表明市场超买，预示着价格接近阻力位时可能下跌。</p>
+<p><strong>例子：</strong>如果<a href="https://www.atfx.com.bz/zh-hans/live-chart/eur-usd" target="_blank" rel="noopener">欧元/美元</a>对的 RSI 为 80，则可能表明市场超买，预示着价格接近阻力位时可能下跌。</p>
 <p><img decoding="async" class="aligncenter size-large wp-image-48903" src="https://www.atfx.com/wp-content/uploads/2025/04/EUR-USD-SC-1024x887.webp" alt="EUR-USD-SC" width="800" height="693" srcset="https://www.atfx.com/wp-content/uploads/2025/04/EUR-USD-SC-1024x887.webp 1024w, https://www.atfx.com/wp-content/uploads/2025/04/EUR-USD-SC-300x260.webp 300w, https://www.atfx.com/wp-content/uploads/2025/04/EUR-USD-SC-768x666.webp 768w, https://www.atfx.com/wp-content/uploads/2025/04/EUR-USD-SC.webp 1200w" sizes="(max-width: 800px) 100vw, 800px" /></p>
 <h3><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4c9.png" alt="📉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> RSI 超卖状况（低于 30）：</h3>
 <p>当 RSI 跌破 30 时，表明资产超卖，价格可能即将反弹，尤其是在接近支撑位时。</p>
 <p><strong><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4cc.png" alt="📌" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </strong><strong>行动：当 RSI 低于 30 时，交易者通常会寻找买入机会，预期支撑位会出现逆转。</strong></p>
-<p><strong>例子：</strong>如果<a href="https://www.atfx.com/zh-hans/live-chart/gbp-usd" target="_blank" rel="noopener">英镑/美元</a>对的 RSI 为 25，则可能意味着英镑超卖，可能会出现逆转，并可能从关键支撑位反弹。</p>
+<p><strong>例子：</strong>如果<a href="https://www.atfx.com.bz/zh-hans/live-chart/gbp-usd" target="_blank" rel="noopener">英镑/美元</a>对的 RSI 为 25，则可能意味着英镑超卖，可能会出现逆转，并可能从关键支撑位反弹。</p>
 <p><img decoding="async" class="aligncenter size-large wp-image-48904" src="https://www.atfx.com/wp-content/uploads/2025/04/GBP-USD-SC-1024x887.webp" alt="GBP-USD-SC" width="800" height="693" srcset="https://www.atfx.com/wp-content/uploads/2025/04/GBP-USD-SC-1024x887.webp 1024w, https://www.atfx.com/wp-content/uploads/2025/04/GBP-USD-SC-300x260.webp 300w, https://www.atfx.com/wp-content/uploads/2025/04/GBP-USD-SC-768x666.webp 768w, https://www.atfx.com/wp-content/uploads/2025/04/GBP-USD-SC.webp 1200w" sizes="(max-width: 800px) 100vw, 800px" /></p>
 <h2>RSI 背离：发现趋势逆转</h2>
 <p>当资产价格与 RSI 走势相反时，就会出现 RSI 背离。这是潜在趋势逆转的关键信号：</p>
@@ -153,7 +153,7 @@
 </table>
 <p><strong><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4a1.png" alt="💡" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 专业提示：缩短 RSI 设置（例如 7-9 个周期），以便在加密货币等波动的市场中更快地获得信号。</strong></p>
 <h3><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/2699.png" alt="⚙" class="wp-smiley" style="height: 1em; max-height: 1em;" />如何在 MetaTrader 4（MT4）中设置 RSI</h3>
-<p>在 <a href="https://www.atfx.com/zh-hant/trading-platforms/metatrader-4" target="_blank" rel="noopener">MT4</a> 中设置 RSI 简单快捷。请按照以下步骤操作：</p>
+<p>在 <a href="https://www.atfx.com.bz/zh-hant/trading-platforms/metatrader-4" target="_blank" rel="noopener">MT4</a> 中设置 RSI 简单快捷。请按照以下步骤操作：</p>
 <ol>
 <li>打开 MT4 并选择您想要使用的图表。</li>
 <li>单击插入 → 指标 → 振荡器 → 相对强弱指数。</li>
@@ -162,7 +162,7 @@
 <li>单击“确定”将 RSI 指标应用到您的图表。</li>
 </ol>
 <p>现在，您可以使用 RSI 来识别超买或超卖情况，并直接在 MT4 中做出明智的交易决策。</p>
-<p><a href="https://www.atfx.com/zh-hans/trading-platforms/metatrader-4/download-mt4" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="aligncenter wp-image-25082 size-full" src="https://www.atfx.com/wp-content/uploads/2023/10/mt4-download-mandarin.webp" alt="mt4 download mandarin" width="825" height="206" srcset="https://www.atfx.com/wp-content/uploads/2023/10/mt4-download-mandarin.webp 825w, https://www.atfx.com/wp-content/uploads/2023/10/mt4-download-mandarin-300x75.webp 300w, https://www.atfx.com/wp-content/uploads/2023/10/mt4-download-mandarin-768x192.webp 768w" sizes="(max-width: 825px) 100vw, 825px" /></a></p>
+<p><a href="https://www.atfx.com.bz/zh-hans/trading-platforms/metatrader-4/download-mt4" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="aligncenter wp-image-25082 size-full" src="https://www.atfx.com/wp-content/uploads/2023/10/mt4-download-mandarin.webp" alt="mt4 download mandarin" width="825" height="206" srcset="https://www.atfx.com/wp-content/uploads/2023/10/mt4-download-mandarin.webp 825w, https://www.atfx.com/wp-content/uploads/2023/10/mt4-download-mandarin-300x75.webp 300w, https://www.atfx.com/wp-content/uploads/2023/10/mt4-download-mandarin-768x192.webp 768w" sizes="(max-width: 825px) 100vw, 825px" /></a></p>
 <h2>RSI 交易策略建议</h2>
 <ul>
 <li>将 RSI 与其他指标结合起来：在交易中结合使用 RSI 和其他技术指标（如移动平均线或 MACD）来提高策略的有效性。</li>
@@ -185,7 +185,7 @@
 <p><strong><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4cc.png" alt="📌" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 最后提示：在进行实时交易之前，先在模拟账户中测试 RSI 策略，以完善您的方法。</strong></p>
 <h2>结论</h2>
 <p>相对强弱指数 (RSI) 是一种强大的工具，可帮助交易者识别超买和超卖情况、发现趋势逆转以及确认现有趋势的强度。掌握 RSI 交易并了解其信号可以增强您的市场分析能力并帮助您做出更明智的交易决策。</p>
-<p>无论您交易的是<a href="https://www.atfx.com/zh-hans/markets/shares-trading" target="_blank" rel="noopener">股票</a>、外汇还是加密货币，将 RSI 整合到您的策略中都可以提供有价值的见解并提高您的交易表现。</p>
+<p>无论您交易的是<a href="https://www.atfx.com.bz/zh-hans/markets/shares-trading" target="_blank" rel="noopener">股票</a>、外汇还是加密货币，将 RSI 整合到您的策略中都可以提供有价值的见解并提高您的交易表现。</p>
 ]]></content:encoded>
 					
 		
@@ -204,7 +204,7 @@
 					<description><![CDATA[特朗普的经济政策：对股票和外汇市场的影响 唐纳德·特朗普赢得 2024 年美国总统大选后，金融市场已经做出重大 [&#8230;]]]></description>
 										<content:encoded><![CDATA[<h2 dir="ltr">特朗普的经济政策：对股票和外汇市场的影响</h2>
 <p dir="ltr">唐纳德·特朗普赢得 2024 年美国总统大选后，金融市场已经做出重大反应，这是他在 2016 年第一任期后重返总统职位，投资者和交易者正在评估影响。他的胜利标志着政府重新转向亲商政策，着重于放松管制、减税和保护主义贸易政策。</p>
-<p dir="ltr">在本文中，我们将研究特朗普的经济政策如何影响主要金融市场，特别是<a href="https://www.atfx.com/zh-hans/markets/forex-trading" target="_blank" rel="noopener">外汇交易</a>、美国股票、全球股票以及更广阔的经济前景。</p>
+<p dir="ltr">在本文中，我们将研究特朗普的经济政策如何影响主要金融市场，特别是<a href="https://www.atfx.com.bz/zh-hans/markets/forex-trading" target="_blank" rel="noopener">外汇交易</a>、美国股票、全球股票以及更广阔的经济前景。</p>
 <ol class="no-markers">
 <li dir="ltr">
 <h2 dir="ltr">对外汇市场的影响：特朗普赢得 2024 年大选后美元走强</h2>
@@ -234,16 +234,16 @@
 <h2 dir="ltr">对股票市场的影响：特朗普的亲商议程提振美国股市</h2>
 </li>
 </ol>
-<p dir="ltr">特朗普获胜后，受其亲商政策乐观情绪推动，<a href="https://www.atfx.com/zh-hans/markets/shares-trading" target="_blank" rel="noopener">美国股市</a>出现上涨。能源、科技和金融等关键行业有望实现大幅增长。放松管制、减税以及注重国内能源生产的政策共同支撑了这种看涨情绪。</p>
+<p dir="ltr">特朗普获胜后，受其亲商政策乐观情绪推动，<a href="https://www.atfx.com.bz/zh-hans/markets/shares-trading" target="_blank" rel="noopener">美国股市</a>出现上涨。能源、科技和金融等关键行业有望实现大幅增长。放松管制、减税以及注重国内能源生产的政策共同支撑了这种看涨情绪。</p>
 <h3 dir="ltr">美国股市飙升</h3>
-<p dir="ltr"><a href="https://www.atfx.com/zh-hans/live-chart/sp500" target="_blank" rel="noopener">标普500指数</a>、<a href="https://www.atfx.com/zh-hans/live-chart/dow-jones" target="_blank" rel="noopener">道琼斯指数</a>、<a href="https://www.atfx.com/zh-hans/live-chart/nasdaq100" target="_blank" rel="noopener">纳斯达克指数</a>等美国股市对特朗普的胜利做出了积极反应，各大<a href="https://www.atfx.com/zh-hans/markets/indices-trading" target="_blank" rel="noopener">指数</a>纷纷创下新高。那些有望受益于特朗普政策的行业的涨势尤其明显。能源股（尤其是石油和天然气）和科技股一直处于领先地位，因为投资者为这些行业预期的有利环境做好了准备。</p>
+<p dir="ltr"><a href="https://www.atfx.com.bz/zh-hans/live-chart/sp500" target="_blank" rel="noopener">标普500指数</a>、<a href="https://www.atfx.com.bz/zh-hans/live-chart/dow-jones" target="_blank" rel="noopener">道琼斯指数</a>、<a href="https://www.atfx.com.bz/zh-hans/live-chart/nasdaq100" target="_blank" rel="noopener">纳斯达克指数</a>等美国股市对特朗普的胜利做出了积极反应，各大<a href="https://www.atfx.com.bz/zh-hans/markets/indices-trading" target="_blank" rel="noopener">指数</a>纷纷创下新高。那些有望受益于特朗普政策的行业的涨势尤其明显。能源股（尤其是石油和天然气）和科技股一直处于领先地位，因为投资者为这些行业预期的有利环境做好了准备。</p>
 <h3 dir="ltr">能源行业提振</h3>
 <p dir="ltr">特朗普以“钻吧，宝贝，钻吧”的竞选口号支持化石燃料，包括石油和天然气，这种支持在他当选后提振了埃克森美孚和雪佛龙等公司。他的政府采取的取消国内石油和天然气生产限制以及放松环境法规的举措为能源公司创造了更有利的环境。随着对能源独立和更少监管障碍的注重，能源股有望实现大幅增长、提高盈利能力并扩大国内资源获取渠道。</p>
 <h3 dir="ltr">科技行业增长</h3>
 <p dir="ltr">由于投资者猜测唐纳德·特朗普重返白宫可能会给特斯拉带来受益，特斯拉股价飙升。这种预期包括来自小型电动汽车制造商的竞争减少和中国进口汽车关税提高，这可能会给特斯拉带来优势。特朗普的放松管制和减税等亲商政策也被视为对科技巨头有利，有可能提高盈利能力并鼓励对创新的再投资。具体来说，特斯拉可以从放宽有关电动汽车和可再生能源的监管中受益。</p>
 <h3 dir="ltr">金融业提振</h3>
 <p dir="ltr">特朗普获胜后，摩根大通、高盛和美国银行的股价以及大型银行泛股指数均大幅上涨。由于投资者预期金融行业将出现更为有利的监管环境，区域性银行的股价也出现了显著增长。特朗普的放松管制立场被视为对大型金融机构的提振，因为减少管制将允许银行承担更多风险并增加放贷。此外，减税预期进一步支持了更高盈利前景，使这些银行更具竞争力和效率。</p>
-<p><a href="https://www.atfx.com/zh-hans/trading-accounts/live-account" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="aligncenter wp-image-25084 size-full" src="https://www.atfx.com/wp-content/uploads/2023/10/live-account-mandarin.webp" alt="live account mandarin" width="825" height="206" srcset="https://www.atfx.com/wp-content/uploads/2023/10/live-account-mandarin.webp 825w, https://www.atfx.com/wp-content/uploads/2023/10/live-account-mandarin-300x75.webp 300w, https://www.atfx.com/wp-content/uploads/2023/10/live-account-mandarin-768x192.webp 768w" sizes="(max-width: 825px) 100vw, 825px" /></a></p>
+<p><a href="https://www.atfx.com.bz/zh-hans/trading-accounts/live-account" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="aligncenter wp-image-25084 size-full" src="https://www.atfx.com/wp-content/uploads/2023/10/live-account-mandarin.webp" alt="live account mandarin" width="825" height="206" srcset="https://www.atfx.com/wp-content/uploads/2023/10/live-account-mandarin.webp 825w, https://www.atfx.com/wp-content/uploads/2023/10/live-account-mandarin-300x75.webp 300w, https://www.atfx.com/wp-content/uploads/2023/10/live-account-mandarin-768x192.webp 768w" sizes="(max-width: 825px) 100vw, 825px" /></a></p>
 <ol class="no-markers" start="3">
 <li dir="ltr">
 <h2 dir="ltr">对指数的影响：美国表现优于全球指数</h2>
@@ -273,7 +273,7 @@
 <h2 dir="ltr">结论：不确定时期的乐观主义</h2>
 <p dir="ltr">唐纳德·特朗普在 2024 年大选获胜，引发美国股市强劲上涨，美元走强，这得益于减税、放松管制以及包括关注能源独立的亲商议程的预期。预计能源、技术和金融等关键行业将在短期内实现增长，而全球市场则面临潜在贸易战、关税和地缘政治紧张局势带来的风险。</p>
 <p dir="ltr">尽管美国市场情绪乐观，但对通胀上升、国家债务和长期经济稳定的担忧仍然存在。投资者应保持积极但谨慎的态度，在短期市场机会与整体经济的潜在波动性和不确定性之间取得平衡。</p>
-<p><a href="https://www.atfx.com/zh-hans/trading-accounts/demo-account" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="aligncenter wp-image-25095 size-full" src="https://www.atfx.com/wp-content/uploads/2023/10/demo-account-mandarin.webp" alt="demo account mandarin" width="825" height="206" srcset="https://www.atfx.com/wp-content/uploads/2023/10/demo-account-mandarin.webp 825w, https://www.atfx.com/wp-content/uploads/2023/10/demo-account-mandarin-300x75.webp 300w, https://www.atfx.com/wp-content/uploads/2023/10/demo-account-mandarin-768x192.webp 768w" sizes="(max-width: 825px) 100vw, 825px" /></a></p>
+<p><a href="https://www.atfx.com.bz/zh-hans/trading-accounts/demo-account" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="aligncenter wp-image-25095 size-full" src="https://www.atfx.com/wp-content/uploads/2023/10/demo-account-mandarin.webp" alt="demo account mandarin" width="825" height="206" srcset="https://www.atfx.com/wp-content/uploads/2023/10/demo-account-mandarin.webp 825w, https://www.atfx.com/wp-content/uploads/2023/10/demo-account-mandarin-300x75.webp 300w, https://www.atfx.com/wp-content/uploads/2023/10/demo-account-mandarin-768x192.webp 768w" sizes="(max-width: 825px) 100vw, 825px" /></a></p>
 ]]></content:encoded>
 					
 		
@@ -736,18 +736,18 @@
 		<guid isPermaLink="false">https://lptemplatedev.wpengine.com/uncategorized/why-is-leverage-high-in-the-forex-market-2</guid>
 
 					<description><![CDATA[投资市场以小博大的有力投资工具，有人畏之如水火，有人甘之如蜜饯。 中国的A股市场没有杠杆，因为个股的股价实在是 [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><a href="https://www.atfx.com/zh-hans/markets"><span>投资市场</span></a>以小博大的有力<a href="https://www.atfx.com/zh-hans/education-and-tools"><span>投资工具</span></a>，有人畏之如水火，有人甘之如蜜饯。</p>
+										<content:encoded><![CDATA[<p><a href="https://www.atfx.com.bz/zh-hans/markets"><span>投资市场</span></a>以小博大的有力<a href="https://www.atfx.com.bz/zh-hans/education-and-tools"><span>投资工具</span></a>，有人畏之如水火，有人甘之如蜜饯。</p>
 <p><span id="more-10428"></span></p>
 <p>中国的A股市场没有杠杆，因为个股的股价实在是太低了。一支10元的股票，交易一手的门槛只有1000元人民币，这对于大部分个人交易者来说都是小意思。</p>
 <p>中国的期货市场，杠杆大部分都设定在20倍。比如豆粕2105合约，当前报价3185元/吨，一手10吨，那么最低交易门槛为3.185万元。这一数额，足够将大部分个人投资者拒之门外。</p>
 <p>为了增加市场流动性，让散户也能参与其中，引入20倍的杠杆就非常合适。同样的合约，交易者只需要支付1592元保证金就可以进行交易，毕竟大部分并不想持有到期（交割需要支付全款），仅仅是参与期货品种的价差交易。</p>
 <p>&nbsp;</p>
 <h2 style="font-size: 33px">汇市的杠杆为什么那么高？</h2>
-<p>同样的道理，因为<a href="https://www.atfx.com/zh-hans/markets/forex-trading"><span>外汇市场</span></a>一手合约的价值高达10万基础货币，并且基础货币往往是美元。10万美元转换成人民币就是70万，这对于大部分交易者来说是很难达到的资金水平。</p>
+<p>同样的道理，因为<a href="https://www.atfx.com.bz/zh-hans/markets/forex-trading"><span>外汇市场</span></a>一手合约的价值高达10万基础货币，并且基础货币往往是美元。10万美元转换成人民币就是70万，这对于大部分交易者来说是很难达到的资金水平。</p>
 <p>要知道，中国科创板所设定的资金门槛是50万人民币，这种门槛就已经怨声载道，更何况是70万的外汇市场最低门槛。</p>
 <p><img decoding="async" src="https://www.atfx.com/hubfs/Others%20folders/ATFX%20Blog%20Image%202020/ATFX_forex-market-trading.jpg" alt="forex-market-trading" width="1200" loading="lazy" style="width: 1200px"></p>
 <p>也许会有人问，一定要10万基础货币吗？我只交易几百几千不可以？</p>
-<p>答案是可以的。但是，对于汇市来说，汇率的波动在短期内是微乎其微的。它不像<a href="https://www.atfx.com/zh-hans/markets/shares-trading"><span>股票市场</span></a>一样，今天一个10%涨停，明天一个10%跌停。</p>
+<p>答案是可以的。但是，对于汇市来说，汇率的波动在短期内是微乎其微的。它不像<a href="https://www.atfx.com.bz/zh-hans/markets/shares-trading"><span>股票市场</span></a>一样，今天一个10%涨停，明天一个10%跌停。</p>
 <p>以EURUSD为例，2019年全年波动2.22%，2018年波动4.45%，2017年波动13.98%，2016年波动3.14%，2015年波动10.17% 。</p>
 <p>全年的波动最高也只是在10%附近，一年有365天，一日的波动幅度之小可想而知。在如此小的波动之下几百几千美元的投资额基本就是开玩笑，可能持有数年时间，都没能获得可观的收益。</p>
 <p>之所以汇率波动小，是因为汇率是一个国家经济稳定的根本。如果汇率经常性的大幅波动，就会对这个国家的进出口产业造成重大打击。</p>
@@ -763,14 +763,14 @@
 <p><img decoding="async" src="https://www.atfx.com/hubfs/Others%20folders/ATFX%20Blog%20Image%202020/ATFX_trading-risk-control.jpg" alt="ATFX_trading-risk-control" width="1200" loading="lazy" style="width: 1200px"></p>
 <p>即便不用杠杆交易，犯了重仓和不止损的毛病，也会出现超预期的亏损。人们之所以爱犯这两个问题，是因为人性的驱使。</p>
 <p>大家都想来投资市场赚快钱，耐心不足，经常抱着“赌一把”的心态下单。在冲动情绪的引导下，“一把定输赢”的想法占据上风，自然会出现各种不理智的行为。</p>
-<p>成熟的投资者都知道，财务自由并不是通过一笔交易达到的，需要无数的交易单不断累积获得, <a href="https://www.atfx.com/zh-hans/ways-to-trade"><span>学习投资</span></a>。把仓位降下来，把设定止损当做习惯，把交易冲动压制住，这才是长期稳定盈利的诀窍。</p>
+<p>成熟的投资者都知道，财务自由并不是通过一笔交易达到的，需要无数的交易单不断累积获得, <a href="https://www.atfx.com.bz/zh-hans/ways-to-trade"><span>学习投资</span></a>。把仓位降下来，把设定止损当做习惯，把交易冲动压制住，这才是长期稳定盈利的诀窍。</p>
 <p>&nbsp;</p>
 <h2 style="font-size: 33px">小结</h2>
 <p>杠杆的范畴很广，上市公司发债券也是杠杆的一种，只不过它被称作财务杠杆。</p>
 <p>买房首付35%，这也是一种杠杆，购房者只需要支付一部分首付款就能够获得住宅房。蚂蚁花呗也是一种杠杆，让借用未来的现金流来人们提前消费。</p>
 <p>所以，杠杆并非魔鬼，它有它的好处，只是人们在使用杠杆时必须注重风险控制。风控是一根绳子，只有将杠杆的脖子套进去，才能让使用者受益无穷。</p>
 <p>&nbsp;</p>
-<p>立即<a href="https://www.atfx.com/zh-hans/trading-platforms/metatrader-4/download-mt4"><span>下载 Metatrader 4</span></a> 账户或设置<a href="https://www.atfx.com/zh-hans/trading-accounts/demo-account"><span>模拟交易账户</span></a>开始交易！</p>
+<p>立即<a href="https://www.atfx.com.bz/zh-hans/trading-platforms/metatrader-4/download-mt4"><span>下载 Metatrader 4</span></a> 账户或设置<a href="https://www.atfx.com.bz/zh-hans/trading-accounts/demo-account"><span>模拟交易账户</span></a>开始交易！</p>
 ]]></content:encoded>
 					
 		
@@ -824,39 +824,39 @@
 		<guid isPermaLink="false">https://lptemplatedev.wpengine.com/uncategorized/how-us-bond-yields-impact-forex-market-stock-markets-gold-oil-prices-2</guid>
 
 					<description><![CDATA[今年以来美债收益率上升一直是市场交易的重要主题之一，引发了市场的集体震荡。在美国经济强劲复苏的前景下，市场一直 [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>今年以来美债收益率上升一直是<a href="https://www.atfx.com/zh-hans/markets"><span>市场交易</span></a>的重要主题之一，引发了市场的集体震荡。在美国经济强劲复苏的前景下，市场一直在计价10年期美债收益率持续上涨的预期，不少机构认为年底前可能达到2%以上的水平，可见这样的交易主题仍将在较长时间内持续，那么如何通过债券收益率的变化来预测或者更好的交易？首先要先厘清它和不同资产之间的走势相关性。</p>
+										<content:encoded><![CDATA[<p>今年以来美债收益率上升一直是<a href="https://www.atfx.com.bz/zh-hans/markets"><span>市场交易</span></a>的重要主题之一，引发了市场的集体震荡。在美国经济强劲复苏的前景下，市场一直在计价10年期美债收益率持续上涨的预期，不少机构认为年底前可能达到2%以上的水平，可见这样的交易主题仍将在较长时间内持续，那么如何通过债券收益率的变化来预测或者更好的交易？首先要先厘清它和不同资产之间的走势相关性。</p>
 <p><span id="more-10375"></span></p>
 <p>&nbsp;</p>
 <h2 style="font-size: 33px">对汇市的影响</h2>
-<p>国债收益率上涨反映的是经济增长预期，也表明通胀前景在升温，通胀水平又关乎央行货币政策的制定，如果通胀上涨过快，央行将不得不收紧政策来应对，市场对央行货币政策立场的预期会推动整体汇率走势，所以收益率对<a href="https://www.atfx.com/zh-hans/markets/forex-trading"><span>外汇市场</span></a>至关重要。</p>
+<p>国债收益率上涨反映的是经济增长预期，也表明通胀前景在升温，通胀水平又关乎央行货币政策的制定，如果通胀上涨过快，央行将不得不收紧政策来应对，市场对央行货币政策立场的预期会推动整体汇率走势，所以收益率对<a href="https://www.atfx.com.bz/zh-hans/markets/forex-trading"><span>外汇市场</span></a>至关重要。</p>
 <p><img decoding="async" src="https://www.atfx.com/hubfs/forex-market-us-bond-yields.jpg" alt="forex-market-us-bond-yields" width="1200" loading="lazy"></p>
 <p>一国债券收益率与另一国债券收益率之间的差异，会影响相应的货币对走势，利率较高的国家将吸引更多的投资者购买其债券，希望获得更高的收益率。资本流动会被高收益货币所吸引，持有低收益率货币的成本上升，所以购买这些债券所需的需求会吸引资金流入，令该国的货币走强。</p>
 <h3 style="font-size: 18px"><span style="color: #434343">以下的例子可以更直观了解其影响：</span></h3>
-<p>今年2月份开始，美国10年期国债收益率就开始出现明显的上升，3月18日突破1.7%关口，直至3月30日创下去年1月份以来的新高。期间<a href="https://www.atfx.com/zh-hans/markets/indices-trading"><span>美元指数</span></a>也跟随上涨，最高曾突破93关口。不过尽管长期国债收益率大幅上升，但短期国债收益率仍保持稳定，长短期国债利差走阔，指向了经济增长和通胀增强的前景。</p>
+<p>今年2月份开始，美国10年期国债收益率就开始出现明显的上升，3月18日突破1.7%关口，直至3月30日创下去年1月份以来的新高。期间<a href="https://www.atfx.com.bz/zh-hans/markets/indices-trading"><span>美元指数</span></a>也跟随上涨，最高曾突破93关口。不过尽管长期国债收益率大幅上升，但短期国债收益率仍保持稳定，长短期国债利差走阔，指向了经济增长和通胀增强的前景。</p>
 <p>今年以来欧元走势一直弱于美元，部分原因在于美国经济的恢复能力要超过欧元区，而且距离仍在拉大，在投资者越发看好美国经济前景的情况下，美国国债收益率高于德国国债，利率上行会加速资金回流到美元，使美元兑欧元汇率走强。</p>
 <p><img decoding="async" src="https://www.atfx.com/hubfs/Others%20folders/ATFX%20Blog%20Image%202020/US-dollar-index.png" alt="US-dollar-index" width="1318" loading="lazy"></p>
 <p>另一个例子是，前不久新西兰政府采取措施为不断上涨的房价降温，从而大大降低了通胀预期，相应地也导致新西兰公债收益率下跌了10个基点，当时也拖累纽元兑美元在两个交易日内大跌逾2.4%。</p>
 <p>&nbsp;</p>
 <h2 style="font-size: 33px">对股票市场的影响</h2>
 <p>除了汇市以外，国债收益率还与其他市场息息相关，由于债券收益率受到货币政策的显著影响，美联储的目标利率通过影响需求来影响国债。较低的利率会增加国债的需求，较高的利率会减少需求，需求越低，利率就越高，所以收益率走势被市场视为美联储政策的先行指标。就像目前市场计价美联储提前在明年加息的可能，美债收益率也攀升至逾一年的高位。</p>
-<p>同时债券收益率也可以视为衡量投资者信心的指标，因为在<a href="https://www.atfx.com/zh-hans/markets/shares-trading"><span>股票市场</span></a>处于牛市的时候，国债价格通常会下降，因为投资者风险意愿增强希望寻求更高的回报。相反，随着利率的上升，债券相对于股票或其他风险系数更高的投资更具吸引力。</p>
+<p>同时债券收益率也可以视为衡量投资者信心的指标，因为在<a href="https://www.atfx.com.bz/zh-hans/markets/shares-trading"><span>股票市场</span></a>处于牛市的时候，国债价格通常会下降，因为投资者风险意愿增强希望寻求更高的回报。相反，随着利率的上升，债券相对于股票或其他风险系数更高的投资更具吸引力。</p>
 <p><img decoding="async" src="https://www.atfx.com/hubfs/Others%20folders/ATFX%20Blog%20Image%202020/bear-bull-market.jpg" alt="bear-bull-market" width="1200" loading="lazy"></p>
 <p>名义收益率的上升对股市有利，而实际收益率的上升则不利于股市。在高通胀环境下，收益率上升通常会导致股票回报率下降。但是不同的板块对收益率上升的反应不同，比如周期性行业在收益率上升时通常表现较好，因为其相对应的是经济前景的改善，而防御性行业则相反。</p>
 <p>&nbsp;</p>
 <h2 style="font-size: 33px">对黄金的影响</h2>
-<p>虽然美债收益率和<a href="https://www.atfx.com/zh-hans/markets/commodities/gold-trading"><span>黄金价格</span></a>看起来都与股市呈现相反走势，但是并不代表两者之间是正相关。国债和黄金都具备避险的属性，黄金和债券价格之间存在正相关关系，黄金和债券收益率之间存在负相关关系。</p>
+<p>虽然美债收益率和<a href="https://www.atfx.com.bz/zh-hans/markets/commodities/gold-trading"><span>黄金价格</span></a>看起来都与股市呈现相反走势，但是并不代表两者之间是正相关。国债和黄金都具备避险的属性，黄金和债券价格之间存在正相关关系，黄金和债券收益率之间存在负相关关系。</p>
 <p>当债券收益率出现飙升或者利率上升对黄金更加不利，因为黄金原本就是无息资产，再加上债息上升同样会带动美元走高，对黄金又是另一重施压。所以当10年期美债收益率在3月底触及逾一年新高的同时，当时的现货黄金就一度跌破了1700美元重要关口。</p>
 <p>不过从另外一个角度来看：收益率上升表明对经济强劲的预期，这样的预期会助长通货膨胀，而黄金又通常被用来对冲通胀，所以长期来讲对黄金并非完全不利，如果未来通胀加剧严重到引发市场恐慌的程度，金价会再次展现它的魅力。</p>
 <p>&nbsp;</p>
 <h2 style="font-size: 33px">对油价的影响</h2>
 <p>能源价格和国债收益率走势都可以被视为经济前景的晴雨表，如上面所说经济向好有利国债收益率上涨。同样地，当经济增长前景被看好，原油需求面向好或者乐观，会带动油价的上涨。所以两者间价格的关系受经济周期的影响而呈现正相关关系。</p>
 <p><img decoding="async" src="https://www.atfx.com/hubfs/Others%20folders/ATFX%20Blog%20Image%202020/crude-oil-prices.jpg" alt="crude-oil-prices" width="1200" loading="lazy"></p>
-<p>这其中还涉及到通胀预期，以往的价格走势表明，油价同比增速同美国CPI增长呈现积极相关，原油上涨本身会提振通胀预期，从而提高了名义债券收益率，进而影响债券价格。所以今年以来，<a href="https://www.atfx.com/zh-hans/markets/commodities/oil-trading"><span>原油价格</span></a>和通胀两个关键词常常搭对出现，油价在3月份之前的强劲反弹，也是伴随着债券收益率的上升。</p>
-<p>当然除了美国公债外，也还要留意主要原油出口国的债券收益率表现和油价之间的关系（如加拿大），甚至是其他商品出口型国家（如澳大利亚）。如果各国通胀预期和公债收益率继续高企或进一步飙升，油价也会有积极的上行配合。不过留意由于美国的债息上扬会对美元有支持，而美元走强又会影响整体<a href="https://www.atfx.com/zh-hans/markets/commodities"><span>商品价格</span></a>的上涨空间。</p>
+<p>这其中还涉及到通胀预期，以往的价格走势表明，油价同比增速同美国CPI增长呈现积极相关，原油上涨本身会提振通胀预期，从而提高了名义债券收益率，进而影响债券价格。所以今年以来，<a href="https://www.atfx.com.bz/zh-hans/markets/commodities/oil-trading"><span>原油价格</span></a>和通胀两个关键词常常搭对出现，油价在3月份之前的强劲反弹，也是伴随着债券收益率的上升。</p>
+<p>当然除了美国公债外，也还要留意主要原油出口国的债券收益率表现和油价之间的关系（如加拿大），甚至是其他商品出口型国家（如澳大利亚）。如果各国通胀预期和公债收益率继续高企或进一步飙升，油价也会有积极的上行配合。不过留意由于美国的债息上扬会对美元有支持，而美元走强又会影响整体<a href="https://www.atfx.com.bz/zh-hans/markets/commodities"><span>商品价格</span></a>的上涨空间。</p>
 <p>&nbsp;</p>
 <p style="font-size: 18px">以上分析由ATFX亚太区首席分析师林铭添提供。</p>
 <p>（以上分析仅代表个人观点，汇市有风险，投资需谨慎。ATFX不会为直接或间接使用或依赖此资料而可能引致的任何盈亏负责。）</p>
-<p>开设<a href="https://www.atfx.com/zh-hans/trading-accounts"><span>真实交易账户</span></a>或设置<a href="https://www.atfx.com/zh-hans/trading-accounts/demo-account"><span>模拟交易账户</span></a>开始交易吧！</p>
+<p>开设<a href="https://www.atfx.com.bz/zh-hans/trading-accounts"><span>真实交易账户</span></a>或设置<a href="https://www.atfx.com.bz/zh-hans/trading-accounts/demo-account"><span>模拟交易账户</span></a>开始交易吧！</p>
 ]]></content:encoded>
 					
 		
